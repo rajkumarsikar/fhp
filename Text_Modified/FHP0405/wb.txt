@@ -1,23 +1,23 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                 CROP WISE Farm Harvest Prices of Principal Crops in India -  West Bengal   
-                                                                                                                                                                                                                    (Rs. per Quintal)  
-
-Crop              Variety      Year       Season         Bankura   Bardhaman     Birbhum   Cooch Bihar    Dakhin      Darjiling     East      Hooghly      Howrah     Jalpaiguri    Malda     Murshidaba     Nadia      North 24      North  
-                                                                                                         Dinajpur                Midnapore                                                         d                    Parganas    Dinajpur  
-Barley           -              2004-05   -                     -           -           -            -           -         940           -            -           -           -         688          640         500           -            -  
-Gram             -              2004-05   -                     -        1695        1504         1640           -           -           -            -           -           -        1838         1739        1635        1293         1886  
-Jute             -              2004-05   -                   829         877         854          926         886           -         798          867         810         994         898          825         872         826          939  
-Paddy            -            2004-05   Autum                 478         461         483          544         463           -         557          490           -         538         572          523         524         552          538  
-                 -              2004-05   Summer              532         552         517          544         503           -         612          574         535         602         565          527         613         591          506  
-                 -            2004-05   Winter                503         533         504          633         560           -         566          527         514         658         530          523         599         573          510  
-Potato           -              2004-05   -                   277         201         275          398         347         509         326          293         314         393         335          350         320         310          361  
-Rape/Mustard -                  2004-05   -                  1412        1634        1705         1729        1787        1888           -         1683        1800        1636        1816         1884        1850        1557         1859  
-Rice             -            2004-05   Autum                 780         878         850          945         825           -         914          900           -         956         950         1031        1017         903          929  
-                 -              2004-05   Summer              990         956         958          875         804           -         943         1078         987         909         894         1024        1143        1000          820  
-                 -            2004-05   Winter                864         865         917         1136         986           -         987          996         915        1046         977          991        1078         869          980  
-Sugar Raw        -              2004-05   -                  1502        1409        1392            -           -           -        1594            -        1350           -        1424         1525        1350        1677         1605  
-Wheat            -              2004-05   -                   684         688         643          618         662         785         701          693         700         728         701          647         624         608          711  
-
-                                                                                                                     56  
-                                                                                                                     214  
+                                                 CROP WISE Farm Harvest Prices of Principal Crops in India -  West Bengal   
+                                                                                                                                                                                                                    (Rs. per Quintal)  
+
+Crop              Variety      Year       Season         Bankura   Bardhaman     Birbhum   Cooch Bihar    Dakhin      Darjiling     East      Hooghly      Howrah     Jalpaiguri    Malda     Murshidaba     Nadia      North 24      North  
+                                                                                                         Dinajpur                Midnapore                                                         d                    Parganas    Dinajpur  
+Barley           -              2004-05   -                     -           -           -            -           -         940           -            -           -           -         688          640         500           -            -  
+Gram             -              2004-05   -                     -        1695        1504         1640           -           -           -            -           -           -        1838         1739        1635        1293         1886  
+Jute             -              2004-05   -                   829         877         854          926         886           -         798          867         810         994         898          825         872         826          939  
+Paddy            -            2004-05   Autum                 478         461         483          544         463           -         557          490           -         538         572          523         524         552          538  
+                 -              2004-05   Summer              532         552         517          544         503           -         612          574         535         602         565          527         613         591          506  
+                 -            2004-05   Winter                503         533         504          633         560           -         566          527         514         658         530          523         599         573          510  
+Potato           -              2004-05   -                   277         201         275          398         347         509         326          293         314         393         335          350         320         310          361  
+Rape/Mustard -                  2004-05   -                  1412        1634        1705         1729        1787        1888           -         1683        1800        1636        1816         1884        1850        1557         1859  
+Rice             -            2004-05   Autum                 780         878         850          945         825           -         914          900           -         956         950         1031        1017         903          929  
+                 -              2004-05   Summer              990         956         958          875         804           -         943         1078         987         909         894         1024        1143        1000          820  
+                 -            2004-05   Winter                864         865         917         1136         986           -         987          996         915        1046         977          991        1078         869          980  
+Sugar Raw        -              2004-05   -                  1502        1409        1392            -           -           -        1594            -        1350           -        1424         1525        1350        1677         1605  
+Wheat            -              2004-05   -                   684         688         643          618         662         785         701          693         700         728         701          647         624         608          711  
+
+                                                                                                                     56  
+                                                                                                                     214  

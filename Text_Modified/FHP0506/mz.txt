@@ -1,20 +1,20 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                     Crop Wise Farm Harvest Prices of Principal Crops in India - Mizoram   
-                                                                                                                                                                                                              (Rs. per Quintal)  
-
-Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
-                                                                                                                                                                                                                              Average  
-Chilly           -             2005-06   -                 4105                                                                                                                                                                   4105  
-Ginger           -             2005-06   -                  750                                                                                                                                                                    750  
-Maize            -             2005-06   -                  800                                                                                                                                                                    800  
-Paddy            -             2005-06   -                  807                                                                                                                                                                    807  
-Potato           -             2005-06   -                 1074                                                                                                                                                                   1074  
-Rape/Mustard -                 2005-06   -                 1125                                                                                                                                                                   1125  
-Sesamum          -             2005-06   -                 2120                                                                                                                                                                   2120  
-Soyabean         -             2005-06   -                 2219                                                                                                                                                                   2219  
-Sugarcane        -             2005-06   -                  468                                                                                                                                                                    468  
-Tobacco          -             2005-06   -                 8750                                                                                                                                                                   8750  
-Turmeric         -             2005-06   -                 1120                                                                                                                                                                   1120  
-
-                                                                                                                         42  
+                                                     Crop Wise Farm Harvest Prices of Principal Crops in India - Mizoram   
+                                                                                                                                                                                                              (Rs. per Quintal)  
+
+Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
+                                                                                                                                                                                                                              Average  
+Chilly           -             2005-06   -                 4105                                                                                                                                                                   4105  
+Ginger           -             2005-06   -                  750                                                                                                                                                                    750  
+Maize            -             2005-06   -                  800                                                                                                                                                                    800  
+Paddy            -             2005-06   -                  807                                                                                                                                                                    807  
+Potato           -             2005-06   -                 1074                                                                                                                                                                   1074  
+Rape/Mustard -                 2005-06   -                 1125                                                                                                                                                                   1125  
+Sesamum          -             2005-06   -                 2120                                                                                                                                                                   2120  
+Soyabean         -             2005-06   -                 2219                                                                                                                                                                   2219  
+Sugarcane        -             2005-06   -                  468                                                                                                                                                                    468  
+Tobacco          -             2005-06   -                 8750                                                                                                                                                                   8750  
+Turmeric         -             2005-06   -                 1120                                                                                                                                                                   1120  
+
+                                                                                                                         42  

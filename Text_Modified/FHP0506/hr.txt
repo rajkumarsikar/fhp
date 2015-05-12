@@ -1,25 +1,25 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                     Crop Wise Farm Harvest Prices of Principal Crops in India - Haryana   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-
-Crop              Variety      Year       Season       Panipat     Rewari      Rohtak       Sirsa     Sonipat   Yamunanag                                                                                                  State Wtd  
-                                                                                                                     ar                                                                                                     Average  
-Bajra            -             2005-06  -                  550         600         530         550         530        500                                                                                                        568  
-Barley           -             2005-06  -                    -         600         575         550         550          -                                                                                                        580  
-Chilly           -             2005-06  -                 2150        2200           -        2150        2000       2150                                                                                                       2161  
-Cotton           American 2005-06       -                    -        1950        1850        2050        1950          -                                                                                                       2013  
-                 Desi          2005-06  -                    -           -        1800        1900           -          -                                                                                                       1885  
-Gram             -             2005-06  -                    -           -        2100        1900           -          -                                                                                                       2076  
-Ground Nut       -             2005-06  -                    -        2500           -        2600           -       2800                                                                                                       2590  
-Jowar            -             2005-06  -                    -         800         700           -         700          -                                                                                                        735  
-Maize            -             2005-06  -                    -           -           -           -         650        700                                                                                                        695  
-Paddy            -             2005-06  -                  900         700         750         750         950        700                                                                                                        827  
-Potato           -             2005-06  -                  800           -         800         710         700        700                                                                                                        739  
-Rape/Mustard -                 2005-06  -                 1700        1750        1800        1750        1850       1900                                                                                                       1754  
-Sesamum          -             2005-06  -                    -        2000           -        1950           -          -                                                                                                       1931  
-Sugar Raw        -             2005-06  -                 1200           -        1250           -        1250       1150                                                                                                       1418  
-Tur Arhar        -             2005-06  -                    -           -        1500           -        1750          -                                                                                                       1626  
-Wheat            -             2005-06  -                  650         750         700         750         710        750                                                                                                        730  
-
-                                                                                                                         26  
+                                                     Crop Wise Farm Harvest Prices of Principal Crops in India - Haryana   
+                                                                                                                                                                                                             (Rs. per Quintal)  
+
+Crop              Variety      Year       Season       Panipat     Rewari      Rohtak       Sirsa     Sonipat   Yamunanag                                                                                                  State Wtd  
+                                                                                                                     ar                                                                                                     Average  
+Bajra            -             2005-06  -                  550         600         530         550         530        500                                                                                                        568  
+Barley           -             2005-06  -                    -         600         575         550         550          -                                                                                                        580  
+Chilly           -             2005-06  -                 2150        2200           -        2150        2000       2150                                                                                                       2161  
+Cotton           American 2005-06       -                    -        1950        1850        2050        1950          -                                                                                                       2013  
+                 Desi          2005-06  -                    -           -        1800        1900           -          -                                                                                                       1885  
+Gram             -             2005-06  -                    -           -        2100        1900           -          -                                                                                                       2076  
+Ground Nut       -             2005-06  -                    -        2500           -        2600           -       2800                                                                                                       2590  
+Jowar            -             2005-06  -                    -         800         700           -         700          -                                                                                                        735  
+Maize            -             2005-06  -                    -           -           -           -         650        700                                                                                                        695  
+Paddy            -             2005-06  -                  900         700         750         750         950        700                                                                                                        827  
+Potato           -             2005-06  -                  800           -         800         710         700        700                                                                                                        739  
+Rape/Mustard -                 2005-06  -                 1700        1750        1800        1750        1850       1900                                                                                                       1754  
+Sesamum          -             2005-06  -                    -        2000           -        1950           -          -                                                                                                       1931  
+Sugar Raw        -             2005-06  -                 1200           -        1250           -        1250       1150                                                                                                       1418  
+Tur Arhar        -             2005-06  -                    -           -        1500           -        1750          -                                                                                                       1626  
+Wheat            -             2005-06  -                  650         750         700         750         710        750                                                                                                        730  
+
+                                                                                                                         26  

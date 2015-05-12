@@ -1,76 +1,76 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                 Crop wise Farm Harvest Prices of Principal Crops in India -  Chandigarh   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season          -  
-Ginger           -             2004-05  -                 1850  
-Paddy            -             2004-05  -                  583  
-Potato           -             2004-05  -                  350  
-Wheat            -             2004-05  -                  704  
-
-                                                                                                                 16  
+                                                 Crop wise Farm Harvest Prices of Principal Crops in India -  Chandigarh   
+                                                                                                                                                                                                             (Rs. per Quintal)  
+Crop              Variety      Year       Season          -  
+Ginger           -             2004-05  -                 1850  
+Paddy            -             2004-05  -                  583  
+Potato           -             2004-05  -                  350  
+Wheat            -             2004-05  -                  704  
+
+                                                                                                                 16  
 
 ----------------------- Page 2-----------------------
 
-                                                    Crop wise Farm Harvest Prices of Principal Crops in India -  Chhattisgarh   
-                                                                                                                                                                                                                              (Rs. per Quintal)  
-
-Crop              Variety      Year       Season            Bastar      Bilaspur    Dantewada    Dhamtari       Durg        Janjgir-     Jashpur      Kanker     Kawardha       Korba       Koriya     Mahasamun      Raigarh      Raipur    Rajnandgao 
-                                                                                                                            Champa                                                                          d                                     n  
-Barley            -               2004-05   -                      -            -            -           -            -            -            -            -            -           -          583            -            -            -            -  
-CasterSeed        -               2004-05   -                      -            -            -           -            -            -            -            -            -           -            -            -            -          440            -  
-Chilly            Dry             2004-05   -                   3510         4273         4131           -         3855         3652         4736         4083         3944           -         2409         3900         4701         3685         4042  
-Ginger            Fresh           2004-05   -                   3836            -         4623           -            -            -            -         4465            -           -         3169         3461            -         3513            -  
-Gram              -               2004-05   -                   1574         1528            -        1438         1327         1599         1550         1912         1324        1938         1867            -         1559         1415         1259  
-Ground Nut        -               2004-05   -                      -            -         2000           -            -            -         1608         1400            -           -         1926         1967         1603         2078            -  
-Jowar             -            2004-05   Kharif                 1000            -            -           -            -            -            -            -            -           -          863            -            -            -            -  
-Linseed           -               2004-05   -                      -         1780            -        1855         1698         1811            -         1640         1499           -         1685            -            -         1584            -  
-Maize             -               2004-05   -                    504          559          473           -            -            -          616          517          717         815          509            -         1000            -            -  
-Nigerseed                         2004-05   -                   1599         1596            -           -            -            -         1721         2000            -           -         1554            -         1448         1367            -  
-Paddy             Coarse          2004-05   -                    506          545            -         551          557            -          452          501          481         516            -          535          533          565          554  
-Potato            -            2004-05   Autum                     -            -          934           -            -            -            -          920            -           -          731          709            -          761            -  
-                  -            2004-05   Winter                    -            -          789           -            -            -          600          697            -           -          526            -            -            -            -  
-                  Hills        2004-05   Autum                     -            -          920           -            -            -            -          934            -           -          729          600            -          646            -  
-                  Hills        2004-05   Winter                    -            -          840           -            -            -            -          771            -           -          630          650            -            -            -  
-Ragi              -               2004-05   -                    624            -            -           -            -            -            -         1000            -           -            -         1200            -            -            -  
-Rape/Mustard -                    2004-05   -                   1765         1571            -           -            -         1734         1787         1745         1464        1520         1724            -         2298            -            -  
-Rice              Coarse          2004-05   -                    824          859            -           -          882            -          847          919          715         969          828         1000          857          980            -  
-Sesamum           -            2004-05   Kharif                    -         2575            -        2800         4550         2827         2100         2462            -           -         2434         3467         2699         2357            -  
-                  -            2004-05   Rabi                      -         2763            -           -            -         2874            -         2417            -           -            -         3000            -         3080            -  
-Soyabean          -               2004-05   -                      -          723            -           -            -            -            -         1000         1049           -            -         4500            -         2660            -  
-Sugar Raw         -               2004-05   -                   1409         1783            -        1798            -         1785         1709         1748         1619           -         1853         1917         1672            -            -  
-Tobacco           -               2004-05   -                   3760         4281            -           -         4663            -         3353         4875            -           -         4447         4550         4730         3824         4363  
-Tur Arhar         Early           2004-05   -                      -         1690            -           -         1529         2094         1474         1633         1495           -         1781            -         1519            -            -  
-Turmeric          -               2004-05   -                   4754         3788         5127           -            -         3755         3744            -            -           -         2811         4417         3739         2219            -  
-Wheat             -               2004-05   -                   1029          704            -         700          638          803          666          817          709           -          729            -          794          798          805  
-
-                                                                                                                           17  
+                                                    Crop wise Farm Harvest Prices of Principal Crops in India -  Chhattisgarh   
+                                                                                                                                                                                                                              (Rs. per Quintal)  
+
+Crop              Variety      Year       Season            Bastar      Bilaspur    Dantewada    Dhamtari       Durg        Janjgir-     Jashpur      Kanker     Kawardha       Korba       Koriya     Mahasamun      Raigarh      Raipur    Rajnandgao 
+                                                                                                                            Champa                                                                          d                                     n  
+Barley            -               2004-05   -                      -            -            -           -            -            -            -            -            -           -          583            -            -            -            -  
+CasterSeed        -               2004-05   -                      -            -            -           -            -            -            -            -            -           -            -            -            -          440            -  
+Chilly            Dry             2004-05   -                   3510         4273         4131           -         3855         3652         4736         4083         3944           -         2409         3900         4701         3685         4042  
+Ginger            Fresh           2004-05   -                   3836            -         4623           -            -            -            -         4465            -           -         3169         3461            -         3513            -  
+Gram              -               2004-05   -                   1574         1528            -        1438         1327         1599         1550         1912         1324        1938         1867            -         1559         1415         1259  
+Ground Nut        -               2004-05   -                      -            -         2000           -            -            -         1608         1400            -           -         1926         1967         1603         2078            -  
+Jowar             -            2004-05   Kharif                 1000            -            -           -            -            -            -            -            -           -          863            -            -            -            -  
+Linseed           -               2004-05   -                      -         1780            -        1855         1698         1811            -         1640         1499           -         1685            -            -         1584            -  
+Maize             -               2004-05   -                    504          559          473           -            -            -          616          517          717         815          509            -         1000            -            -  
+Nigerseed                         2004-05   -                   1599         1596            -           -            -            -         1721         2000            -           -         1554            -         1448         1367            -  
+Paddy             Coarse          2004-05   -                    506          545            -         551          557            -          452          501          481         516            -          535          533          565          554  
+Potato            -            2004-05   Autum                     -            -          934           -            -            -            -          920            -           -          731          709            -          761            -  
+                  -            2004-05   Winter                    -            -          789           -            -            -          600          697            -           -          526            -            -            -            -  
+                  Hills        2004-05   Autum                     -            -          920           -            -            -            -          934            -           -          729          600            -          646            -  
+                  Hills        2004-05   Winter                    -            -          840           -            -            -            -          771            -           -          630          650            -            -            -  
+Ragi              -               2004-05   -                    624            -            -           -            -            -            -         1000            -           -            -         1200            -            -            -  
+Rape/Mustard -                    2004-05   -                   1765         1571            -           -            -         1734         1787         1745         1464        1520         1724            -         2298            -            -  
+Rice              Coarse          2004-05   -                    824          859            -           -          882            -          847          919          715         969          828         1000          857          980            -  
+Sesamum           -            2004-05   Kharif                    -         2575            -        2800         4550         2827         2100         2462            -           -         2434         3467         2699         2357            -  
+                  -            2004-05   Rabi                      -         2763            -           -            -         2874            -         2417            -           -            -         3000            -         3080            -  
+Soyabean          -               2004-05   -                      -          723            -           -            -            -            -         1000         1049           -            -         4500            -         2660            -  
+Sugar Raw         -               2004-05   -                   1409         1783            -        1798            -         1785         1709         1748         1619           -         1853         1917         1672            -            -  
+Tobacco           -               2004-05   -                   3760         4281            -           -         4663            -         3353         4875            -           -         4447         4550         4730         3824         4363  
+Tur Arhar         Early           2004-05   -                      -         1690            -           -         1529         2094         1474         1633         1495           -         1781            -         1519            -            -  
+Turmeric          -               2004-05   -                   4754         3788         5127           -            -         3755         3744            -            -           -         2811         4417         3739         2219            -  
+Wheat             -               2004-05   -                   1029          704            -         700          638          803          666          817          709           -          729            -          794          798          805  
+
+                                                                                                                           17  
 
 ----------------------- Page 3-----------------------
 
-                                                    Crop wise Farm Harvest Prices of Principal Crops in India -  Chhattisgarh   
-                                                                                                                                
-                                                                                                                                                                                                                                 (Rs. per Quintal)  
-Crop              Variety      Year       SeasonCrop              Variety      Year       Season   AnantnagSurguja   
-                                                                  
-Barley             -               2004-05   -                    514  
-Ginger             Fresh           2004-05   -                   2419  
-Gram               -               2004-05   -                   1683  
-Ground Nut         -               2004-05   -                   1425  
-Linseed            -               2004-05   -                   1518  
-Maize              -               2004-05   -                    452  
-Nigerseed                          2004-05   -                   1635  
-Paddy              Coarse          2004-05   -                    550  
-Potato             -            2004-05   Autum                   844  
-                   -            2004-05   Winter                  526  
-                   Hills        2004-05   Autum                   521  
-                   Hills        2004-05   Winter                  478  
-Rape/Mustard -                     2004-05   -                   1610  
-Rice               Coarse          2004-05   -                    806  
-Sesamum            -            2004-05   Kharif                 1988  
-Tobacco            -               2004-05   -                   4295  
-Tur Arhar          Early           2004-05   -                   1514  
-Turmeric           -               2004-05   -                   2487  
-Wheat              -               2004-05   -                    637  
-
-                                                                                                                            18  
+                                                    Crop wise Farm Harvest Prices of Principal Crops in India -  Chhattisgarh   
+                                                                                                                                
+                                                                                                                                                                                                                                 (Rs. per Quintal)  
+Crop              Variety      Year       SeasonCrop              Variety      Year       Season   AnantnagSurguja   
+                                                                  
+Barley             -               2004-05   -                    514  
+Ginger             Fresh           2004-05   -                   2419  
+Gram               -               2004-05   -                   1683  
+Ground Nut         -               2004-05   -                   1425  
+Linseed            -               2004-05   -                   1518  
+Maize              -               2004-05   -                    452  
+Nigerseed                          2004-05   -                   1635  
+Paddy              Coarse          2004-05   -                    550  
+Potato             -            2004-05   Autum                   844  
+                   -            2004-05   Winter                  526  
+                   Hills        2004-05   Autum                   521  
+                   Hills        2004-05   Winter                  478  
+Rape/Mustard -                     2004-05   -                   1610  
+Rice               Coarse          2004-05   -                    806  
+Sesamum            -            2004-05   Kharif                 1988  
+Tobacco            -               2004-05   -                   4295  
+Tur Arhar          Early           2004-05   -                   1514  
+Turmeric           -               2004-05   -                   2487  
+Wheat              -               2004-05   -                    637  
+
+                                                                                                                            18  

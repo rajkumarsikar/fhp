@@ -1,18 +1,18 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Nagaland Nagaland   
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Nagaland Nagaland  
-                                                                                                                                                                                                                            (Rs. per Quintal)  
-
-Crop              Variety      Year       Season                                                                                                                                                                                            State Wtd  
-                                                                                                                                                                                                                                            Average  
-Ginger            -              2006-07   -                    850                                                                                                                                                                               850 
-                  -              2007-08   -                    800                                                                                                                                                                               800 
-Maize             -              2006-07   -                    620                                                                                                                                                                               620 
-                  -              2007-08   -                    625                                                                                                                                                                               625 
-Paddy             Coarse         2006-07   -                    625                                                                                                                                                                                 - 
-                  Coarse         2007-08   -                    630                                                                                                                                                                               630 
-                  Fine           2006-07   -                    650                                                                                                                                                                               650 
-                  Fine           2007-08   -                    655                                                                                                                                                                               655 
-
-                                                                                                                         66  
+                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Nagaland Nagaland   
+                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Nagaland Nagaland  
+                                                                                                                                                                                                                            (Rs. per Quintal)  
+
+Crop              Variety      Year       Season                                                                                                                                                                                            State Wtd  
+                                                                                                                                                                                                                                            Average  
+Ginger            -              2006-07   -                    850                                                                                                                                                                               850 
+                  -              2007-08   -                    800                                                                                                                                                                               800 
+Maize             -              2006-07   -                    620                                                                                                                                                                               620 
+                  -              2007-08   -                    625                                                                                                                                                                               625 
+Paddy             Coarse         2006-07   -                    625                                                                                                                                                                                 - 
+                  Coarse         2007-08   -                    630                                                                                                                                                                               630 
+                  Fine           2006-07   -                    650                                                                                                                                                                               650 
+                  Fine           2007-08   -                    655                                                                                                                                                                               655 
+
+                                                                                                                         66  

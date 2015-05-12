@@ -1,51 +1,51 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                            CROP WISE Farm Harvest Prices of Principal Crops in India -  Assam   
-                                                                                                                                                                                                                 * : Rs. 100 Nos       (Rs. per Quintal)  
-
-Crop              Variety      Year       Season              Barpeta    Bongaigaon      Cachar       Darrang      Dhemaji       Dhubri      Dibrugarh     Goalpara     Golaghat     Hailkandi      Jorhat       Kamrup        Karbi      Karimganj   Kokrajhar  
-                                                                                                                                                                                                                              Anglong  
-Arecanut  *        -                2004-05   -                       -       48                -            45           65            -             -            -           47             -            -           62            72            -           58  
-Chilly             -                2004-05   -                    2700         1626            -          2800         2571            -             -         1695         1920             -            -         2119          2500            -         2200  
-Coconut*           -                2004-05   -                     812          725            -           875         1300            -             -          450            -             -            -          812           775            -          833  
-Jute               -                2004-05   -                     761          909            -             -            -            -             -            -            -             -            -          750             -            -         1207  
-Linseed            -                2004-05   -                       -            -            -          2000            -            -             -            -            -             -            -            -             -            -            -  
-Maize              -                2004-05   -                       -            -            -             -            -            -             -            -            -             -            -         1450             -            -            -  
-Mesta              -                2004-05   -                       -            -            -             -            -            -             -            -            -             -            -            -           642            -          806  
-Paddy              -            2004-05   Autum                     631          551            -             -          468            -             -         638             -             -            -          493             -            -          541  
-                   -            2004-05   Winter                    576         663               450               654  504            -             -          604          501             -            -          597           600            -          638  
-Potato             -                2004-05   -                     742          658            -           400          724            -             -          792          445             -            -          626           550            -          510  
-Rape/Mustard -                      2004-05   -                       -         1506            -          1675         1300            -             -            -            -             -            -            -          4000            -            -  
-Sesamum            -                2004-05   -                    2900         2833            -          2578         4306            -             -            -            -             -            -            -          2000            -            -  
-Sugar Raw          -                2004-05   -                       -            -            -             -            -            -             -         1860         1450             -            -            -          2500            -            -  
-Sugarcane          -                2004-05   -                       -          457            -           559            -            -             -            -            -             -            -          850             -            -            -  
-Tobacco            -                2004-05   -                       -            -            -             -            -            -             -            -            -             -            -            -          4000            -            -  
-Tur Arhar          -                2004-05   -                       -            -            -          2511            -            -             -            -            -             -            -            -             -            -            -  
-Turmeric           Kacha            2004-05   -                       -            -          353           559            -            -             -            -            -           879            -            -             -            -            -  
-Wheat              -                2004-05   -                       -          694            -             -            -            -             -            -            -             -            -            -             -            -            -  
-
-                                                                                                                               11  
+                                                            CROP WISE Farm Harvest Prices of Principal Crops in India -  Assam   
+                                                                                                                                                                                                                 * : Rs. 100 Nos       (Rs. per Quintal)  
+
+Crop              Variety      Year       Season              Barpeta    Bongaigaon      Cachar       Darrang      Dhemaji       Dhubri      Dibrugarh     Goalpara     Golaghat     Hailkandi      Jorhat       Kamrup        Karbi      Karimganj   Kokrajhar  
+                                                                                                                                                                                                                              Anglong  
+Arecanut  *        -                2004-05   -                       -       48                -            45           65            -             -            -           47             -            -           62            72            -           58  
+Chilly             -                2004-05   -                    2700         1626            -          2800         2571            -             -         1695         1920             -            -         2119          2500            -         2200  
+Coconut*           -                2004-05   -                     812          725            -           875         1300            -             -          450            -             -            -          812           775            -          833  
+Jute               -                2004-05   -                     761          909            -             -            -            -             -            -            -             -            -          750             -            -         1207  
+Linseed            -                2004-05   -                       -            -            -          2000            -            -             -            -            -             -            -            -             -            -            -  
+Maize              -                2004-05   -                       -            -            -             -            -            -             -            -            -             -            -         1450             -            -            -  
+Mesta              -                2004-05   -                       -            -            -             -            -            -             -            -            -             -            -            -           642            -          806  
+Paddy              -            2004-05   Autum                     631          551            -             -          468            -             -         638             -             -            -          493             -            -          541  
+                   -            2004-05   Winter                    576         663               450               654  504            -             -          604          501             -            -          597           600            -          638  
+Potato             -                2004-05   -                     742          658            -           400          724            -             -          792          445             -            -          626           550            -          510  
+Rape/Mustard -                      2004-05   -                       -         1506            -          1675         1300            -             -            -            -             -            -            -          4000            -            -  
+Sesamum            -                2004-05   -                    2900         2833            -          2578         4306            -             -            -            -             -            -            -          2000            -            -  
+Sugar Raw          -                2004-05   -                       -            -            -             -            -            -             -         1860         1450             -            -            -          2500            -            -  
+Sugarcane          -                2004-05   -                       -          457            -           559            -            -             -            -            -             -            -          850             -            -            -  
+Tobacco            -                2004-05   -                       -            -            -             -            -            -             -            -            -             -            -            -          4000            -            -  
+Tur Arhar          -                2004-05   -                       -            -            -          2511            -            -             -            -            -             -            -            -             -            -            -  
+Turmeric           Kacha            2004-05   -                       -            -          353           559            -            -             -            -            -           879            -            -             -            -            -  
+Wheat              -                2004-05   -                       -          694            -             -            -            -             -            -            -             -            -            -             -            -            -  
+
+                                                                                                                               11  
 
 ----------------------- Page 2-----------------------
 
-                                                           CROP WISE Farm Harvest Prices of Principal Crops in India -  Assam   
-                                                                                                                                                                                                                       * : Rs. 100 Nos (Rs. per Quintal)  
-Crop              Variety      Year       Season            Lakhimpur   Morigaon        Nagaon       Nalbari       North       Sivasagar    Sonitpur     Tinsukia                                                                      
-                                                                                                                Cachar Hills  
-Arecanut *         -                2004-05  -                      35           22            -            64            -            -           53            -  
-Chilly             -                2004-05  -                    1094         1350         1400             -         2294         3667         2370            -  
-Coconut*           -                2004-05  -                     932          550            -           892            -            -          792            -  
-Jute               -                2004-05  -                       -          786          783             -            -            -          738            -  
-Linseed            -                2004-05  -                       -            -            -             -            -            -         1200            -  
-Maize              -                2004-05  -                       -            -            -             -            -            -          620            -  
-Mesta              -                2004-05  -                       -            -          627             -            -            -          462  
-Paddy              -            2004-05   Autum                   367             477        570             -            -            -          559            -  
-                   -            2004-05   Winter              455              575           513           617            -            -          462            -  
-Potato             -                2004-05  -                     733          600            -           400            -         1000          523            -  
-Rape/Mustard -                      2004-05  -                    1500            -         1700             -            -         2550         1500            -  
-Sesamum            -                2004-05  -                    3333            -         3000             -            -         2550         3246            -  
-Sugar Raw          -                2004-05  -                       -         2000         2100             -            -            -         1852            -  
-Turmeric           Kacha            2004-05  -                       -            -            -           700          642            -          580            -  
-Wheat              -                2004-05  -                       -         1000          900             -            -            -          467            -  
-
-                                                                                                                              12  
+                                                           CROP WISE Farm Harvest Prices of Principal Crops in India -  Assam   
+                                                                                                                                                                                                                       * : Rs. 100 Nos (Rs. per Quintal)  
+Crop              Variety      Year       Season            Lakhimpur   Morigaon        Nagaon       Nalbari       North       Sivasagar    Sonitpur     Tinsukia                                                                      
+                                                                                                                Cachar Hills  
+Arecanut *         -                2004-05  -                      35           22            -            64            -            -           53            -  
+Chilly             -                2004-05  -                    1094         1350         1400             -         2294         3667         2370            -  
+Coconut*           -                2004-05  -                     932          550            -           892            -            -          792            -  
+Jute               -                2004-05  -                       -          786          783             -            -            -          738            -  
+Linseed            -                2004-05  -                       -            -            -             -            -            -         1200            -  
+Maize              -                2004-05  -                       -            -            -             -            -            -          620            -  
+Mesta              -                2004-05  -                       -            -          627             -            -            -          462  
+Paddy              -            2004-05   Autum                   367             477        570             -            -            -          559            -  
+                   -            2004-05   Winter              455              575           513           617            -            -          462            -  
+Potato             -                2004-05  -                     733          600            -           400            -         1000          523            -  
+Rape/Mustard -                      2004-05  -                    1500            -         1700             -            -         2550         1500            -  
+Sesamum            -                2004-05  -                    3333            -         3000             -            -         2550         3246            -  
+Sugar Raw          -                2004-05  -                       -         2000         2100             -            -            -         1852            -  
+Turmeric           Kacha            2004-05  -                       -            -            -           700          642            -          580            -  
+Wheat              -                2004-05  -                       -         1000          900             -            -            -          467            -  
+
+                                                                                                                              12  

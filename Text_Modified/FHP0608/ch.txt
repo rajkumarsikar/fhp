@@ -1,16 +1,16 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Chandigarh Chandigarh   
-                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Chandigarh Chandigarh  
-                                                                                                                                                                                                                            (Rs. per Quintal)  
-
-Crop              Variety      Year       Season                                                                                                                                                                                            State Wtd  
-                                                                                                                                                                                                                                            Average  
-Paddy             -              2006-07   -                    720                                                                                                                                                                               720 
-                  -              2007-08   -                    906                                                                                                                                                                               906 
-Potato            -              2006-07   -                    375                                                                                                                                                                               375 
-                  -              2007-08   -                    400                                                                                                                                                                               400 
-Wheat             -              2006-07   -                    871                                                                                                                                                                               871 
-                  -              2007-08   -                    918                                                                                                                                                                               918 
-
-                                                                                                                         29  
+                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Chandigarh Chandigarh   
+                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Chandigarh Chandigarh  
+                                                                                                                                                                                                                            (Rs. per Quintal)  
+
+Crop              Variety      Year       Season                                                                                                                                                                                            State Wtd  
+                                                                                                                                                                                                                                            Average  
+Paddy             -              2006-07   -                    720                                                                                                                                                                               720 
+                  -              2007-08   -                    906                                                                                                                                                                               906 
+Potato            -              2006-07   -                    375                                                                                                                                                                               375 
+                  -              2007-08   -                    400                                                                                                                                                                               400 
+Wheat             -              2006-07   -                    871                                                                                                                                                                               871 
+                  -              2007-08   -                    918                                                                                                                                                                               918 
+
+                                                                                                                         29  

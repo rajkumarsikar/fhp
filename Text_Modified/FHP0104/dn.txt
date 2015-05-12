@@ -1,44 +1,44 @@
 ﻿----------------------- Page 1-----------------------
 
-   
-                                                               2.27 FARM HARVEST PRICES OF PRINCIPAL CROPS IN  DADRA  AND NAGAR HAVELI  
-                                                                                                                                                                                                      (Rs. Per Quintal)                                                   
- State/Union Territory                      Year             Paddy           Jowar          Bajra          Maize           Ragi        Wheat           Barley          Gram          Tur Arhar  SugarRaw                 Potato         Tobacco         Groundnut  
-       1                                       2                 3               4              5              6              7             8               9             10               11               12              13               14               15  
- DADRA AND  NAGAR                              2001-02         469              ..             ..             ..           362             ..              ..              ..            1808               ..               ..              ..                ..  
-HAVELI  
-                                               2002-03         436              ..             ..             ..           575             ..              ..              ..            1949               ..               ..              ..                ..  
-                                               2003-04         534              ..             ..             ..           638             ..              ..              ..            2144               ..               ..              ..                ..  
-                                                                                                                                                                                                                                                                  
- DADRA  AND NAGAR                              2001-02         469              ..             ..             ..           362             ..              ..              ..            1808               ..               ..              ..                ..  
-HAVELI  
- (STATE  WEIGHTED                              2002-03         436              ..             ..             ..           575             ..              ..              ..            1949               ..               ..              ..                ..  
-AVERAGE)  
-                                               2003-04         534              ..             ..             ..           638             ..              ..              ..            2144               ..               ..              ..                ..  
-                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                          
-                                                              2.27 FARM HARVEST PRICES OF PRINCIPAL CROPS IN  DADRA  AND  NAGAR HAVELI  
-                                                                                                                                                                                                      (Rs. Per Quintal)                                                   
-
- State/Union Territory                       Year          RapeSeed  Sesamum               Linseed      CasterSeed         Toria        Cotton           Jute        Sunnhemp           Pepper           Ginger           Chilly         Turmeric           Mesta  
-
-       1                                       2                16              17            18              19             20           21              22              23               24               25              26               27               28  
- DADRA AND NAGAR                               2001-02           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
-HAVELI  
-                                               2002-03           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
-                                               2003-04           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
-                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                  
- DADRA  AND NAGAR                              2001-02           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
-HAVELI  
- (STATE   WEIGHTED                             2002-03           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
-AVERAGE)  
-                                               2003-04           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
-                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                                                          
-
-   
-                                                                                                                                                                                                                                                                  
+   
+                                                               2.27 FARM HARVEST PRICES OF PRINCIPAL CROPS IN  DADRA  AND NAGAR HAVELI  
+                                                                                                                                                                                                      (Rs. Per Quintal)                                                   
+ State/Union Territory                      Year             Paddy           Jowar          Bajra          Maize           Ragi        Wheat           Barley          Gram          Tur Arhar  SugarRaw                 Potato         Tobacco         Groundnut  
+       1                                       2                 3               4              5              6              7             8               9             10               11               12              13               14               15  
+ DADRA AND  NAGAR                              2001-02         469              ..             ..             ..           362             ..              ..              ..            1808               ..               ..              ..                ..  
+HAVELI  
+                                               2002-03         436              ..             ..             ..           575             ..              ..              ..            1949               ..               ..              ..                ..  
+                                               2003-04         534              ..             ..             ..           638             ..              ..              ..            2144               ..               ..              ..                ..  
+                                                                                                                                                                                                                                                                  
+ DADRA  AND NAGAR                              2001-02         469              ..             ..             ..           362             ..              ..              ..            1808               ..               ..              ..                ..  
+HAVELI  
+ (STATE  WEIGHTED                              2002-03         436              ..             ..             ..           575             ..              ..              ..            1949               ..               ..              ..                ..  
+AVERAGE)  
+                                               2003-04         534              ..             ..             ..           638             ..              ..              ..            2144               ..               ..              ..                ..  
+                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                          
+                                                              2.27 FARM HARVEST PRICES OF PRINCIPAL CROPS IN  DADRA  AND  NAGAR HAVELI  
+                                                                                                                                                                                                      (Rs. Per Quintal)                                                   
+
+ State/Union Territory                       Year          RapeSeed  Sesamum               Linseed      CasterSeed         Toria        Cotton           Jute        Sunnhemp           Pepper           Ginger           Chilly         Turmeric           Mesta  
+
+       1                                       2                16              17            18              19             20           21              22              23               24               25              26               27               28  
+ DADRA AND NAGAR                               2001-02           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
+HAVELI  
+                                               2002-03           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
+                                               2003-04           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
+                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                  
+ DADRA  AND NAGAR                              2001-02           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
+HAVELI  
+ (STATE   WEIGHTED                             2002-03           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
+AVERAGE)  
+                                               2003-04           ..             ..             ..             ..             ..            ..              ..              ..               ..              ..               ..              ..                ..  
+                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                          
+                                                                                                                                                                                                                                                                          
+
+   
+                                                                                                                                                                                                                                                                  

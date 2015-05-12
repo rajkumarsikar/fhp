@@ -1,20 +1,20 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in Indi India -a -  Goa Goa   
-                                                              Crop Crop Wise Farm Harvest Prices of Principal Crops in Wise Farm Harvest Prices of Principal Crops in India India --  Goa Goa  
-                                                                                                                                                                                                                              (Rs. per Quintal)  
-
-Crop              Variety      Year       Season             Goa                                                                                                                                                                               State Wtd  
-                                                                                                                                                                                                                                               Average  
-Arecanut          -               2006-07   -                   7413                                                                                                                                                                                7413 
-                  -               2007-08   -                   7900                                                                                                                                                                                7900 
-Cashewnut         -               2006-07   -                   3839                                                                                                                                                                                3839 
-                  -               2007-08   -                   4655                                                                                                                                                                                4655 
-Paddy             -               2006-07   -                    551                                                                                                                                                                                 551 
-                  -               2007-08   -                    636                                                                                                                                                                                 636 
-Ragi              -               2006-07   -                    850                                                                                                                                                                                 850 
-                  -               2007-08   -                   1125                                                                                                                                                                                1125 
-Sugarcane         -               2006-07   -                     80                                                                                                                                                                                  80 
-                  -               2007-08   -                     85                                                                                                                                                                                  85 
-
-                                                                                                                           36  
+                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in Indi India -a -  Goa Goa   
+                                                              Crop Crop Wise Farm Harvest Prices of Principal Crops in Wise Farm Harvest Prices of Principal Crops in India India --  Goa Goa  
+                                                                                                                                                                                                                              (Rs. per Quintal)  
+
+Crop              Variety      Year       Season             Goa                                                                                                                                                                               State Wtd  
+                                                                                                                                                                                                                                               Average  
+Arecanut          -               2006-07   -                   7413                                                                                                                                                                                7413 
+                  -               2007-08   -                   7900                                                                                                                                                                                7900 
+Cashewnut         -               2006-07   -                   3839                                                                                                                                                                                3839 
+                  -               2007-08   -                   4655                                                                                                                                                                                4655 
+Paddy             -               2006-07   -                    551                                                                                                                                                                                 551 
+                  -               2007-08   -                    636                                                                                                                                                                                 636 
+Ragi              -               2006-07   -                    850                                                                                                                                                                                 850 
+                  -               2007-08   -                   1125                                                                                                                                                                                1125 
+Sugarcane         -               2006-07   -                     80                                                                                                                                                                                  80 
+                  -               2007-08   -                     85                                                                                                                                                                                  85 
+
+                                                                                                                           36  

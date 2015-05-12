@@ -1,45 +1,45 @@
 ﻿----------------------- Page 1-----------------------
 
-                                                        CROP WISE Farm Harvest Prices of Principal Crops in India -  Punjab   
-                                                                                                                                                                                                                            (Rs. per Quintal)  
-
-Crop              Variety      Year       Season          Amritsar     Bhatinda     Faridkot    Fatehgarh     Firozpur   Gurdaspur  Hoshiarpur   Jalandhar      kapurthala   Ludhiana      Mansa        Moga        Muktsar   Nawanshaha      Patiala  
-                                                                                                  Sahib                                                                                                                             r  
-Bajra             -               2004-05   -                   455          700          460           -            -          750          895           -            -          560          490           -          453            -            -  
-Barley            -               2004-05   -                   535          650          485         625          580          700          995           -            -          580          520         520          451            -          550  
-Cotton            American 2004-05          -                  3950         2000         1800           -         2008            -         2610           -            -         2350         1900        1850         2700            -            -  
-                  Desi            2004-05   -                  4150         1850         1700           -         1808         1600         3100           -            -         2500         1880        1850         1550            -         1570  
-Gram              -               2004-05   -                  1675         2100         1750           -         1320         1900         1875           -            -         1760         1485        1650         1200         1750         1325  
-Ground Nut        -               2004-05   -                  2050         1300         1300           -         1475         2000         1550        1170         1950         2400         1650           -         1250            -         2200  
-Linseed           -               2004-05   -                  1115            -            -           -         1450         2600         2050        1900            -         1430            -           -         2850         1800            -  
-Maize             -               2004-05   -                   575          820            -         675          550          560          460         550          500          670          350           -          510          510          580  
-Paddy             -               2004-05   -                   685          580          590         601          610          600          593         557          590          630          590         590          590          590          590  
-Potato            -               2004-05   -                   350          550          200         650          413          300          450         550          250          450          250         260          360          200          200  
-Rape/Mustard -                    2004-05   -                  1005         1600         1800        1650         1450         1675         1275        1700         1100         1750         1650        1650         1745         1750         1700  
-Sesamum           -               2004-05   -                  2315         2250            -           -         2749         4500         3975        2000         1950            -         1533           -         3100            -            -  
-Sugar Raw         -               2004-05   -                  1555         1250         1500        1775         1300         1500         1895        1350         1100         1550         1200        1500         1100          950         1250  
-Toria             -               2004-05   -                  1110            -            -           -            -            -            -           -            -            -            -           -            -            -         1450  
-Wheat             -               2004-05   -                   595          710          630         641          640          680          633         630          630          640          630         750          620          630          630  
-
-                                                                                                                         43  
+                                                        CROP WISE Farm Harvest Prices of Principal Crops in India -  Punjab   
+                                                                                                                                                                                                                            (Rs. per Quintal)  
+
+Crop              Variety      Year       Season          Amritsar     Bhatinda     Faridkot    Fatehgarh     Firozpur   Gurdaspur  Hoshiarpur   Jalandhar      kapurthala   Ludhiana      Mansa        Moga        Muktsar   Nawanshaha      Patiala  
+                                                                                                  Sahib                                                                                                                             r  
+Bajra             -               2004-05   -                   455          700          460           -            -          750          895           -            -          560          490           -          453            -            -  
+Barley            -               2004-05   -                   535          650          485         625          580          700          995           -            -          580          520         520          451            -          550  
+Cotton            American 2004-05          -                  3950         2000         1800           -         2008            -         2610           -            -         2350         1900        1850         2700            -            -  
+                  Desi            2004-05   -                  4150         1850         1700           -         1808         1600         3100           -            -         2500         1880        1850         1550            -         1570  
+Gram              -               2004-05   -                  1675         2100         1750           -         1320         1900         1875           -            -         1760         1485        1650         1200         1750         1325  
+Ground Nut        -               2004-05   -                  2050         1300         1300           -         1475         2000         1550        1170         1950         2400         1650           -         1250            -         2200  
+Linseed           -               2004-05   -                  1115            -            -           -         1450         2600         2050        1900            -         1430            -           -         2850         1800            -  
+Maize             -               2004-05   -                   575          820            -         675          550          560          460         550          500          670          350           -          510          510          580  
+Paddy             -               2004-05   -                   685          580          590         601          610          600          593         557          590          630          590         590          590          590          590  
+Potato            -               2004-05   -                   350          550          200         650          413          300          450         550          250          450          250         260          360          200          200  
+Rape/Mustard -                    2004-05   -                  1005         1600         1800        1650         1450         1675         1275        1700         1100         1750         1650        1650         1745         1750         1700  
+Sesamum           -               2004-05   -                  2315         2250            -           -         2749         4500         3975        2000         1950            -         1533           -         3100            -            -  
+Sugar Raw         -               2004-05   -                  1555         1250         1500        1775         1300         1500         1895        1350         1100         1550         1200        1500         1100          950         1250  
+Toria             -               2004-05   -                  1110            -            -           -            -            -            -           -            -            -            -           -            -            -         1450  
+Wheat             -               2004-05   -                   595          710          630         641          640          680          633         630          630          640          630         750          620          630          630  
+
+                                                                                                                         43  
 
 ----------------------- Page 2-----------------------
 
-                                                    CROP WISE Farm Harvest Prices of Principal Crops in India -  Punjab   
-                                                                                                                                                                                                          (Rs. per Quintal)  
-Crop              Variety      Year       Season     Rupnagar     Sangrur  
-Bajra           -             2004-05   -                  450        400  
-Barley          -             2004-05   -                    -        540  
-Cotton           American 2004-05       -                    -       1850  
-                 Desi         2004-05   -                    -       1800  
-Gram            -             2004-05   -                 1900       1250  
-Ground Nut      -             2004-05   -                    -       2100  
-Maize           -             2004-05   -                  500        800  
-Paddy           -             2004-05   -                  590        590  
-Potato          -             2004-05   -                  150        350  
-Rape/Mustard -                2004-05   -                 1125       1300  
-Sesamum         -             2004-05   -                 2500       2500  
-Sugar Raw       -             2004-05   -                 1200       1800  
-Wheat           -             2004-05   -                  630        630  
-
-                                                                                                               44  
+                                                    CROP WISE Farm Harvest Prices of Principal Crops in India -  Punjab   
+                                                                                                                                                                                                          (Rs. per Quintal)  
+Crop              Variety      Year       Season     Rupnagar     Sangrur  
+Bajra           -             2004-05   -                  450        400  
+Barley          -             2004-05   -                    -        540  
+Cotton           American 2004-05       -                    -       1850  
+                 Desi         2004-05   -                    -       1800  
+Gram            -             2004-05   -                 1900       1250  
+Ground Nut      -             2004-05   -                    -       2100  
+Maize           -             2004-05   -                  500        800  
+Paddy           -             2004-05   -                  590        590  
+Potato          -             2004-05   -                  150        350  
+Rape/Mustard -                2004-05   -                 1125       1300  
+Sesamum         -             2004-05   -                 2500       2500  
+Sugar Raw       -             2004-05   -                 1200       1800  
+Wheat           -             2004-05   -                  630        630  
+
+                                                                                                               44  

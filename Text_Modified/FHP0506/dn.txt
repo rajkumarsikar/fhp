@@ -1,14 +1,14 @@
 ﻿----------------------- Page 1-----------------------
 
-                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Dadra & Nagar Haveli   
-                                                                                                                                                                                                              (Rs. per Quintal)  
-
-Crop              Variety      Year       Season           -                                                                                                                                                                 State Wtd  
-                                                                                                                                                                                                                              Average  
-Nigerseed                      2005-06   -                 1484                                                                                                                                                                   1484  
-Paddy            Fine          2005-06   -                  664                                                                                                                                                                    664  
-                 Medium   2005-06        -                  402                                                                                                                                                                    402  
-Ragi             -             2005-06   -                  501                                                                                                                                                                    501  
-Tur Arhar        -             2005-06   -                 1774                                                                                                                                                                   1774  
-
-                                                                                                                          20  
+                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Dadra & Nagar Haveli   
+                                                                                                                                                                                                              (Rs. per Quintal)  
+
+Crop              Variety      Year       Season           -                                                                                                                                                                 State Wtd  
+                                                                                                                                                                                                                              Average  
+Nigerseed                      2005-06   -                 1484                                                                                                                                                                   1484  
+Paddy            Fine          2005-06   -                  664                                                                                                                                                                    664  
+                 Medium   2005-06        -                  402                                                                                                                                                                    402  
+Ragi             -             2005-06   -                  501                                                                                                                                                                    501  
+Tur Arhar        -             2005-06   -                 1774                                                                                                                                                                   1774  
+
+                                                                                                                          20  
