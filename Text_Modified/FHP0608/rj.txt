@@ -1,174 +1,174 @@
 ﻿----------------------- Page 1-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
-                                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season            Ajmer        Alwar      Banswara       Baran       Barmer     Bharatpur     Bhilwara     Bikaner       Bundi     Chittorgarh    Churu        Dausa       Dholpur    Dungarpur     State Wtd  
-                                                                                                                                                                                                                                              Average  
-Bajra             -            2006-07   Kharif                  722          629           -          469          871          617          680         746          610            -          710          653          634         800          690 
-                  -            2007-08   Kharif                  672          603         800          978          795          583          709         729          607            -          660          619          577         900          663 
-Barley            -            2006-07   Rabi                    717          679         803          666          900          707          680         700          651          693          701          651          731         751          700 
-                  -            2007-08   Rabi                   1017         1003         852          851         1117          982         1026         946         1034          911          997          979         1000         892          994 
-CasterSeed        -            2006-07   Rabi                      -            -           -            -         1733            -            -           -            -            -            -            -            -           -         1800 
-                  -            2007-08   Rabi                      -            -           -            -         2395            -            -           -            -            -            -            -            -           -         2633 
-Chilly            -            2006-07   Kharif                 7699         8119        5937         4993            -         2898         6478           -         6312         6676            -            -         5473        5231         5900 
-                  -            2007-08   Kharif                 6440         7648        5821         4558            -         6872         4960           -         5308         6045            -            -         5807        5138         6176 
-Cotton            -            2006-07   Kharif                 2066         2016        2255            -            -         2170         1960        1748            -         2525            -            -            -           -         1890 
-                  -            2007-08   Kharif                 2095         2090        2406            -            -         1886         2324        2057            -         2557            -            -            -           -         2133 
-                  Lint         2006-07   Kharif                    -            -        5820            -            -         4300         4889           -            -            -            -            -            -           -         4173 
-                  Lint         2007-08   Kharif                    -            -        5903            -            -         4600         4175           -            -            -            -            -            -           -         4179 
-Ginger            -            2006-07   Kharif                    -            -           -            -            -            -            -           -            -            -            -            -            -        3403         1705 
-                  -            2007-08   Kharif                    -            -           -            -            -            -            -           -            -            -            -            -            -           -         1680 
-Gram              -            2006-07   Rabi                   2086         2154        2111         2147         2063         2304         2134        2082         2078         1861         2180         2102         2438        2124         2118 
-                  -            2007-08   Rabi                   2377         2359        2049         2257         3037         2486         2348        2328         2437         2034         2375         2314         2420        2274         2337 
-Ground Nut        -            2006-07   Kharif                 2045         1789        2519         1878         3800         2297         1773        2012         1729         1670         1758         1557            -        1466         1955 
-                  -            2007-08   Kharif                 2108         2317        2432         2002         4500         2341         2156        2394         2316         2105         2500         2058            -        1812         2315 
-Jowar             -            2006-07   Kharif                  809          663         482          771         1250          678          709         699          813          710            -          729          587         900          791 
-                  -            2007-08   Kharif                  820          646         599          954          936          686          701         755         1025          592            -          768          715        1200          774 
-Linseed           -            2006-07   Rabi                   2088            -        1400         1883            -            -         1701           -         1840         1802            -            -            -           -         1940 
-                  -            2007-08   Rabi                   2325            -           -         2868            -            -            -           -         2967         2128            -            -            -           -         1952 
-Maize             -            2006-07   Kharif                  800          721         850          623            -          648          766           -          719          727            -          715          743         809          751 
-                  -            2007-08   Kharif                  786          720         723          680            -          630          756           -          748          883            -          759          764         778          787 
-Paddy             -            2006-07   Kharif                    -            -         716            -            -          663          835           -            -            -            -            -          555         601          655 
-                  -            2007-08   Kharif                    -            -           -            -            -          795          920           -            -            -            -            -          555         588          676 
-Potato            -            2006-07   Rabi                    613            -           -          770            -          616          800           -          468          683            -            -          681         880          656 
-                  -            2007-08   Rabi                      -          608         652          716            -          655          606           -          583          688            -            -          822         835          743 
-Rape/Mustard -                 2006-07   Rabi                   1641         1732        1657         1661         1815         1785         1722        1741         1802         1734         1715         1754         1855        1632         1766 
-                  -            2007-08   Rabi                   2477         2593        1799         2651         2492         2712         2707        2237         2641         2423         2250         2562         2739        1709         2451 
-Rice              -            2006-07   Kharif                    -         1605        1111         1528            -          968         2019           -         1352         1380            -            -         1413        1078         1265 
-                  -            2007-08   Kharif                 1720            -        1836         2166            -          981         2138           -         2102         1915            -            -         1467        1155         1683 
-Sannhemp          -            2006-07   Kharif                    -            -        3049            -            -          870         1250           -            -            -            -            -         1340        1200         1458 
-                  -            2007-08   Kharif                    -         1129        2743            -            -          820         2008           -            -            -            -            -         1340        1200         1881 
-Sesamum           -            2006-07   Kharif                 2862         2396        3760         2597         2877         2633         2894        3164         2864         3022         2700         2751         2824        2788         2927 
-                  -            2007-08   Kharif                 3880         2653        3762         3265         4529         3360         3968        3570         4567         4183         3050         3224         3389        3648         3840 
-Sugar Raw         -            2006-07   Rabi                   1527            -        1274         1383            -         1835         1423           -            -            -            -            -         1802        1568         1578 
-                  -            2007-08   Rabi                   1595            -        1374         1356            -            -         1508           -            -            -            -            -         1802        1586         1601 
-Tobacco           -            2006-07   Rabi                      -            -           -            -            -            -            -           -            -            -            -            -            -           -         1760 
-                                                                                                                          71  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Rajasthan Rajasthan	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Rajasthan Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	State Wtd	
+	Average	
+Bajra	-	2006-07	Kharif	722	629	-	469	871	617	680	746	610	-	710	653	634	800	690 
+	-	2007-08	Kharif	672	603	800	978	795	583	709	729	607	-	660	619	577	900	663 
+Barley	-	2006-07	Rabi	717	679	803	666	900	707	680	700	651	693	701	651	731	751	700 
+	-	2007-08	Rabi	1017	1003	852	851	1117	982	1026	946	1034	911	997	979	1000	892	994 
+CasterSeed	-	2006-07	Rabi	-	-	-	-	1733	-	-	-	-	-	-	-	-	-	1800 
+	-	2007-08	Rabi	-	-	-	-	2395	-	-	-	-	-	-	-	-	-	2633 
+Chilly	-	2006-07	Kharif	7699	8119	5937	4993	-	2898	6478	-	6312	6676	-	-	5473	5231	5900 
+	-	2007-08	Kharif	6440	7648	5821	4558	-	6872	4960	-	5308	6045	-	-	5807	5138	6176 
+Cotton	-	2006-07	Kharif	2066	2016	2255	-	-	2170	1960	1748	-	2525	-	-	-	-	1890 
+	-	2007-08	Kharif	2095	2090	2406	-	-	1886	2324	2057	-	2557	-	-	-	-	2133 
+	Lint	2006-07	Kharif	-	-	5820	-	-	4300	4889	-	-	-	-	-	-	-	4173 
+	Lint	2007-08	Kharif	-	-	5903	-	-	4600	4175	-	-	-	-	-	-	-	4179 
+Ginger	-	2006-07	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	3403	1705 
+	-	2007-08	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1680 
+Gram	-	2006-07	Rabi	2086	2154	2111	2147	2063	2304	2134	2082	2078	1861	2180	2102	2438	2124	2118 
+	-	2007-08	Rabi	2377	2359	2049	2257	3037	2486	2348	2328	2437	2034	2375	2314	2420	2274	2337 
+Ground Nut	-	2006-07	Kharif	2045	1789	2519	1878	3800	2297	1773	2012	1729	1670	1758	1557	-	1466	1955 
+	-	2007-08	Kharif	2108	2317	2432	2002	4500	2341	2156	2394	2316	2105	2500	2058	-	1812	2315 
+Jowar	-	2006-07	Kharif	809	663	482	771	1250	678	709	699	813	710	-	729	587	900	791 
+	-	2007-08	Kharif	820	646	599	954	936	686	701	755	1025	592	-	768	715	1200	774 
+Linseed	-	2006-07	Rabi	2088	-	1400	1883	-	-	1701	-	1840	1802	-	-	-	-	1940 
+	-	2007-08	Rabi	2325	-	-	2868	-	-	-	-	2967	2128	-	-	-	-	1952 
+Maize	-	2006-07	Kharif	800	721	850	623	-	648	766	-	719	727	-	715	743	809	751 
+	-	2007-08	Kharif	786	720	723	680	-	630	756	-	748	883	-	759	764	778	787 
+Paddy	-	2006-07	Kharif	-	-	716	-	-	663	835	-	-	-	-	-	555	601	655 
+	-	2007-08	Kharif	-	-	-	-	-	795	920	-	-	-	-	-	555	588	676 
+Potato	-	2006-07	Rabi	613	-	-	770	-	616	800	-	468	683	-	-	681	880	656 
+	-	2007-08	Rabi	-	608	652	716	-	655	606	-	583	688	-	-	822	835	743 
+Rape/Mustard -	2006-07	Rabi	1641	1732	1657	1661	1815	1785	1722	1741	1802	1734	1715	1754	1855	1632	1766 
+	-	2007-08	Rabi	2477	2593	1799	2651	2492	2712	2707	2237	2641	2423	2250	2562	2739	1709	2451 
+Rice	-	2006-07	Kharif	-	1605	1111	1528	-	968	2019	-	1352	1380	-	-	1413	1078	1265 
+	-	2007-08	Kharif	1720	-	1836	2166	-	981	2138	-	2102	1915	-	-	1467	1155	1683 
+Sannhemp	-	2006-07	Kharif	-	-	3049	-	-	870	1250	-	-	-	-	-	1340	1200	1458 
+	-	2007-08	Kharif	-	1129	2743	-	-	820	2008	-	-	-	-	-	1340	1200	1881 
+Sesamum	-	2006-07	Kharif	2862	2396	3760	2597	2877	2633	2894	3164	2864	3022	2700	2751	2824	2788	2927 
+	-	2007-08	Kharif	3880	2653	3762	3265	4529	3360	3968	3570	4567	4183	3050	3224	3389	3648	3840 
+Sugar Raw	-	2006-07	Rabi	1527	-	1274	1383	-	1835	1423	-	-	-	-	-	1802	1568	1578 
+	-	2007-08	Rabi	1595	-	1374	1356	-	-	1508	-	-	-	-	-	1802	1586	1601 
+Tobacco	-	2006-07	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1760 
+	71	
 ----------------------- Page 2-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
-                                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season            Ajmer        Alwar      Banswara       Baran       Barmer     Bharatpur     Bhilwara     Bikaner       Bundi     Chittorgarh    Churu        Dausa       Dholpur    Dungarpur     State Wtd  
-                                                                                                                                                                                                                                              Average  
-Tobacco           -            2007-08   Rabi                      -         2748           -            -            -            -            -           -            -            -            -            -           -            -         2461 
-Tur Arhar         -            2006-07   Rabi                      -         1810           -            -            -         1986            -           -            -            -            -            -        2619            -         2163 
-                  -            2007-08   Rabi                   3990         1939           -         1601            -         2040            -           -            -            -            -            -        2922            -         2336 
-Wheat             -            2006-07   Rabi                   1047          915         951          864         1114          918         1065         933          879          910          985          962         899          951          940 
-                  -            2007-08   Rabi                   1165          986         950          970         1245         1012         1074        1032         1038         1000         1100         1054        1012         1037         1029 
-                                                                                                                          72  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Rajasthan Rajasthan	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Rajasthan Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	State Wtd	
+	Average	
+Tobacco	-	2007-08	Rabi	-	2748	-	-	-	-	-	-	-	-	-	-	-	-	2461 
+Tur Arhar	-	2006-07	Rabi	-	1810	-	-	-	1986	-	-	-	-	-	-	2619	-	2163 
+	-	2007-08	Rabi	3990	1939	-	1601	-	2040	-	-	-	-	-	-	2922	-	2336 
+Wheat	-	2006-07	Rabi	1047	915	951	864	1114	918	1065	933	879	910	985	962	899	951	940 
+	-	2007-08	Rabi	1165	986	950	970	1245	1012	1074	1032	1038	1000	1100	1054	1012	1037	1029 
+	72	
 ----------------------- Page 3-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
-                                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season         Ganganagar Hanumangar        Jaipur     Jaisalmer      Jalor      Jhalawar     Jhunjunu     Jodhpur      Karauli       Kota        Nagaur        Pali      Pratapgarh  Rajsamand   State Wtd  
-                                                                           h                                                                                                                                                                  Average  
-Bajra             -            2006-07   Kharif                  697          623         631            -          711          672          678         954          675            -          751          765           -          760          690 
-                  -            2007-08   Kharif                  684          675         617          808          715            -          611         881          550            -          687          692           -          780          663 
-Barley            -            2006-07   Rabi                    653          685         705            -          811          876          653         778          665          722          746          789           -          742          700 
-                  -            2007-08   Rabi                   1041         1024         990            -          975          750         1063        1039          950         1122          970         1022           -          822          994 
-CasterSeed        -            2006-07   Rabi                      -            -           -            -         1836            -            -        1724            -            -            -         1542           -            -         1800 
-                  -            2007-08   Rabi                   1338         2550           -            -         2500            -            -        2262            -            -            -         1831           -            -         2633 
-Chilly            -            2006-07   Kharif                    -            -        4530            -         6000         7154            -        8186         4120         5324         7272         5029           -         6300         5900 
-                  -            2007-08   Kharif                 3856         3557        4580            -         5930         5374            -        8407         3050         4474         6652         4146           -         6250         6176 
-Cotton            -            2006-07   Kharif                 1830         1840           -            -         3767         3910            -        2131            -            -            -         1740           -         2470         1890 
-                  -            2007-08   Kharif                 2144         2062           -            -         3560         2680            -        2560            -            -            -         1990           -         2810         2133 
-                  Lint         2006-07   Kharif                    -         4000           -            -            -            -            -           -            -            -            -            -           -         5665         4173 
-                  Lint         2007-08   Kharif                 4025            -           -            -            -            -            -           -            -            -            -            -           -         5720         4179 
-Ginger            -            2006-07   Kharif                    -            -           -            -            -            -            -           -            -            -            -            -           -            -         1705 
-                  -            2007-08   Kharif                    -            -           -            -            -            -            -           -            -            -            -            -           -            -         1680 
-Gram              -            2006-07   Rabi                   2056         2100        2091            -         2370         1824         2110        1885         2256         2073         2283         2143           -         1905         2118 
-                  -            2007-08   Rabi                   2297         2586        2263            -         2675         2059         2339        2179         2525         2279         2296         2331           -         2136         2337 
-Ground Nut        -            2006-07   Kharif                    -         1611        1853            -         2000         1609            -        2887         1780         1959         1799         1985           -         1820         1955 
-                  -            2007-08   Kharif                 2980         1852        2178         2610         2640         2657            -        2693            -         2294         2217         2341           -         1820         2315 
-Jowar             -            2006-07   Kharif                    -            -         759            -          736          653            -         905          825         1057          819          862           -          687          791 
-                  -            2007-08   Kharif                    -            -         744            -          775          860            -         963            -         1180          772          769           -          677          774 
-Linseed           -            2006-07   Rabi                      -            -        1598            -            -            -            -           -            -            -         2037            -           -            -         1940 
-                  -            2007-08   Rabi                      -            -           -            -            -         2338            -           -            -         2139            -            -           -            -         1952 
-Maize             -            2006-07   Kharif                    -            -         748            -          760          639            -         954          710          564          769          907           -          770          751 
-                  -            2007-08   Kharif                  865            -         756            -          820          615            -        1050          745          760          796          806           -          805          787 
-Paddy             -            2006-07   Kharif                    -          650           -            -            -            -            -           -            -            -            -            -           -            -          655 
-                  -            2007-08   Kharif                  780          700           -            -            -            -            -           -            -            -            -            -           -            -          676 
-Potato            -            2006-07   Rabi                      -          600           -            -            -          685            -           -            -          738            -            -           -            -          656 
-                  -            2007-08   Rabi                    742            -           -            -          975          773            -           -            -          579            -            -           -          757          743 
-Rape/Mustard -                 2006-07   Rabi                   1705         1750        1774         1600         1688         1745         1799        2007         1885         1756         1656         1695           -         1740         1766 
-                  -            2007-08   Rabi                   2122         2300        2307         2765         2700         2446         2492        2493         2680         2528         2374         2376           -         1840         2451 
-Rice              -            2006-07   Kharif                    -         1220           -            -            -         1271            -           -            -         1740            -            -           -         1342         1265 
-                  -            2007-08   Kharif                 1320         1500           -            -            -         1836            -           -            -         2300            -            -           -         1510         1683 
-Sannhemp          -            2006-07   Kharif                    -            -           -            -            -         1090            -           -            -            -            -            -           -          958         1458 
-                  -            2007-08   Kharif                    -            -           -            -            -         1100            -           -            -            -            -            -           -         1025         1881 
-Sesamum           -            2006-07   Kharif                    -         2925        2740            -         2614         2852            -        3223         2760         3091         3134         2998           -         3768         2927 
-                  -            2007-08   Kharif                 6669         3119        3134         4560         2870         3684            -        3330         3880         4495         3765         4165           -         5500         3840 
-Sugar Raw         -            2006-07   Rabi                      -         1250           -            -            -            -            -           -            -         1364            -            -           -            -         1578 
-                  -            2007-08   Rabi                      -            -           -            -            -            -            -           -            -         1276            -            -           -         1442         1601 
-Tobacco           -            2006-07   Rabi                      -            -           -            -            -            -            -           -            -            -            -            -           -            -         1760 
-                                                                                                                          73  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Rajasthan Rajasthan	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Rajasthan Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Ganganagar Hanumangar	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Pratapgarh	Rajsamand	State Wtd	
+	h	Average	
+Bajra	-	2006-07	Kharif	697	623	631	-	711	672	678	954	675	-	751	765	-	760	690 
+	-	2007-08	Kharif	684	675	617	808	715	-	611	881	550	-	687	692	-	780	663 
+Barley	-	2006-07	Rabi	653	685	705	-	811	876	653	778	665	722	746	789	-	742	700 
+	-	2007-08	Rabi	1041	1024	990	-	975	750	1063	1039	950	1122	970	1022	-	822	994 
+CasterSeed	-	2006-07	Rabi	-	-	-	-	1836	-	-	1724	-	-	-	1542	-	-	1800 
+	-	2007-08	Rabi	1338	2550	-	-	2500	-	-	2262	-	-	-	1831	-	-	2633 
+Chilly	-	2006-07	Kharif	-	-	4530	-	6000	7154	-	8186	4120	5324	7272	5029	-	6300	5900 
+	-	2007-08	Kharif	3856	3557	4580	-	5930	5374	-	8407	3050	4474	6652	4146	-	6250	6176 
+Cotton	-	2006-07	Kharif	1830	1840	-	-	3767	3910	-	2131	-	-	-	1740	-	2470	1890 
+	-	2007-08	Kharif	2144	2062	-	-	3560	2680	-	2560	-	-	-	1990	-	2810	2133 
+	Lint	2006-07	Kharif	-	4000	-	-	-	-	-	-	-	-	-	-	-	5665	4173 
+	Lint	2007-08	Kharif	4025	-	-	-	-	-	-	-	-	-	-	-	-	5720	4179 
+Ginger	-	2006-07	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1705 
+	-	2007-08	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1680 
+Gram	-	2006-07	Rabi	2056	2100	2091	-	2370	1824	2110	1885	2256	2073	2283	2143	-	1905	2118 
+	-	2007-08	Rabi	2297	2586	2263	-	2675	2059	2339	2179	2525	2279	2296	2331	-	2136	2337 
+Ground Nut	-	2006-07	Kharif	-	1611	1853	-	2000	1609	-	2887	1780	1959	1799	1985	-	1820	1955 
+	-	2007-08	Kharif	2980	1852	2178	2610	2640	2657	-	2693	-	2294	2217	2341	-	1820	2315 
+Jowar	-	2006-07	Kharif	-	-	759	-	736	653	-	905	825	1057	819	862	-	687	791 
+	-	2007-08	Kharif	-	-	744	-	775	860	-	963	-	1180	772	769	-	677	774 
+Linseed	-	2006-07	Rabi	-	-	1598	-	-	-	-	-	-	-	2037	-	-	-	1940 
+	-	2007-08	Rabi	-	-	-	-	-	2338	-	-	-	2139	-	-	-	-	1952 
+Maize	-	2006-07	Kharif	-	-	748	-	760	639	-	954	710	564	769	907	-	770	751 
+	-	2007-08	Kharif	865	-	756	-	820	615	-	1050	745	760	796	806	-	805	787 
+Paddy	-	2006-07	Kharif	-	650	-	-	-	-	-	-	-	-	-	-	-	-	655 
+	-	2007-08	Kharif	780	700	-	-	-	-	-	-	-	-	-	-	-	-	676 
+Potato	-	2006-07	Rabi	-	600	-	-	-	685	-	-	-	738	-	-	-	-	656 
+	-	2007-08	Rabi	742	-	-	-	975	773	-	-	-	579	-	-	-	757	743 
+Rape/Mustard -	2006-07	Rabi	1705	1750	1774	1600	1688	1745	1799	2007	1885	1756	1656	1695	-	1740	1766 
+	-	2007-08	Rabi	2122	2300	2307	2765	2700	2446	2492	2493	2680	2528	2374	2376	-	1840	2451 
+Rice	-	2006-07	Kharif	-	1220	-	-	-	1271	-	-	-	1740	-	-	-	1342	1265 
+	-	2007-08	Kharif	1320	1500	-	-	-	1836	-	-	-	2300	-	-	-	1510	1683 
+Sannhemp	-	2006-07	Kharif	-	-	-	-	-	1090	-	-	-	-	-	-	-	958	1458 
+	-	2007-08	Kharif	-	-	-	-	-	1100	-	-	-	-	-	-	-	1025	1881 
+Sesamum	-	2006-07	Kharif	-	2925	2740	-	2614	2852	-	3223	2760	3091	3134	2998	-	3768	2927 
+	-	2007-08	Kharif	6669	3119	3134	4560	2870	3684	-	3330	3880	4495	3765	4165	-	5500	3840 
+Sugar Raw	-	2006-07	Rabi	-	1250	-	-	-	-	-	-	-	1364	-	-	-	-	1578 
+	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	1276	-	-	-	1442	1601 
+Tobacco	-	2006-07	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1760 
+	73	
 ----------------------- Page 4-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
-                                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season         Ganganagar Hanumangar        Jaipur     Jaisalmer      Jalor      Jhalawar     Jhunjunu     Jodhpur      Karauli       Kota        Nagaur        Pali      Pratapgarh  Rajsamand   State Wtd  
-                                                                           h                                                                                                                                                                  Average  
-Tobacco           -            2007-08   Rabi                      -            -           -            -            -            -            -           -            -            -            -            -           -            -         2461 
-Tur Arhar         -            2006-07   Rabi                      -            -           -            -            -            -            -           -            -         1876            -            -           -            -         2163 
-                  -            2007-08   Rabi                      -            -           -            -            -            -            -           -            -         2038            -            -           -            -         2336 
-Wheat             -            2006-07   Rabi                    868          870        1011            -         1157          853          954        1141          953          919         1019         1071           -         1102          940 
-                  -            2007-08   Rabi                   1056          990        1055         1215         1200          882         1049        1136         1025         1023         1140         1118           -         1015         1029 
-                                                                                                                          74  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Rajasthan Rajasthan	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Rajasthan Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Ganganagar Hanumangar	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Pratapgarh	Rajsamand	State Wtd	
+	h	Average	
+Tobacco	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2461 
+Tur Arhar	-	2006-07	Rabi	-	-	-	-	-	-	-	-	-	1876	-	-	-	-	2163 
+	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	2038	-	-	-	-	2336 
+Wheat	-	2006-07	Rabi	868	870	1011	-	1157	853	954	1141	953	919	1019	1071	-	1102	940 
+	-	2007-08	Rabi	1056	990	1055	1215	1200	882	1049	1136	1025	1023	1140	1118	-	1015	1029 
+	74	
 ----------------------- Page 5-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
-                                                                                                                                                                                                                            (Rs. per Quintal)  
-Crop              Variety      Year       Season            Sawai        Sikar       Sirohi       Tonk       Udaipur                                                                                                                        State Wtd  
-                                                          Madhopur                                                                                                                                                                          Average  
-Bajra             -            2006-07   Kharif                 610          683          705         644            -                                                                                                                            690 
-                  -            2007-08   Kharif                 590          641          753         570            -                                                                                                                            663 
-Barley            -            2006-07   Rabi                   768          719          786         672          766                                                                                                                            700 
-                  -            2007-08   Rabi                   956          943          987         977          856                                                                                                                            994 
-CasterSeed        -            2006-07   Rabi                     -            -            -           -            -                                                                                                                           1800 
-                  -            2007-08   Rabi                     -            -         2966           -            -                                                                                                                           2633 
-Chilly            -            2006-07   Kharif                5838         6050         4757           -         6985                                                                                                                           5900 
-                  -            2007-08   Kharif                5490         6000         4926        7105         5740                                                                                                                           6176 
-Cotton            -            2006-07   Kharif                   -            -         1934           -         3070                                                                                                                           1890 
-                  -            2007-08   Kharif                   -         3120         2019        4365         3275                                                                                                                           2133 
-                  Lint         2006-07   Kharif                   -            -            -           -            -                                                                                                                           4173 
-                  Lint         2007-08   Kharif                   -            -            -           -            -                                                                                                                           4179 
-Ginger            -            2006-07   Kharif                   -            -            -           -         1610                                                                                                                           1705 
-                  -            2007-08   Kharif                   -            -            -           -         1680                                                                                                                           1680 
-Gram              -            2006-07   Rabi                  2030         2156         2264        2131         2111                                                                                                                           2118 
-                  -            2007-08   Rabi                  2373         2287         2245        2279         2295                                                                                                                           2337 
-Ground Nut        -            2006-07   Kharif                1664         1850         1321        1790         2865                                                                                                                           1955 
-                  -            2007-08   Kharif                1860         2240         1743        2058         2531                                                                                                                           2315 
-Jowar             -            2006-07   Kharif                 732            -          699         883          737                                                                                                                            791 
-                  -            2007-08   Kharif                 712            -          799         735          812                                                                                                                            774 
-Linseed           -            2006-07   Rabi                     -            -            -           -         1755                                                                                                                           1940 
-                  -            2007-08   Rabi                  2970            -            -           -         2500                                                                                                                           1952 
-Maize             -            2006-07   Kharif                 697          750          705         735          797                                                                                                                            751 
-                  -            2007-08   Kharif                 721            -          815         704          794                                                                                                                            787 
-Paddy             -            2006-07   Kharif                   -            -            -           -          684                                                                                                                            655 
-                  -            2007-08   Kharif                   -            -            -           -          708                                                                                                                            676 
-Potato            -            2006-07   Rabi                     -            -          742           -          585                                                                                                                            656 
-                  -            2007-08   Rabi                     -            -          979           -          600                                                                                                                            743 
-Rape/Mustard -                 2006-07   Rabi                  1751         1756         1721        1758         1735                                                                                                                           1766 
-                  -            2007-08   Rabi                  2639         2275         2573        2511         1980                                                                                                                           2451 
-Rice              -            2006-07   Kharif                   -            -         1615           -          985                                                                                                                           1265 
-                  -            2007-08   Kharif                   -            -         6085           -         1192                                                                                                                           1683 
-Sannhemp          -            2006-07   Kharif                 868            -            -           -         1627                                                                                                                           1458 
-                  -            2007-08   Kharif                 962            -            -           -         1894                                                                                                                           1881 
-Sesamum           -            2006-07   Kharif                2974         2866         2305        2869         3216                                                                                                                           2927 
-                  -            2007-08   Kharif                4099         2913         3440        3501         3626                                                                                                                           3840 
-Sugar Raw         -            2006-07   Rabi                     -            -            -           -         1710                                                                                                                           1578 
-                  -            2007-08   Rabi                     -            -            -           -         1850                                                                                                                           1601 
-Tobacco           -            2006-07   Rabi                     -            -         1760           -            -                                                                                                                           1760 
-                                                                                                                         75  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Rajasthan Rajasthan	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Rajasthan Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Sawai	Sikar	Sirohi	Tonk	Udaipur	State Wtd	
+	Madhopur	Average	
+Bajra	-	2006-07	Kharif	610	683	705	644	-	690 
+	-	2007-08	Kharif	590	641	753	570	-	663 
+Barley	-	2006-07	Rabi	768	719	786	672	766	700 
+	-	2007-08	Rabi	956	943	987	977	856	994 
+CasterSeed	-	2006-07	Rabi	-	-	-	-	-	1800 
+	-	2007-08	Rabi	-	-	2966	-	-	2633 
+Chilly	-	2006-07	Kharif	5838	6050	4757	-	6985	5900 
+	-	2007-08	Kharif	5490	6000	4926	7105	5740	6176 
+Cotton	-	2006-07	Kharif	-	-	1934	-	3070	1890 
+	-	2007-08	Kharif	-	3120	2019	4365	3275	2133 
+	Lint	2006-07	Kharif	-	-	-	-	-	4173 
+	Lint	2007-08	Kharif	-	-	-	-	-	4179 
+Ginger	-	2006-07	Kharif	-	-	-	-	1610	1705 
+	-	2007-08	Kharif	-	-	-	-	1680	1680 
+Gram	-	2006-07	Rabi	2030	2156	2264	2131	2111	2118 
+	-	2007-08	Rabi	2373	2287	2245	2279	2295	2337 
+Ground Nut	-	2006-07	Kharif	1664	1850	1321	1790	2865	1955 
+	-	2007-08	Kharif	1860	2240	1743	2058	2531	2315 
+Jowar	-	2006-07	Kharif	732	-	699	883	737	791 
+	-	2007-08	Kharif	712	-	799	735	812	774 
+Linseed	-	2006-07	Rabi	-	-	-	-	1755	1940 
+	-	2007-08	Rabi	2970	-	-	-	2500	1952 
+Maize	-	2006-07	Kharif	697	750	705	735	797	751 
+	-	2007-08	Kharif	721	-	815	704	794	787 
+Paddy	-	2006-07	Kharif	-	-	-	-	684	655 
+	-	2007-08	Kharif	-	-	-	-	708	676 
+Potato	-	2006-07	Rabi	-	-	742	-	585	656 
+	-	2007-08	Rabi	-	-	979	-	600	743 
+Rape/Mustard -	2006-07	Rabi	1751	1756	1721	1758	1735	1766 
+	-	2007-08	Rabi	2639	2275	2573	2511	1980	2451 
+Rice	-	2006-07	Kharif	-	-	1615	-	985	1265 
+	-	2007-08	Kharif	-	-	6085	-	1192	1683 
+Sannhemp	-	2006-07	Kharif	868	-	-	-	1627	1458 
+	-	2007-08	Kharif	962	-	-	-	1894	1881 
+Sesamum	-	2006-07	Kharif	2974	2866	2305	2869	3216	2927 
+	-	2007-08	Kharif	4099	2913	3440	3501	3626	3840 
+Sugar Raw	-	2006-07	Rabi	-	-	-	-	1710	1578 
+	-	2007-08	Rabi	-	-	-	-	1850	1601 
+Tobacco	-	2006-07	Rabi	-	-	1760	-	-	1760 
+	75	
 ----------------------- Page 6-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
-                                                       Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
-                                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season            Sawai        Sikar        Sirohi       Tonk       Udaipur                                                                                                                         State Wtd  
-                                                          Madhopur                                                                                                                                                                            Average  
-Tobacco           -            2007-08   Rabi                      -            -        2042            -            -                                                                                                                            2461 
-Tur Arhar         -            2006-07   Rabi                      -            -        2523            -            -                                                                                                                            2163 
-                  -            2007-08   Rabi                      -            -        2597            -            -                                                                                                                            2336 
-Wheat             -            2006-07   Rabi                    957         1035        1025          946          938                                                                                                                             940 
-                  -            2007-08   Rabi                   1039         1142        1059         1028         1026                                                                                                                            1029 
-                                                                                                                          76  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Rajasthan Rajasthan	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Rajasthan Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Sawai	Sikar	Sirohi	Tonk	Udaipur	State Wtd	
+	Madhopur	Average	
+Tobacco	-	2007-08	Rabi	-	-	2042	-	-	2461 
+Tur Arhar	-	2006-07	Rabi	-	-	2523	-	-	2163 
+	-	2007-08	Rabi	-	-	2597	-	-	2336 
+Wheat	-	2006-07	Rabi	957	1035	1025	946	938	940 
+	-	2007-08	Rabi	1039	1142	1059	1028	1026	1029 
+	76	

@@ -1,19 +1,19 @@
 ﻿----------------------- Page 1-----------------------
-                                               Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Andman & Nicobar Andman & Nicobar   
-                                               Crop Wise Farm Harvest PCrop Wise Farm Harvest Prices of Principal Crops in rices of Principal Crops in India India --  Andman & Nicobar Andman & Nicobar  
-                                                                                                                                                                                                                           (Rs. per Quintal)  
-Crop              Variety      Year       Season         Campbellba Car-Nicobar   Diglipur     Ferrargunj     Little-   Mayabunder  Nancowrie      Portblair    Rangat                                                                     State Wtd  
-                                                              y                                             Andaman                                                                                                                        Average  
-Arecanut          -              2006-07   -                   4000            -        6000         6300         6100        6000         6500         4000        5500                                                                        5600 
-                  -              2007-08   -                   4000         6500        8000         6500            -        7000         4500         5000        6000                                                                        5938 
-Cashewnut         Raw            2006-07   -                      -            -           -         2800            -           -         3000         2500           -                                                                        2800 
-                  Raw            2007-08   -                      -            -           -         2800            -           -            -         2500           -                                                                        2650 
-Chilly            Green          2006-07   -                      -            -        7000         8000         8000        9000            -            -        8000                                                                        8000 
-                  Green          2007-08   -                      -         2500       16000        10000            -       12000         2000         4400       10000                                                                        8129 
-Ginger            -              2006-07   -                      -            -        6000        12000         5000        8000         3000         5000       12000                                                                        7300 
-                  -              2007-08   -                      -         3000       14000        12000            -       10000            -         2500       15000                                                                        9417 
-Paddy             -              2006-07   -                      -            -         375         1800            -        1000            -          800        1400                                                                        1100 
-                  -              2007-08   -                      -            -         700         1800            -         800            -         1250        1600                                                                        1230 
-Pepper            -              2006-07   -                      -            -           -        15000            -           -        15000        10000       12000                                                                       13000 
-                  -              2007-08   -                      -        15000           -        20000            -       18000        13500        12000       13000                                                                       15250 
-                                                                                                                         18  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andman & Nicobar Andman & Nicobar	
+	Crop Wise Farm Harvest PCrop Wise Farm Harvest Prices of Principal Crops in rices of Principal Crops in India India --	Andman & Nicobar Andman & Nicobar	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Campbellba Car-Nicobar	Diglipur	Ferrargunj	Little-	Mayabunder	Nancowrie	Portblair	Rangat	State Wtd	
+	y	Andaman	Average	
+Arecanut	-	2006-07	-	4000	-	6000	6300	6100	6000	6500	4000	5500	5600 
+	-	2007-08	-	4000	6500	8000	6500	-	7000	4500	5000	6000	5938 
+Cashewnut	Raw	2006-07	-	-	-	-	2800	-	-	3000	2500	-	2800 
+	Raw	2007-08	-	-	-	-	2800	-	-	-	2500	-	2650 
+Chilly	Green	2006-07	-	-	-	7000	8000	8000	9000	-	-	8000	8000 
+	Green	2007-08	-	-	2500	16000	10000	-	12000	2000	4400	10000	8129 
+Ginger	-	2006-07	-	-	-	6000	12000	5000	8000	3000	5000	12000	7300 
+	-	2007-08	-	-	3000	14000	12000	-	10000	-	2500	15000	9417 
+Paddy	-	2006-07	-	-	-	375	1800	-	1000	-	800	1400	1100 
+	-	2007-08	-	-	-	700	1800	-	800	-	1250	1600	1230 
+Pepper	-	2006-07	-	-	-	-	15000	-	-	15000	10000	12000	13000 
+	-	2007-08	-	-	15000	-	20000	-	18000	13500	12000	13000	15250 
+	18	

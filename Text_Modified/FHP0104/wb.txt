@@ -1,203 +1,203 @@
 ﻿----------------------- Page 1-----------------------
-                                                       2.24  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   WEST BENGAL  --  DISTRICTWISE  
-                                                                                                                                                                                            (Rs. Per Quintal)                                                 
-State/Union Territory                     Year             Paddy           Rice         Bajra        Maize         Ragi        Wheat           Barley          Gram         Tur Arhar   SugarRaw              Potato         Tobacco         Groundnut  
-      1                                      2                 3             4             5             6            7            8               9             10              11               12             13               14               15  
-DARJILING                                   2001-02            ..            ..           ..            ..           ..            ..             ..              ..              ..              ..              ..              ..               ..  
-                                            2002-03            ..            ..           ..            ..           ..            ..             ..              ..              ..              ..               475            ..               ..  
-                                            2003-04            ..            ..           ..            ..           ..            808            ..              ..              ..               ..              540            ..               ..  
-JALPAIGURI                                  2001-02        550At          908At           ..            ..           ..            523            ..           1244               ..              ..               386            ..               ..  
-                                                           547Wt         988Wt                                                                                                                                                                        
-                                            2002-03        478At          869At           ..            ..           ..            ..             ..           1494               ..               1219            351            ..               ..  
-                                                           497Wt         939Wt                                                                                                                                                                        
-                                            2003-04        508At         1001Att          ..            ..           ..            636            ..              ..              ..               ..              309            ..               ..  
-                                                           558Wt          1008Wt                                                                                                                                                                      
-COOCH BEHAR                                 2001-02        534At          897At           ..            ..           ..            ..             ..              ..              ..               ..              381            ..               ..  
-                                                                          1103Wt  
-                                                           618Wt                                                                                                                                                                                      
-                                            2002-03        494At          897At           ..            ..           ..            ..             ..              ..              ..              ..               338            ..               ..  
-                                                           522Wt         994Wt                                                                                                                                                                        
-                                            2003-04        528At          919At           ..            ..           ..            590            ..           1500               ..              ..               372            ..               ..  
-                                                           570Wt          1004Wt                                                                                                                                                                      
-NORTH  DINAJPUR                             2001-02           Wt          800Wt           ..            ..           ..            490           460           1530               ..               1393            443            ..               ..  
-                                            2002-03        400At          800At           ..            ..           ..            ..             ..           1788               ..               1194            379            ..               ..  
-                                                           534Wt         915Wt                                                                                                                                                                        
-                                            2003-04        500Wt         900Wt            ..            ..           ..            660            ..              ..              ..               1296            405            ..               ..  
-SOUTH  DINAJPUR                             2001-02        460At          816At           ..            ..           ..            488           507           1775               ..               1536            349            ..               ..  
-                                                           475Wt         968Wt                                                                                                                                                                        
-                                            2002-03        425At          762At           ..            ..           ..            589          589            1831               ..               1275            328            ..               ..  
-                                                           445Wt         821Wt                                                                                                                                                                        
-                                            2003-04        453At          802At           ..            ..           ..            669          636            1600               ..               1315            380            ..               ..  
-                                                           509Wt         881Wt                                                                                                                                                                        
-MALDA                                       2001-02        493At          983At           ..            ..           ..            568           586           1757               ..               1248            395            ..               ..  
-                                                           459Wt         878Wt                                                                                                                                                                        
-                                            2002-03        439At          836At           ..            ..           ..            625          627            1804               ..               1198            352            ..               ..  
-                                                           461Wt         868Wt                                                                                                                                                                        
-                                            2003-04        487At          875At           ..            ..           ..            683          662            1811               ..               1283            326            ..               ..  
-                                                           490Wt         868Wt                                                                                                                                                                        
+	2.24	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	WEST BENGAL	--	DISTRICTWISE	
+	(Rs. Per Quintal)	
+State/Union Territory	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur Arhar	SugarRaw	Potato	Tobacco	Groundnut	
+	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+DARJILING	2001-02	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2002-03	..	..	..	..	..	..	..	..	..	..	475	..	..	
+	2003-04	..	..	..	..	..	808	..	..	..	..	540	..	..	
+JALPAIGURI	2001-02	550At	908At	..	..	..	523	..	1244	..	..	386	..	..	
+	547Wt	988Wt	
+	2002-03	478At	869At	..	..	..	..	..	1494	..	1219	351	..	..	
+	497Wt	939Wt	
+	2003-04	508At	1001Att	..	..	..	636	..	..	..	..	309	..	..	
+	558Wt	1008Wt	
+COOCH BEHAR	2001-02	534At	897At	..	..	..	..	..	..	..	..	381	..	..	
+	1103Wt	
+	618Wt	
+	2002-03	494At	897At	..	..	..	..	..	..	..	..	338	..	..	
+	522Wt	994Wt	
+	2003-04	528At	919At	..	..	..	590	..	1500	..	..	372	..	..	
+	570Wt	1004Wt	
+NORTH	DINAJPUR	2001-02	Wt	800Wt	..	..	..	490	460	1530	..	1393	443	..	..	
+	2002-03	400At	800At	..	..	..	..	..	1788	..	1194	379	..	..	
+	534Wt	915Wt	
+	2003-04	500Wt	900Wt	..	..	..	660	..	..	..	1296	405	..	..	
+SOUTH	DINAJPUR	2001-02	460At	816At	..	..	..	488	507	1775	..	1536	349	..	..	
+	475Wt	968Wt	
+	2002-03	425At	762At	..	..	..	589	589	1831	..	1275	328	..	..	
+	445Wt	821Wt	
+	2003-04	453At	802At	..	..	..	669	636	1600	..	1315	380	..	..	
+	509Wt	881Wt	
+MALDA	2001-02	493At	983At	..	..	..	568	586	1757	..	1248	395	..	..	
+	459Wt	878Wt	
+	2002-03	439At	836At	..	..	..	625	627	1804	..	1198	352	..	..	
+	461Wt	868Wt	
+	2003-04	487At	875At	..	..	..	683	662	1811	..	1283	326	..	..	
+	490Wt	868Wt	
 ----------------------- Page 2-----------------------
-                                                       2.24  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   WEST BENGAL  --  DISTRICTWISE  
-                                                                                                                                                                                         (Rs. Per Quintal)                                                
-State/Union Territory                     Year            Paddy           Rice         Bajra        Maize        Ragi        Wheat           Barley         Gram         Tur Arhar   SugarRaw              Potato         Tobacco        Groundnut  
-      1                                      2                3             4             5             6           7            8               9             10              11              12             13              14               15  
-MURSHIDABAD                                 2001-02        465At         882At           ..            ..          ..            561          538              ..              ..            1280              395            ..               ..  
-                                                          453Wt         942Wt                                                                                                                                                                     
-                                            2002-03        461At         887At           ..            ..          ..            621          621            1778              ..            1236              302            ..               ..  
-                                                          431Wt         809Wt                                                                                                                                                                     
-                                            2003-04        507At         916At           ..            ..          ..            694          672           1864               ..            1310              350            ..               ..  
-                                                          497Wt         896Wt                                                                                                                                                                     
-NADIA                                       2001-02        520At         999At           ..            ..          ..            582            ..           1418              ..            1243              333            ..               ..  
-                                                          663Wt          1095Wt                                                                                                                                                                   
-                                            2002-03        460At         828At           ..            ..          ..            649          585            1654              ..            1245              302            ..               ..  
-                                                          543Wt         945Wt                                                                                                                                                                     
-                                            2003-04        476At         903At           ..            ..          ..            658          479            1657              ..            1202              346            ..               ..  
-                                                          537Wt         998Wt                                                                                                                                                                     
-NORTH  24                                   2001-02        516At         902At           ..            ..          ..            669            ..           1555              ..              ..              336            ..               ..  
-PARGANAS   
-                                                          417Wt         811Wt                                                                                                                                                                     
-                                            2002-03        478At         851At           ..            ..          ..            600            ..             ..              ..            1200              296            ..               ..  
-                                                          431Wt         802Wt                                                                                                                                                                     
-                                            2003-04        517At         825At           ..            ..          ..            644            ..          1242               ..              ..              380            ..               ..  
-                                                          451Wt         793Wt                                                                                                                                                                     
-SOUTH  24                                   2001-02        435At         808At           ..            ..          ..            776            ..             ..              ..              ..              401            ..               ..  
-PARGANAS   
-                                                          524Wt         863Wt                                                                                                                                                                     
-                                            2002-03       456Wt         857Wt            ..            ..          ..            ..             ..             ..              ..              ..              300            ..               ..  
-                                            2003-04       501Wt         911Wt            ..            ..          ..            775            ..             ..              ..               ..             365            ..               ..  
-HOWRAH                                      2001-02        486At         865At           ..            ..          ..            800            ..             ..              ..              ..              363            ..               ..  
-                                                          403Wt         804Wt                                                                                                                                                                     
-                                            2002-03        436At         798At           ..            ..          ..            789            ..             ..              ..            1095              295            ..               ..  
-                                                          455Wt         847Wt                                                                                                                                                                     
-                                            2003-04       450Wt         862Wt            ..            ..          ..            639            ..             ..              ..            1340              305            ..               ..  
+	2.24	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	WEST BENGAL	--	DISTRICTWISE	
+	(Rs. Per Quintal)	
+State/Union Territory	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur Arhar	SugarRaw	Potato	Tobacco	Groundnut	
+	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+MURSHIDABAD	2001-02	465At	882At	..	..	..	561	538	..	..	1280	395	..	..	
+	453Wt	942Wt	
+	2002-03	461At	887At	..	..	..	621	621	1778	..	1236	302	..	..	
+	431Wt	809Wt	
+	2003-04	507At	916At	..	..	..	694	672	1864	..	1310	350	..	..	
+	497Wt	896Wt	
+NADIA	2001-02	520At	999At	..	..	..	582	..	1418	..	1243	333	..	..	
+	663Wt	1095Wt	
+	2002-03	460At	828At	..	..	..	649	585	1654	..	1245	302	..	..	
+	543Wt	945Wt	
+	2003-04	476At	903At	..	..	..	658	479	1657	..	1202	346	..	..	
+	537Wt	998Wt	
+NORTH	24	2001-02	516At	902At	..	..	..	669	..	1555	..	..	336	..	..	
+PARGANAS	
+	417Wt	811Wt	
+	2002-03	478At	851At	..	..	..	600	..	..	..	1200	296	..	..	
+	431Wt	802Wt	
+	2003-04	517At	825At	..	..	..	644	..	1242	..	..	380	..	..	
+	451Wt	793Wt	
+SOUTH	24	2001-02	435At	808At	..	..	..	776	..	..	..	..	401	..	..	
+PARGANAS	
+	524Wt	863Wt	
+	2002-03	456Wt	857Wt	..	..	..	..	..	..	..	..	300	..	..	
+	2003-04	501Wt	911Wt	..	..	..	775	..	..	..	..	365	..	..	
+HOWRAH	2001-02	486At	865At	..	..	..	800	..	..	..	..	363	..	..	
+	403Wt	804Wt	
+	2002-03	436At	798At	..	..	..	789	..	..	..	1095	295	..	..	
+	455Wt	847Wt	
+	2003-04	450Wt	862Wt	..	..	..	639	..	..	..	1340	305	..	..	
 ----------------------- Page 3-----------------------
-                                                       2.24  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   WEST BENGAL  --  DISTRICTWISE  
-                                                                                                                                                                                            (Rs. Per Quintal)                                                  
-State/Union Territory                     Year             Paddy           Rice         Bajra        Maize         Ragi         Wheat          Barley          Gram          Tur Arhar   SugarRaw              Potato         Tobacco         Groundnut  
-      1                                      2                 3              4             5             6           7             8              9              10              11              12              13               14               15  
-HOOGHLY                                      2001-02        457At         860At            ..            ..          ..             738           ..              ..              ..               ..              301             ..               ..  
-                                                           404Wt          804Wt                                                                                                                                                                        
-                                             2002-03        474At         790At            ..            ..          ..            ..             ..              ..              ..               ..              282             ..               ..  
-                                                           425Wt          791Wt                                                                                                                                                                        
-                                             2003-04        486At         850At            ..            ..          ..             784           ..              ..              ..               ..              333             ..               ..  
-                                                           438Wt          845Wt                                                                                                                                                                        
-BARDHAMAN                                    2001-02        439At         925At            ..            ..          ..             630           ..            1810              ..               1226            322             ..               ..  
-                                                           422Wt          896Wt                                                                                                                                                                        
-                                             2002-03       386At          704At            ..            ..          ..             650           ..              ..              ..               1173            296             ..               ..  
-                                                           382Wt          740Wt                                                                                                                                                                        
-                                             2003-04        405At         785At            ..            ..          ..             722           ..            1803              ..               1222            269             ..               ..  
-                                                           404Wt          795Wt                                                                                                                                                                        
-BIRBHUM                                      2001-02        428At         841At            ..            ..          ..             535           ..            1618              ..               1360            303             ..               ..  
-                                                           407Wt          783Wt                                                                                                                                                                        
-                                             2002-03       404At          742At            ..            ..          ..             571           ..           1618               ..               1169            ..              ..               ..  
-                                                           428Wt          730Wt                                                                                                                                                                        
-                                             2003-04       476At          816At            ..            ..          ..             712           ..           1664               ..               1307            290             ..               ..  
-                                                           473Wt          861Wt                                                                                                                                                                        
-BANKURA                                      2001-02        390At         748At            ..            ..          ..             607           ..            1667              ..               1400            282             ..               ..  
-                                                           396Wt          813Wt                                                                                                                                                                        
-                                             2002-03       376At          698At            ..            ..          ..             642           ..           1778               ..               1233            ..              ..               ..  
-                                                           382Wt          710Wt                                                                                                                                                                        
-                                             2003-04        404At         700At            ..            ..          ..             660           ..            1591              ..               1400            232             ..               ..  
-                                                           409Wt          776Wt                                                                                                                                                                        
-PURULIYA                                     2001-02        372At         642At            ..            .           ..             731           ..              ..              ..               1300            404             ..               ..  
-                                                           380Wt          743Wt                                                                                                                                                                        
-                                             2002-03        342At         642At            ..            ..          ..            ..             ..              ..              ..               ..              ..              ..               ..  
-                                                           333Wt          603Wt                                                                                                                                                                        
-                                             2003-04           ..            ..            ..            ..          ..            ..             ..              ..              ..               ..              ..              ..               ..  
+	2.24	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	WEST BENGAL	--	DISTRICTWISE	
+	(Rs. Per Quintal)	
+State/Union Territory	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur Arhar	SugarRaw	Potato	Tobacco	Groundnut	
+	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+HOOGHLY	2001-02	457At	860At	..	..	..	738	..	..	..	..	301	..	..	
+	404Wt	804Wt	
+	2002-03	474At	790At	..	..	..	..	..	..	..	..	282	..	..	
+	425Wt	791Wt	
+	2003-04	486At	850At	..	..	..	784	..	..	..	..	333	..	..	
+	438Wt	845Wt	
+BARDHAMAN	2001-02	439At	925At	..	..	..	630	..	1810	..	1226	322	..	..	
+	422Wt	896Wt	
+	2002-03	386At	704At	..	..	..	650	..	..	..	1173	296	..	..	
+	382Wt	740Wt	
+	2003-04	405At	785At	..	..	..	722	..	1803	..	1222	269	..	..	
+	404Wt	795Wt	
+BIRBHUM	2001-02	428At	841At	..	..	..	535	..	1618	..	1360	303	..	..	
+	407Wt	783Wt	
+	2002-03	404At	742At	..	..	..	571	..	1618	..	1169	..	..	..	
+	428Wt	730Wt	
+	2003-04	476At	816At	..	..	..	712	..	1664	..	1307	290	..	..	
+	473Wt	861Wt	
+BANKURA	2001-02	390At	748At	..	..	..	607	..	1667	..	1400	282	..	..	
+	396Wt	813Wt	
+	2002-03	376At	698At	..	..	..	642	..	1778	..	1233	..	..	..	
+	382Wt	710Wt	
+	2003-04	404At	700At	..	..	..	660	..	1591	..	1400	232	..	..	
+	409Wt	776Wt	
+PURULIYA	2001-02	372At	642At	..	.	..	731	..	..	..	1300	404	..	..	
+	380Wt	743Wt	
+	2002-03	342At	642At	..	..	..	..	..	..	..	..	..	..	..	
+	333Wt	603Wt	
+	2003-04	..	..	..	..	..	..	..	..	..	..	..	..	..	
 ----------------------- Page 4-----------------------
-                                                          2.24  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   WEST BENGAL  --  DISTRICTWISE  
-                                                                                                                                                                                                   (Rs. Per Quintal)                                                    
- State/Union Territory                      Year              Paddy           Rice          Bajra        Maize          Ragi        Wheat            Barley          Gram          Tur Arhar   SugarRaw                Potato         Tobacco         Groundnut  
-       1                                       2                  3              4              5             6            7             8               9              10              11                12              13               14               15  
- WEST MIDNAPORE                                2001-02        394At          764At             ..            ..           ..             684            ..            1713               ..             1188               324             ..                ..  
-                                                              406Wt          777Wt                                                                                                                                                                              
-                                               2002-03        376At          702At             ..            ..           ..             642            ..           1675                ..            1207               ..               ..                ..  
-                                                              404Wt          778Wt                                                                                                                                                                              
-                                               2003-04        416At          751At             ..            ..           ..             687            ..           1779                ..            1074                335             ..                ..  
-                                                              458Wt          838Wt                                                                                                                                                                              
- EAST MIDNAPORE                                2001-02        466At          828At             ..            ..           ..             752            ..              ..               ..             1426               363             ..                ..  
-                                                              421Wt          831Wt                                                                                                                                                                              
-                                               2002-03        450At          794At             ..            ..           ..             695            ..              ..               ..               ..               302             ..                ..  
-                                                              443Wt          774Wt                                                                                                                                                                              
-                                               2003-04        508At          855At             ..            ..           ..             800            ..              ..               ..               ..               373             ..                ..  
-                                                              498Wt          869Wt                                                                                                                                                                              
- WEST BENGAL                                   2001-02        471At          872At             ..            ..           ..             576           569            1550               ..             1246               327             ..                ..  
- (STATE WEIGHTED                                              442Wt          849Wt                                                                                                                                                                              
-AVERAGE)  
-                                               2002-03        434At          797At             ..            ..           ..             619           624            1688               ..             1217               304             ..                ..  
-                                                              429Wt          793Wt                                                                                                                                                                              
-                                               2003-04        469At          853At             ..            ..           ..             678           638            1737               ..             1249               322             ..                ..  
-                                                              471Wt          864Wt                                                                                                                                                                              
+	2.24	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	WEST BENGAL	--	DISTRICTWISE	
+	(Rs. Per Quintal)	
+ State/Union Territory	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur Arhar	SugarRaw	Potato	Tobacco	Groundnut	
+	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+ WEST MIDNAPORE	2001-02	394At	764At	..	..	..	684	..	1713	..	1188	324	..	..	
+	406Wt	777Wt	
+	2002-03	376At	702At	..	..	..	642	..	1675	..	1207	..	..	..	
+	404Wt	778Wt	
+	2003-04	416At	751At	..	..	..	687	..	1779	..	1074	335	..	..	
+	458Wt	838Wt	
+ EAST MIDNAPORE	2001-02	466At	828At	..	..	..	752	..	..	..	1426	363	..	..	
+	421Wt	831Wt	
+	2002-03	450At	794At	..	..	..	695	..	..	..	..	302	..	..	
+	443Wt	774Wt	
+	2003-04	508At	855At	..	..	..	800	..	..	..	..	373	..	..	
+	498Wt	869Wt	
+ WEST BENGAL	2001-02	471At	872At	..	..	..	576	569	1550	..	1246	327	..	..	
+ (STATE WEIGHTED	442Wt	849Wt	
+AVERAGE)	
+	2002-03	434At	797At	..	..	..	619	624	1688	..	1217	304	..	..	
+	429Wt	793Wt	
+	2003-04	469At	853At	..	..	..	678	638	1737	..	1249	322	..	..	
+	471Wt	864Wt	
 ----------------------- Page 5-----------------------
-                                                              2.24  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   WEST BENGAL  --  DISTRICTWISE  
-                                                                                                                                                                                                                   (Rs. Per Quintal)                                                       
- State/Union Territory                         Year           RapeSeed  Sesamum                  Linseed      CasterSeed           Toria         Cotton            Jute         Sannhemp            Pepper             Ginger           Chilly          Turmeric            Mesta  
-       1                                         2                  16               17             18               19              20             21              22               23                24                25               26                27                 28  
- DARJILING                                        2001-02            ..              ..              ..               ..             ..             ..               ..               ..                ..                ..               ..                ..                ..  
-                                                  2002-03            ..              ..              ..               ..             ..             ..               ..               ..                ..                ..               ..                ..                ..  
-                                                  2003-04            ..              ..              ..               ..             ..             ..               ..               ..                ..                ..               ..                ..                ..  
-JALPAIGURI                                        2001-02             1213           ..              ..               ..             ..             ..                870             ..                ..                ..               ..                ..                ..  
-                                                  2002-03             1481           ..              ..               ..             ..             ..                906             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1674           ..              ..               ..             ..             ..                806             ..                ..                ..               ..                ..                ..  
-COOCH BEHAR                                       2001-02             1285           ..              ..               ..             ..             ..                973             ..                ..                ..               ..                ..                ..  
-                                                  2002-03             1552           ..              ..               ..             ..             ..                975             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1771           ..              ..               ..             ..             ..                871             ..                ..                ..               ..                ..                   
- NORTH  DINAJPUR                                  2001-02             1406           ..              ..               ..             ..             ..                894             ..                ..                ..               ..                ..                ..  
-                                                  2002-03             1678           ..              ..               ..             ..             ..                827             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1858           ..              ..               ..             ..             ..                808             ..                ..                ..               ..                ..                ..  
-SOUTH DINAJPUR                                    2001-02             1260           ..              ..               ..             ..             ..                919             ..                ..                ..               ..                ..                ..  
-                                                  2002-03             1614           ..              ..               ..             ..             ..                891             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1804           ..              ..               ..             ..             ..                830             ..                ..                ..               ..                ..                ..  
- MALDA                                            2001-02             1448           ..              ..               ..             ..             ..                879             ..                ..                ..               ..                ..                ..  
-                                                  2002-03             1536           ..              ..               ..             ..             ..                807             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1877           ..              ..               ..             ..             ..                754             ..                ..                ..               ..                ..                ..  
- MURSHIDABAD                                      2001-02             1281           ..              ..               ..             ..             ..                830             ..                ..                ..               ..                ..                ..  
-                                                  2002-03             1547           ..              ..               ..             ..             ..                758             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1919           ..              ..               ..             ..             ..                704             ..                ..                ..               ..                ..                ..  
- NADIA                                            2001-02             1211           ..              ..               ..             ..             ..                857             ..                ..                ..               ..                ..                ..  
-                                                  2002-03             1584           ..              ..               ..             ..             ..                791             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1885           ..              ..               ..             ..             ..                725             ..                ..                ..               ..                ..                ..  
- NORTH 24                                         2001-02             1070           ..              ..               ..             ..             ..                890             ..                ..                ..               ..                ..                ..  
-PARGANAS                                          2002-03             1459           ..              ..               ..             ..             ..                825             ..                ..                ..               ..                ..                ..  
-                                                  2003-04             1695           ..              ..               ..             ..             ..                814             ..                ..                ..               ..                ..                ..  
-                                                              2.24  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   WEST BENGAL  --  DISTRICTWISE  
+	2.24	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	WEST BENGAL	--	DISTRICTWISE	
+	(Rs. Per Quintal)	
+ State/Union Territory	Year	RapeSeed	Sesamum	Linseed	CasterSeed	Toria	Cotton	Jute	Sannhemp	Pepper	Ginger	Chilly	Turmeric	Mesta	
+	1	2	16	17	18	19	20	21	22	23	24	25	26	27	28	
+ DARJILING	2001-02	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2002-03	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2003-04	..	..	..	..	..	..	..	..	..	..	..	..	..	
+JALPAIGURI	2001-02	1213	..	..	..	..	..	870	..	..	..	..	..	..	
+	2002-03	1481	..	..	..	..	..	906	..	..	..	..	..	..	
+	2003-04	1674	..	..	..	..	..	806	..	..	..	..	..	..	
+COOCH BEHAR	2001-02	1285	..	..	..	..	..	973	..	..	..	..	..	..	
+	2002-03	1552	..	..	..	..	..	975	..	..	..	..	..	..	
+	2003-04	1771	..	..	..	..	..	871	..	..	..	..	..	
+ NORTH	DINAJPUR	2001-02	1406	..	..	..	..	..	894	..	..	..	..	..	..	
+	2002-03	1678	..	..	..	..	..	827	..	..	..	..	..	..	
+	2003-04	1858	..	..	..	..	..	808	..	..	..	..	..	..	
+SOUTH DINAJPUR	2001-02	1260	..	..	..	..	..	919	..	..	..	..	..	..	
+	2002-03	1614	..	..	..	..	..	891	..	..	..	..	..	..	
+	2003-04	1804	..	..	..	..	..	830	..	..	..	..	..	..	
+ MALDA	2001-02	1448	..	..	..	..	..	879	..	..	..	..	..	..	
+	2002-03	1536	..	..	..	..	..	807	..	..	..	..	..	..	
+	2003-04	1877	..	..	..	..	..	754	..	..	..	..	..	..	
+ MURSHIDABAD	2001-02	1281	..	..	..	..	..	830	..	..	..	..	..	..	
+	2002-03	1547	..	..	..	..	..	758	..	..	..	..	..	..	
+	2003-04	1919	..	..	..	..	..	704	..	..	..	..	..	..	
+ NADIA	2001-02	1211	..	..	..	..	..	857	..	..	..	..	..	..	
+	2002-03	1584	..	..	..	..	..	791	..	..	..	..	..	..	
+	2003-04	1885	..	..	..	..	..	725	..	..	..	..	..	..	
+ NORTH 24	2001-02	1070	..	..	..	..	..	890	..	..	..	..	..	..	
+PARGANAS	2002-03	1459	..	..	..	..	..	825	..	..	..	..	..	..	
+	2003-04	1695	..	..	..	..	..	814	..	..	..	..	..	..	
+	2.24	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	WEST BENGAL	--	DISTRICTWISE	
 ----------------------- Page 6-----------------------
-                                                                                                                                                                                                                    (Rs. Per Quintal)                                                       
- State/Union Territory                         Year            RapeSeed  Sesamum                 Linseed       CasterSeed          Toria         Cotton             Jute        Sannhemp             Pepper            Ginger            Chilly         Turmeric             Mesta  
-       1                                          2                 16               17              18              19              20             21               22               23                24                25               26                27                 28  
-SOUTH  24                                         2001-02             1400            ..             ..               ..              ..             ..            1119                ..                ..                ..               ..               ..                 ..  
-PARGANAS   
-                                                  2002-03            ..               ..             ..               ..              ..             ..            1137                ..                ..                ..               ..               ..                 ..  
-                                                  2003-04            ..               ..             ..               ..              ..             ..            1150                ..                ..                ..               ..               ..                 ..  
- HOWRAH                                           2001-02             1500            ..             ..               ..              ..             ..                848             ..                ..                ..               ..               ..                 ..  
-                                                  2002-03             1466            ..             ..               ..              ..             ..                788             ..                ..                ..               ..               ..                 ..  
-                                                  2003-04             1813            ..             ..               ..              ..             ..                763             ..                ..                ..               ..               ..                 ..  
- HOOGHLY                                          2001-02             1061            ..             ..               ..              ..             ..                938             ..                ..                ..               ..               ..                 ..  
-                                                  2002-03            ..               ..             ..               ..              ..             ..                878             ..                ..                ..               ..               ..                 ..  
-                                                  2003-04             1498            ..             ..               ..              ..             ..                732             ..                ..                ..               ..               ..                 ..  
- BARDHAMAN                                        2001-02             1449            ..             ..               ..              ..             ..                878             ..                ..                ..               ..               ..                 ..  
-                                                  2002-03             1548            ..             ..               ..              ..             ..                935             ..                ..                ..               ..               ..                 ..  
-                                                  2003-04            ..               ..             ..               ..              ..             ..                870             ..                ..                ..               ..               ..                 ..  
- BIRBHUM                                          2001-02             1279            ..             ..               ..              ..             ..                825             ..                ..                ..               ..               ..                 ..  
-                                                  2002-03             1579            ..             ..               ..              ..             ..                770             ..                ..                ..               ..               ..                 ..  
-                                                  2003-04             1867            ..             ..               ..              ..             ..                761             ..                ..                ..               ..               ..                 ..  
- BANKURA                                          2001-02             1348            ..             ..               ..              ..             ..                662             ..                ..                ..               ..               ..                 ..  
-                                                  2002-03             1556            ..             ..               ..              ..             ..                707             ..                ..                ..               ..               ..                 ..  
-                                                  2003-04             1817            ..             ..               ..              ..             ..                725             ..                ..                ..               ..               ..                 ..  
- PURULIYA                                         2001-02            ..               ..             ..               ..              ..             ..               ..               ..                ..                ..               ..               ..                 ..  
-                                                  2002-03            ..               ..             ..               ..              ..             ..               ..               ..                ..                ..               ..               ..                 ..  
-                                                  2003-04            ..               ..             ..               ..              ..             ..               ..               ..                ..                ..               ..               ..                 ..  
-WEST MIDNAPORE                                    2001-02             1450            ..             ..               ..              ..             ..                825             ..                ..                ..               ..               ..                 ..  
-                                                  2002-03             1461            ..             ..               ..              ..             ..                757             ..                ..                ..               ..               ..                    
-                                                  2003-04             1780            ..             ..               ..              ..             ..                676             ..                ..                ..               ..               ..                 ..  
- EAST MIDNAPORE                                   2001-02             1643            ..             ..               ..              ..             ..                818             ..                ..                ..               ..               ..                 ..  
-                                                  2002-03            ..               ..             ..               ..              ..             ..                814             ..                ..                ..               ..               ..                 ..  
-                                                  2003-04            ..               ..             ..               ..              ..             ..                789             ..                ..                ..               ..               ..                 ..  
+	(Rs. Per Quintal)	
+ State/Union Territory	Year	RapeSeed	Sesamum	Linseed	CasterSeed	Toria	Cotton	Jute	Sannhemp	Pepper	Ginger	Chilly	Turmeric	Mesta	
+	1	2	16	17	18	19	20	21	22	23	24	25	26	27	28	
+SOUTH	24	2001-02	1400	..	..	..	..	..	1119	..	..	..	..	..	..	
+PARGANAS	
+	2002-03	..	..	..	..	..	..	1137	..	..	..	..	..	..	
+	2003-04	..	..	..	..	..	..	1150	..	..	..	..	..	..	
+ HOWRAH	2001-02	1500	..	..	..	..	..	848	..	..	..	..	..	..	
+	2002-03	1466	..	..	..	..	..	788	..	..	..	..	..	..	
+	2003-04	1813	..	..	..	..	..	763	..	..	..	..	..	..	
+ HOOGHLY	2001-02	1061	..	..	..	..	..	938	..	..	..	..	..	..	
+	2002-03	..	..	..	..	..	..	878	..	..	..	..	..	..	
+	2003-04	1498	..	..	..	..	..	732	..	..	..	..	..	..	
+ BARDHAMAN	2001-02	1449	..	..	..	..	..	878	..	..	..	..	..	..	
+	2002-03	1548	..	..	..	..	..	935	..	..	..	..	..	..	
+	2003-04	..	..	..	..	..	..	870	..	..	..	..	..	..	
+ BIRBHUM	2001-02	1279	..	..	..	..	..	825	..	..	..	..	..	..	
+	2002-03	1579	..	..	..	..	..	770	..	..	..	..	..	..	
+	2003-04	1867	..	..	..	..	..	761	..	..	..	..	..	..	
+ BANKURA	2001-02	1348	..	..	..	..	..	662	..	..	..	..	..	..	
+	2002-03	1556	..	..	..	..	..	707	..	..	..	..	..	..	
+	2003-04	1817	..	..	..	..	..	725	..	..	..	..	..	..	
+ PURULIYA	2001-02	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2002-03	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2003-04	..	..	..	..	..	..	..	..	..	..	..	..	..	
+WEST MIDNAPORE	2001-02	1450	..	..	..	..	..	825	..	..	..	..	..	..	
+	2002-03	1461	..	..	..	..	..	757	..	..	..	..	..	
+	2003-04	1780	..	..	..	..	..	676	..	..	..	..	..	..	
+ EAST MIDNAPORE	2001-02	1643	..	..	..	..	..	818	..	..	..	..	..	..	
+	2002-03	..	..	..	..	..	..	814	..	..	..	..	..	..	
+	2003-04	..	..	..	..	..	..	789	..	..	..	..	..	..	
 ----------------------- Page 7-----------------------
-                                                               2.24  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   WEST BENGAL  --  DISTRICTWISE  
-                                                                                                                                                                                                                               (Rs. Per Quintal)                                                    
- State/Union Territory                         Year             RapeSeed             Sesamum            Linseed           Caster Seed              Toria       Cotton           Jute         Sunnhemp            Pepper            Ginger             Chilly       Turmeric           Mesta  
-            1                                     2                   16                  17                18                    19                20            21             22                23               24                25                26               27               28  
- WEST BENGAL                                2001-02                1302                    ..                ..                   ..                 ..           ..               877              ..               ..                ..                ..               ..              ..  
- (STATE WEIGHTED                            2002-03                1560                    ..                ..                   ..                 ..           ..               828              ..               ..                ..                ..               ..              ..  
-AVERAGE)  
-                                            2003-04                1849                    ..                ..                   ..                 ..           ..               763              ..               ..                ..                ..               ..              ..  
+	2.24	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	WEST BENGAL	--	DISTRICTWISE	
+	(Rs. Per Quintal)	
+ State/Union Territory	Year	RapeSeed	Sesamum	Linseed	Caster Seed	Toria	Cotton	Jute	Sunnhemp	Pepper	Ginger	Chilly	Turmeric	Mesta	
+	1	2	16	17	18	19	20	21	22	23	24	25	26	27	28	
+ WEST BENGAL	2001-02	1302	..	..	..	..	..	877	..	..	..	..	..	..	
+ (STATE WEIGHTED	2002-03	1560	..	..	..	..	..	828	..	..	..	..	..	..	
+AVERAGE)	
+	2003-04	1849	..	..	..	..	..	763	..	..	..	..	..	..	

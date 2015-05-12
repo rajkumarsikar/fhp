@@ -1,15 +1,15 @@
 ﻿----------------------- Page 1-----------------------
-                                                     CROP WISE Farm Harvest Prices of Principal Crops in India -  Orissa   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season          -  
-Ground Nut       -             2004-05  -                 1576  
-Jute             -             2004-05  -                  935  
-Maize            -             2004-05  -                  401  
-Paddy            -             2004-05  -                  469  
-Potato           -             2004-05  -                  501  
-Ragi             -             2004-05  -                  523  
-Rape/Mustard -                 2004-05  -                 2069  
-Sesamum          -             2004-05  -                 1953  
-Sugarcane        -             2004-05  -                  103  
-Wheat            -             2004-05  -                  785  
-                                                                                                                 41  
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Orissa	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	-	
+Ground Nut	-	2004-05	-	1576	
+Jute	-	2004-05	-	935	
+Maize	-	2004-05	-	401	
+Paddy	-	2004-05	-	469	
+Potato	-	2004-05	-	501	
+Ragi	-	2004-05	-	523	
+Rape/Mustard -	2004-05	-	2069	
+Sesamum	-	2004-05	-	1953	
+Sugarcane	-	2004-05	-	103	
+Wheat	-	2004-05	-	785	
+	41	

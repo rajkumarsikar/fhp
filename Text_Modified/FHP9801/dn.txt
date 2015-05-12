@@ -1,23 +1,23 @@
 ﻿----------------------- Page 1-----------------------
-2.27. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN DADRA & NAGAR HAVELI                             
-                                                                                                 (Rs. per quintal)  
-District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram    Tur  Sugar Potato Tobacco Ground  
-                                                                                Arhar  Raw                   nut   
-     (1)          (2)    (3)    (4)    (5)    (6)    (7)    (8)    (9)   (10)   (11)   (12)   (13)   (14)   (15)   
-DADRA&NAGAR     1998-99  491     ..     ..     ..    530     ..     ..     ..   1886     ..     ..     ..     ..  
-HAVELI          1999-00  530     ..     ..     ..    425     ..     ..     ..   1848     ..     ..     ..     ..  
-                                               2000-01  464     ..     ..     ..    532     ..     ..     ..   1932     ..     ..     ..     ..  
-DADRA&NAGAR     1998-99  491     ..     ..     ..    530     ..     ..     ..   1886     ..     ..     ..     ..  
-HAVELI          1999-00  530     ..     ..     ..    425     ..     ..     ..   1848     ..     ..     ..     ..  
- (S.W.Average)   2000-01  464     ..     ..     ..    532     ..     ..     ..   1932     ..     ..     ..     ..  
-2.27. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN DADRA & NAGAR HAVELI (Concluded).                            
-                                                                                                    (Rs. per quintal)  
-District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- Pepper Ginger Chilly Turmeric Mesta  
-                       Mustard                Seed                        hemp  
-     (1)          (2)    (16)   (17)   (18)   (19)   (20)   (21)   (22)   (23)   (24)   (25)   (26)    (27)   (28)  
-DADRA&NAGAR     1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
-HAVELI          1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
-                                               2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
-DADRA&NAGAR     1998-99   ..     ..     ..     ..     ..     . .     ..     ..     ..     ..     ..     ..     ..  
-HAVELI          1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..      ..  
- (S.W.Average)   2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
+2.27. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN DADRA & NAGAR HAVELI	
+	(Rs. per quintal)	
+District name	Year	Paddy	Jowar	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Sugar Potato Tobacco Ground	
+	Arhar	Raw	nut	
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	
+DADRA&NAGAR	1998-99	491	..	..	..	530	..	..	..	1886	..	..	..	..	
+HAVELI	1999-00	530	..	..	..	425	..	..	..	1848	..	..	..	..	
+	2000-01	464	..	..	..	532	..	..	..	1932	..	..	..	..	
+DADRA&NAGAR	1998-99	491	..	..	..	530	..	..	..	1886	..	..	..	..	
+HAVELI	1999-00	530	..	..	..	425	..	..	..	1848	..	..	..	..	
+ (S.W.Average)	2000-01	464	..	..	..	532	..	..	..	1932	..	..	..	..	
+2.27. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN DADRA & NAGAR HAVELI (Concluded).	
+	(Rs. per quintal)	
+District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann- Pepper Ginger Chilly Turmeric Mesta	
+	Mustard	Seed	hemp	
+	(1)	(2)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)	
+DADRA&NAGAR	1998-99	..	..	..	..	..	..	..	..	..	..	..	..	..	
+HAVELI	1999-00	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2000-01	..	..	..	..	..	..	..	..	..	..	..	..	..	
+DADRA&NAGAR	1998-99	..	..	..	..	..	. .	..	..	..	..	..	..	..	
+HAVELI	1999-00	..	..	..	..	..	..	..	..	..	..	..	..	..	
+ (S.W.Average)	2000-01	..	..	..	..	..	..	..	..	..	..	..	..	..	

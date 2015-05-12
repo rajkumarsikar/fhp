@@ -1,15 +1,15 @@
 ﻿----------------------- Page 1-----------------------
-                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura   
-                                                                                                                                                                                                              (Rs. per Quintal)  
-Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
-                                                                                                                                                                                                                              Average  
-Cotton           Un-g          2005-06   -                 2733                                                                                                                                                                   2733  
-Jute             -             2005-06   -                  985                                                                                                                                                                    985  
-Mesta            -             2005-06   -                  837                                                                                                                                                                    837  
-Paddy            -           2005-06   Autum                784                                                                                                                                                                    784  
-                 -             2005-06   Summer             608                                                                                                                                                                    608  
-                 -           2005-06   Winter               720                                                                                                                                                                    720  
-Potato           -             2005-06   -                  772                                                                                                                                                                    772  
-Rape/Mustard -                 2005-06   -                 2279                                                                                                                                                                   2279  
-Sesamum          -             2005-06   -                 1760                                                                                                                                                                   1760  
-                                                                                                                          54  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	-	State Wtd	
+	Average	
+Cotton	Un-g	2005-06	-	2733	2733	
+Jute	-	2005-06	-	985	985	
+Mesta	-	2005-06	-	837	837	
+Paddy	-	2005-06	Autum	784	784	
+	-	2005-06	Summer	608	608	
+	-	2005-06	Winter	720	720	
+Potato	-	2005-06	-	772	772	
+Rape/Mustard -	2005-06	-	2279	2279	
+Sesamum	-	2005-06	-	1760	1760	
+	54	

@@ -1,19 +1,19 @@
 ﻿----------------------- Page 1-----------------------
-                                                           Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Kerala Kerala   
-                                                           Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Kerala Kerala  
-                                                                                                                                                                                                                              (Rs. per Quintal)  
-Crop              Variety      Year       Season          Alappuzha  Ernakulam        Idukki      Kannur      Kasargod      Kollam      Kottayam   Kozhikode  Malappuram  Palakkad  Pathanamthi Thiruvanant           Trichur     Wayanad      State Wtd  
-                                                                                                                                                                                               tta       hapuram                               Average  
-Banana            -               2006-07   -                   1356         1379         1268         1335         1409        1432         1467         1353         1213         1113         1545         1401        1336         1011         1243 
-                  -               2007-08   -                   1734         1483         1452         1436         1435        1650         1617         1460         1327         1251         1631         1546        1397         1089         1351 
-Ginger            Dry             2006-07   -                      -         4509         4138         4066            -        4038         3898         3603            -         4778         4950            -        3433         3615         4004 
-                  Dry             2007-08   -                      -         6013         5714         5138         6833        7800         7250         5497         5688         6415         7225            -           -         4681         5370 
-Paddy             -               2006-07   -                    786          673          831          672          603         691          751          679          617          671          688          599         696          618          689 
-                  -               2007-08   -                    857          760          945          801          734         743          862          838          762          815          755            -         781          771          798 
-Pepper            -               2006-07   -                   6908        10940        11308        10815         9884       10126        11100        10343        10608        10600        11171        10323       10246        11265        11058 
-                  -               2007-08   -                      -        13004        13166        12844        12457       13617        13007        12670        12767        12948        13034        12580       12585        13213        13016 
-Sugarcane         -               2006-07   -                      -            -         1006            -            -           -            -            -            -         1000         1000            -           -            -         1005 
-                  -               2007-08   -                      -            -          925            -            -           -         1200            -            -         1000          950            -           -            -          926 
-Tapioca           -               2006-07   -                    457          446          541          566          590         367          525          551          455          389          505          408         469          468          447 
-                  -               2007-08   -                    530          509          579          567          715         456          616          533          472          430          594          496         497          468          510 
-                                                                                                                           52  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Kerala Kerala	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Kerala Kerala	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappuram	Palakkad	Pathanamthi Thiruvanant	Trichur	Wayanad	State Wtd	
+	tta	hapuram	Average	
+Banana	-	2006-07	-	1356	1379	1268	1335	1409	1432	1467	1353	1213	1113	1545	1401	1336	1011	1243 
+	-	2007-08	-	1734	1483	1452	1436	1435	1650	1617	1460	1327	1251	1631	1546	1397	1089	1351 
+Ginger	Dry	2006-07	-	-	4509	4138	4066	-	4038	3898	3603	-	4778	4950	-	3433	3615	4004 
+	Dry	2007-08	-	-	6013	5714	5138	6833	7800	7250	5497	5688	6415	7225	-	-	4681	5370 
+Paddy	-	2006-07	-	786	673	831	672	603	691	751	679	617	671	688	599	696	618	689 
+	-	2007-08	-	857	760	945	801	734	743	862	838	762	815	755	-	781	771	798 
+Pepper	-	2006-07	-	6908	10940	11308	10815	9884	10126	11100	10343	10608	10600	11171	10323	10246	11265	11058 
+	-	2007-08	-	-	13004	13166	12844	12457	13617	13007	12670	12767	12948	13034	12580	12585	13213	13016 
+Sugarcane	-	2006-07	-	-	-	1006	-	-	-	-	-	-	1000	1000	-	-	-	1005 
+	-	2007-08	-	-	-	925	-	-	-	1200	-	-	1000	950	-	-	-	926 
+Tapioca	-	2006-07	-	457	446	541	566	590	367	525	551	455	389	505	408	469	468	447 
+	-	2007-08	-	530	509	579	567	715	456	616	533	472	430	594	496	497	468	510 
+	52	

@@ -1,16 +1,16 @@
 ﻿----------------------- Page 1-----------------------
-                                                     Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season                                                                                                                                                                           State Wtd  
-                                                                                                                                                                                                                            Average  
-Cotton           Un-g          2008-09  -                  996                                                                                                                                                                   996  
-Jute             -             2008-09  -                 1572                                                                                                                                                                  1572  
-Mesta            -             2008-09  -                  700                                                                                                                                                                   700  
-Potato           -             2008-09  -                  942                                                                                                                                                                   942  
-Rape/Mustard -                 2008-09  -                 4650                                                                                                                                                                  4650  
-Rice             -           2008-09   Autum               993                                                                                                                                                                   993  
-                 -             2008-09   Summer            797                                                                                                                                                                   797  
-                 -           2008-09   Winter              937                                                                                                                                                                   937  
-Sesamum          -             2008-09  -                 3400                                                                                                                                                                  3400  
-Tur Arhar        -             2008-09  -                 3800                                                                                                                                                                  3800  
-                                                                                                                 81  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	State Wtd	
+	Average	
+Cotton	Un-g	2008-09	-	996	996	
+Jute	-	2008-09	-	1572	1572	
+Mesta	-	2008-09	-	700	700	
+Potato	-	2008-09	-	942	942	
+Rape/Mustard -	2008-09	-	4650	4650	
+Rice	-	2008-09	Autum	993	993	
+	-	2008-09	Summer	797	797	
+	-	2008-09	Winter	937	937	
+Sesamum	-	2008-09	-	3400	3400	
+Tur Arhar	-	2008-09	-	3800	3800	
+	81	

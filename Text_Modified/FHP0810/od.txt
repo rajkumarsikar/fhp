@@ -1,26 +1,26 @@
 ﻿----------------------- Page 1-----------------------
-                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Orissa   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season                                                                                                                                                                           State Wtd  
-                                                                                                                                                                                                                            Average  
-Ground Nut       -             2008-09  -                 2339                                                                                                                                                                  2339  
-                 -             2009-10  -                 2220                                                                                                                                                                  2220  
-Jute             -             2008-09  -                 1350                                                                                                                                                                  1350  
-                 -             2009-10  -                 1350                                                                                                                                                                  1350  
-Maize            -             2008-09  -                  773                                                                                                                                                                   773  
-                 -             2009-10  -                  869                                                                                                                                                                   869  
-Paddy            -             2008-09  -                  779                                                                                                                                                                   779  
-                 -             2009-10  -                  896                                                                                                                                                                   896  
-Potato           -             2008-09  -                  672                                                                                                                                                                   672  
-                 -             2009-10  -                  546                                                                                                                                                                   546  
-Ragi             -             2008-09  -                  801                                                                                                                                                                     -  
-                 -             2009-10  -                  961                                                                                                                                                                   961  
-Rape/Mustard -                 2008-09  -                 2835                                                                                                                                                                  2835  
-                 -             2009-10  -                 2908                                                                                                                                                                  2908  
-Sesamum          -             2008-09  -                 3012                                                                                                                                                                  3012  
-                 -             2009-10  -                 3075                                                                                                                                                                  3075  
-Sugarcane        -             2008-09  -                   95                                                                                                                                                                    95  
-                 -             2009-10  -                  105                                                                                                                                                                   105  
-Wheat            -             2008-09  -                 1193                                                                                                                                                                  1193  
-                 -             2009-10  -                 1091                                                                                                                                                                  1091  
-                                                                                                                 68  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Orissa	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	State Wtd	
+	Average	
+Ground Nut	-	2008-09	-	2339	2339	
+	-	2009-10	-	2220	2220	
+Jute	-	2008-09	-	1350	1350	
+	-	2009-10	-	1350	1350	
+Maize	-	2008-09	-	773	773	
+	-	2009-10	-	869	869	
+Paddy	-	2008-09	-	779	779	
+	-	2009-10	-	896	896	
+Potato	-	2008-09	-	672	672	
+	-	2009-10	-	546	546	
+Ragi	-	2008-09	-	801	-	
+	-	2009-10	-	961	961	
+Rape/Mustard -	2008-09	-	2835	2835	
+	-	2009-10	-	2908	2908	
+Sesamum	-	2008-09	-	3012	3012	
+	-	2009-10	-	3075	3075	
+Sugarcane	-	2008-09	-	95	95	
+	-	2009-10	-	105	105	
+Wheat	-	2008-09	-	1193	1193	
+	-	2009-10	-	1091	1091	
+	68	

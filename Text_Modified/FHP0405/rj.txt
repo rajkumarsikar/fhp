@@ -1,76 +1,76 @@
 ﻿----------------------- Page 1-----------------------
-                                                   CROP WISE Farm Harvest Prices of Principal Crops in India -  Rajasthan   
-                                                                                                                                                                                                                      (Rs. per Quintal)  
-Crop              Variety      Year       Season          Ajmer       Alwar      Banswara      Baran       Barmer     Bharatpur    Bhilwara     Bikaner      Bundi     Chittorgarh    Churu       Dausa       Dholpur    Dungarpur  Ganganagar  
-Bajra             -           2004-05   Kharif                487          521         423         453          667         456         492          578         443            -         517         575          473         578          560  
-Barley            -           2004-05   Rabi                  632          534         604         553          758         531         614          559         576          574         570         551          530         584          498  
-CasterSeed        -           2004-05   Rabi                    -            -        1200           -         1500           -        1307            -           -            -           -           -            -           -            -  
-Chilly            Dry         2004-05   Kharif               3848            -        4020        3145            -        3258        3614            -        4471         3926           -           -         4000        3322            -  
-Cotton            -           2004-05   Kharif               1898         1909        1997           -            -        1942        1708         1678           -         2255        1590           -         3930           -         2050  
-                  Lint        2004-05   Kharif                  -            -        4976           -            -        3820        4350            -           -            -           -           -         4502           -            -  
-Ginger            -           2004-05   Kharif                  -            -           -           -            -           -           -            -           -            -           -           -            -        3096            -  
-Gram              -           2004-05   Rabi                 1408         1399        1448        1418         2040        1448        1395         1430        1471         1357        1385        1436         1511        1364         1496  
-Ground Nut        -           2004-05   Kharif               1618         2060        1943        1463            -        1771        1510         1605        1685         1500        1645        1550         1725        1406         1637  
-Jowar             -           2004-05   Kharif                523          551         374         566          625         563         496          619         512          502           -         410          506         531            -  
-Linseed           -           2004-05   Rabi                 1711            -        1167           -            -           -        1357            -        1905         1574           -           -         1662           -            -  
-Maize             -           2004-05   Kharif                571          560         522         494            -         589         542            -         525          523           -         498          529         584            -  
-Paddy             -           2004-05   Kharif                  -            -         996         790            -         722         675            -         820          746           -           -          730           -          745  
-Potato            -           2004-05   Rabi                    -            -         571         599            -         467           -            -         450            -           -           -          684         706            -  
-Rape/Mustard -                2004-05   Rabi                 1599         1555        1566        1417         1863        1468        1543         1396        1508         1590        1645        1548         1590        1503         1643  
-Rice              -           2004-05   Kharif                  -            -        1622        1601            -        1415        1292            -        1276         1340           -           -         1208        1146         1395  
-Sannhemp          -           2004-05   Kharif                  -            -        2002           -            -        1598         729            -           -            -           -           -            -         700            -  
-Sesamum           -           2004-05   Kharif               2958         2967        2801        2690         2603        3173        3145         2573        3271         2913        3100        3129         2715        3067         2977  
-Sugar Raw         -           2004-05   Rabi                    -            -           -        1563            -         965        1657            -           -            -           -           -         1621        1511            -  
-Tobacco           -           2004-05   Rabi                    -            -        3072           -            -           -           -            -           -            -           -           -            -           -            -  
-Tur Arhar         -           2004-05   Rabi                    -            -        1800           -            -        1537           -            -           -            -           -           -         1721           -            -  
-Wheat             -           2004-05   Rabi                  834          690         680         654          827         900         922          682         685          697         700         699          665         696          703  
-                                                                                                                      45  
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	Ganganagar	
+Bajra	-	2004-05	Kharif	487	521	423	453	667	456	492	578	443	-	517	575	473	578	560	
+Barley	-	2004-05	Rabi	632	534	604	553	758	531	614	559	576	574	570	551	530	584	498	
+CasterSeed	-	2004-05	Rabi	-	-	1200	-	1500	-	1307	-	-	-	-	-	-	-	-	
+Chilly	Dry	2004-05	Kharif	3848	-	4020	3145	-	3258	3614	-	4471	3926	-	-	4000	3322	-	
+Cotton	-	2004-05	Kharif	1898	1909	1997	-	-	1942	1708	1678	-	2255	1590	-	3930	-	2050	
+	Lint	2004-05	Kharif	-	-	4976	-	-	3820	4350	-	-	-	-	-	4502	-	-	
+Ginger	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	3096	-	
+Gram	-	2004-05	Rabi	1408	1399	1448	1418	2040	1448	1395	1430	1471	1357	1385	1436	1511	1364	1496	
+Ground Nut	-	2004-05	Kharif	1618	2060	1943	1463	-	1771	1510	1605	1685	1500	1645	1550	1725	1406	1637	
+Jowar	-	2004-05	Kharif	523	551	374	566	625	563	496	619	512	502	-	410	506	531	-	
+Linseed	-	2004-05	Rabi	1711	-	1167	-	-	-	1357	-	1905	1574	-	-	1662	-	-	
+Maize	-	2004-05	Kharif	571	560	522	494	-	589	542	-	525	523	-	498	529	584	-	
+Paddy	-	2004-05	Kharif	-	-	996	790	-	722	675	-	820	746	-	-	730	-	745	
+Potato	-	2004-05	Rabi	-	-	571	599	-	467	-	-	450	-	-	-	684	706	-	
+Rape/Mustard -	2004-05	Rabi	1599	1555	1566	1417	1863	1468	1543	1396	1508	1590	1645	1548	1590	1503	1643	
+Rice	-	2004-05	Kharif	-	-	1622	1601	-	1415	1292	-	1276	1340	-	-	1208	1146	1395	
+Sannhemp	-	2004-05	Kharif	-	-	2002	-	-	1598	729	-	-	-	-	-	-	700	-	
+Sesamum	-	2004-05	Kharif	2958	2967	2801	2690	2603	3173	3145	2573	3271	2913	3100	3129	2715	3067	2977	
+Sugar Raw	-	2004-05	Rabi	-	-	-	1563	-	965	1657	-	-	-	-	-	1621	1511	-	
+Tobacco	-	2004-05	Rabi	-	-	3072	-	-	-	-	-	-	-	-	-	-	-	-	
+Tur Arhar	-	2004-05	Rabi	-	-	1800	-	-	1537	-	-	-	-	-	-	1721	-	-	
+Wheat	-	2004-05	Rabi	834	690	680	654	827	900	922	682	685	697	700	699	665	696	703	
+	45	
 ----------------------- Page 2-----------------------
-                                                   CROP WISE Farm Harvest Prices of Principal Crops in India -  Rajasthan   
-                                                                                                                                                                                                                   (Rs. per Quintal)  
-Crop              Variety      Year       Season      Hanumangar      Jaipur    Jaisalmer      Jalor     Jhalawar    Jhunjunu     Jodhpur     Karauli       Kota       Nagaur        Pali     Rajsamand     Sawai        Sikar       Sirohi  
-                                                            h                                                                                                                                             Madhopur  
-Bajra            -            2004-05   Kharif               545          472           -         570           -          522         523         527           -         522          524         741         460         503          565  
-Barley           -            2004-05   Rabi                 505          547           -         700         546          514         642         570         581         622          650         752         590         569          634  
-CasterSeed       -            2004-05   Rabi                   -            -           -        1650           -            -        1454           -           -           -         1379           -           -           -            -  
-Chilly           Dry          2004-05   Kharif                 -         4300        4050        3000        4220            -        4959        3000        4098        4778         5425        4803        4295        3200         4207  
-Cotton           -            2004-05   Kharif              1940            -           -        2500           -            -        2356           -           -        1840         1676        2490           -        2340         1670  
-                 Lint         2004-05   Kharif                 -            -           -           -           -            -        3475           -           -           -            -        5038           -        3435         3300  
-Gram             -            2004-05   Rabi                1375         1414           -           -        1316         1404        1464        1430        1481        1405         1393        1748        1419        1380         1569  
-Ground Nut       -            2004-05   Kharif              1618         1576        1600        1500        1665            -        1579        1840        1704        2675         2418        1532        1687        1590         1333  
-Jowar            -            2004-05   Kharif               575          529         524         600         580            -         628         560         606         569          539         595         528         595          521  
-Linseed          -            2004-05   Rabi                   -            -           -           -        1452            -           -           -        1753           -            -           -        1512           -            -  
-Maize            -            2004-05   Kharif                 -          493           -         600         480            -         644         590         389         561          552         537         521         750          575  
-Paddy            -            2004-05   Kharif                 -            -           -           -         775            -           -         800         795           -            -         630           -           -            -  
-Potato           -            2004-05   Rabi                 400            -           -           -         522            -           -           -         370           -            -           -           -           -          471  
-Rape/Mustard -                2004-05   Rabi                1590         1531        1700        1700        1760         1556        1571        1720        1546        1585         1537        1717        1565        1461         1416  
-Rice             -            2004-05   Kharif              1450            -           -           -        1220            -           -        1000        1665           -            -        1224           -           -            -  
-Sannhemp         -            2004-05   Kharif                 -            -           -           -        2245            -           -           -           -           -         3200         560         661           -          610  
-Sesamum          -            2004-05   Kharif              2680         2646        2064        2700        2550            -        2820        3100        2735        2978         3280        4243        3270        2740         2467  
-Sugar Raw        -            2004-05   Rabi                1525            -           -           -           -            -           -           -           -           -            -           -           -           -            -  
-Tobacco          -            2004-05   Rabi                   -            -           -           -           -            -           -           -           -           -            -           -           -           -         1811  
-Tur Arhar        -            2004-05   Rabi                   -         1427           -           -           -            -           -           -           -           -            -           -           -           -         1539  
-Wheat            -            2004-05   Rabi                 650          813         800         900         663          715         805         720         675         766          863         724         713         750          875  
-                                                                                                                    46  
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Hanumangar	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Rajsamand	Sawai	Sikar	Sirohi	
+	h	Madhopur	
+Bajra	-	2004-05	Kharif	545	472	-	570	-	522	523	527	-	522	524	741	460	503	565	
+Barley	-	2004-05	Rabi	505	547	-	700	546	514	642	570	581	622	650	752	590	569	634	
+CasterSeed	-	2004-05	Rabi	-	-	-	1650	-	-	1454	-	-	-	1379	-	-	-	-	
+Chilly	Dry	2004-05	Kharif	-	4300	4050	3000	4220	-	4959	3000	4098	4778	5425	4803	4295	3200	4207	
+Cotton	-	2004-05	Kharif	1940	-	-	2500	-	-	2356	-	-	1840	1676	2490	-	2340	1670	
+	Lint	2004-05	Kharif	-	-	-	-	-	-	3475	-	-	-	-	5038	-	3435	3300	
+Gram	-	2004-05	Rabi	1375	1414	-	-	1316	1404	1464	1430	1481	1405	1393	1748	1419	1380	1569	
+Ground Nut	-	2004-05	Kharif	1618	1576	1600	1500	1665	-	1579	1840	1704	2675	2418	1532	1687	1590	1333	
+Jowar	-	2004-05	Kharif	575	529	524	600	580	-	628	560	606	569	539	595	528	595	521	
+Linseed	-	2004-05	Rabi	-	-	-	-	1452	-	-	-	1753	-	-	-	1512	-	-	
+Maize	-	2004-05	Kharif	-	493	-	600	480	-	644	590	389	561	552	537	521	750	575	
+Paddy	-	2004-05	Kharif	-	-	-	-	775	-	-	800	795	-	-	630	-	-	-	
+Potato	-	2004-05	Rabi	400	-	-	-	522	-	-	-	370	-	-	-	-	-	471	
+Rape/Mustard -	2004-05	Rabi	1590	1531	1700	1700	1760	1556	1571	1720	1546	1585	1537	1717	1565	1461	1416	
+Rice	-	2004-05	Kharif	1450	-	-	-	1220	-	-	1000	1665	-	-	1224	-	-	-	
+Sannhemp	-	2004-05	Kharif	-	-	-	-	2245	-	-	-	-	-	3200	560	661	-	610	
+Sesamum	-	2004-05	Kharif	2680	2646	2064	2700	2550	-	2820	3100	2735	2978	3280	4243	3270	2740	2467	
+Sugar Raw	-	2004-05	Rabi	1525	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
+Tobacco	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1811	
+Tur Arhar	-	2004-05	Rabi	-	1427	-	-	-	-	-	-	-	-	-	-	-	-	1539	
+Wheat	-	2004-05	Rabi	650	813	800	900	663	715	805	720	675	766	863	724	713	750	875	
+	46	
 ----------------------- Page 3-----------------------
-                                                CROP WISE  Farm Harvest Prices of Principal Crops in India -  Rajasthan   
-                                                                                                                                                                                                        (Rs. per Quintal)  
-Crop              Variety      Year       Season       Tonk      Udaipur  
-Bajra           -           2004-05   Kharif              490           -  
-Barley          -           2004-05   Rabi                579         638  
-Chilly           Dry        2004-05   Kharif             3200        4047  
-Cotton          -           2004-05   Kharif                -        2200  
-Ginger          -           2004-05   Kharif                -        3095  
-Gram            -           2004-05   Rabi               1480        1398  
-Ground Nut      -           2004-05   Kharif             1403        1636  
-Jowar           -           2004-05   Kharif              565         529  
-Linseed         -           2004-05   Rabi               1427        1388  
-Maize           -           2004-05   Kharif              518         559  
-Paddy           -           2004-05   Kharif                -         623  
-Potato          -           2004-05   Rabi                492           -  
-Rape/Mustard -              2004-05   Rabi               1551        1476  
-Rice            -           2004-05   Kharif                -         956  
-Sannhemp        -           2004-05   Kharif                -        2300  
-Sesamum         -           2004-05   Kharif             3031        2653  
-Wheat           -           2004-05   Rabi                705         721  
-                                                                                                              47  
+	CROP WISE	Farm Harvest Prices of Principal Crops in India -	Rajasthan	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Tonk	Udaipur	
+Bajra	-	2004-05	Kharif	490	-	
+Barley	-	2004-05	Rabi	579	638	
+Chilly	Dry	2004-05	Kharif	3200	4047	
+Cotton	-	2004-05	Kharif	-	2200	
+Ginger	-	2004-05	Kharif	-	3095	
+Gram	-	2004-05	Rabi	1480	1398	
+Ground Nut	-	2004-05	Kharif	1403	1636	
+Jowar	-	2004-05	Kharif	565	529	
+Linseed	-	2004-05	Rabi	1427	1388	
+Maize	-	2004-05	Kharif	518	559	
+Paddy	-	2004-05	Kharif	-	623	
+Potato	-	2004-05	Rabi	492	-	
+Rape/Mustard -	2004-05	Rabi	1551	1476	
+Rice	-	2004-05	Kharif	-	956	
+Sannhemp	-	2004-05	Kharif	-	2300	
+Sesamum	-	2004-05	Kharif	3031	2653	
+Wheat	-	2004-05	Rabi	705	721	
+	47	

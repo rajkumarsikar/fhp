@@ -1,85 +1,85 @@
 ﻿----------------------- Page 1-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
-                                                                                                                                                                                                                                (Rs. per Quintal)  
-Crop              Variety      Year       Season           Bagalkot     Bangalore    Bangalore    Belgaum       Bellary       Bidar       Bijapur    Chamrajnag Chickmagal  Chitradurga D. Kannada  Davangere          Dharwad       Gadag       State Wtd  
-                                                                          Rural        Urban                                                              ar           ur                                                                        Average  
-Arecanut          -                2005-06   Summer                -            -            -            -            -            -            -            -            -            -         7166            -            -            -         5693  
-Bajra              Local        2005-06   Kharif                   -            -            -          582            -            -            -          456            -            -            -            -            -            -          318  
-Cashewnut         -                2005-06   Summer                -            -            -            -            -            -            -            -            -            -         3289            -            -            -         3040  
-CasterSeed        -             2005-06   Kharif                   -            -            -            -            -            -            -         1342            -            -            -            -            -         1282          261  
-Chilly             Dry          2005-06   Kharif                   -         3712            -            -            -         4484            -            -         3260         4294            -            -            -         2614         2698  
-                   Dry          2005-06   Rabi                     -            -            -            -            -            -            -         3380            -            -            -            -         2246            -            -  
-                   Dry             2005-06   Summer                -            -            -            -            -            -            -         2886            -            -         3264            -            -            -            -  
-Coconut           -                2005-06   Summer                -            -            -            -            -            -            -            -            -            -         6753            -            -            -            -  
-Cotton            -             2005-06   Rabi                     -            -            -            -         1834            -            -            -            -            -            -            -         1866            -         1432  
-Ginger            -                2005-06   Summer                -            -            -            -            -            -            -            -            -            -          750            -            -            -          128  
-Gram              -             2005-06   Rabi                     -            -            -         1582          625            -            -          574         1832         1511            -            -         1836            -         1375  
-Ground Nut        -             2005-06   Kharif                1476         1381            -         1534         1666            -         1651         1204         1631         1544            -         1130         1538         1571         1436  
-                  -             2005-06   Rabi                     -            -            -            -         1768            -            -            -            -            -            -            -            -            -            -  
-                  -                2005-06   Summer                -            -            -         1641            -            -            -            -         1613            -            -            -            -         1582         1266  
-Jowar             -             2005-06   Kharif                 946            -            -            -            -            -            -          455            -            -            -            -          565            -            -  
-                  -                2005-06   Summer                -            -            -          652            -            -            -          512            -            -            -            -            -          528            -  
-                   Local        2005-06   Kharif                   -            -          532          592            -            -            -          455            -            -            -            -          656            -          358  
-                   Local        2005-06   Rabi                     -            -            -            -            -            -            -            -            -          521            -            -          782            -          559  
-Maize             -                2005-06   Summer                -            -            -            -            -            -            -          463            -            -            -            -            -            -            -  
-                   Local        2005-06   Kharif                   -          518          526            -          546            -            -          481            -          478            -          432            -            -            -  
-Paddy              Local        2005-06   Kharif                   -          612            -          605            -          684            -          602          693            -          694          671            -            -          485  
-                   Local        2005-06   Rabi                     -            -            -            -            -            -            -            -            -            -          734            -            -            -          642  
-                   Local           2005-06   Summer                -            -            -            -            -            -            -            -          588            -          741            -            -            -          511  
-Pepper            -                2005-06   Summer                -            -            -            -            -            -            -            -            -            -         6663            -            -            -         6514  
-Potato            -             2005-06   Kharif                   -            -            -            -          474            -            -            -            -            -            -            -          624            -          430  
-                  -             2005-06   Rabi                     -          520          532            -            -            -            -            -            -            -            -            -            -            -            -  
-Ragi              -             2005-06   Rabi                     -            -            -            -            -            -            -          521            -            -            -            -            -            -            -  
-                  -                2005-06   Summer                -            -            -            -            -            -            -          460            -            -            -            -            -            -            -  
-Sesamum           -             2005-06   Kharif                   -            -            -            -            -         3180            -         1910         2476            -            -            -            -         2238         2251  
-Sugarcane         -                2005-06   Summer                -            -            -            -            -            -            -            -            -            -          888            -            -            -            -  
-Sunflower         -             2005-06   Kharif                   -         1465            -            -         1602         1584         1570         1138         1381         1681         1501            -         1580            -         1433  
-                  -             2005-06   Rabi                     -            -            -         1538         1481            -            -            -            -         1672            -            -         1784            -         1100  
-                  -                2005-06   Summer                -            -            -         1800            -            -            -            -            -            -            -            -            -         1545         1545  
-Tur Arhar         -             2005-06   Kharif                1324            -            -            -         2024         1712         1561         1388            -         1361            -         2958            -         1364         1597  
-Turmeric          -                2005-06   Summer                -            -            -            -            -            -            -            -            -            -         1850            -            -            -            -  
-Wheat             -             2005-06   Rabi                     -            -          966            -            -            -            -            -            -            -            -            -          785            -          875  
-                                                                                                                                    31  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Bagalkot	Bangalore	Bangalore	Belgaum	Bellary	Bidar	Bijapur	Chamrajnag Chickmagal	Chitradurga D. Kannada	Davangere	Dharwad	Gadag	State Wtd	
+	Rural	Urban	ar	ur	Average	
+Arecanut	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	7166	-	-	-	5693	
+Bajra	Local	2005-06	Kharif	-	-	-	582	-	-	-	456	-	-	-	-	-	-	318	
+Cashewnut	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	3289	-	-	-	3040	
+CasterSeed	-	2005-06	Kharif	-	-	-	-	-	-	-	1342	-	-	-	-	-	1282	261	
+Chilly	Dry	2005-06	Kharif	-	3712	-	-	-	4484	-	-	3260	4294	-	-	-	2614	2698	
+	Dry	2005-06	Rabi	-	-	-	-	-	-	-	3380	-	-	-	-	2246	-	-	
+	Dry	2005-06	Summer	-	-	-	-	-	-	-	2886	-	-	3264	-	-	-	-	
+Coconut	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	6753	-	-	-	-	
+Cotton	-	2005-06	Rabi	-	-	-	-	1834	-	-	-	-	-	-	-	1866	-	1432	
+Ginger	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	750	-	-	-	128	
+Gram	-	2005-06	Rabi	-	-	-	1582	625	-	-	574	1832	1511	-	-	1836	-	1375	
+Ground Nut	-	2005-06	Kharif	1476	1381	-	1534	1666	-	1651	1204	1631	1544	-	1130	1538	1571	1436	
+	-	2005-06	Rabi	-	-	-	-	1768	-	-	-	-	-	-	-	-	-	-	
+	-	2005-06	Summer	-	-	-	1641	-	-	-	-	1613	-	-	-	-	1582	1266	
+Jowar	-	2005-06	Kharif	946	-	-	-	-	-	-	455	-	-	-	-	565	-	-	
+	-	2005-06	Summer	-	-	-	652	-	-	-	512	-	-	-	-	-	528	-	
+	Local	2005-06	Kharif	-	-	532	592	-	-	-	455	-	-	-	-	656	-	358	
+	Local	2005-06	Rabi	-	-	-	-	-	-	-	-	-	521	-	-	782	-	559	
+Maize	-	2005-06	Summer	-	-	-	-	-	-	-	463	-	-	-	-	-	-	-	
+	Local	2005-06	Kharif	-	518	526	-	546	-	-	481	-	478	-	432	-	-	-	
+Paddy	Local	2005-06	Kharif	-	612	-	605	-	684	-	602	693	-	694	671	-	-	485	
+	Local	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	734	-	-	-	642	
+	Local	2005-06	Summer	-	-	-	-	-	-	-	-	588	-	741	-	-	-	511	
+Pepper	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	6663	-	-	-	6514	
+Potato	-	2005-06	Kharif	-	-	-	-	474	-	-	-	-	-	-	-	624	-	430	
+	-	2005-06	Rabi	-	520	532	-	-	-	-	-	-	-	-	-	-	-	-	
+Ragi	-	2005-06	Rabi	-	-	-	-	-	-	-	521	-	-	-	-	-	-	-	
+	-	2005-06	Summer	-	-	-	-	-	-	-	460	-	-	-	-	-	-	-	
+Sesamum	-	2005-06	Kharif	-	-	-	-	-	3180	-	1910	2476	-	-	-	-	2238	2251	
+Sugarcane	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	888	-	-	-	-	
+Sunflower	-	2005-06	Kharif	-	1465	-	-	1602	1584	1570	1138	1381	1681	1501	-	1580	-	1433	
+	-	2005-06	Rabi	-	-	-	1538	1481	-	-	-	-	1672	-	-	1784	-	1100	
+	-	2005-06	Summer	-	-	-	1800	-	-	-	-	-	-	-	-	-	1545	1545	
+Tur Arhar	-	2005-06	Kharif	1324	-	-	-	2024	1712	1561	1388	-	1361	-	2958	-	1364	1597	
+Turmeric	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	1850	-	-	-	-	
+Wheat	-	2005-06	Rabi	-	-	966	-	-	-	-	-	-	-	-	-	785	-	875	
+	31	
 ----------------------- Page 2-----------------------
-                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
-                                                                                                                                                                                                                              (Rs. per Quintal)  
-Crop              Variety      Year       Season           Gulbarga      Hassan       Haveri      Kodagu        Kolar       Koppal       Mandya       Mysore      Raichur      Shimoga      Tumkur     U.Kannada       Udupi                   State Wtd  
-                                                                                                                                                                                                                                               Average  
-Arecanut          -               2005-06   Summer                 -            -            -           -            -            -            -            -            -            -           -            -            -                      5693  
-Bajra             -            2005-06   Rabi                    506            -            -           -            -            -            -            -            -            -           -            -            -                         -  
-                  Local        2005-06   Kharif                    -            -            -           -            -            -            -            -            -            -           -            -            -                       318  
-Cashewnut         -               2005-06   Summer                 -            -            -           -            -            -            -            -            -            -           -            -            -                      3040  
-CasterSeed        -            2005-06   Kharif                    -            -            -           -            -            -          712         1384            -            -           -            -            -                       261  
-Chilly            Dry          2005-06   Kharif                 3024            -            -        4381            -            -            -         3031         3413            -        4154            -         2236                      2698  
-                  Dry          2005-06   Rabi                   2680            -            -           -            -            -            -            -            -            -        2014            -            -                         -  
-                  Dry             2005-06   Summer                 -            -            -           -            -            -            -            -            -            -        2914            -            -                         -  
-Cotton            -            2005-06   Rabi                   1916            -            -           -            -         2244            -            -         1711            -           -            -            -                      1432  
-Ginger            -               2005-06   Summer                 -            -            -           -            -            -            -            -            -            -           -            -            -                       128  
-Gram              -            2005-06   Rabi                   1592            -            -           -            -         1606            -            -            -            -           -            -         1352                      1375  
-Ground Nut        -            2005-06   Kharif                    -            -            -           -         1094            -         1690         1211            -         1594        1532            -            -                      1436  
-                  -            2005-06   Rabi                   1814            -            -           -            -            -            -            -            -            -        1381            -            -                         -  
-                  -               2005-06   Summer              1561            -         1436           -         1246         1472            -            -            -            -        1502            -            -                      1266  
-Jowar             -            2005-06   Kharif                    -            -            -           -            -          465            -            -            -            -           -            -            -                         -  
-                  -               2005-06   Summer               894            -            -           -            -          936            -          510            -            -           -            -            -                         -  
-                  Local        2005-06   Kharif                    -            -            -           -            -          465            -            -            -            -           -            -            -                       358  
-                  Local        2005-06   Rabi                    958            -            -           -            -            -            -            -          768            -           -            -            -                       559  
-Maize             -               2005-06   Summer                 -          548            -           -            -          504            -          524            -            -         555            -            -                         -  
-                  Local        2005-06   Kharif                    -            -            -           -            -            -            -          470            -          508         514            -            -                         -  
-                  Local        2005-06   Rabi                      -            -            -           -          243            -            -            -            -            -           -            -            -                         -  
-Paddy             Local        2005-06   Kharif                  655            -          560         546          462            -            -          571            -          564         568          550          624                       485  
-                  Local        2005-06   Rabi                      -            -            -           -            -            -            -            -            -            -           -          569          646                       642  
-                  Local           2005-06   Summer               658            -            -           -            -            -            -            -            -            -           -            -            -                       511  
-Pepper            -               2005-06   Summer                 -            -            -           -            -            -            -            -            -            -           -            -            -                      6514  
-Potato            -            2005-06   Kharif                    -          514            -           -            -            -            -            -            -            -           -            -            -                       430  
-                  -            2005-06   Rabi                      -            -            -           -          324            -            -            -            -            -           -            -            -                         -  
-Ragi              -            2005-06   Rabi                      -          444            -           -            -            -          466            -            -            -         512            -            -                         -  
-                  -               2005-06   Summer                 -            -            -         386            -            -            -          505            -            -         454            -            -                         -  
-Sesamum           -            2005-06   Kharif                    -            -            -           -            -            -         2535         3031            -            -           -            -            -                      2251  
-                  -            2005-06   Rabi                   2812            -            -           -            -            -            -            -            -            -           -            -            -                         -  
-Sunflower         -            2005-06   Kharif                 1495            -         1301           -            -         1264            -         1390            -            -        1481            -            -                      1433  
-                  -            2005-06   Rabi                   1502            -            -           -            -         1560            -            -         1612            -        1365            -            -                      1100  
-                  -               2005-06   Summer              1652            -         1261           -            -         1565            -            -            -            -        1536            -            -                      1545  
-Tur Arhar         -            2005-06   Kharif                 1759            -         1406           -            -         1307         2306         1315            -            -           -            -            -                      1597  
-                  -            2005-06   Rabi                   1694            -            -           -            -            -            -            -            -            -           -            -            -                         -  
-Wheat             -            2005-06   Rabi                   1156            -            -           -            -          916            -            -            -            -           -            -            -                       875  
-                                                                                                                                   32  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Shimoga	Tumkur	U.Kannada	Udupi	State Wtd	
+	Average	
+Arecanut	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	5693	
+Bajra	-	2005-06	Rabi	506	-	-	-	-	-	-	-	-	-	-	-	-	-	
+	Local	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	318	
+Cashewnut	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	3040	
+CasterSeed	-	2005-06	Kharif	-	-	-	-	-	-	712	1384	-	-	-	-	-	261	
+Chilly	Dry	2005-06	Kharif	3024	-	-	4381	-	-	-	3031	3413	-	4154	-	2236	2698	
+	Dry	2005-06	Rabi	2680	-	-	-	-	-	-	-	-	-	2014	-	-	-	
+	Dry	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	2914	-	-	-	
+Cotton	-	2005-06	Rabi	1916	-	-	-	-	2244	-	-	1711	-	-	-	-	1432	
+Ginger	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	128	
+Gram	-	2005-06	Rabi	1592	-	-	-	-	1606	-	-	-	-	-	-	1352	1375	
+Ground Nut	-	2005-06	Kharif	-	-	-	-	1094	-	1690	1211	-	1594	1532	-	-	1436	
+	-	2005-06	Rabi	1814	-	-	-	-	-	-	-	-	-	1381	-	-	-	
+	-	2005-06	Summer	1561	-	1436	-	1246	1472	-	-	-	-	1502	-	-	1266	
+Jowar	-	2005-06	Kharif	-	-	-	-	-	465	-	-	-	-	-	-	-	-	
+	-	2005-06	Summer	894	-	-	-	-	936	-	510	-	-	-	-	-	-	
+	Local	2005-06	Kharif	-	-	-	-	-	465	-	-	-	-	-	-	-	358	
+	Local	2005-06	Rabi	958	-	-	-	-	-	-	-	768	-	-	-	-	559	
+Maize	-	2005-06	Summer	-	548	-	-	-	504	-	524	-	-	555	-	-	-	
+	Local	2005-06	Kharif	-	-	-	-	-	-	-	470	-	508	514	-	-	-	
+	Local	2005-06	Rabi	-	-	-	-	243	-	-	-	-	-	-	-	-	-	
+Paddy	Local	2005-06	Kharif	655	-	560	546	462	-	-	571	-	564	568	550	624	485	
+	Local	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	569	646	642	
+	Local	2005-06	Summer	658	-	-	-	-	-	-	-	-	-	-	-	-	511	
+Pepper	-	2005-06	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	6514	
+Potato	-	2005-06	Kharif	-	514	-	-	-	-	-	-	-	-	-	-	-	430	
+	-	2005-06	Rabi	-	-	-	-	324	-	-	-	-	-	-	-	-	-	
+Ragi	-	2005-06	Rabi	-	444	-	-	-	-	466	-	-	-	512	-	-	-	
+	-	2005-06	Summer	-	-	-	386	-	-	-	505	-	-	454	-	-	-	
+Sesamum	-	2005-06	Kharif	-	-	-	-	-	-	2535	3031	-	-	-	-	-	2251	
+	-	2005-06	Rabi	2812	-	-	-	-	-	-	-	-	-	-	-	-	-	
+Sunflower	-	2005-06	Kharif	1495	-	1301	-	-	1264	-	1390	-	-	1481	-	-	1433	
+	-	2005-06	Rabi	1502	-	-	-	-	1560	-	-	1612	-	1365	-	-	1100	
+	-	2005-06	Summer	1652	-	1261	-	-	1565	-	-	-	-	1536	-	-	1545	
+Tur Arhar	-	2005-06	Kharif	1759	-	1406	-	-	1307	2306	1315	-	-	-	-	-	1597	
+	-	2005-06	Rabi	1694	-	-	-	-	-	-	-	-	-	-	-	-	-	
+Wheat	-	2005-06	Rabi	1156	-	-	-	-	916	-	-	-	-	-	-	-	875	
+	32	

@@ -1,16 +1,16 @@
 ﻿----------------------- Page 1-----------------------
-                                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Goa   
-                                                                                                                                                                                                           (Rs. per Quintal)  
-Crop              Variety      Year       Season        Goa                                                                                                                                                               State Wtd  
-                                                                                                                                                                                                                          Average  
-Arecanut        -              2008-09  -                 8220                                                                                                                                                                8220  
-                -              2009-10  -                 8245                                                                                                                                                                8245  
-Cashewnut       -              2008-09  -                 5048                                                                                                                                                                5048  
-                -              2009-10  -                 5528                                                                                                                                                                5528  
-Paddy           -              2008-09  -                  701                                                                                                                                                                 701  
-                -              2009-10  -                  840                                                                                                                                                                 840  
-Ragi            -              2008-09  -                 1169                                                                                                                                                                1169  
-                -              2009-10  -                 1190                                                                                                                                                                1190  
-Sugarcane       -              2008-09  -                   98                                                                                                                                                                  98  
-                -              2009-10  -                  110                                                                                                                                                                 110  
-                                                                                                                37  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Goa	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Goa	State Wtd	
+	Average	
+Arecanut	-	2008-09	-	8220	8220	
+	-	2009-10	-	8245	8245	
+Cashewnut	-	2008-09	-	5048	5048	
+	-	2009-10	-	5528	5528	
+Paddy	-	2008-09	-	701	701	
+	-	2009-10	-	840	840	
+Ragi	-	2008-09	-	1169	1169	
+	-	2009-10	-	1190	1190	
+Sugarcane	-	2008-09	-	98	98	
+	-	2009-10	-	110	110	
+	37	

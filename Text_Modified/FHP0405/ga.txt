@@ -1,13 +1,13 @@
 ﻿----------------------- Page 1-----------------------
-                                                          CROP WISE Farm Harvest Prices of Principal Crops in India -  Goa   
-                                                                                                                                                                                                                      (Rs. per Quintal)  
-                                                                                                                                                                                                                      * : Rs. 100 Nos                      
-Crop              Variety      Year       Season           Goa  
-Arecanut          -              2004-05  -                  5200  
-Banana *          -              2004-05  -                   156  
-Cashewnut         -              2004-05  -                  4420  
-Coconut*          -              2004-05  -                   639  
-Paddy             -              2004-05  -                   580  
-Ragi              -              2004-05  -                   764  
-Sugarcane         -              2004-05  -                    80  
-                                                                                                                      21  
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Goa	
+	(Rs. per Quintal)	
+	* : Rs. 100 Nos	
+Crop	Variety	Year	Season	Goa	
+Arecanut	-	2004-05	-	5200	
+Banana *	-	2004-05	-	156	
+Cashewnut	-	2004-05	-	4420	
+Coconut*	-	2004-05	-	639	
+Paddy	-	2004-05	-	580	
+Ragi	-	2004-05	-	764	
+Sugarcane	-	2004-05	-	80	
+	21	

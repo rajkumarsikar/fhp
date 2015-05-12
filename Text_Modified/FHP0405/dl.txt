@@ -1,14 +1,14 @@
 ﻿----------------------- Page 1-----------------------
-                                                      CROP WISE Farm Harvest Prices of Principal Crops in India -  Delhi   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season          -  
-Bajra            -             2004-05  -                  615  
-Barley           -             2004-05  -                  890  
-Gram             -             2004-05  -                 1536  
-Maize            -             2004-05  -                  428  
-Potato           -             2004-05  -                  950  
-Rape/Mustard -                 2004-05  -                 1729  
-Rice             -             2004-05  -                 1146  
-Tur Arhar        -             2004-05  -                 2025  
-Wheat            -             2004-05  -                  780  
-                                                                                                                  20  
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Delhi	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	-	
+Bajra	-	2004-05	-	615	
+Barley	-	2004-05	-	890	
+Gram	-	2004-05	-	1536	
+Maize	-	2004-05	-	428	
+Potato	-	2004-05	-	950	
+Rape/Mustard -	2004-05	-	1729	
+Rice	-	2004-05	-	1146	
+Tur Arhar	-	2004-05	-	2025	
+Wheat	-	2004-05	-	780	
+	20	

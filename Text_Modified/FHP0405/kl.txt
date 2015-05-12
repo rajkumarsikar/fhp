@@ -1,14 +1,14 @@
 ﻿----------------------- Page 1-----------------------
-                                                          CROP WISE Farm Harvest Prices of Principal Crops in India -  Kerala   
-                                                                                                                                                                                                                        * :Rs.  100 Nos  (Rs. per Quintal)  
-Crop              Variety      Year       Season           Alappuzha  Ernakulam         Idukki       Kannur      Kasargod      Kollam      Kottayam   Kozhikode  Malappuram  Palakkad  Pathanamthi Thiruvanant             Trichur      Wayanad  
-                                                                                                                                                                                                   tta       hapuram  
-Arecanut  *        -               2004-05   -                      35           40           38           37           41           44            47           36           28           37           46            44           45           31  
-Banana             -               2004-05   -                    1130         1078         1071         1055         1163         1140          1257         1078         1038         1014         1195          1304         1186          811  
-Coconut*           -               2004-05   -                     631          681          775          539          600          706           742          563          516          555          732           619          543          659  
-Ginger             -               2004-05   -                       -        10418        10772        10035         9354        10000          9933         8828         8711         9827        10618             -         9386         9194  
-Paddy              -               2004-05   -                     669          663          676          676          585          595           674          714          667          638          684           652          631          592  
-Pepper             -               2004-05   -                    6221         6089         6156         5922         5929         6042          6025         5926         5951         5988         6061          5381         6037         6710  
-Sugarcane          -               2004-05   -                       -            -           96            -            -            -             -            -            -           60            -             -            -            -  
-Tapioca            -               2004-05   -                     420          400          437          488          446          366           447          416          372          353          408           400          418          330  
-                                                                                                                              30  
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Kerala	
+	* :Rs.	100 Nos	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappuram	Palakkad	Pathanamthi Thiruvanant	Trichur	Wayanad	
+	tta	hapuram	
+Arecanut	*	-	2004-05	-	35	40	38	37	41	44	47	36	28	37	46	44	45	31	
+Banana	-	2004-05	-	1130	1078	1071	1055	1163	1140	1257	1078	1038	1014	1195	1304	1186	811	
+Coconut*	-	2004-05	-	631	681	775	539	600	706	742	563	516	555	732	619	543	659	
+Ginger	-	2004-05	-	-	10418	10772	10035	9354	10000	9933	8828	8711	9827	10618	-	9386	9194	
+Paddy	-	2004-05	-	669	663	676	676	585	595	674	714	667	638	684	652	631	592	
+Pepper	-	2004-05	-	6221	6089	6156	5922	5929	6042	6025	5926	5951	5988	6061	5381	6037	6710	
+Sugarcane	-	2004-05	-	-	-	96	-	-	-	-	-	-	60	-	-	-	-	
+Tapioca	-	2004-05	-	420	400	437	488	446	366	447	416	372	353	408	400	418	330	
+	30	

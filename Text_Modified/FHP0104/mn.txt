@@ -1,29 +1,29 @@
 ﻿----------------------- Page 1-----------------------
-                                                                                2.14  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   MANIPUR    
-                                                                                                                                                                                                            (Rs. Per Quintal)                                                    
- State/Union Territory                      Year              Paddy            Jowar          Bajra           Maize            Ragi        Wheat           Barley           Gram          Tur Arhar   SugarRaw                 Potato         Tobacco          Groundnut  
-       1                                       2                  3                4              5               6               7             8               9              10               11                12               13              14                15  
- MANIPUR                                       2001-02         493At              ..             ..             433              ..            ..              ..              ..                ..            200**           603                  ..                ..  
-                                                              543Wt                                                                                                                                                                                                      
-                                               2002-03        593At               ..             ..             426              ..            ..              ..              ..                ..            200**             651                ..                ..  
-                                                              608Wt                                                                                                                                                                                                      
-                                               2003-04        545At               ..             ..             476              ..            ..              ..              ..                ..            200**             475                ..                ..  
-                                                              565Wt                                                                                                                                                                                                      
- MANIPUR                                       2001-02        493At               ..             ..             433              ..            ..              ..              ..                ..            200**           603                  ..                ..  
- (STATE WEIGHTED                                              543Wt                                                                                                                                                                                                      
-AVERAGE)  
-                                               2002-03        593At               ..             ..             426              ..            ..              ..              ..                ..            200**             651                ..                ..  
-                                                              608Wt                                                                                                                                                                                                      
-                                               2003-04        545At               ..             ..             476              ..            ..              ..              ..                ..            200**             475                ..                ..  
-                                                              565Wt                                                                                                                                                                                                      
-                                                                                2.14  FARM HARVEST PRICES OF PRINCIPAL CROPS IN   MANIPUR     
-                                                                                                                                                                                                            (Rs. Per Quintal)                                                    
- State/Union Territory                       Year           RapeSeed   Sesamum               Linseed       CasterSeed          Toria        Cotton           Jute        Sunnhemp            Pepper            Ginger            Chilly        Turmeric            Mesta  
-       1                                       2                 16               17             18              19             20            21              22               23               24                25               26              27                28  
- MANIPUR                                       2001-02          850               ..             ..               ..             ..            ..              ..              ..                ..              617             6666               ..                ..  
-                                               2002-03         1316               ..             ..               ..             ..            ..              ..              ..                ..             475             8396                ..                ..  
-                                               2003-04         1396               ..             ..               ..             ..            ..              ..              ..                ..             456             8613                ..                ..  
- MANIPUR                                       2001-02          850               ..             ..               ..             ..            ..              ..              ..                ..             617             6666                ..                ..  
- (STATE  WEIGHTED                              2002-03         1316               ..             ..               ..             ..            ..              ..              ..                ..             475             8396                ..                ..  
-AVERAGE)  
-                                               2003-04         1396               ..             ..               ..             ..            ..              ..              ..                ..             456             8613                ..                ..  
+	2.14	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	MANIPUR	
+	(Rs. Per Quintal)	
+ State/Union Territory	Year	Paddy	Jowar	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur Arhar	SugarRaw	Potato	Tobacco	Groundnut	
+	1	2	3	4	5	6	7	8	9	10	11	12	13	14	15	
+ MANIPUR	2001-02	493At	..	..	433	..	..	..	..	..	200**	603	..	..	
+	543Wt	
+	2002-03	593At	..	..	426	..	..	..	..	..	200**	651	..	..	
+	608Wt	
+	2003-04	545At	..	..	476	..	..	..	..	..	200**	475	..	..	
+	565Wt	
+ MANIPUR	2001-02	493At	..	..	433	..	..	..	..	..	200**	603	..	..	
+ (STATE WEIGHTED	543Wt	
+AVERAGE)	
+	2002-03	593At	..	..	426	..	..	..	..	..	200**	651	..	..	
+	608Wt	
+	2003-04	545At	..	..	476	..	..	..	..	..	200**	475	..	..	
+	565Wt	
+	2.14	FARM HARVEST PRICES OF PRINCIPAL CROPS IN	MANIPUR	
+	(Rs. Per Quintal)	
+ State/Union Territory	Year	RapeSeed	Sesamum	Linseed	CasterSeed	Toria	Cotton	Jute	Sunnhemp	Pepper	Ginger	Chilly	Turmeric	Mesta	
+	1	2	16	17	18	19	20	21	22	23	24	25	26	27	28	
+ MANIPUR	2001-02	850	..	..	..	..	..	..	..	..	617	6666	..	..	
+	2002-03	1316	..	..	..	..	..	..	..	..	475	8396	..	..	
+	2003-04	1396	..	..	..	..	..	..	..	..	456	8613	..	..	
+ MANIPUR	2001-02	850	..	..	..	..	..	..	..	..	617	6666	..	..	
+ (STATE	WEIGHTED	2002-03	1316	..	..	..	..	..	..	..	..	475	8396	..	..	
+AVERAGE)	
+	2003-04	1396	..	..	..	..	..	..	..	..	456	8613	..	..	

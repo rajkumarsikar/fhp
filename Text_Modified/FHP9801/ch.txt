@@ -1,23 +1,23 @@
 ﻿----------------------- Page 1-----------------------
-2.26. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN CHANDIGARH                             
-                                                                                                 (Rs. per quintal)  
-District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram    Tur  Sugar Potato Tobacco Ground  
-                                                                                Arhar  Raw                   nut   
-     (1)          (2)    (3)    (4)    (5)    (6)    (7)    (8)    (9)   (10)   (11)   (12)   (13)   (14)   (15)   
-CHANDIGARH      1998-99  494    ..     ..    550     ..    510     ..     ..     ..     ..    200     ..     ..    
-                                                                                                 1999-00  425     ..     ..     ..     ..    511     ..     ..     ..     ..     ..     ..     ..    
-                                                                                                 2000-01  421     ..     ..     ..     ..    500     ..     ..     ..     ..     ..     ..     ..    
-CHANDIGARH      1998-99  494     ..     ..    550     ..    510     ..     ..     ..     ..    200     ..     ..    
- (S.W.Average)   1999-00  425     ..     ..     ..     ..    511     ..     ..     ..     ..     ..     ..     ..    
-                                                                                                 2000-01  421     ..     ..     ..     ..    500     ..     ..     ..     ..     ..     ..     ..    
-2.26. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN CHANDIGARH (Concluded).                            
-                                                                                                    (Rs. per quintal)  
-District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- Pepper Ginger Chilly Turmeric Mesta  
-                       Mustard                Seed                        hemp  
-     (1)          (2)    (16)   (17)   (18)   (19)   (20)   (21)    (22)   (23)   (24)   (25)   (26)   (27)   (28)  
-CHANDIGARH      1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-                                                                                                 1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-                                                                                                 2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-CHANDIGARH      1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
- (S.W.Average)   1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-                                                                                                 2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
+2.26. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN CHANDIGARH	
+	(Rs. per quintal)	
+District name	Year	Paddy	Jowar	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Sugar Potato Tobacco Ground	
+	Arhar	Raw	nut	
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	
+CHANDIGARH	1998-99	494	..	..	550	..	510	..	..	..	..	200	..	..	
+	1999-00	425	..	..	..	..	511	..	..	..	..	..	..	..	
+	2000-01	421	..	..	..	..	500	..	..	..	..	..	..	..	
+CHANDIGARH	1998-99	494	..	..	550	..	510	..	..	..	..	200	..	..	
+ (S.W.Average)	1999-00	425	..	..	..	..	511	..	..	..	..	..	..	..	
+	2000-01	421	..	..	..	..	500	..	..	..	..	..	..	..	
+2.26. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN CHANDIGARH (Concluded).	
+	(Rs. per quintal)	
+District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann- Pepper Ginger Chilly Turmeric Mesta	
+	Mustard	Seed	hemp	
+	(1)	(2)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)	
+CHANDIGARH	1998-99	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	1999-00	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2000-01	..	..	..	..	..	..	..	..	..	..	..	..	..	
+CHANDIGARH	1998-99	..	..	..	..	..	..	..	..	..	..	..	..	..	
+ (S.W.Average)	1999-00	..	..	..	..	..	..	..	..	..	..	..	..	..	
+	2000-01	..	..	..	..	..	..	..	..	..	..	..	..	..	

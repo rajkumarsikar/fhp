@@ -1,19 +1,19 @@
 ﻿----------------------- Page 1-----------------------
-                                                    Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Pondicherry Pondicherry   
-                                                    Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Pondicherry Pondicherry  
-                                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season           Karaikal      Mahe      Puducherry     Yanam                                                                                                                                      State Wtd  
-                                                                                                                                                                                                                                             Average  
-Cotton            -               2006-07   -                   1875           -            -            -                                                                                                                                        1875 
-                  -               2007-08   -                      -           -         2188            -                                                                                                                                        2188 
-Ground Nut        -               2006-07   -                   2233           -            -            -                                                                                                                                        2233 
-                  -               2007-08   -                      -           -         2735            -                                                                                                                                        2735 
-Paddy             Coarse          2006-07   -                    544           -            -            -                                                                                                                                         544 
-                  Coarse          2007-08   -                    640         703          607            -                                                                                                                                         607 
-                  Fine            2006-07   -                    937           -            -            -                                                                                                                                         937 
-                  Fine            2007-08   -                    759         978          822            -                                                                                                                                         822 
-Ragi              -               2006-07   -                    580           -            -            -                                                                                                                                         580 
-                  -               2007-08   -                      -           -          771            -                                                                                                                                         771 
-Sesamum           -               2006-07   -                   1933           -            -            -                                                                                                                                        1933 
-                  -               2007-08   -                      -           -         2706            -                                                                                                                                        2706 
-                                                                                                                          68  
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Pondicherry Pondicherry	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Pondicherry Pondicherry	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Karaikal	Mahe	Puducherry	Yanam	State Wtd	
+	Average	
+Cotton	-	2006-07	-	1875	-	-	-	1875 
+	-	2007-08	-	-	-	2188	-	2188 
+Ground Nut	-	2006-07	-	2233	-	-	-	2233 
+	-	2007-08	-	-	-	2735	-	2735 
+Paddy	Coarse	2006-07	-	544	-	-	-	544 
+	Coarse	2007-08	-	640	703	607	-	607 
+	Fine	2006-07	-	937	-	-	-	937 
+	Fine	2007-08	-	759	978	822	-	822 
+Ragi	-	2006-07	-	580	-	-	-	580 
+	-	2007-08	-	-	-	771	-	771 
+Sesamum	-	2006-07	-	1933	-	-	-	1933 
+	-	2007-08	-	-	-	2706	-	2706 
+	68	

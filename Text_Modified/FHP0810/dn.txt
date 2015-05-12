@@ -1,16 +1,16 @@
 ﻿----------------------- Page 1-----------------------
-                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Dadra & Nagar Haveli   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season                                                                                                                                                                           State Wtd  
-                                                                                                                                                                                                                            Average  
-Nigerseed                      2008-09  -                 2311                                                                                                                                                                  2311  
-                               2009-10  -                 2413                                                                                                                                                                  2413  
-Paddy            Fine          2008-09  -                  800                                                                                                                                                                   800  
-                 Fine          2009-10  -                  908                                                                                                                                                                   908  
-                 Medium   2008-09       -                  591                                                                                                                                                                   591  
-                 Medium   2009-10       -                  771                                                                                                                                                                   771  
-Ragi             -             2008-09  -                  891                                                                                                                                                                   891  
-                 -             2009-10  -                  909                                                                                                                                                                   909  
-Tur Arhar        -             2008-09  -                 2937                                                                                                                                                                  2937  
-                 -             2009-10  -                 3065                                                                                                                                                                  3065  
-                                                                                                                 35  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Dadra & Nagar Haveli	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	State Wtd	
+	Average	
+Nigerseed	2008-09	-	2311	2311	
+	2009-10	-	2413	2413	
+Paddy	Fine	2008-09	-	800	800	
+	Fine	2009-10	-	908	908	
+	Medium	2008-09	-	591	591	
+	Medium	2009-10	-	771	771	
+Ragi	-	2008-09	-	891	891	
+	-	2009-10	-	909	909	
+Tur Arhar	-	2008-09	-	2937	2937	
+	-	2009-10	-	3065	3065	
+	35	

@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-                                                            CROP WISE Farm Harvest Prices of Principal Crops in India -  Dadra & Nagar Haveli   
-                                                                                                                                                                                                                                                                                                                            ((Rs. per Quintal)             
-Crop              Variety      Year       Season                                         -                                                                                                                                                                                                                                                                 
-Paddy                     Fine                      2004-05    -                             562  
-                          Medium   2004-05                     -                             463  
-Ragi                       -                        2004-05    -                             591  
-Tur Arhar                  -                        2004-05    -                            2269  
-                                                                                                                                                                              19  
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Dadra & Nagar Haveli	
+	((Rs. per Quintal)	
+Crop	Variety	Year	Season	-	
+Paddy	Fine	2004-05	-	562	
+	Medium	2004-05	-	463	
+Ragi	-	2004-05	-	591	
+Tur Arhar	-	2004-05	-	2269	
+	19	

@@ -1,158 +1,158 @@
 ﻿----------------------- Page 1-----------------------
-                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
-                                                                                                                                                                                                                     (Rs. per Quintal)  
-Crop              Variety      Year       Season          Agra       Aligarh    Allahabad   Ambedkar      Auraiya    Azamgarh      Bagpat     Bahraich      Ballia    Balrampur      Banda     Barabanki    Bareilly      Basti     State Wtd  
-                                                                                               Nagar                                                                                                                                 Average  
-Bajra            -            2005-06   Kharif                  -         536           -            -           -           -            -           -           -           -            -           -         522            -         535  
-Barley           -            2005-06   Rabi                    -         661           -            -           -           -            -           -           -           -            -           -           -            -         718  
-Cotton           -            2005-06   Kharif                  -        1530           -            -           -           -            -           -           -           -            -           -           -            -        2043  
-Gram             -            2005-06   Rabi                    -           -           -            -           -           -            -           -           -           -         1810           -           -            -        1842  
-Ground Nut       -            2005-06   Kharif                  -           -           -            -           -           -            -           -           -           -            -           -        1920            -        1956  
-Jowar            -            2005-06   Kharif                  -           -           -            -           -           -            -           -           -           -          525           -           -            -         554  
-Linseed          -            2005-06   Rabi                    -           -           -            -           -           -            -           -           -           -         1597           -           -            -        1700  
-Maize            -            2005-06   Kharif                  -         603           -            -           -           -            -           -         541           -            -           -           -            -         563  
-Paddy            -            2005-06   Kharif                  -         703           -            -           -           -            -           -         509           -          557           -         646            -         580  
-Potato           -            2005-06   Rabi                    -         441           -            -           -           -            -           -           -           -            -           -         338            -         402  
-Rape/Mustard -                2005-06   Rabi                    -        1399           -            -           -           -            -           -           -           -            -           -        1951            -        1528  
-Sannhemp         -            2005-06   Kharif                  -           -           -            -           -           -            -           -           -           -         1244           -           -            -        1334  
-Sesamum          -            2005-06   Kharif                  -           -           -            -           -           -            -           -           -           -         2194           -        3053            -        2553  
-Soyabean         -            2005-06   Kharif                  -           -           -            -           -           -            -           -           -           -            -           -           -            -        1198  
-Sugar Raw        -            2005-06   Kharif                  -           -           -            -           -           -            -           -           -           -            -           -           -            -        1314  
-Sugarcane        -            2005-06   Kharif                  -           -           -            -           -           -            -           -           -           -            -           -           -            -         109  
-Tobacco           Calcattia  2005-06   Rabi                     -           -           -            -           -           -            -           -           -           -            -           -           -            -        1777  
-Tur Arhar        -            2005-06   Rabi                    -        1665           -            -           -           -            -           -           -           -         1754           -           -            -        1887  
-Turmeric         -            2005-06   Rabi                    -           -           -            -           -           -            -           -           -           -            -           -           -            -         451  
-Wheat            -            2005-06   Rabi                    -         735           -            -           -           -            -           -           -           -          811           -         619            -         760  
-                                                                                                                              55  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd	
+	Nagar	Average	
+Bajra	-	2005-06	Kharif	-	536	-	-	-	-	-	-	-	-	-	-	522	-	535	
+Barley	-	2005-06	Rabi	-	661	-	-	-	-	-	-	-	-	-	-	-	-	718	
+Cotton	-	2005-06	Kharif	-	1530	-	-	-	-	-	-	-	-	-	-	-	-	2043	
+Gram	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	1810	-	-	-	1842	
+Ground Nut	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	1920	-	1956	
+Jowar	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	525	-	-	-	554	
+Linseed	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	1597	-	-	-	1700	
+Maize	-	2005-06	Kharif	-	603	-	-	-	-	-	-	541	-	-	-	-	-	563	
+Paddy	-	2005-06	Kharif	-	703	-	-	-	-	-	-	509	-	557	-	646	-	580	
+Potato	-	2005-06	Rabi	-	441	-	-	-	-	-	-	-	-	-	-	338	-	402	
+Rape/Mustard -	2005-06	Rabi	-	1399	-	-	-	-	-	-	-	-	-	-	1951	-	1528	
+Sannhemp	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	1244	-	-	-	1334	
+Sesamum	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	2194	-	3053	-	2553	
+Soyabean	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1198	
+Sugar Raw	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1314	
+Sugarcane	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	109	
+Tobacco	Calcattia	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1777	
+Tur Arhar	-	2005-06	Rabi	-	1665	-	-	-	-	-	-	-	-	1754	-	-	-	1887	
+Turmeric	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	451	
+Wheat	-	2005-06	Rabi	-	735	-	-	-	-	-	-	-	-	811	-	619	-	760	
+	55	
 ----------------------- Page 2-----------------------
-                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
-                                                                                                                                                                                                                      (Rs. per Quintal)  
-Crop              Variety      Year       Season          Bijnor      Budaun    Bulandshahr  Chandauli   Chitrakoot     Deoria       Etah       Etawah      Faizabad  Farrukhabad   Fatehpur     Firozabad    Gautam     Ghaziabad    State Wtd  
-                                                                                                                                                                                                               Budha                   Average  
-                                                                                                                                                                                                               Nagar  
-Bajra             -           2005-06   Kharif                  -            -         551            -           -           -            -         533            -           -           -          536           -            -         535  
-Barley            -           2005-06   Rabi                    -            -         813            -           -           -            -         750            -           -           -          695           -            -         718  
-Cotton            -           2005-06   Kharif                  -            -        3800            -           -           -            -           -            -           -           -            -           -            -        2043  
-Gram              -           2005-06   Rabi                    -            -           -            -           -           -            -        1929            -           -           -            -           -            -        1842  
-Ground Nut        -           2005-06   Kharif               1654            -           -            -           -           -            -           -            -           -           -            -           -            -        1956  
-Jowar             -           2005-06   Kharif                  -            -           -            -           -           -            -           -            -           -           -            -           -            -         554  
-Linseed           -           2005-06   Rabi                    -            -           -            -           -           -            -           -            -           -           -            -           -            -        1700  
-Maize             -           2005-06   Kharif                  -            -         636            -           -           -            -         534            -         523           -          604           -            -         563  
-Paddy             -           2005-06   Kharif                626            -        1444            -           -           -            -         493            -         560           -            -           -            -         580  
-Potato            -           2005-06   Rabi                    -            -         487            -           -           -            -         435            -         369           -          439           -          389         402  
-Rape/Mustard -                2005-06   Rabi                    -            -        1486            -           -           -            -        1487            -        1409           -         1507           -            -        1528  
-Sannhemp          -           2005-06   Kharif                  -            -           -            -           -           -            -           -            -           -           -            -           -            -        1334  
-Sesamum           -           2005-06   Kharif                  -            -           -            -           -           -            -           -            -        2344           -            -           -            -        2553  
-Soyabean          -           2005-06   Kharif                  -            -           -            -           -           -            -           -            -           -           -            -           -            -        1198  
-Sugar Raw         -           2005-06   Kharif               1372            -        1175            -           -           -            -           -            -           -           -            -           -            -        1314  
-Sugarcane         -           2005-06   Kharif                115            -         113            -           -           -            -           -            -           -           -            -           -            -         109  
-Tobacco           Calcattia  2005-06   Rabi                     -            -           -            -           -           -            -           -            -        1777           -            -           -            -        1777  
-Tur Arhar         -           2005-06   Rabi                    -            -        2316            -           -           -            -        1935            -           -           -            -           -            -        1887  
-Turmeric          -           2005-06   Rabi                    -            -           -            -           -           -            -           -            -           -           -            -           -            -         451  
-Wheat             -           2005-06   Rabi                  810            -         754            -           -           -            -         793            -         754           -          787           -          799         760  
-                                                                                                                               56  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd	
+	Budha	Average	
+	Nagar	
+Bajra	-	2005-06	Kharif	-	-	551	-	-	-	-	533	-	-	-	536	-	-	535	
+Barley	-	2005-06	Rabi	-	-	813	-	-	-	-	750	-	-	-	695	-	-	718	
+Cotton	-	2005-06	Kharif	-	-	3800	-	-	-	-	-	-	-	-	-	-	-	2043	
+Gram	-	2005-06	Rabi	-	-	-	-	-	-	-	1929	-	-	-	-	-	-	1842	
+Ground Nut	-	2005-06	Kharif	1654	-	-	-	-	-	-	-	-	-	-	-	-	-	1956	
+Jowar	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	554	
+Linseed	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1700	
+Maize	-	2005-06	Kharif	-	-	636	-	-	-	-	534	-	523	-	604	-	-	563	
+Paddy	-	2005-06	Kharif	626	-	1444	-	-	-	-	493	-	560	-	-	-	-	580	
+Potato	-	2005-06	Rabi	-	-	487	-	-	-	-	435	-	369	-	439	-	389	402	
+Rape/Mustard -	2005-06	Rabi	-	-	1486	-	-	-	-	1487	-	1409	-	1507	-	-	1528	
+Sannhemp	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1334	
+Sesamum	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	2344	-	-	-	-	2553	
+Soyabean	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1198	
+Sugar Raw	-	2005-06	Kharif	1372	-	1175	-	-	-	-	-	-	-	-	-	-	-	1314	
+Sugarcane	-	2005-06	Kharif	115	-	113	-	-	-	-	-	-	-	-	-	-	-	109	
+Tobacco	Calcattia	2005-06	Rabi	-	-	-	-	-	-	-	-	-	1777	-	-	-	-	1777	
+Tur Arhar	-	2005-06	Rabi	-	-	2316	-	-	-	-	1935	-	-	-	-	-	-	1887	
+Turmeric	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	451	
+Wheat	-	2005-06	Rabi	810	-	754	-	-	-	-	793	-	754	-	787	-	799	760	
+	56	
 ----------------------- Page 3-----------------------
-                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
-                                                                                                                                                                                                                     (Rs. per Quintal)  
-Crop              Variety      Year       Season         Ghazipur     Gonda     Gorakhpur    Hamirpur      Hardoi      Hathras      Jalaun      Jaunpur      Jhansi      Jyotiba    Kannauj      Kanpur    Kanpur(City  Kaushambi   State Wtd  
-                                                                                                                                                                      phule Nagar                 Dehat          )                    Average  
-Bajra            -            2005-06   Kharif                574           -            -           -           -            -         536           -            -           -            -           -           -          432         535  
-Barley           -            2005-06   Rabi                  704           -            -           -           -            -         682           -          695           -            -           -           -            -         718  
-Cotton           -            2005-06   Kharif                  -           -            -           -           -            -           -           -            -           -            -           -           -            -        2043  
-Gram             -            2005-06   Rabi                 2050           -            -        1862           -            -        1988           -         1752           -            -           -           -         1888        1842  
-Ground Nut       -            2005-06   Kharif                  -           -            -           -           -            -           -           -         1687           -            -           -           -            -        1956  
-Jowar            -            2005-06   Kharif                530           -            -         807           -            -         604           -          591           -            -           -           -          369         554  
-Linseed          -            2005-06   Rabi                    -           -            -        1748           -            -           -           -         1712           -            -           -           -            -        1700  
-Maize            -            2005-06   Kharif                  -           -            -           -           -            -           -           -            -           -          515           -           -            -         563  
-Paddy            -            2005-06   Kharif                523           -            -           -           -            -           -           -            -           -          539           -           -          525         580  
-Potato           -            2005-06   Rabi                  416           -            -           -           -            -           -           -            -           -            -           -           -          316         402  
-Rape/Mustard -                2005-06   Rabi                    -           -            -        1528           -            -        1523           -         1323           -            -           -           -            -        1528  
-Sannhemp         -            2005-06   Kharif                  -           -            -         761           -            -           -           -            -           -            -           -           -            -        1334  
-Sesamum          -            2005-06   Kharif                  -           -            -        2370           -            -        2552           -         2627           -         2097           -           -         3044        2553  
-Soyabean         -            2005-06   Kharif                  -           -            -         829           -            -           -           -         1355           -            -           -           -            -        1198  
-Sugar Raw        -            2005-06   Kharif               1537           -            -           -           -            -           -           -            -           -            -           -           -            -        1314  
-Sugarcane        -            2005-06   Kharif                115           -            -           -           -            -           -           -            -           -            -           -           -            -         109  
-Tobacco           Calcattia  2005-06   Rabi                     -           -            -           -           -            -           -           -            -           -            -           -           -            -        1777  
-Tur Arhar        -            2005-06   Rabi                 1854           -            -        1812           -            -        1841           -            -           -            -           -           -         2050        1887  
-Turmeric         -            2005-06   Rabi                    -           -            -           -           -            -           -           -            -           -            -           -           -            -         451  
-Wheat            -            2005-06   Rabi                  817           -            -         849           -            -         790           -          843           -            -           -           -          882         760  
-                                                                                                                              57  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(City	Kaushambi	State Wtd	
+	phule Nagar	Dehat	)	Average	
+Bajra	-	2005-06	Kharif	574	-	-	-	-	-	536	-	-	-	-	-	-	432	535	
+Barley	-	2005-06	Rabi	704	-	-	-	-	-	682	-	695	-	-	-	-	-	718	
+Cotton	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2043	
+Gram	-	2005-06	Rabi	2050	-	-	1862	-	-	1988	-	1752	-	-	-	-	1888	1842	
+Ground Nut	-	2005-06	Kharif	-	-	-	-	-	-	-	-	1687	-	-	-	-	-	1956	
+Jowar	-	2005-06	Kharif	530	-	-	807	-	-	604	-	591	-	-	-	-	369	554	
+Linseed	-	2005-06	Rabi	-	-	-	1748	-	-	-	-	1712	-	-	-	-	-	1700	
+Maize	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	515	-	-	-	563	
+Paddy	-	2005-06	Kharif	523	-	-	-	-	-	-	-	-	-	539	-	-	525	580	
+Potato	-	2005-06	Rabi	416	-	-	-	-	-	-	-	-	-	-	-	-	316	402	
+Rape/Mustard -	2005-06	Rabi	-	-	-	1528	-	-	1523	-	1323	-	-	-	-	-	1528	
+Sannhemp	-	2005-06	Kharif	-	-	-	761	-	-	-	-	-	-	-	-	-	-	1334	
+Sesamum	-	2005-06	Kharif	-	-	-	2370	-	-	2552	-	2627	-	2097	-	-	3044	2553	
+Soyabean	-	2005-06	Kharif	-	-	-	829	-	-	-	-	1355	-	-	-	-	-	1198	
+Sugar Raw	-	2005-06	Kharif	1537	-	-	-	-	-	-	-	-	-	-	-	-	-	1314	
+Sugarcane	-	2005-06	Kharif	115	-	-	-	-	-	-	-	-	-	-	-	-	-	109	
+Tobacco	Calcattia	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1777	
+Tur Arhar	-	2005-06	Rabi	1854	-	-	1812	-	-	1841	-	-	-	-	-	-	2050	1887	
+Turmeric	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	451	
+Wheat	-	2005-06	Rabi	817	-	-	849	-	-	790	-	843	-	-	-	-	882	760	
+	57	
 ----------------------- Page 4-----------------------
-                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
-                                                                                                                                                                                                                         (Rs. per Quintal)  
-Crop              Variety      Year       Season           Kheri     KushiNagar    Lalitpur    Lucknow     Mahamaya  Maharajganj   Mahoba        Mainpuri     Mathura        Mau        Meerut     Mirzapur    Moradabad Muzaffarnag     State Wtd  
-                                                                                                             Nagar                                                                                                              ar       Average  
-Bajra             -            2005-06   Kharif                  -            -           -            -           -            -            -           -            -           -            -           -            -           -          535  
-Barley            -            2005-06   Rabi                    -            -         594            -           -            -            -           -            -        1398            -           -            -           -          718  
-Cotton            -            2005-06   Kharif                  -            -           -            -           -            -            -           -            -           -            -           -            -        2892         2043  
-Gram              -            2005-06   Rabi                    -            -        1685            -           -            -            -           -            -           -            -           -            -           -         1842  
-Ground Nut        -            2005-06   Kharif               3163            -        1486            -           -            -            -           -            -           -            -           -            -           -         1956  
-Jowar             -            2005-06   Kharif                  -            -         800          484           -            -            -           -            -           -            -           -            -           -          554  
-Linseed           -            2005-06   Rabi                    -            -        1604            -           -            -            -           -            -           -            -           -            -           -         1700  
-Maize             -            2005-06   Kharif                500            -         514            -           -            -            -           -            -           -            -           -            -           -          563  
-Paddy             -            2005-06   Kharif                527          640         562          540           -          514            -           -            -         500            -           -            -         620          580  
-Potato            -            2005-06   Rabi                    -            -           -          208           -            -            -           -            -           -            -           -            -           -          402  
-Rape/Mustard -                 2005-06   Rabi                    -         1656           -            -           -         1706            -           -            -           -            -           -            -           -         1528  
-Sannhemp          -            2005-06   Kharif                  -         1826           -            -           -            -            -           -            -           -            -           -            -           -         1334  
-Sesamum           -            2005-06   Kharif                  -            -        2036         1731           -            -            -           -            -           -            -           -            -           -         2553  
-Soyabean          -            2005-06   Kharif                  -            -        1144            -           -            -            -           -            -           -            -           -            -           -         1198  
-Sugar Raw         -            2005-06   Kharif               1263         1514           -            -           -         1444            -           -            -           -            -           -            -        1220         1314  
-Sugarcane         -            2005-06   Kharif                 68          117           -            -           -          106            -           -            -           -            -           -            -         133          109  
-Tobacco           Calcattia  2005-06   Rabi                      -            -           -            -           -            -            -           -            -           -            -           -            -           -         1777  
-Tur Arhar         -            2005-06   Rabi                    -            -           -         1713           -            -            -           -            -        1989            -           -            -           -         1887  
-Turmeric          -            2005-06   Rabi                    -          451           -            -           -            -            -           -            -           -            -           -            -           -          451  
-Wheat             -            2005-06   Rabi                    -          953         750          563           -          792            -           -            -         757            -           -            -         790          760  
-                                                                                                                                58  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad Muzaffarnag	State Wtd	
+	Nagar	ar	Average	
+Bajra	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	535	
+Barley	-	2005-06	Rabi	-	-	594	-	-	-	-	-	-	1398	-	-	-	-	718	
+Cotton	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	2892	2043	
+Gram	-	2005-06	Rabi	-	-	1685	-	-	-	-	-	-	-	-	-	-	-	1842	
+Ground Nut	-	2005-06	Kharif	3163	-	1486	-	-	-	-	-	-	-	-	-	-	-	1956	
+Jowar	-	2005-06	Kharif	-	-	800	484	-	-	-	-	-	-	-	-	-	-	554	
+Linseed	-	2005-06	Rabi	-	-	1604	-	-	-	-	-	-	-	-	-	-	-	1700	
+Maize	-	2005-06	Kharif	500	-	514	-	-	-	-	-	-	-	-	-	-	-	563	
+Paddy	-	2005-06	Kharif	527	640	562	540	-	514	-	-	-	500	-	-	-	620	580	
+Potato	-	2005-06	Rabi	-	-	-	208	-	-	-	-	-	-	-	-	-	-	402	
+Rape/Mustard -	2005-06	Rabi	-	1656	-	-	-	1706	-	-	-	-	-	-	-	-	1528	
+Sannhemp	-	2005-06	Kharif	-	1826	-	-	-	-	-	-	-	-	-	-	-	-	1334	
+Sesamum	-	2005-06	Kharif	-	-	2036	1731	-	-	-	-	-	-	-	-	-	-	2553	
+Soyabean	-	2005-06	Kharif	-	-	1144	-	-	-	-	-	-	-	-	-	-	-	1198	
+Sugar Raw	-	2005-06	Kharif	1263	1514	-	-	-	1444	-	-	-	-	-	-	-	1220	1314	
+Sugarcane	-	2005-06	Kharif	68	117	-	-	-	106	-	-	-	-	-	-	-	133	109	
+Tobacco	Calcattia	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1777	
+Tur Arhar	-	2005-06	Rabi	-	-	-	1713	-	-	-	-	-	1989	-	-	-	-	1887	
+Turmeric	-	2005-06	Rabi	-	451	-	-	-	-	-	-	-	-	-	-	-	-	451	
+Wheat	-	2005-06	Rabi	-	953	750	563	-	792	-	-	-	757	-	-	-	790	760	
+	58	
 ----------------------- Page 5-----------------------
-                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
-                                                                                                                                                                                                                         (Rs. per Quintal)  
-Crop              Variety      Year       Season          Pilibhit   Pratapgarh   RaeBareli     Rampur     Saharanpur      Sant     Sant Kabir  Shahjahanpu   Shrawasti  Siddharthna    Sitapur    Sonbhadra    Sultanpur     Unnao      State Wtd  
-                                                                                                                         Ravidas      Nagar          r                       gar                                                         Average  
-                                                                                                                          Nagar  
-Bajra             -            2005-06   Kharif                  -            -           -            -           -            -            -           -            -           -            -           -            -           -          535  
-Barley            -            2005-06   Rabi                    -            -           -            -           -            -            -           -            -           -            -           -            -           -          718  
-Cotton            -            2005-06   Kharif                  -            -           -            -           -            -            -           -            -           -            -           -            -           -         2043  
-Gram              -            2005-06   Rabi                    -            -           -            -           -            -            -           -            -           -            -           -            -           -         1842  
-Ground Nut        -            2005-06   Kharif                  -            -           -            -        1653            -            -        1880            -           -            -           -            -        2500         1956  
-Jowar             -            2005-06   Kharif                  -            -           -            -           -            -            -         580            -           -            -           -            -         503          554  
-Linseed           -            2005-06   Rabi                    -            -           -            -           -            -            -           -            -           -            -           -            -           -         1700  
-Maize             -            2005-06   Kharif                  -            -           -            -         717            -            -           -            -           -            -         472            -         507          563  
-Paddy             -            2005-06   Kharif                  -            -           -            -         684            -            -         539            -           -            -         484            -         594          580  
-Potato            -            2005-06   Rabi                    -            -           -            -           -            -            -         324            -           -            -           -            -         450          402  
-Rape/Mustard -                 2005-06   Rabi                 1478            -           -            -           -            -            -        1668            -           -            -           -            -        1600         1528  
-Sannhemp          -            2005-06   Kharif                  -            -           -            -           -            -            -           -            -           -            -           -            -           -         1334  
-Sesamum           -            2005-06   Kharif                  -            -           -            -           -            -            -        2459            -           -            -        1943            -        2600         2553  
-Soyabean          -            2005-06   Kharif                  -            -           -            -           -            -            -           -            -           -            -           -            -           -         1198  
-Sugar Raw         -            2005-06   Kharif                  -            -           -            -        1436            -            -        1250            -           -            -           -            -           -         1314  
-Sugarcane         -            2005-06   Kharif                  -            -           -            -         113            -            -          94            -           -            -           -            -         134          109  
-Tobacco           Calcattia  2005-06   Rabi                      -            -           -            -           -            -            -           -            -           -            -           -            -           -         1777  
-Tur Arhar         -            2005-06   Rabi                    -            -           -            -           -            -            -           -            -           -            -           -            -           -         1887  
-Turmeric          -            2005-06   Rabi                    -            -           -            -           -            -            -           -            -           -            -           -            -           -          451  
-Wheat             -            2005-06   Rabi                  739            -           -            -         805            -            -         679            -           -            -           -            -           -          760  
-                                                                                                                                59  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahanpu	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd	
+	Ravidas	Nagar	r	gar	Average	
+	Nagar	
+Bajra	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	535	
+Barley	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	718	
+Cotton	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2043	
+Gram	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1842	
+Ground Nut	-	2005-06	Kharif	-	-	-	-	1653	-	-	1880	-	-	-	-	-	2500	1956	
+Jowar	-	2005-06	Kharif	-	-	-	-	-	-	-	580	-	-	-	-	-	503	554	
+Linseed	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1700	
+Maize	-	2005-06	Kharif	-	-	-	-	717	-	-	-	-	-	-	472	-	507	563	
+Paddy	-	2005-06	Kharif	-	-	-	-	684	-	-	539	-	-	-	484	-	594	580	
+Potato	-	2005-06	Rabi	-	-	-	-	-	-	-	324	-	-	-	-	-	450	402	
+Rape/Mustard -	2005-06	Rabi	1478	-	-	-	-	-	-	1668	-	-	-	-	-	1600	1528	
+Sannhemp	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1334	
+Sesamum	-	2005-06	Kharif	-	-	-	-	-	-	-	2459	-	-	-	1943	-	2600	2553	
+Soyabean	-	2005-06	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1198	
+Sugar Raw	-	2005-06	Kharif	-	-	-	-	1436	-	-	1250	-	-	-	-	-	-	1314	
+Sugarcane	-	2005-06	Kharif	-	-	-	-	113	-	-	94	-	-	-	-	-	134	109	
+Tobacco	Calcattia	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1777	
+Tur Arhar	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1887	
+Turmeric	-	2005-06	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	451	
+Wheat	-	2005-06	Rabi	739	-	-	-	805	-	-	679	-	-	-	-	-	-	760	
+	59	
 ----------------------- Page 6-----------------------
-                                               Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
-                                                                                                                                                                                                             (Rs. per Quintal)  
-Crop              Variety      Year       Season      Varanasi                                                                                                                                                              State Wtd  
-                                                                                                                                                                                                                             Average  
-Bajra            -           2005-06   Kharif                 -                                                                                                                                                                   535  
-Barley           -           2005-06   Rabi                   -                                                                                                                                                                   718  
-Cotton           -           2005-06   Kharif                 -                                                                                                                                                                  2043  
-Gram             -           2005-06   Rabi                   -                                                                                                                                                                  1842  
-Ground Nut       -           2005-06   Kharif                 -                                                                                                                                                                  1956  
-Jowar            -           2005-06   Kharif                 -                                                                                                                                                                   554  
-Linseed          -           2005-06   Rabi                   -                                                                                                                                                                  1700  
-Maize            -           2005-06   Kharif                 -                                                                                                                                                                   563  
-Paddy            -           2005-06   Kharif               568                                                                                                                                                                   580  
-Potato           -           2005-06   Rabi                 441                                                                                                                                                                   402  
-Rape/Mustard -               2005-06   Rabi                   -                                                                                                                                                                  1528  
-Sannhemp         -           2005-06   Kharif              1651                                                                                                                                                                  1334  
-Sesamum          -           2005-06   Kharif                 -                                                                                                                                                                  2553  
-Soyabean         -           2005-06   Kharif                 -                                                                                                                                                                  1198  
-Sugar Raw        -           2005-06   Kharif                 -                                                                                                                                                                  1314  
-Sugarcane        -           2005-06   Kharif                 -                                                                                                                                                                   109  
-Tobacco          Calcattia  2005-06   Rabi                    -                                                                                                                                                                  1777  
-Tur Arhar        -           2005-06   Rabi                1995                                                                                                                                                                  1887  
-Turmeric         -           2005-06   Rabi                   -                                                                                                                                                                   451  
-Wheat            -           2005-06   Rabi                 782                                                                                                                                                                   760  
-                                                                                                                         60  
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop	Variety	Year	Season	Varanasi	State Wtd	
+	Average	
+Bajra	-	2005-06	Kharif	-	535	
+Barley	-	2005-06	Rabi	-	718	
+Cotton	-	2005-06	Kharif	-	2043	
+Gram	-	2005-06	Rabi	-	1842	
+Ground Nut	-	2005-06	Kharif	-	1956	
+Jowar	-	2005-06	Kharif	-	554	
+Linseed	-	2005-06	Rabi	-	1700	
+Maize	-	2005-06	Kharif	-	563	
+Paddy	-	2005-06	Kharif	568	580	
+Potato	-	2005-06	Rabi	441	402	
+Rape/Mustard -	2005-06	Rabi	-	1528	
+Sannhemp	-	2005-06	Kharif	1651	1334	
+Sesamum	-	2005-06	Kharif	-	2553	
+Soyabean	-	2005-06	Kharif	-	1198	
+Sugar Raw	-	2005-06	Kharif	-	1314	
+Sugarcane	-	2005-06	Kharif	-	109	
+Tobacco	Calcattia	2005-06	Rabi	-	1777	
+Tur Arhar	-	2005-06	Rabi	1995	1887	
+Turmeric	-	2005-06	Rabi	-	451	
+Wheat	-	2005-06	Rabi	782	760	
+	60	
