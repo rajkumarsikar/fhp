@@ -1,4 +1,0 @@
-Find:"\r\r\n" Replace:"\r\n" 
-Find:"^(?:[\t ]*(?:\r?\n|\r))+" Replace:"" /*Remove Empty Rows*/
-Find:"\t{2,}" Replace:"\t"
-Find:" {2,}" Replace:"\t"
