@@ -1,0 +1,19 @@
+﻿----------------------- Page 1-----------------------
+
+                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Orissa   
+                                                                                                                                                                                                              (Rs. per Quintal)  
+
+Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
+                                                                                                                                                                                                                              Average  
+Ground Nut       -             2005-06   -                 1620                                                                                                                                                                   1620  
+Jute             -             2005-06   -                 1039                                                                                                                                                                   1039  
+Maize            -             2005-06   -                  490                                                                                                                                                                    490  
+Paddy            -             2005-06   -                  482                                                                                                                                                                    482  
+Potato           -             2005-06   -                  595                                                                                                                                                                    595  
+Ragi             -             2005-06   -                  546                                                                                                                                                                    546  
+Rape/Mustard -                 2005-06   -                 2092                                                                                                                                                                   2092  
+Sesamum          -             2005-06   -                 1859                                                                                                                                                                   1859  
+Sugarcane        -             2005-06   -                  101                                                                                                                                                                    101  
+Wheat            -             2005-06   -                  847                                                                                                                                                                    847  
+
+                                                                                                                          44  

@@ -1,0 +1,18 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Jharkhand	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Bokaro	Chatra	Deoghar	Dhanbad	Dumka	East	Garhwa	Giridih	Godda	Gumla	Hazaribagh	Jamtara	Khunti	Koderma	State Wtd
+	Singhbhum	Average
+Maize	-	2010-11	Kharif	1220	820	875	1140	970	1240	526	634	794	687	1106	863	640	913	836
+Paddy	-	2010-11	Kharif	1238	921	1050	-	1027	1088	511	677	913	720	928	1025	724	803	840
+	-	2010-11	Summer	733	-	1125	-	-	900	-	865	817	-	-	-	1011	-	901
+Ragi	-	2010-11	Kharif	1265	-	2000	-	-	-	-	630	741	931	-	1525	620	716	966
+	30	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Jharkhand	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Latehar	Lohardaga	Pakur	Palamu	Ramgarh	Ranchi	Sahibganj	Seraikela	Simdega	West	State Wtd	
+	Singhbhum	Average	
+Maize	-	2010-11	Kharif	513	825	931	723	950	645	856	774	700	714	836	
+Paddy	-	2010-11	Kharif	505	880	994	547	1000	-	788	775	666	703	840	
+	-	2010-11	Summer	522	1100	1080	867	-	712	1043	-	943	-	901	
+Ragi	-	2010-11	Kharif	-	600	-	-	-	-	-	813	788	-	966	
+	31	

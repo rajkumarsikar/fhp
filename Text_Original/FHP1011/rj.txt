@@ -1,0 +1,78 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	State Wtd
+	Average
+Bajra	-	2010-11	Kharif	864	765	960	838	1100	763	886	894	858	-	805	834	831	962	880
+Barley	-	2010-11	Rabi	1012	1018	968	1027	1222	1001	1043	993	1008	902	1230	983	1028	1008	1056
+Chilly	Dry	2010-11	Kharif	7907	1048	6329	7444	-	8960	8813	-	9690	6039	-	-	7100	7192	7134
+Cotton	-	2010-11	Kharif	4059	3301	3401	-	-	-	4487	4100	-	4493	-	-	-	-	4125
+	Lint	2010-11	Kharif	-	-	10485	-	-	6946	8056	-	-	-	-	-	-	-	8224
+Ginger	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	3977	2804
+Gram	-	2010-11	Rabi	2255	2194	2296	2093	3075	2196	2203	2132	2173	2045	2108	2050	2160	2270	2143
+Ground Nut	-	2010-11	Kharif	3097	3436	2696	2426	3800	3056	2783	2414	2775	2856	2600	2469	-	-	2586
+Jowar	-	2010-11	Kharif	1156	865	789	1091	1095	1133	909	2293	1002	844	-	901	1085	952	1159
+Linseed	-	2010-11	Rabi	2498	-	2271	2580	-	-	2909	-	2734	2000	-	-	-	-	2601
+Maize	-	2010-11	Kharif	1119	912	910	882	-	-	961	-	938	904	-	932	-	881	949
+Paddy	-	2010-11	Kharif	-	-	1160	-	-	1569	1011	-	-	-	-	-	-	1015	1513
+Potato	-	2010-11	Rabi	1041	637	-	965	1550	602	1281	-	511	785	-	-	1120	-	709
+Rape/Mustard	-	2010-11	Rabi	2671	2359	2194	2255	2222	2473	2295	2284	2340	2275	2083	2331	2272	1889	2356
+Rice	-	2010-11	Kharif	2025	-	2392	2081	-	-	2995	-	1862	3225	-	-	2485	1759	2133
+Sannhemp	-	2010-11	Kharif	-	-	2505	-	-	-	1678	-	-	-	-	-	-	1200	1853
+Sesamum	-	2010-11	Kharif	5854	4896	5745	5148	4539	5131	5436	3927	4951	5582	4266	4750	4924	5997	5091
+Sugar Raw	-	2010-11	Rabi	3083	2250	2769	2671	-	2922	2913	-	2435	2766	-	-	-	3475	2731
+Tobacco	-	2010-11	Rabi	3083	2250	2769	2671	-	2922	2913	-	2435	2766	-	-	-	3475	2191
+Tur Arhar	-	2010-11	Rabi	5111	2794	-	4950	-	3155	6173	-	-	2425	-	-	3900	-	3445
+Wheat	-	2010-11	Rabi	1139	1116	1217	1124	1430	1099	1223	1164	1132	1006	1217	1145	1123	1176	1155
+	50	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Ganganagar	Hanumanga	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Pratapgarh	Rajsamand	State Wtd
+	rh	Average
+Bajra	-	2010-11	Kharif	822	847	808	-	1043	840	747	1134	761	-	849	872	-	1130	880
+Barley	-	2010-11	Rabi	1063	1134	1060	-	1271	833	1080	1141	1057	1040	1137	1065	1084	1098	1056
+Chilly	Dry	2010-11	Kharif	-	-	-	-	6000	7803	-	6498	-	6605	9972	11386	4645	6570	7134
+Cotton	-	2010-11	Kharif	4265	4178	-	-	6900	6170	-	2818	-	-	4137	3550	3930	4805	4125
+	Lint	2010-11	Kharif	-	8000	-	-	-	-	-	-	-	-	-	-	-	-	8224
+Ginger	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2804
+Gram	-	2010-11	Rabi	2209	2213	2109	-	2800	2135	2136	2216	2110	2044	2076	2192	2059	2334	2143
+Ground Nut	-	2010-11	Kharif	-	2420	2640	-	2400	2826	-	2386	-	2544	2851	-	2850	3051	2586
+Jowar	-	2010-11	Kharif	-	-	1081	-	957	1138	-	1273	-	1078	1454	1228	976	977	1159
+Linseed	-	2010-11	Rabi	-	-	-	-	-	2900	-	-	-	2733	-	-	2562	-	2601
+Maize	-	2010-11	Kharif	-	-	927	-	1000	913	-	-	-	960	982	1114	896	1045	949
+Paddy	-	2010-11	Kharif	-	1661	-	-	-	-	-	-	-	-	-	-	-	-	1513
+Potato	-	2010-11	Rabi	-	728	-	-	933	1059	-	-	-	625	-	-	-	486	709
+Rape/Mustard	-	2010-11	Rabi	2339	2387	2305	-	2607	2104	2344	2174	2457	2340	2245	2366	2264	2337	2356
+Rice	-	2010-11	Kharif	-	3000	-	-	-	2120	-	-	-	1776	-	-	1523	2010	2133
+Sannhemp	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	1525	1853
+Sesamum	-	2010-11	Kharif	-	5101	5120	-	4450	5036	-	5780	4798	5263	5018	4964	4312	5500	5091
+Sugar Raw	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	3132	2750	2731
+Tobacco	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	3132	2750	2191
+Tur Arhar	-	2010-11	Rabi	-	-	-	-	-	-	-	-	2465	2780	-	-	3577	-	3445
+Wheat	-	2010-11	Rabi	1160	1158	1139	-	1586	1188	1143	1434	1095	1165	1314	1334	1221	1139	1155
+	51	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Sawai	Sikar	Sirohi	Tonk	Udaipur	State Wtd	
+	Madhopur	Average	
+Bajra	-	2010-11	Kharif	831	797	868	788	-	880	
+Barley	-	2010-11	Rabi	938	1070	1141	1052	1037	1056	
+Chilly	Dry	2010-11	Kharif	8158	10000	6602	1290	8202	7134	
+Cotton	-	2010-11	Kharif	-	-	3760	-	4900	4125	
+	Lint	2010-11	Kharif	-	-	-	-	-	8224	
+Ginger	-	2010-11	Kharif	-	-	-	-	2205	2804	
+Gram	-	2010-11	Rabi	2124	2054	2218	2033	2251	2143	
+Ground Nut	-	2010-11	Kharif	2726	3260	2266	2410	3313	2586	
+Jowar	-	2010-11	Kharif	946	-	1157	1182	1034	1159	
+Linseed	-	2010-11	Rabi	-	-	-	2320	-	2601	
+Maize	-	2010-11	Kharif	843	-	1116	959	1008	949	
+Paddy	-	2010-11	Kharif	-	-	-	-	1068	1513	
+Potato	-	2010-11	Rabi	750	-	650	-	-	709	
+Rape/Mustard	-	2010-11	Rabi	2321	2319	2378	2400	2283	2356	
+Rice	-	2010-11	Kharif	1633	-	-	-	1623	2133	
+Sannhemp	-	2010-11	Kharif	-	-	2031	-	1700	1853	
+Sesamum	-	2010-11	Kharif	4990	4550	4978	4919	5060	5091	
+Sugar Raw	-	2010-11	Rabi	2440	-	-	2475	2950	2731	
+Tobacco	-	2010-11	Rabi	2440	-	-	2475	2950	2191	
+Tur Arhar	-	2010-11	Rabi	2373	-	3137	2283	-	3445	
+Wheat	-	2010-11	Rabi	1069	1233	1263	1086	1257	1155	
+	52	

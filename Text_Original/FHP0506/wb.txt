@@ -1,0 +1,45 @@
+﻿----------------------- Page 1-----------------------
+
+                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal   
+                                                                                                                                                                                                                     (Rs. per Quintal)  
+
+Crop              Variety      Year       Season         Bankura   Bardhaman     Birbhum   Cooch Bihar    Dakhin      Darjiling     East       Hooghly     Howrah      Jalpaiguri    Malda    Murshidaba     Nadia      North 24    State Wtd  
+                                                                                                          Dinajpur               Midnapore                                                         d                    Parganas     Average  
+Barley           -              2005-06   -                     -           -           -            -         918           -            -           -           -           -         1081         901           -            -        1139  
+Gram             -              2005-06   -                  2144        2193        1768            -        2181           -            -        2273           -        2194         2075        1912        1841         2400        1898  
+Jute             -              2005-06   -                  1063        1060         938         1309        1301           -         1385        1185        1027        1352         1145        1139        1179         1193        1208  
+Paddy            -            2005-06   Autum                 411         465         438          580         475        1000          596         466         484         555          513         510         527          616         520  
+                 -              2005-06   Summer              547         563         535          497         548           -          596         610         563         565          588         564         607          610         574  
+                 -            2005-06   Winter                539         515         522          627         597         760          604         539         551         606          549         492         547          616         543  
+Potato           -              2005-06   -                   366         401         450          504         445         892          415         487         467         508          463         506         439          417         452  
+Rape/Mustard -                  2005-06   -                  1548        1644        1763         1534        1612        2806         2188        1661        1650        1576         1618        1749        1665         2005        1754  
+Rice             -            2005-06   Autum                 800         933           -         1046         904        1162         1006         934           -         980          945        1033         997         1093         970  
+                 -              2005-06   Summer              903         909        1082          937         950           -          988        1209        1134         987         1068        1103        1141         1003        1030  
+                 -            2005-06   Winter                988         984         972         1147        1005        1516         1024        1056        1056        1155          996        1003        1107         1093        1022  
+Sugar Raw        -              2005-06   -                  1819        1567        1876         2098        1850        2715         2075        1308        1392           -         2387        1770        1628         1650        1862  
+Wheat            -              2005-06   -                   700         717         786          659         792         900          734         823         804         705          834         831         751          950         802  
+
+                                                                                                                              61  
+
+----------------------- Page 2-----------------------
+
+                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal   
+                                                                                                                                                                                                              (Rs. per Quintal)  
+
+Crop              Variety      Year       Season        North      Puruliya    South 24     West                                                                                                                             State Wtd  
+                                                       Dinajpur                Parganas   Midnapore                                                                                                                           Average  
+Barley           -             2005-06   -                 1606           -           -           -                                                                                                                               1139  
+Gram             -             2005-06   -                 2257        2415        2212        2288                                                                                                                               1898  
+Jute             -             2005-06   -                 1379           -        1307        1137                                                                                                                               1208  
+Paddy            -           2005-06   Autum                  -         511         500         486                                                                                                                                520  
+                 -             2005-06   Summer             554         548         549         559                                                                                                                                574  
+                 -           2005-06   Winter               555         488         530         531                                                                                                                                543  
+Potato           -             2005-06   -                  488         479         466         415                                                                                                                                452  
+Rape/Mustard -                 2005-06   -                 2044        1774        1713        2015                                                                                                                               1754  
+Rice             -           2005-06   Autum                  -         923        1000         892                                                                                                                                970  
+                 -             2005-06   Summer            1090        1005         921         961                                                                                                                               1030  
+                 -           2005-06   Winter              1014         917        1106         991                                                                                                                               1022  
+Sugar Raw        -             2005-06   -                 1888        1750        1840        1531                                                                                                                               1862  
+Wheat            -             2005-06   -                  825         800         875         743                                                                                                                                802  
+
+                                                                                                                          62  

@@ -1,0 +1,24 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttranchal	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Almora	Dehradoon	Garhwal	Haridwar	Nanital	Udamsingh	State Wtd
+	(Pauri)	nagar	Average
+Barley	-	2010-11	Rabi	-	1087	-	-	-	-	1087
+Ground Nut	-	2010-11	-	-	-	-	3413	-	-	3413
+	-	2010-11	Kharif	-	-	-	3413	-	-	3413
+Maize	-	2010-11	-	-	947	-	1130	1018	1115	1053
+	-	2010-11	Kharif	-	947	-	1130	1018	1115	1053
+Paddy	-	2010-11	-	-	1111	-	1023	983	1053	1043
+	-	2010-11	Kharif	-	1111	-	1023	983	1053	1043
+Ragi	-	2010-11	-	-	1699	-	-	-	-	1699
+	-	2010-11	Kharif	-	1699	-	-	-	-	1699
+Rape/Mustard	-	2010-11	Rabi	-	-	-	-	2437	2108	2273
+Sesamum	-	2010-11	-	-	-	-	5580	-	-	5580
+	-	2010-11	Kharif	-	-	-	5580	-	-	5580
+Soyabean	-	2010-11	-	-	-	-	-	1901	-	1901
+	-	2010-11	Kharif	-	-	-	-	1901	-	1901
+Sugar Raw	-	2010-11	-	-	-	-	2711	3031	3083	2942
+Sugarcane	-	2010-11	-	-	-	-	231	203	191	208
+	-	2010-11	Kharif	-	-	-	231	230	191	208
+Wheat	-	2010-11	-	-	-	1097	-	1119	1074	-
+	-	2010-11	Rabi	-	-	-	-	1119	1074	1097
+	63	

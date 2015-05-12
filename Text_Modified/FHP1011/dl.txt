@@ -1,0 +1,13 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Delhi	
+	(Rs. per Quintal)	
+Crop Variety Year Season	State Wtd
+	Average
+Bajra	-	2010-11	-	1200	1200
+Barley	-	2010-11	-	1200	1200
+Gram	-	2010-11	-	3000	3000
+Jowar	-	2010-11	-	1700	1700
+Maize	-	2010-11	-	1400	1400
+Rape/Mustard	-	2010-11	-	2750	2750
+Tur Arhar	-	2010-11	-	4500	4500
+Wheat	-	2010-11	-	1300	1300
+	21	

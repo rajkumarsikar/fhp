@@ -1,0 +1,28 @@
+﻿----------------------- Page 1-----------------------
+
+                                                       CROP WISE Farm Harvest Prices of Principal Crops in India -  Mizoram   
+
+                                                                                                                                                                                                                              (Rs. per Quintal)  
+_________________________________________________________________________________________________________________________  
+                                                                                                                                                                                                                                
+Crop              Variety      Year       Season               -                                                                                                                                                                                     
+                                                                                                                                                                                                                                        
+                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                Kerala  
+Banana            -               2004-05   -                    949  
+Chilly            Dry             2004-05   -                   3916  
+Cotton            -               2004-05   -                   5083  
+Ginger            -               2004-05   -                    983  
+Maize             -               2004-05   -                    708  
+Paddy             -               2004-05   -                    716  
+Potato            -               2004-05   -                   1133  
+Rape/Mustard -                    2004-05   -                   1125  
+Sesamum           -               2004-05   -                   2150  
+Soyabean          -               2004-05   -                   2283  
+Sugarcane         -               2004-05   -                    616  
+Tapioca           -               2004-05   -                    750  
+Tobacco           -               2004-05   -                   9149  
+Tur Arhar         -               2004-05   -                   1149  
+Turmeric          -               2004-05   -                   1200  
+
+                                                                                                                           39  

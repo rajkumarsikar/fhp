@@ -1,0 +1,38 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Amritsar	Barnala	Bhatinda	Faridkot	Fatehgarh	Firozpur	Gurdaspur	Hoshiarpur	Jalandhar	kapurthala	Ludhiana	Mansa	Moga	Muktsar	State Wtd
+	Sahib	Average
+Bajra	-	2010-11	-	1340	-	-	-	-	-	800	-	-	-	-	-	-	920	1073
+Barley	-	2010-11	-	-	1250	1000	-	-	-	-	-	-	-	-	1000	-	900	999
+Cotton	American 2010-11	-	-	5025	-	5500	-	-	5000	-	-	-	-	5500	3995	3995	5082
+	Desi	2010-11	-	-	4200	-	4800	-	-	5000	-	-	-	-	-	3355	3355	3792
+Ginger	-	2010-11	-	-	4500	-	3200	-	-	2600	-	-	-	-	2500	-	-	3033
+Gram	-	2010-11	-	-	-	3200	-	-	-	3500	-	-	-	-	-	-	-	3378
+Ground Nut	-	2010-11	-	-	-	-	-	-	-	7000	3000	-	-	-	-	-	-	2872
+Maize	-	2010-11	-	892	1380	-	615	-	-	1300	1050	880	900	1400	-	-	-	1027
+Paddy	-	2010-11	-	1030	1100	1130	1080	1030	1030	1100	1030	1030	1030	1130	1030	1130	1030	1092
+Potato	-	2010-11	-	500	275	-	550	300	-	700	490	-	480	-	600	-	-	605
+Rape/Mustard	-	2010-11	-	1950	2600	-	2000	-	-	3400	-	-	2200	-	2200	-	2200	2693
+Sesamum	-	2010-11	-	2490	-	-	-	-	-	6500	-	-	-	-	-	-	-	3997
+Sugarcane	-	2010-11	-	-	-	-	-	-	-	420	-	-	-	-	-	-	-	322
+Wheat	-	2010-11	-	1100	1130	1100	1100	1120	1100	1170	1100	1020	1100	1100	1100	1100	1100	1103
+	48	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Nawanshah	Patiala	Rupnagar	S.A.S.Nagar	Sangrur	Tarean	State Wtd	
+	ar	Taran	Average	
+Bajra	-	2010-11	-	-	-	-	-	1500	-	1073	
+Barley	-	2010-11	-	-	975	-	-	-	-	999	
+Cotton	American 2010-11	-	-	-	-	-	-	-	5082	
+	Desi	2010-11	-	-	-	-	-	-	-	3792	
+Ginger	-	2010-11	-	-	2700	-	-	-	-	3033	
+Gram	-	2010-11	-	-	-	-	-	3200	-	3378	
+Ground Nut	-	2010-11	-	-	3200	-	-	-	-	2872	
+Maize	-	2010-11	-	-	1200	925	1200	-	892	1027	
+Paddy	-	2010-11	-	-	1130	1080	1030	1130	1200	1092	
+Potato	-	2010-11	-	-	800	-	-	-	1000	605	
+Rape/Mustard	-	2010-11	-	2375	2400	-	-	-	3500	2693	
+Sesamum	-	2010-11	-	-	-	-	-	-	-	3997	
+Sugarcane	-	2010-11	-	-	-	-	225	-	-	322	
+Wheat	-	2010-11	-	-	1100	1100	1120	1100	1100	1103	
+	49	

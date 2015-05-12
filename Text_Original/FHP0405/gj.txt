@@ -1,0 +1,49 @@
+﻿----------------------- Page 1-----------------------
+
+                                                        CROP WISE Farm Harvest Prices of Principal Crops in India -  Gujarat   
+                                                                                                                                                                                                                                (Rs. per Quintal)  
+Crop              Variety      Year       Season          Ahmedabad      Amreli       Anand      Banaskanth    Bharuch     Bhavnagar      Dahod     Gandhinagar  Jamnagar       Junagadh     Kachchh       Kheda      Mahesana      Narmada      Navsari  
+Bajra             -                2004-05  -                    859            -          461          512            -          601          519          616          626          630          710          470          587            -            -  
+CasterSeed        -                2004-05  -                   1261            -         1579         1486            -            -            -         1581         1558            -         1613         1550         1525            -            -  
+Chilly            -                2004-05  -                      -            -            -            -            -            -            -         4050         3864            -            -            -         4561            -            -  
+Cotton            -                2004-05  -                      -            -            -            -         1895         2305            -            -            -         1815            -            -            -            -            -  
+Gram              -                2004-05  -                   1445            -         1572            -         1570            -         1383            -            -            -            -         1705            -            -            -  
+Ground Nut        -                2004-05  -                      -            -         1625         1500            -         1673         1383         2000         1710         1750         1652         1620            -            -            -  
+Jowar             -                2004-05  -                    892            -            -         1106          807            -          513          711            -            -            -            -          528            -         1050  
+Maize             -                2004-05  -                      -            -            -            -          500            -          575          513            -            -            -          480            -            -            -  
+Paddy             -                2004-05  -                   1194            -          667            -          596            -          490          838            -            -            -          560            -            -          981  
+Potato            -                2004-05  -                      -            -          347          500            -            -            -          320            -            -            -          300          335            -            -  
+Ragi              -                2004-05  -                      -            -            -            -            -            -            -            -            -            -            -            -            -            -          700  
+Rape/Mustard -                     2004-05  -                   1255            -            -         1503            -            -            -         1644            -            -         1495         1765         1514            -            -  
+Sesamum           -                2004-05  -                      -            -            -         2813            -         3740         2977         3557         3271            -         3204            -            -            -            -  
+Sugar Raw         -                2004-05  -                      -            -            -            -            -            -            -            -            -         1345            -            -            -            -         1430  
+Tobacco           -                2004-05  -                      -            -         1653            -            -            -            -            -            -            -            -         1700         1958            -            -  
+Tur Arhar         -                2004-05  -                      -            -         1945         1512         1695            -         1651         1575            -            -            -         1658            -            -            -  
+Wheat             -                2004-05  -                    971            -          650          911         1048          808          699          843          781          907          745          710          736            -            -  
+
+                                                                                                                           22  
+
+----------------------- Page 2-----------------------
+
+                                                     CROP WISE Farm Harvest Prices of Principal Crops in India -  Gujarat   
+                                                                                                                                                                                                                   (Rs. per Quintal)  
+
+Crop              Variety      Year       Season         Panch        Patan     Porbandar     Rajkot       Sabar       Surat    Surendranag  The Dangs   Vadodara      Valsad  
+                                                         Mahals                                           Kantha                     ar  
+Bajra            -              2004-05   -                  500          608         640         605         541            -         660           -         416           -  
+CasterSeed       -              2004-05   -                    -         1539           -           -        1687            -           -           -        1525           -  
+Chilly           -              2004-05   -                    -         NQ             -        3602           -            -        3641           -           -        5070  
+Cotton           -              2004-05   -                    -         1692           -           -           -            -           -           -           -           -  
+Gram             -              2004-05   -                    -            -           -        1395           -            -        1520           -        2260           -  
+Ground Nut       -              2004-05   -                 1550            -        1725        1791        1496            -        1925           -        1530           -  
+Jowar            -              2004-05   -                  480          533        1025           -         415          764           -           -         433         926  
+Maize            -              2004-05   -                  525            -           -           -         579            -           -           -         479           -  
+Paddy            -              2004-05   -                  550            -           -           -         432          658           -         750         397         535  
+Ragi             -              2004-05   -                  450            -           -           -           -            -           -         500           -         545  
+Rape/Mustard -                  2004-05   -                    -         1570           -           -        1464            -           -           -           -           -  
+Sesamum          -              2004-05   -                    -            -           -        3354           -            -        3655           -        2206           -  
+Sugar Raw        -              2004-05   -                    -            -        1300           -           -         1310           -           -           -           -  
+Tur Arhar        -              2004-05   -                 1650            -           -           -        1549         1781           -           -        1177           -  
+Wheat            -              2004-05   -                  680          817         900         716         761          972         815           -         650           -  
+
+                                                                                                                    23  

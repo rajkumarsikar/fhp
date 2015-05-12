@@ -1,0 +1,153 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd
+	Nagar	Average
+Bajra	-	2010-11	Kharif	-	737	-	-	-	-	-	-	-	-	-	-	-	-	739
+Barley	-	2010-11	Rabi	1011	1050	-	-	-	1025	-	-	-	-	-	-	-	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	1808	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	3719	-	-	-	-	3058	-	-	-	2889	-	-	-	3686
+Gram	-	2010-11	Rabi	2159	-	-	-	-	2981	-	-	-	-	2260	-	-	-	2259
+Ground Nut	-	2010-11	Kharif	-	-	-	-	-	-	-	3532	-	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	818	-	-	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	2837	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	2837	-	-	-	2703
+Maize	-	2010-11	Kharif	-	957	-	-	-	-	-	854	-	-	2584	-	-	-	859
+Paddy	-	2010-11	Kharif	-	2063	-	-	-	-	2097	813	-	-	838	-	-	-	888
+Potato	-	2010-11	Rabi	513	473	-	-	-	-	-	-	-	-	-	-	-	-	459
+Rape/Mustard	-	2010-11	Rabi	2278	2219	-	-	-	-	-	-	-	-	-	-	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	4293	-	-	-	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	3072	2995	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	225	200	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	3538	-	-	-	-	3775	-	-	-	-	2889	-	-	-	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	1133	1097	-	-	-	1150	1188	-	-	-	1060	-	-	-	1063
+	57	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd
+	Budha	Average
+	Nagar	
+Bajra	-	2010-11	Kharif	-	-	-	-	834	-	664	-	-	-	-	796	-	-	739
+Barley	-	2010-11	Rabi	-	-	1046	-	895	-	940	-	-	-	958	1062	-	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	-	-	-	-	2503	-	2510	-	-	-	2293	-	-	-	2259
+Ground Nut	-	2010-11	Kharif	3089	-	-	-	-	-	-	-	-	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	-	-	791	-	-	-	-	-	818	-	-	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	-	2501	-	-	-	-	-	-	-	-	-	2703
+Maize	-	2010-11	Kharif	-	-	-	-	-	-	843	-	-	850	-	905	-	-	859
+Paddy	-	2010-11	Kharif	1047	-	-	-	922	-	-	-	-	845	954	979	-	-	888
+Potato	-	2010-11	Rabi	-	-	389	-	-	-	337	-	-	315	551	492	-	-	459
+Rape/Mustard	-	2010-11	Rabi	-	-	2369	-	-	-	1928	-	-	2004	2423	2406	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	-	-	-	-	6392	-	4226	4230	-	-	-	4549
+Sugar Raw	-	2010-11	Kharif	2667	-	-	-	-	-	-	-	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	199	-	-	-	-	-	-	-	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	3363	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	-	-	5000	-	3004	-	3563	-	-	-	2928	-	-	-	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	1151	-	1158	-	1051	-	1038	-	-	1078	1080	1099	-	-	1063
+	58	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(Cit	Kaushambi	State Wtd
+	(M.M.Naga	phule Nagar	Dehat	y)	Average
+	r)	
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	689	-	724	739
+Barley	-	2010-11	Rabi	907	-	-	-	-	-	976	-	-	-	-	1001	-	923	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	2882	-	-	2203	-	-	2156	3059	-	-	-	2169	-	1822	2259
+Ground Nut	-	2010-11	Kharif	-	-	-	-	-	-	-	-	2898	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	-	1028	-	-	-	-	861	-	-	774	-	673	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	2853	-	-	-	-	-	-	-	-	-	-	2703
+Maize	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	872	-	-	859
+Paddy	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	818	888
+Potato	-	2010-11	Rabi	490	-	-	-	-	-	-	-	-	-	-	-	-	326	459
+Rape/Mustard	-	2010-11	Rabi	-	-	-	2351	-	-	2047	-	-	-	-	2413	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	4800	-	-	-	-	4713	-	-	5202	-	3781	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	3369	-	-	2875	-	-	2953	3268	-	-	-	2778	-	3423	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	1074	-	-	1045	-	-	1002	976	1075	-	-	1060	-	1024	1063
+	59	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya Maharajgan	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad	Muzaffarna	State Wtd
+	Nagar	j	gar	Average
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	739
+Barley	-	2010-11	Rabi	-	-	862	-	-	-	-	-	1088	-	-	-	-	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	-	-	2075	-	-	-	-	-	-	-	-	-	-	-	2259
+Ground Nut	-	2010-11	Kharif	-	-	2274	-	-	-	-	-	-	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	952	-	-	-	-	-	-	-	-	-	-	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	2567	-	-	-	-	-	-	-	-	-	-	-	2703
+Maize	-	2010-11	Kharif	-	-	817	-	-	-	-	-	-	-	-	-	-	-	859
+Paddy	-	2010-11	Kharif	-	-	861	-	-	-	-	-	-	-	-	-	-	-	888
+Potato	-	2010-11	Rabi	-	-	-	-	-	-	-	342	-	-	541	-	-	-	459
+Rape/Mustard	-	2010-11	Rabi	2244	-	-	-	-	-	-	-	2113	-	-	-	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	4400	-	-	-	-	-	-	-	-	-	-	-	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3345
+Turmeric	-	2010-11	Rabi	2978	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	996	-	-	-	-	-	-	1120	-	-	1173	-	-	1159	1063
+	60	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahapur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd
+	Ravidas	Nagar	gar	Average
+	Nagar	
+Bajra	-	2010-11	Kharif	-	790	-	-	-	-	-	-	-	-	-	-	-	-	739
+Barley	-	2010-11	Rabi	-	1080	-	-	-	-	-	-	-	-	888	894	1036	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	2549	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	-	3171	-	-	-	-	-	-	-	-	-	2326	2445	-	2259
+Ground Nut	-	2010-11	Kharif	-	-	-	-	-	-	-	2639	-	-	2534	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	783	-	-	-	-	-	1529	-	-	-	-	786	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	2554	-	-	2703
+Maize	-	2010-11	Kharif	-	-	-	-	-	-	-	2436	616	-	792	723	-	-	859
+Paddy	-	2010-11	Kharif	-	759	-	-	-	-	910	989	693	-	857	870	939	-	888
+Potato	-	2010-11	Rabi	-	518	-	-	-	-	-	-	-	-	406	808	415	-	459
+Rape/Mustard	-	2010-11	Rabi	2525	-	-	-	-	-	-	-	-	-	2278	2442	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	-	-	-	-	3071	-	-	4589	3218	-	-	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	-	2889	-	-	2644	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	-	202	-	-	200	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	2844	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	-	3022	-	-	-	3681	-	-	2928	-	3988	-	4878	-	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	3019	-	-	-	2987
+Wheat	-	2010-11	Rabi	1050	1143	-	-	-	956	-	-	975	-	1012	1072	1044	-	1063
+	61	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Varanasi	State Wtd	
+	Average	
+Bajra	-	2010-11	Kharif	-	739	
+Barley	-	2010-11	Rabi	-	984	
+CasterSeed	-	2010-11	Kharif	-	1808	
+Cotton	-	2010-11	Kharif	-	3686	
+Gram	-	2010-11	Rabi	-	2259	
+Ground Nut	-	2010-11	Kharif	-	2721	
+Jowar	-	2010-11	Kharif	-	836	
+Jute	-	2010-11	Kharif	-	2837	
+Linseed	-	2010-11	Rabi	-	2703	
+Maize	-	2010-11	Kharif	-	859	
+Paddy	-	2010-11	Kharif	-	888	
+Potato	-	2010-11	Rabi	-	459	
+Rape/Mustard	-	2010-11	Rabi	-	2267	
+Sesamum	-	2010-11	Kharif	-	4549	
+Sugar Raw	-	2010-11	Kharif	-	2789	
+Sugarcane	-	2010-11	Kharif	-	204	
+Tobacco	Calcattia	2010-11	Rabi	-	3332	
+Tur Arhar	-	2010-11	Rabi	-	3345	
+Turmeric	-	2010-11	Rabi	-	2987	
+Wheat	-	2010-11	Rabi	-	1063	
+	62	

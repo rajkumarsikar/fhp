@@ -1,0 +1,18 @@
+﻿----------------------- Page 1-----------------------
+
+                                            Crop Wise Farm Harvest Prices of Principal Crops in India - Andman & Nicobar   
+                                                                                                                                                                                                               (Rs. per Quintal)  
+
+Crop              Variety      Year       Season      Campbellba Car-Nicobar   Diglipur   Ferrargunj    Little-  Mayabunder  Nancowrie     Portblair    Rangat                                                                State Wtd  
+                                                          y                                            Andaman                                                                                                                 Average  
+Arecanut         -             2008-09   -                 6000       10000        8000        5500        5300        8000        6500        5500        6000                                                                    6760  
+                 -             2009-10   -                    -           -        6000        7000        6500        8500        7500        4500        6000                                                                    6570  
+Chilly           Green         2009-10   -                15000           -        8000        8000       10000       12000           -       12500       12000                                                                   11070  
+Ginger           -             2008-09   -                    -        8750       14000       11000        4000       15000        3000        8000       20000                                                                   10470  
+                 -             2009-10   -                    -           -       15000        8000        6000       18000           -       15000       15000                                                                   12830  
+Maize            -             2009-10   -                    -           -           -           -        3000        3500           -           -        3000                                                                    3500  
+Paddy            -             2008-09   -                    -           -         625        2000         700         700           -        1000         900                                                                     990  
+                 -             2009-10   -                    -           -         690         800        2200         900           -        1000         900                                                                    1080  
+Tapioca          -             2009-10   -                    -           -        2000        1500           -           -           -        1000           -                                                                    1500  
+
+                                                                                                                  19  

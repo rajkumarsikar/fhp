@@ -1,0 +1,10 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Pondicherry	
+	(Rs. per Quintal)	
+Crop Variety Year Season	Karaikal	Mahe	Puducherry	Yanam	State Wtd
+	Average
+Ground Nut	-	2010-11	-	-	-	3055	-	3055
+Jowar	-	2010-11	-	-	-	1074	-	1074
+Paddy	Fine	2010-11	-	1150	-	1135	1145	1135
+Ragi	-	2010-11	-	-	-	1043	-	1043
+Sesamum	-	2010-11	-	-	-	3216	-	3216
+	47	

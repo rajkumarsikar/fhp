@@ -1,0 +1,40 @@
+ Crop Wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
+ (Rs. per Quintal)
+ Crop Variety Year Season Anantnag Bandipora Baramulla Budgam Doda Ganderbal Jammu Kargil Kathua Kishtwar Kulgam Kupwara Leh Poonch State Wtd
+ Average
+ Bajra - 2010-11 - - - - - - - 1000 - 1200 - - - 1000 - 1000
+ Barley - 2010-11 - - - - - 1500 1350 1500 - 1500 1400 - - 1350 - 1453
+ Chilly - 2010-11 - 10000 - - 8000 - 8000 - - 8700 - 9000 - - 8000 8888
+ Gram - 2010-11 - - - - - - - - - 4500 - - - - - 3823
+ Ground Nut - 2010-11 - - - - - - - - - - - - - - - 4000
+ Jowar - 2010-11 - - - - - - - - - - - - - - - 3000
+ Linseed - 2010-11 - - - 2500 - - - 6300 - 4000 - - - - - 4351
+ Maize - 2010-11 - 1550 1150 900 1800 1200 850 1000 - 1200 1200 1300 1200 - 900 1156
+ Potato - 2010-11 - 1500 1200 - 1200 - 1000 800 1900 1000 1400 1100 1600 2100 1500 1207
+ Rape/Mustard - 2010-11 - 4000 2000 2800 3300 4500 2200 5950 - 5500 7000 4000 - 3450 10000 3823
+ Rice - 2010-11 - 2200 2500 2200 2400 3600 2800 3500 - 3200 2800 2000 2000 - 2800 2641
+ Sesamum - 2010-11 - - - - - - - 6000 - 6100 - - - - - 6311
+ Tobacco - 2010-11 - - - - - - - - - 6000 - - - - - 6000
+ Wheat - 2010-11 - 1500 1000 1300 1800 1250 - 1200 1200 1200 1000 2200 - 1150 1200 1213
+ 28
+$13$10
+ Crop Wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
+ (Rs. per Quintal)
+ Crop Variety Year Season Pulwama Rajauri Rambon Reasi Samba Shopian Srinagar Udhampur State Wtd
+ Average
+ Bajra - 2010-11 - - 1400 - 1000 950 - - 1000 1000
+ Barley - 2010-11 - - 2200 - - 1900 - - 1200 1453
+ Chilly - 2010-11 - 9000 10000 - 9000 - - 10000 7500 8888
+ Gram - 2010-11 - - - - - 3400 - - - 3823
+ Ground Nut - 2010-11 - - - - - 4000 - - - 4000
+ Jowar - 2010-11 - - - - - 3000 - - - 3000
+ Linseed - 2010-11 - 4200 6200 - - - - - 3000 4351
+ Maize - 2010-11 - 1500 1200 1200 1000 1150 1200 1100 1150 1156
+ Potato - 2010-11 - 1400 - - - 1000 1500 1500 1250 1207
+ Rape/Mustard - 2010-11 - 3870 6000 2200 2400 2700 3100 2100 4650 3823
+ Rice - 2010-11 - 2200 2200 2000 2300 3500 2100 2100 3700 2641
+ Sesamum - 2010-11 - - 6100 - 6200 6500 - - 6300 6311
+ Tobacco - 2010-11 - - - - - - - - - 6000
+ Wheat - 2010-11 - 1875 1200 1200 1150 1200 1300 1400 1350 1213
+ 29
+$13$10

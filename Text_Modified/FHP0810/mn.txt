@@ -1,0 +1,26 @@
+﻿----------------------- Page 1-----------------------
+
+                                                         Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Manipur Manipur   
+                                                         Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Manipur Manipur  
+                                                                                                                                                                                                                             (Rs. per Quintal)  
+
+Crop              Variety      Year       Season                                                                                                                                                                                              State Wtd  
+                                                                                                                                                                                                                                              Average  
+Chilly            -               2006-07   -                  11000                                                                                                                                                                              11000 
+                  -               2007-08   -                  12500                                                                                                                                                                              12500 
+Ginger            -               2006-07   -                    725                                                                                                                                                                                725 
+                  -               2007-08   -                    730                                                                                                                                                                                730 
+Maize             -               2006-07   -                    533                                                                                                                                                                                533 
+                  -               2007-08   -                    565                                                                                                                                                                                565 
+Paddy             -            2006-07   Autum                   600                                                                                                                                                                                600 
+                  -            2006-07   Winter                  620                                                                                                                                                                                620 
+                  -            2007-08   Autum                   637                                                                                                                                                                                637 
+                  -            2007-08   Winter                  650                                                                                                                                                                                650 
+Potato            -               2006-07   -                    675                                                                                                                                                                                675 
+                  -               2007-08   -                    726                                                                                                                                                                                726 
+Rape/Mustard -                    2006-07   -                   1400                                                                                                                                                                               1400 
+                  -               2007-08   -                   1500                                                                                                                                                                               1500 
+Sugarcane         -               2006-07   -                    250                                                                                                                                                                                250 
+                  -               2007-08   -                    285                                                                                                                                                                                285 
+
+                                                                                                                          64  

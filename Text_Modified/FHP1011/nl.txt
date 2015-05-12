@@ -1,0 +1,9 @@
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Nagaland	
+	(Rs. per Quintal)	
+Crop Variety Year Season	State Wtd
+	Average
+Ginger	-	2010-11	-	2000	2000
+Maize	-	2010-11	-	650	650
+Paddy	Coarse	2010-11	-	800	800
+	Fine	2010-11	-	900	900
+	45	
