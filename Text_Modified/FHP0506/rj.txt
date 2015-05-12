@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                                       (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Ajmer       Alwar      Banswara      Baran       Barmer     Bharatpur    Bhilwara     Bikaner      Bundi     Chittorgarh    Churu       Dausa       Dholpur    Dungarpur    State Wtd  
                                                                                                                                                                                                                                        Average  
 Bajra             -           2005-06   Kharif                623          549           -          508         775         519          580         732          521           -         660          557         508          600         609  
@@ -27,14 +25,10 @@ Sugar Raw         -           2005-06   Rabi                    -            -  
 Tobacco           -           2005-06   Rabi                    -            -           -            -           -           -            -           -            -           -           -            -           -            -        1734  
 Tur Arhar         -           2005-06   Rabi                    -            -           -            -           -        2238            -           -            -           -           -            -        1721            -        2252  
 Wheat             -           2005-06   Rabi                  945          808         818          839        1031         914         1000         875          810         866         853          848         665          854         823  
-
                                                                                                                                48  
-
 ----------------------- Page 2-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                                       (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Ganganagar Hanumangar       Jaipur     Jaisalmer     Jalor      Jhalawar    Jhunjunu     Jodhpur      Karauli      Kota        Nagaur        Pali     Rajsamand     Sawai      State Wtd  
                                                                          h                                                                                                                                               Madhopur      Average  
 Bajra             -           2005-06   Kharif                701          586         578          565         625         506          623         702          630           -         687          646         604          536         609  
@@ -59,14 +53,10 @@ Sugar Raw         -           2005-06   Rabi                    -         1500  
 Tobacco           -           2005-06   Rabi                    -            -           -            -           -           -            -           -            -           -           -            -           -            -        1734  
 Tur Arhar         -           2005-06   Rabi                    -            -           -            -           -           -            -           -            -        1567           -            -           -            -        2252  
 Wheat             -           2005-06   Rabi                    -          755         897          930        1086         760          891        1042          860         873        1030         1000         950          834         823  
-
                                                                                                                                 49  
-
 ----------------------- Page 3-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Sikar       Sirohi      Tonk       Udaipur                                                                                                                           State Wtd  
                                                                                                                                                                                                                               Average  
 Bajra            -           2005-06   Kharif               641         643         575           -                                                                                                                                609  
@@ -91,5 +81,4 @@ Sugar Raw        -           2005-06   Rabi                   -           -     
 Tobacco          -           2005-06   Rabi                   -        1734           -           -                                                                                                                               1734  
 Tur Arhar        -           2005-06   Rabi                   -        2592        1475           -                                                                                                                               2252  
 Wheat            -           2005-06   Rabi                1000        1031         816         870                                                                                                                                823  
-
                                                                                                                           50  

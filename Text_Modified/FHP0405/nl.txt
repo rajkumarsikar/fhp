@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                   CROP WISE Farm Harvest Prices of Principal Crops in India -  Nagaland   
                                                                                                                                                                                                              (Rs. per Quintal)  
 Crop              Variety      Year       Season          -  
@@ -7,5 +6,4 @@ Ginger           -             2004-05  -                  800
 Maize            -             2004-05  -                  620  
 Paddy            Coarse        2004-05  -                  590  
                  Fine          2004-05  -                  630  
-
                                                                                                                  40  

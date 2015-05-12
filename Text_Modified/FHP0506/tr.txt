@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
                                                                                                                                                                                                                               Average  
 Cotton           Un-g          2005-06   -                 2733                                                                                                                                                                   2733  
@@ -14,5 +12,4 @@ Paddy            -           2005-06   Autum                784                 
 Potato           -             2005-06   -                  772                                                                                                                                                                    772  
 Rape/Mustard -                 2005-06   -                 2279                                                                                                                                                                   2279  
 Sesamum          -             2005-06   -                 1760                                                                                                                                                                   1760  
-
                                                                                                                           54  

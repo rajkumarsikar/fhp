@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                          Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Mizoram Mizoram   
                                                          Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Mizoram Mizoram  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season                                                                                                                                                                                              State Wtd  
                                                                                                                                                                                                                                               Average  
 Chilly            -               2006-07   -                   4391                                                                                                                                                                               4391 
@@ -33,5 +31,4 @@ Tur Arhar         -               2006-07   -                   1272            
                   -               2007-08   -                   1510                                                                                                                                                                               1510 
 Turmeric          -               2006-07   -                   1104                                                                                                                                                                               1104 
                   -               2007-08   -                   1118                                                                                                                                                                               1118 
-
                                                                                                                           65  

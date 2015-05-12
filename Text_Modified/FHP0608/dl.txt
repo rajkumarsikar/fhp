@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                             Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Delhi Delhi   
                                                             Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Delhi Delhi  
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season                                                                                                                                                                                               State Wtd  
                                                                                                                                                                                                                                                Average  
 Bajra             -               2006-07   -                    795                                                                                                                                                                                 795 
@@ -24,5 +22,4 @@ Tur Arhar         -               2006-07   -                   2254            
                   -               2007-08   -                   2725                                                                                                                                                                                2725 
 Wheat             -               2006-07   -                   1131                                                                                                                                                                                1131 
                   -               2007-08   -                   1187                                                                                                                                                                                1187 
-
                                                                                                                           35  

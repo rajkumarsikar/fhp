@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab   
                                                                                                                                                                                                                     (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Amritsar    Bhatinda     Faridkot   Fatehgarh    Firozpur    Gurdaspur  Hoshiarpur   Jalandhar   kapurthala   Ludhiana      Mansa       Moga       Muktsar   Nawanshaha    State Wtd  
                                                                                                Sahib                                                                                                                       r        Average  
 Bajra            -              2005-06   -                   468         700         460           -           -          750         895           -           -          575         600           -         696          700         507  
@@ -22,14 +20,10 @@ Sesamum          -              2005-06   -                  2328        2300   
 Sugarcane        -              2005-06   -                  1565        1450        1500        1775        1300         1600        1895        1350        1100         1560        1200        1500        1100          950        1523  
 Toria            -              2005-06   -                  1118        1250           -           -           -         2500           -           -           -         1690           -           -           -         1600        1284  
 Wheat            -              2005-06   -                   603         650         640         641         640          700         670         640         641          650         640         750         640          700         635  
-
                                                                                                                              46  
-
 ----------------------- Page 2-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Patiala   Rupnagar     Sangrur                                                                                                                                       State Wtd  
                                                                                                                                                                                                                               Average  
 Bajra            -             2005-06   -                    -         450         600                                                                                                                                            507  
@@ -48,5 +42,4 @@ Sesamum          -             2005-06   -                    -        2500     
 Sugarcane        -             2005-06   -                 1250        1200        1800                                                                                                                                           1523  
 Toria            -             2005-06   -                 1450           -           -                                                                                                                                           1284  
 Wheat            -             2005-06   -                  640         640         630                                                                                                                                            635  
-
                                                                                                                           47  

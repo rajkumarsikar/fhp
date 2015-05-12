@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                               Crop Wise Farm Harvest Prices of Principal Crops in India - Himachal Pradesh   
                                                                                                                                                                                                                         (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Bilaspur    Chamba      Hamirpur      Kangra      Kinnaur      Kullu      Lahaul &      Mandi       Shimla      Sirmaur       Solan        Una                                State Wtd  
                                                                                                                                       Spiti                                                                                              Average  
 Barley            -              2008-09   -                   896         800         1342        1145         1192        1050         1600        1164          800         930         1350        1700                                  1164  
@@ -35,5 +33,4 @@ Turmeric          -              2008-09   -                  5017           -  
                   -              2009-10   -                  6333           -         5875        6000            -           -            -        5920            -        6333         4425       10033                                  6749  
 Wheat             -              2008-09   -                  1033         900         1036        1020         1150        1100          900         973         1100        1070         1154        1170                                  1051  
                   -              2009-10   -                  1350        1090         1186        1100         1400        1400         1500        1148         1500        1175         1212        1210                                  1273  
-
                                                                                                                        42  

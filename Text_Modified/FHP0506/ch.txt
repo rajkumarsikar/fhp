@@ -1,13 +1,10 @@
 ﻿----------------------- Page 1-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Chandigarh   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
                                                                                                                                                                                                                               Average  
 Ginger           -             2005-06   -                 2250                                                                                                                                                                   2250  
 Paddy            -             2005-06   -                  576                                                                                                                                                                    576  
 Potato           -             2005-06   -                  550                                                                                                                                                                    550  
 Wheat            -             2005-06   -                  822                                                                                                                                                                    822  
-
                                                                                                                           17  

@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                         CROP WISE Farm Harvest Prices of Principal Crops in India -  Gujarat   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
 Crop              Variety      Year       Season          Ahmedabad      Amreli       Anand      Banaskanth    Bharuch     Bhavnagar      Dahod     Gandhinagar  Jamnagar       Junagadh     Kachchh       Kheda      Mahesana      Narmada      Navsari  
@@ -20,14 +19,10 @@ Sugar Raw         -                2004-05  -                      -            
 Tobacco           -                2004-05  -                      -            -         1653            -            -            -            -            -            -            -            -         1700         1958            -            -  
 Tur Arhar         -                2004-05  -                      -            -         1945         1512         1695            -         1651         1575            -            -            -         1658            -            -            -  
 Wheat             -                2004-05  -                    971            -          650          911         1048          808          699          843          781          907          745          710          736            -            -  
-
                                                                                                                            22  
-
 ----------------------- Page 2-----------------------
-
                                                      CROP WISE Farm Harvest Prices of Principal Crops in India -  Gujarat   
                                                                                                                                                                                                                    (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Panch        Patan     Porbandar     Rajkot       Sabar       Surat    Surendranag  The Dangs   Vadodara      Valsad  
                                                          Mahals                                           Kantha                     ar  
 Bajra            -              2004-05   -                  500          608         640         605         541            -         660           -         416           -  
@@ -45,5 +40,4 @@ Sesamum          -              2004-05   -                    -            -   
 Sugar Raw        -              2004-05   -                    -            -        1300           -           -         1310           -           -           -           -  
 Tur Arhar        -              2004-05   -                 1650            -           -           -        1549         1781           -           -        1177           -  
 Wheat            -              2004-05   -                  680          817         900         716         761          972         815           -         650           -  
-
                                                                                                                     23  

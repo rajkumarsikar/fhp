@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra   
                                                                                                                                                                                                                          (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Ahmednagar     Akola      Amravati  Aurangabad        Beed      Bhandara     Buldhana   Chandrapur     Dhule      Gadchiroli    Gondia      Hingoli      Jalgaon       Jalna     State Wtd  
                                                                                                                                                                                                                                          Average  
 Bajra             -              2005-06   -                   675          409         550          400         448            -          400           -          650           -            -         530          689         521          547  
@@ -22,14 +20,10 @@ Soyabean          -              2005-06   -                   990         1079 
 Sunflower         -              2005-06   -                  1353         1203        1132         1150        1109            -         1192           -         1125           -            -        1073         1085        1130         1150  
 Tur Arhar         -              2005-06   -                  1920         1799        2172         1800        1833         1801         1870        1475         1584        1950         1925        2000         1682        1940         1916  
 Wheat             -              2005-06   -                   815          723         679          672         736          700          710         652          654         675          787         680          707         703          728  
-
                                                                                                                                 38  
-
 ----------------------- Page 2-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra   
                                                                                                                                                                                                                   (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Kolhapur      Latur      Mumbai       Nagpur      Nanded    Nandurbar      Nasik    Osmanabad     Parbhani      Pune       Raigarh    Ratnagiri     Sangli      Satara    State Wtd  
                                                                                                                                                                                                                                   Average  
 Bajra            -              2005-06  -                     -         591         611           -          561         546         584         450         530         573           -           -          627         695         547  
@@ -49,14 +43,10 @@ Soyabean         -              2005-06  -                  1125        1136    
 Sunflower        -              2005-06  -                   995        1200        1070        1150         1095        1022        1125        1122        1247        1121           -           -         1303        1120        1150  
 Tur Arhar        -              2005-06  -                  2037        1955        1573        1925         1895        1565        1939        1920        1975        1820           -           -         2025        2000        1916  
 Wheat            -              2005-06  -                   613         775         642         730          686         600         610         702         745         773           -           -          991         755         728  
-
                                                                                                                             39  
-
 ----------------------- Page 3-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Sindhudurg   Solapur      Thane      Wardha      Washim     Yavatmal                                                                                                   State Wtd  
                                                                                                                                                                                                                               Average  
 Bajra            -             2005-06   -                    -         655           -           -         465         443                                                                                                        547  
@@ -76,5 +66,4 @@ Soyabean         -             2005-06   -                    -         826     
 Sunflower        -             2005-06   -                    -        1214           -           -        1143        1140                                                                                                       1150  
 Tur Arhar        -             2005-06   -                    -        1807           -        2172        1952        1835                                                                                                       1916  
 Wheat            -             2005-06   -                    -         792           -         706         725         625                                                                                                        728  
-
                                                                                                                            40  

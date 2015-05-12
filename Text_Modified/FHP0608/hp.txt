@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Himachal Pradesh Himachal Pradesh   
                                                Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Himachal Pradesh Himachal Pradesh  
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Bilaspur    Chamba      Hamirpur      Kangra      Kinnaur       Kullu      Lahaul &      Mandi        Shimla      Sirmaur       Solan        Una                                 State Wtd  
                                                                                                                                          Spiti                                                                                              Average  
 Barley            -              2006-07   -                    717          788         1258         978         1017         1040        1400          914          793          725         900         1200                                   978 
@@ -38,5 +36,4 @@ Turmeric          -              2006-07   -                   5000         2867
                   -              2007-08   -                   6000            -         5900        5000            -            -           -         5204            -         3716           -         4733                                  5092 
 Wheat             -              2006-07   -                    825          760          850         902          942          905         850          892          894          960         914          852                                   879 
                   -              2007-08   -                    975          916          977         950         1000          975         900          965          975         1010        1050         1000                                   974 
-
                                                                                                                          41  

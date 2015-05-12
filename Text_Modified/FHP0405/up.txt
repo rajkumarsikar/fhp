@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Uttar Pradesh   
                                                                                                                                                                                                                       (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Agra       Aligarh    Allahabad   Ambedkar      Auraiya    Azamgarh      Bagpat     Bahraich      Ballia    Balrampur      Banda     Barabanki     Bareilly      Basti      Bijnor  
                                                                                                Nagar  
 Bajra             -           2004-05   Kharif                449          434           -           -            -           -            -           -           -            -           -           -            -           -            -  
@@ -22,14 +20,10 @@ Sugar Raw         -           2004-05   Kharif                  -            -  
 Sugarcane         -           2004-05   Kharif                  -            -           -           -            -           -          101         105           -            -           -           -            -         113          105  
 Tur Arhar         -           2004-05   Rabi                 1675            -           -           -            -           -            -        1591        1719            -        1577           -            -        1988            -  
 Wheat             -           2004-05   Rabi                  662          679           -         629            -           -            -         543         631            -         633           -            -         638          664  
-
                                                                                                                       51  
-
 ----------------------- Page 2-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Uttar Pradesh   
                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Budaun    Bulandshahr  Chandauli   Chitrakoot     Deoria       Etah       Etawah      Faizabad  Farrukhabad   Fatehpur    Firozabad     Gautam     Ghaziabad    Ghazipur     Gonda  
                                                                                                                                                                                                  Budha  
                                                                                                                                                                                                   Nagar  
@@ -49,14 +43,10 @@ Tobacco           -Desi       2004-05   Rabi                    -           -   
                   Calcattia  2004-05   Rabi                     -           -            -           -           -         1712           -           -         1547           -           -            -           -           -            -  
 Tur Arhar        -            2004-05   Rabi                    -        1563            -           -        1847            -           -           -            -        1613           -            -           -        1580            -  
 Wheat            -            2004-05   Rabi                    -         640            -           -         522          543           -           -          634         473         630            -         665         618            -  
-
                                                                                                                       52  
-
 ----------------------- Page 3-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Uttar Pradesh   
                                                                                                                                                                                                                        (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Gorakhpur    Hamirpur      Hardoi      Hathras      Jalaun      Jaunpur      Jhansi      Jyotiba     Kannauj      Kanpur    Kanpur(City  Kaushambi      Kheri    KushiNagar    Lalitpur  
                                                                                                                                               phule Nagar                 Dehat          )  
 Bajra             -           2004-05   Kharif                   -           -           -          420         468            -           -            -           -           -            -           -            -           -            -  
@@ -78,14 +68,10 @@ Sugarcane         -           2004-05   Kharif                   -           -  
 Tur Arhar         -           2004-05   Rabi                     -        1596        1696            -        1558            -           -            -           -           -            -           -            -           -            -  
 Turmeric          -           2004-05   Rabi                     -           -           -            -           -            -           -            -           -           -            -           -          702         266            -  
 Wheat             -           2004-05   Rabi                     -         634         628            -         615            -         636            -         612           -            -           -          510         573          645  
-
                                                                                                                       53  
-
 ----------------------- Page 4-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Uttar Pradesh   
                                                                                                                                                                                                                       (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Lucknow    Mahamaya  Maharajganj   Mahoba        Mainpuri     Mathura       Mau        Meerut      Mirzapur   Moradabad Muzaffarnag      Pilibhit   Pratapgarh   RaeBareli    Rampur  
                                                                       Nagar                                                                                                             ar  
 Bajra             -           2004-05   Kharif                  -            -           -           -          375           -            -           -         458            -           -            -         405           -            -  
@@ -105,14 +91,10 @@ Sugar Raw         -           2004-05   Kharif                  -         1154  
 Sugarcane         -           2004-05   Kharif                  -          108           -           -            -           -            -           -          95            -           -            -           -           -            -  
 Tur Arhar         -           2004-05   Rabi                    -         1598           -           -            -           -         1984           -           -            -           -            -        1636           -            -  
 Wheat             -           2004-05   Rabi                    -          641           -         661          619           -          622         678           -          663         649            -         655           -            -  
-
                                                                                                                       54  
-
 ----------------------- Page 5-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Uttar Pradesh   
                                                                                                                                                                                                                   (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Saharanpur     Sant     Sant Kabir  Shahjahanpu  Shrawasti  Siddharthna    Sitapur   Sonbhadra    Sultanpur    Unnao       Varanasi  
                                                                     Ravidas      Nagar          r                      gar  
                                                                      Nagar  
@@ -131,5 +113,4 @@ Sugar Raw        -            2004-05   Kharif              1009           -    
 Sugarcane        -            2004-05   Kharif               107           -            -          87           -           -         109           -            -          90           -  
 Tur Arhar        -            2004-05   Rabi                   -           -            -           -           -           -           -        1548            -        1320        1944  
 Wheat            -            2004-05   Rabi                 621           -            -         601           -           -           -         653            -         606         643  
-
                                                                                                                     55  

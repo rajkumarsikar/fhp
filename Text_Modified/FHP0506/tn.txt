@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                     Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu   
                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Coimbatore  Cuddalore  Dharmapuri   Dindugal        Erode     Kanchipura Kanyakumar      Karur     Krishnagiri  Madurai    Nagapattina  Namakkal     Nilgiris   Perambalur   State Wtd  
                                                                                                                          m            i                                                m                                             Average  
 Arecanut         -              2005-06   -                  5921           -           -            -           -           -         1883           -           -           -            -           -           -            -        4994  
@@ -22,14 +20,10 @@ Sugar Raw        -              2005-06   -                  1355        1482   
 Tapioca          -              2005-06   -                   465           -           -            -           -           -          391           -           -           -            -           -           -            -         340  
 Tur Arhar        -              2005-06   -                  2295        1609        2195         1655        2232           -            -           -        2195        1953            -           -           -            -        2036  
 Turmeric         -              2005-06   -                  2500        3238           -         2638        2354           -            -        3320           -        2906         3320           -           -            -        2499  
-
                                                                                                                               51  
-
 ----------------------- Page 2-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu   
                                                                                                                                                                                                                          (Rs. per Quintal)  
-
                                                                     Ramanathap                                                                  Thiruvanna                           Tiruchirappa                                        State Wtd  
 Crop              Variety      Year       Season        Pudukkottai                 Salem      Sivaganga   Thanjavur      Theni    Thirunelveli              Thiruvarur  Thoothukudi               Tiruvallur    Vellore   Viluppuram  
                                                                         uram                                                                       malai                                  lli                                            Average  
@@ -50,14 +44,10 @@ Sugar Raw         -              2005-06   -                  1418            - 
 Tapioca           -              2005-06   -                     -            -         320            -         419            -            -           -            -           -            -           -            -           -          340  
 Tur Arhar         -              2005-06   -                  2302            -        2167            -           -         2086            -        1882            -           -            -           -         1877        2430         2036  
 Turmeric          -              2005-06   -                  3236            -        2606            -        3128         2781         3255        2758         2971           -         2790           -         3162        2688         2499  
-
                                                                                                                                 52  
-
 ----------------------- Page 3-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu   
                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season    Virudhunaga                                                                                                                                                            State Wtd  
                                                           r                                                                                                                                                                Average  
 Arecanut         -             2005-06  -                    -                                                                                                                                                                 4994  
@@ -77,5 +67,4 @@ Sugar Raw        -             2005-06  -                 1228                  
 Tapioca          -             2005-06  -                    -                                                                                                                                                                  340  
 Tur Arhar        -             2005-06  -                 1767                                                                                                                                                                 2036  
 Turmeric         -             2005-06  -                    -                                                                                                                                                                 2499  
-
                                                                                                                         53  

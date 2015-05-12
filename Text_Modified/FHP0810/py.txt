@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Pondicherry   
                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Karaikal     Mahe     Puducherry    Yanam                                                                                                                           State Wtd  
                                                                                                                                                                                                                           Average  
 Bajra           -              2009-10  -                    -          -         816           -                                                                                                                              816  
@@ -19,5 +17,4 @@ Ragi            -              2008-09  -                    -          -       
                 -              2009-10  -                    -          -        1000           -                                                                                                                             1000  
 Sesamum         -              2008-09  -                    -          -        3712           -                                                                                                                             3712  
                 -              2009-10  -                    -          -        3498           -                                                                                                                             3498  
-
                                                                                                                 69  

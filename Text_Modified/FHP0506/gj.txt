@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                          Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat   
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Ahmedabad      Amreli       Anand     Banaskanth    Bharuch     Bhavnagar      Dahod    Gandhinagar  Jamnagar      Junagadh     Kachchh       Kheda      Mahesana     Narmada      State Wtd  
                                                                                                                                                                                                                                             Average  
 Bajra             -               2005-06  -                    487          605         468          652            -          604         657          616          720         702          739          601         587          672          644  
@@ -22,14 +20,10 @@ Sugar Raw         -               2005-06  -                      -         1470
 Tobacco           -               2005-06  -                      -            -        1626            -            -            -           -            -            -           -            -         2099        1958            -         1766  
 Tur Arhar         -               2005-06  -                      -            -        1971            -         1730            -        1604         1575            -           -            -         1679           -         1596         1679  
 Wheat             -               2005-06  -                    981          813         675          827          830          825         789          883          847         805          851          770         736          702          836  
-
                                                                                                                                   23  
-
 ----------------------- Page 2-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat   
                                                                                                                                                                                                                       (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Navsari       Panch       Patan     Porbandar      Rajkot      Sabar        Surat    Surendranag  The Dangs    Vadodara      Valsad                                          State Wtd  
                                                                       Mahals                                            Kantha                     ar                                                                                  Average  
 Bajra             -              2005-06  -                     -          688         830          770         660         642            -         679            -         511           -                                               644  
@@ -49,5 +43,4 @@ Sugar Raw         -              2005-06  -                  1450            -  
 Tobacco           -              2005-06  -                     -            -           -            -           -           -            -           -            -        1380           -                                              1766  
 Tur Arhar         -              2005-06  -                     -         1721           -            -           -        1503         1822           -            -        1585           -                                              1679  
 Wheat             -              2005-06  -                     -          958         962          880         810         808          984         826            -         826           -                                               836  
-
                                                                                                                                24  

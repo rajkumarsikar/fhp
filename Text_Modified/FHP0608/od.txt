@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Orissa Orissa   
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Orissa Orissa  
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season                                                                                                                                                                                               State Wtd  
                                                                                                                                                                                                                                                Average  
 Ground Nut        -               2006-07   -                   1711                                                                                                                                                                                1711 
@@ -26,5 +24,4 @@ Sugarcane         -               2006-07   -                    109            
                   -               2007-08   -                     90                                                                                                                                                                                  90 
 Wheat             -               2006-07   -                    941                                                                                                                                                                                 941 
                   -               2007-08   -                   1077                                                                                                                                                                                1077 
-
                                                                                                                            67  

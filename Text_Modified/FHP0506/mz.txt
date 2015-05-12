@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Mizoram   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
                                                                                                                                                                                                                               Average  
 Chilly           -             2005-06   -                 4105                                                                                                                                                                   4105  
@@ -16,5 +14,4 @@ Soyabean         -             2005-06   -                 2219                 
 Sugarcane        -             2005-06   -                  468                                                                                                                                                                    468  
 Tobacco          -             2005-06   -                 8750                                                                                                                                                                   8750  
 Turmeric         -             2005-06   -                 1120                                                                                                                                                                   1120  
-
                                                                                                                          42  

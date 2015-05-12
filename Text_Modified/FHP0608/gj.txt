@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                           Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Gujarat Gujarat   
                                                           Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Gujarat Gujarat  
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Ahmedabad       Amreli       Anand     Banaskanth     Bharuch    Bhavnagar      Dahod     Gandhinagar  Jamnagar      Junagadh      Kachchh       Kheda      Mahesana     Narmada      State Wtd  
                                                                                                                                                                                                                                                Average  
 Bajra             -               2006-07   -                    537          686          513          708            -         710          672          616          749            -          851          650         645            -          652 
@@ -40,15 +38,11 @@ Tur Arhar         -               2006-07   -                      -            
                   -               2007-08   -                      -         2139         1977            -         2078           -         2189         1640            -            -            -         2174           -         2110         2062 
 Wheat             -               2006-07   -                   1065          950          908         1022          962        1050          992         1183          995            -         1068          875        1000          989          975 
                   -               2007-08   -                   1020         1003         1077         1086         1071        1050          964            -         1026          930         1019          978        1025         1056         1047 
-
                                                                                                                           37  
-
 ----------------------- Page 2-----------------------
-
                                                           Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Gujarat Gujarat   
                                                           Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Gujarat Gujarat  
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Navsari       Panch        Patan      Porbandar      Rajkot       Sabar        Surat    Surendranag      Tapi      The Dangs    Vadodara      Valsad                                State Wtd  
                                                                          Mahals                                             Kantha                      ar                                                                                     Average  
 Bajra             -               2006-07   -                      -          735          645          712          732         722            -          886            -            -          620            -                                   652 
@@ -85,5 +79,4 @@ Tur Arhar         -               2006-07   -                      -         181
                   -               2007-08   -                      -         1811         2160         2003            -        2216            -         1833            -            -         2110            -                                  2062 
 Wheat             -               2006-07   -                      -         1150         1000         1174         1052        1047          993         1100            -            -         1250            -                                   975 
                   -               2007-08   -                      -         1229         1070         1020         1010        1037         1042         1064            -            -         1296            -                                  1047 
-
                                                                                                                           38  

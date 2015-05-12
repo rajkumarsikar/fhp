@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Bihar Bihar   
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Bihar Bihar  
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Aurangabad  Jahanabad       Araia        Arbal       Banka      Begusarai     Bhabua     Bhagalpur     Bhojpur       Buxar     Darbhanga       East         Gaya      Gopalganj    State Wtd  
                                                                                                                                       (Kymmur)                   (Aara)                              Champaran                              Average  
 Barley            -            2006-07   Rabi                   550          550          550         550          550          532         548          550          550          550         550          550          550         580          550 
@@ -45,15 +43,11 @@ Sesamum           -            2006-07   Kharif                1776            -
                   Bhadea       2007-08   Kharif                1950         1950         1950        1950            -         1950        1950            -         1950            -        1950         1824         1964        1950         1950 
 Sugar Raw         -            2006-07   Kharif                1238         1238            -        1238         1238         1404        1437         1238         1238         1238        1238         1238         1238        1225         1238 
                   -            2007-08   Kharif                1345         1345            -        1345         1345         1480        1345         1345         1345         1345           -         1345         1345        1345         1345 
-
                                                                                                                          23  
-
 ----------------------- Page 2-----------------------
-
                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Bihar Bihar   
                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Bihar Bihar  
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Aurangabad  Jahanabad       Araia        Arbal        Banka      Begusarai     Bhabua     Bhagalpur      Bhojpur       Buxar     Darbhanga       East         Gaya      Gopalganj     State Wtd  
                                                                                                                                         (Kymmur)                    (Aara)                               Champaran                               Average  
 Tur Arhar         -             2006-07   Rabi                   1928         1946         1946        1946         1946         1946         1946         1946         1946         1946         1900         1970         1946         1946         1946 
@@ -62,15 +56,11 @@ Turmeric          -             2006-07   Rabi                   2017         20
                   -             2007-08   Rabi                      -         2145         2145        2145            -         2110            -         2145         2143            -         2145         2145         2145         2145         2145 
 Wheat             -             2006-07   Rabi                    817          817          817         890          839          758          817          817          817          817          850          850          817          780          817 
                   -             2007-08   Rabi                    947          938          950         918          938          938          938          938          938          938          938          936          929          938          938 
-
                                                                                                                            24  
-
 ----------------------- Page 3-----------------------
-
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Bihar Bihar   
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Bihar Bihar  
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Jumui       Katihar     Khagaria   Kishanganj  Lakhisarai  Madhepura  Madhubani         Munger    Muzaffarpur   Nalanda       Nawada        Patna       Purnia      Rohtas      State Wtd  
                                                                                                                                                                                                                                             Average  
 Barley            -            2006-07   Rabi                   587          550          533         550          550          550         550          550          550          483         550          550          550         550          550 
@@ -112,15 +102,11 @@ Sesamum           -            2006-07   Kharif                   -            -
                   Bhadea       2007-08   Kharif                   -         1950            -        1950            -         1950        2089            -         1950         1950        1950            -         1950        1950         1950 
 Sugar Raw         -            2006-07   Kharif                1238         1238            -        1238         1238         1452        1238            -         1238         1224        1238         1238            -           -         1238 
                   -            2007-08   Kharif                1345            -            -           -            -            -           -         1345            -         1345        1345            -            -           -         1345 
-
                                                                                                                          25  
-
 ----------------------- Page 4-----------------------
-
                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Bihar Bihar   
                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Bihar Bihar  
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Jumui       Katihar     Khagaria    Kishanganj  Lakhisarai  Madhepura  Madhubani          Munger    Muzaffarpur   Nalanda       Nawada         Patna       Purnia       Rohtas      State Wtd  
                                                                                                                                                                                                                                                  Average  
 Tur Arhar         -             2006-07   Rabi                   1946         1946         1807        1946         1946         1946         1946         1946         1946         1946         1946         1946         1946         1946         1946 
@@ -129,15 +115,11 @@ Turmeric          -             2006-07   Rabi                   2017         20
                   -             2007-08   Rabi                      -         2145         2145        2145            -         2100            -            -            -         2143         2145            -         2300         2145         2145 
 Wheat             -             2006-07   Rabi                    817          817          817         805          817          850          817          817          817          898          817          817          890          817          817 
                   -             2007-08   Rabi                    938          938          938         869          938          938          938          938          938          938          938          940          950          938          938 
-
                                                                                                                            26  
-
 ----------------------- Page 5-----------------------
-
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Bihar Bihar   
                                                            Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Bihar Bihar  
                                                                                                                                                                                                                           (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Saharsa    Samastipur      Saran     Sheikhpura    Sheohar     Sitamarhi     Siwan       Supaul      Vaishali      West                                                         State Wtd  
                                                                                    (Chapra)                                                                               Champaran                                                       Average  
 Barley            -            2006-07   Rabi                   550         550          550          550         550          550         550          550          550         550                                                            550 
@@ -179,15 +161,11 @@ Sesamum           -            2006-07   Kharif                   -        1776 
                   Bhadea       2007-08   Kharif                   -        1950            -            -           -            -        1950         1950            -        1950                                                           1950 
 Sugar Raw         -            2006-07   Kharif                1238        1270            -         1238        1238         1238        1238            -         1200        1238                                                           1238 
                   -            2007-08   Kharif                1525        1345         1345         1345           -         1345        1345            -            -        1345                                                           1345 
-
                                                                                                                         27  
-
 ----------------------- Page 6-----------------------
-
                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Bihar Bihar   
                                                              Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Bihar Bihar  
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Saharsa    Samastipur      Saran     Sheikhpura     Sheohar     Sitamarhi      Siwan       Supaul      Vaishali       West                                                           State Wtd  
                                                                                      (Chapra)                                                                                  Champaran                                                         Average  
 Tur Arhar         -             2006-07   Rabi                   1946         1946         1946         1946        1946         1946         1946         1946         1946         1946                                                             1946 
@@ -196,5 +174,4 @@ Turmeric          -             2006-07   Rabi                   2017         20
                   -             2007-08   Rabi                   2145         2145         2145            -           -         2145            -         2145         2145         2145                                                             2145 
 Wheat             -             2006-07   Rabi                    817          817          817          817         800          817          817          817          817          817                                                              817 
                   -             2007-08   Rabi                    938          938          938          938         938          885          938          950          938          938                                                              938 
-
                                                                                                                            28  

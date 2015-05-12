@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                  Crop wise Farm Harvest Prices of Principal Crops in India -  Chandigarh   
                                                                                                                                                                                                              (Rs. per Quintal)  
 Crop              Variety      Year       Season          -  
@@ -7,14 +6,10 @@ Ginger           -             2004-05  -                 1850
 Paddy            -             2004-05  -                  583  
 Potato           -             2004-05  -                  350  
 Wheat            -             2004-05  -                  704  
-
                                                                                                                  16  
-
 ----------------------- Page 2-----------------------
-
                                                     Crop wise Farm Harvest Prices of Principal Crops in India -  Chhattisgarh   
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Bastar      Bilaspur    Dantewada    Dhamtari       Durg        Janjgir-     Jashpur      Kanker     Kawardha       Korba       Koriya     Mahasamun      Raigarh      Raipur    Rajnandgao 
                                                                                                                             Champa                                                                          d                                     n  
 Barley            -               2004-05   -                      -            -            -           -            -            -            -            -            -           -          583            -            -            -            -  
@@ -43,16 +38,11 @@ Tobacco           -               2004-05   -                   3760         428
 Tur Arhar         Early           2004-05   -                      -         1690            -           -         1529         2094         1474         1633         1495           -         1781            -         1519            -            -  
 Turmeric          -               2004-05   -                   4754         3788         5127           -            -         3755         3744            -            -           -         2811         4417         3739         2219            -  
 Wheat             -               2004-05   -                   1029          704            -         700          638          803          666          817          709           -          729            -          794          798          805  
-
                                                                                                                            17  
-
 ----------------------- Page 3-----------------------
-
                                                     Crop wise Farm Harvest Prices of Principal Crops in India -  Chhattisgarh   
-                                                                                                                                
                                                                                                                                                                                                                                  (Rs. per Quintal)  
 Crop              Variety      Year       SeasonCrop              Variety      Year       Season   AnantnagSurguja   
-                                                                  
 Barley             -               2004-05   -                    514  
 Ginger             Fresh           2004-05   -                   2419  
 Gram               -               2004-05   -                   1683  
@@ -72,5 +62,4 @@ Tobacco            -               2004-05   -                   4295
 Tur Arhar          Early           2004-05   -                   1514  
 Turmeric           -               2004-05   -                   2487  
 Wheat              -               2004-05   -                    637  
-
                                                                                                                             18  

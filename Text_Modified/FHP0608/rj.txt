@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Ajmer        Alwar      Banswara       Baran       Barmer     Bharatpur     Bhilwara     Bikaner       Bundi     Chittorgarh    Churu        Dausa       Dholpur    Dungarpur     State Wtd  
                                                                                                                                                                                                                                               Average  
 Bajra             -            2006-07   Kharif                  722          629           -          469          871          617          680         746          610            -          710          653          634         800          690 
@@ -45,15 +43,11 @@ Sesamum           -            2006-07   Kharif                 2862         239
 Sugar Raw         -            2006-07   Rabi                   1527            -        1274         1383            -         1835         1423           -            -            -            -            -         1802        1568         1578 
                   -            2007-08   Rabi                   1595            -        1374         1356            -            -         1508           -            -            -            -            -         1802        1586         1601 
 Tobacco           -            2006-07   Rabi                      -            -           -            -            -            -            -           -            -            -            -            -            -           -         1760 
-
                                                                                                                           71  
-
 ----------------------- Page 2-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Ajmer        Alwar      Banswara       Baran       Barmer     Bharatpur     Bhilwara     Bikaner       Bundi     Chittorgarh    Churu        Dausa       Dholpur    Dungarpur     State Wtd  
                                                                                                                                                                                                                                               Average  
 Tobacco           -            2007-08   Rabi                      -         2748           -            -            -            -            -           -            -            -            -            -           -            -         2461 
@@ -61,15 +55,11 @@ Tur Arhar         -            2006-07   Rabi                      -         181
                   -            2007-08   Rabi                   3990         1939           -         1601            -         2040            -           -            -            -            -            -        2922            -         2336 
 Wheat             -            2006-07   Rabi                   1047          915         951          864         1114          918         1065         933          879          910          985          962         899          951          940 
                   -            2007-08   Rabi                   1165          986         950          970         1245         1012         1074        1032         1038         1000         1100         1054        1012         1037         1029 
-
                                                                                                                           72  
-
 ----------------------- Page 3-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Ganganagar Hanumangar        Jaipur     Jaisalmer      Jalor      Jhalawar     Jhunjunu     Jodhpur      Karauli       Kota        Nagaur        Pali      Pratapgarh  Rajsamand   State Wtd  
                                                                            h                                                                                                                                                                  Average  
 Bajra             -            2006-07   Kharif                  697          623         631            -          711          672          678         954          675            -          751          765           -          760          690 
@@ -111,15 +101,11 @@ Sesamum           -            2006-07   Kharif                    -         292
 Sugar Raw         -            2006-07   Rabi                      -         1250           -            -            -            -            -           -            -         1364            -            -           -            -         1578 
                   -            2007-08   Rabi                      -            -           -            -            -            -            -           -            -         1276            -            -           -         1442         1601 
 Tobacco           -            2006-07   Rabi                      -            -           -            -            -            -            -           -            -            -            -            -           -            -         1760 
-
                                                                                                                           73  
-
 ----------------------- Page 4-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Ganganagar Hanumangar        Jaipur     Jaisalmer      Jalor      Jhalawar     Jhunjunu     Jodhpur      Karauli       Kota        Nagaur        Pali      Pratapgarh  Rajsamand   State Wtd  
                                                                            h                                                                                                                                                                  Average  
 Tobacco           -            2007-08   Rabi                      -            -           -            -            -            -            -           -            -            -            -            -           -            -         2461 
@@ -127,15 +113,11 @@ Tur Arhar         -            2006-07   Rabi                      -            
                   -            2007-08   Rabi                      -            -           -            -            -            -            -           -            -         2038            -            -           -            -         2336 
 Wheat             -            2006-07   Rabi                    868          870        1011            -         1157          853          954        1141          953          919         1019         1071           -         1102          940 
                   -            2007-08   Rabi                   1056          990        1055         1215         1200          882         1049        1136         1025         1023         1140         1118           -         1015         1029 
-
                                                                                                                           74  
-
 ----------------------- Page 5-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Sawai        Sikar       Sirohi       Tonk       Udaipur                                                                                                                        State Wtd  
                                                           Madhopur                                                                                                                                                                          Average  
 Bajra             -            2006-07   Kharif                 610          683          705         644            -                                                                                                                            690 
@@ -177,15 +159,11 @@ Sesamum           -            2006-07   Kharif                2974         2866
 Sugar Raw         -            2006-07   Rabi                     -            -            -           -         1710                                                                                                                           1578 
                   -            2007-08   Rabi                     -            -            -           -         1850                                                                                                                           1601 
 Tobacco           -            2006-07   Rabi                     -            -         1760           -            -                                                                                                                           1760 
-
                                                                                                                          75  
-
 ----------------------- Page 6-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Rajasthan Rajasthan   
                                                        Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Rajasthan Rajasthan  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Sawai        Sikar        Sirohi       Tonk       Udaipur                                                                                                                         State Wtd  
                                                           Madhopur                                                                                                                                                                            Average  
 Tobacco           -            2007-08   Rabi                      -            -        2042            -            -                                                                                                                            2461 
@@ -193,5 +171,4 @@ Tur Arhar         -            2006-07   Rabi                      -            
                   -            2007-08   Rabi                      -            -        2597            -            -                                                                                                                            2336 
 Wheat             -            2006-07   Rabi                    957         1035        1025          946          938                                                                                                                             940 
                   -            2007-08   Rabi                   1039         1142        1059         1028         1026                                                                                                                            1029 
-
                                                                                                                           76  

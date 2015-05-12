@@ -1,9 +1,5 @@
 ﻿----------------------- Page 1-----------------------
-
-  
-
 2.25. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN ANDAMAN & NICOBAR ISLANDS                           
-  
                                                                                                  (Rs. per quintal)  
 District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram    Tur  Sugar Potato Tobacco Ground  
                                                                                 Arhar  Raw                   nut   
@@ -11,22 +7,11 @@ District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram   
 ANDAMAN&NICOBAR(1998-99  550     ..     ..     ..     ..     ..     ..     ..     ..     50**   ..     ..     ..  
 ISLANDS         1999-00  550     ..     ..     ..     ..     ..     ..     ..     ..    608**   ..     ..     . .  
                 2000-01  625     ..     ..     ..     ..     ..     ..     ..     ..    575**   ..     ..     ..  
-  
-  
 ANDAMAN&NICOBAR 1998-99  550     ..     ..     ..     ..     ..     ..     ..     ..     50**   ..     ..     ..  
  ISLANDS        1999-00  550     ..     ..     ..     ..     ..     ..     ..     ..    608**   ..     ..     ..  
  (S.W.Average)   2000-01  625     ..     ..     ..     ..     ..     ..     ..     ..    575**   ..     ..     ..  
-  
 Sugar-cane Pricein 1999-2000& 2000-2001 in Rs. Per 100 Nos  
-  
-  
-
-  
-  
-  
-  
 2.25. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN ANDAMAN & NICOBAR ISLANDS (Concluded). 
-  
                                                                                                     (Rs. per quintal)  
 District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- Pepper Ginger Chilly Turmeric Mesta  
                        Mustard                Seed                        hemp  
@@ -34,10 +19,6 @@ District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- 
 ANDAMAN&NICOBAR 1998-99   ..     ..     ..     ..     ..     ..     ..     ..  10000   3000   1200     ..     ..  
 ISLANDS         1999-00   ..     ..     ..     ..     ..     ..     ..     ..  11000     ..     ..     ..     ..  
                                            2000-01   ..     ..     ..     ..     ..     ..     ..     ..  15000   4585   4150     ..     ..  
-  
-  
 ANDAMAN&NICOBAR 1998-99   ..     ..     ..     ..     ..     ..     ..     ..  10000   3000   1200     ..     ..  
 ISLANDS         1999-00   ..     ..     ..     ..     ..     ..     ..     ..  11000     ..     ..     ..     ..  
  (S.W.Average)   2000-01   ..     ..     ..     ..     ..     ..     ..     ..  15000   4585   4150     ..     ..  
-  
-  

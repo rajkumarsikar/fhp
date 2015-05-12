@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                           CROP WISE Farm Harvest Prices of Principal Crops in India -  Kerala   
                                                                                                                                                                                                                         * :Rs.  100 Nos  (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Alappuzha  Ernakulam         Idukki       Kannur      Kasargod      Kollam      Kottayam   Kozhikode  Malappuram  Palakkad  Pathanamthi Thiruvanant             Trichur      Wayanad  
                                                                                                                                                                                                    tta       hapuram  
 Arecanut  *        -               2004-05   -                      35           40           38           37           41           44            47           36           28           37           46            44           45           31  
@@ -13,5 +11,4 @@ Paddy              -               2004-05   -                     669          
 Pepper             -               2004-05   -                    6221         6089         6156         5922         5929         6042          6025         5926         5951         5988         6061          5381         6037         6710  
 Sugarcane          -               2004-05   -                       -            -           96            -            -            -             -            -            -           60            -             -            -            -  
 Tapioca            -               2004-05   -                     420          400          437          488          446          366           447          416          372          353          408           400          418          330  
-
                                                                                                                               30  

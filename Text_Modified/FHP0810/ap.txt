@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Adilabad   Anantapur     Chittor    Cuddapah       East       Guntur      Kadapa     Karimnagar  Khammam       Krishna     Kurnool   Mahbubnaga      Medak      Nalgonda    State Wtd  
                                                                                                           Godavari                                                                                  r                                 Average  
 Bajra            -               2008-09  -                  1741         719          789           -         779            -        1317           -            -           -          817         779         779         1013         950  
@@ -45,12 +43,9 @@ Maize            -               2008-09  -                   817         804   
                  -            2008-09   Kharif                816         874          874           -         841          841         874         796          812         841          825         852         830          822         861  
                  -            2008-09   Rabi                  816         759          759           -         852          770         759         742          745         761          780         911         792          745         771  
                                                                                                                       13  
-
 ----------------------- Page 2-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                                                        (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Adilabad     Anantapur      Chittor     Cuddapah        East        Guntur       Kadapa     Karimnagar  Khammam          Krishna      Kurnool   Mahbubnaga        Medak       Nalgonda     State Wtd  
                                                                                                                    Godavari                                                                                          r                                   Average  
 Maize              -                2009-10   -                     820          914          878             -          886           952          881          828           772          799          842           888          808           826          867  
@@ -92,26 +87,18 @@ Tur Arhar          -                2008-09   -                    2205         
                    -             2009-10   Rabi                    3616         3616         3616             -         3616          3616         3616         3616          3616         3616         3616          3616         3616          3616         3616  
 Turmeric           -                2008-09   -                    2061            -         4455             -         3816          4722         4455         3703          4429         4809         4455          3487         5103             -         3834  
                    -             2008-09   Kharif                  2061            -         4455             -         3816          4722         4455         3703          4429         4809         4455          3487         5103             -         3834  
-
                                                                                                                                 14  
-
 ----------------------- Page 3-----------------------
-
                                              Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                           (Rs. per Quintal)  
-
 Crop              Variety      Year       Season     Adilabad   Anantapur     Chittor   Cuddapah      East       Guntur     Kadapa    Karimnagar  Khammam      Krishna     Kurnool   Mahbubnaga   Medak      Nalgonda    State Wtd  
                                                                                                     Godavari                                                                              r                              Average  
 Turmeric        -             2009-10   -               13636           -       11199          -       13238       12863       10441       8171       11123       13612      11957       11957       11205          -       10823  
                 -           2009-10   Kharif            13636           -       11199          -       13238       12863       10441       8171       11123       13612      11957       11957       11205          -       10823  
-
                                                                                                                  15  
-
 ----------------------- Page 4-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                                    (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Nellore   Nizamabad   Prakasam   Rangareddi  Srikakulam Visakhapatn Vizianagara     Warangal      West                                                                   State Wtd  
                                                                                                                         am          m                    Godavari                                                                  Average  
 Bajra            -              2008-09   -                  630        1741          871         779         684         959         722            -           -                                                                      950  
@@ -154,12 +141,9 @@ Maize            -              2008-09   -                  783         815    
                  -            2008-09   Kharif               841         822          841         804         747         792         837         1203         841                                                                      861  
                  -            2008-09   Rabi                 778         799          778         911         836         844         853          821         743                                                                      771  
                                                                                                                     16  
-
 ----------------------- Page 5-----------------------
-
                                               Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Nellore   Nizamabad   Prakasam   Rangareddi  Srikakulam Visakhapatn Vizianagara    Warangal      West                                                                 State Wtd  
                                                                                                                      am          m                    Godavari                                                                Average  
 Maize            -             2009-10   -                  944         843         952         878        1172         957        885         822         863                                                                     867  
@@ -201,17 +185,12 @@ Tur Arhar        -             2008-09   -                 3135        2171     
                  -           2009-10   Rabi                3616        3616        3616        3616           -        3616       3616        3616        3616                                                                    3616  
 Turmeric         -             2008-09   -                 4766        3296        4766        3487        3816        3816       3816        4429        3816                                                                    3834  
                  -           2008-09   Kharif              4766        3296        4766        3487        3816        3816       3816        4429        3816                                                                    3834  
-
                                                                                                                   17  
-
 ----------------------- Page 6-----------------------
-
                                              Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Nellore   Nizamabad   Prakasam   Rangareddi  Srikakulam Visakhapatn Vizianagara  Warangal      West                                                                 State Wtd  
                                                                                                                    am          m                   Godavari                                                               Average  
 Turmeric        -              2009-10  -                13238       9240       13238       11428       13238      13238       13238       13058       13238                                                                 10823  
                 -           2009-10   Kharif             13238       9240       13238       11428       13238      13238       13238       13058       13238                                                                 10823  
-
                                                                                                                 18  

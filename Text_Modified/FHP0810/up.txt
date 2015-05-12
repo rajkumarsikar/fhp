@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Agra       Aligarh     Allahabad   Ambedkar       Auraiya     Azamgarh      Bagpat      Bahraich      Ballia     Balrampur      Banda      Barabanki     Bareilly      Basti      State Wtd  
                                                                                                    Nagar                                                                                                                                       Average  
 Bajra             -            2008-09   Kharif                  609          603            -           -          685            -            -            -            -            -           -            -            -            -          632  
@@ -45,25 +43,18 @@ Tur Arhar         -            2008-09   Rabi                      -         263
                   -            2009-10   Rabi                   4388            -            -           -            -            -            -         3973         4350            -        3982            -            -            -         4094  
 Turmeric          -            2008-09   Rabi                      -            -            -           -            -            -            -            -            -            -           -            -            -            -          483  
                                                                                                                            82  
-
 ----------------------- Page 2-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                     (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Agra       Aligarh    Allahabad   Ambedkar     Auraiya     Azamgarh     Bagpat      Bahraich     Ballia    Balrampur      Banda     Barabanki    Bareilly      Basti     State Wtd  
                                                                                               Nagar                                                                                                                                 Average  
 Turmeric         -            2009-10   Rabi                    -           -           -           -           -            -           -           -           -            -           -           -           -            -         819  
 Wheat            -            2008-09   Rabi                    -         986           -         928           -          925        1076         928           -            -         962           -           -          938         983  
                  -            2009-10   Rabi                 1078        1046           -           -           -          925        1084         991           -            -         994           -           -            -        1021  
-
                                                                                                                      83  
-
 ----------------------- Page 3-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Bijnor      Budaun     Bulandshahr  Chandauli   Chitrakoot      Deoria        Etah        Etawah      Faizabad  Farrukhabad   Fatehpur      Firozabad     Gautam     Ghaziabad     State Wtd  
                                                                                                                                                                                                                       Budha                    Average  
                                                                                                                                                                                                                        Nagar  
@@ -105,14 +96,10 @@ Tobacco           Calcattia  2008-09   Rabi                        -            
                   Calcattia  2009-10   Rabi                        -            -            -           -            -            -         3125            -            -         2185           -            -            -            -         2798  
 Tur Arhar         -            2008-09   Rabi                      -            -         2219           -            -         2943            -            -            -            -        3094            -            -            -         3215  
                   -            2009-10   Rabi                      -            -         5338           -         3550         3341            -            -            -            -        4228            -            -            -         4094  
-
                                                                                                                            84  
-
 ----------------------- Page 4-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Bijnor      Budaun     Bulandshahr  Chandauli   Chitrakoot      Deoria        Etah        Etawah      Faizabad  Farrukhabad   Fatehpur       Firozabad     Gautam     Ghaziabad     State Wtd  
                                                                                                                                                                                                                         Budha                    Average  
                                                                                                                                                                                                                         Nagar  
@@ -120,14 +107,10 @@ Turmeric          -             2008-09   Rabi                     -            
                   -             2009-10   Rabi                     -            -            -            -            -            -            -            -            -            -            -            -            -            -          819  
 Wheat             -             2008-09   Rabi                  1018            -            -            -          956         1009            -          971            -            -            -         1029            -            -          983  
                   -             2009-10   Rabi                  1062          931         1100            -         1081         1163         1016            -            -          972         1104         1025            -            -         1021  
-
                                                                                                                             85  
-
 ----------------------- Page 5-----------------------
-
                                                          Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                                                        (Rs. per Quintal)  
-
 Crop              Variety      Year       Season                 Ghazipur        Gonda       Gorakhpur      Hamirpur        Hardoi        Hathras        Jalaun       Jaunpur         Jhansi       Jyotiba       Kannauj        Kanpur     Kanpur(City  Kaushambi   State Wtd  
                                                                                                                                        (M.M.Nagar                                                phule Nagar                     Dehat            )                       Average  
                                                                                                                                               )  
@@ -169,14 +152,10 @@ Tobacco              Calcattia  2008-09   Rabi                             -    
                      Calcattia  2009-10   Rabi                             -             -             -              -             -             -             -              -             -             -              -             -             -              -          2798  
 Tur Arhar            -             2008-09   Rabi                          -             -             -           3264             -             -             -           3243             -             -              -          3352             -              -          3215  
                      -             2009-10   Rabi                          -             -             -           3788          4051             -             -              -             -             -              -          3982             -           3850          4094  
-
                                                                                                                                         86  
-
 ----------------------- Page 6-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season               Ghazipur       Gonda      Gorakhpur     Hamirpur        Hardoi       Hathras       Jalaun       Jaunpur        Jhansi       Jyotiba      Kannauj       Kanpur     Kanpur(City  Kaushambi   State Wtd  
                                                                                                                                  (M.M.Nagar                                             phule Nagar                    Dehat           )                       Average  
                                                                                                                                        )  
@@ -184,14 +163,10 @@ Turmeric            -            2008-09   Rabi                        -        
                     -            2009-10   Rabi                        -             -             -            -             -             -            -             -             -            -             -             -             -            -           819  
 Wheat               -            2008-09   Rabi                        -             -           952          957             -             -            -           940           961            -           975           974             -            -           983  
                     -            2009-10   Rabi                        -             -           961         1041           995             -            -             -          1046         1050           976          1045             -         1019          1021  
-
                                                                                                                                   87  
-
 ----------------------- Page 7-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Kheri    KushiNagar     Lalitpur    Lucknow     Mahamaya  Maharajganj   Mahoba          Mainpuri     Mathura        Mau        Meerut      Mirzapur    Moradabad Muzaffarnag      State Wtd  
                                                                                                                 Nagar                                                                                                                 ar       Average  
 Bajra             -            2008-09   Kharif                    -            -            -           -            -            -            -            -          624            -           -            -          637            -          632  
@@ -234,25 +209,18 @@ Tur Arhar         -            2008-09   Rabi                      -            
                   -            2009-10   Rabi                      -            -            -           -            -            -            -            -            -            -           -            -            -            -         4094  
 Turmeric          -            2008-09   Rabi                      -          461            -           -            -            -            -            -            -            -           -            -            -            -          483  
                                                                                                                            88  
-
 ----------------------- Page 8-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Kheri    KushiNagar    Lalitpur   Lucknow    Mahamaya  Maharajganj   Mahoba       Mainpuri    Mathura       Mau        Meerut     Mirzapur   Moradabad Muzaffarnag   State Wtd  
                                                                                                         Nagar                                                                                                        ar       Average  
 Turmeric         -           2009-10   Rabi                2131         845           -           -           -           -          -           -           -           -           -           -           -           -         819  
 Wheat            -           2008-09   Rabi                   -        1070         931           -           -           -        930           -        1069           -        1348        1000        1023        1062         983  
                  -           2009-10   Rabi                 959        1111        1045           -           -           -       1080           -           -           -        1173           -           -        1094        1021  
-
                                                                                                                   89  
-
 ----------------------- Page 9-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Pilibhit   Pratapgarh   RaeBareli     Rampur     Saharanpur       Sant     Sant Kabir  Shahjahapur  Shrawasti  Siddharthna       Sitapur    Sonbhadra    Sultanpur     Unnao       State Wtd  
                                                                                                                             Ravidas      Nagar                                    gar                                                          Average  
                                                                                                                              Nagar  
@@ -294,14 +262,10 @@ Tobacco           Calcattia  2008-09   Rabi                        -            
                   Calcattia  2009-10   Rabi                        -            -            -           -            -            -            -            -            -            -        3506            -            -            -         2798  
 Tur Arhar         -            2008-09   Rabi                      -         4283         3288           -            -            -         3619            -         3474            -        4350         3400         2713         3086         3215  
                   -            2009-10   Rabi                      -         4579            -           -            -            -         3642            -         3852         2038        4173         3010         4870         3793         4094  
-
                                                                                                                           90  
-
 ----------------------- Page 10-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Pilibhit   Pratapgarh   RaeBareli    Rampur      Saharanpur      Sant     Sant Kabir  Shahjahapur  Shrawasti  Siddharthna      Sitapur    Sonbhadra    Sultanpur     Unnao      State Wtd  
                                                                                                                           Ravidas      Nagar                                   gar                                                         Average  
                                                                                                                            Nagar  
@@ -309,14 +273,10 @@ Turmeric          -            2008-09   Rabi                     -           - 
                   -            2009-10   Rabi                     -           -            -            -           -            -            -           -            -            -        2147            -            -           -          819  
 Wheat             -            2008-09   Rabi                     -         899         1031            -           -            -          867           -          887            -         921            -          940         953          983  
                   -            2009-10   Rabi                     -        1000            -            -           -         1062          909         955          967          955         990          991         1011        1049         1021  
-
                                                                                                                          91  
-
 ----------------------- Page 11-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Varanasi                                                                                                                                                              State Wtd  
                                                                                                                                                                                                                              Average  
 Bajra            -           2008-09   Kharif                 -                                                                                                                                                                   632  
@@ -359,16 +319,12 @@ Tur Arhar        -           2008-09   Rabi                   -                 
                  -           2009-10   Rabi                3226                                                                                                                                                                  4094  
 Turmeric         -           2008-09   Rabi                   -                                                                                                                                                                   483  
                                                                                                                  92  
-
 ----------------------- Page 12-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Varanasi                                                                                                                                                              State Wtd  
                                                                                                                                                                                                                              Average  
 Turmeric         -           2009-10   Rabi                   -                                                                                                                                                                   819  
 Wheat            -           2008-09   Rabi                   -                                                                                                                                                                   983  
                  -           2009-10   Rabi                 928                                                                                                                                                                  1021  
-
                                                                                                                  93  

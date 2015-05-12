@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Chhattisgarh Chhattisgarh   
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Chhattisgarh Chhattisgarh  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Bastar      Bilaspur   Dantewada   Dhamtari        Durg        Janjgir-     Jashpur      Kanker     Kawardha       Korba       Koriya    Mahasamun      Raigarh      Raipur      State Wtd  
                                                                                                                            Champa                                                                          d                                 Average  
 Barley            -               2006-07   -                      -           -            -            -            -           -            -            -            -           -          900            -            -           -          772 
@@ -45,15 +43,11 @@ Sesamum           -            2006-07   Kharif                 2467        2847
                   -            2007-08   Rabi                      -        4481            -            -            -        3519            -            -            -           -            -         4297            -        4843         4256 
 Soyabean          -               2006-07   -                      -        1416            -            -            -           -            -            -         1215           -            -         1982            -           -         1505 
                   -               2007-08   -                      -        1655            -            -            -           -            -            -         1715           -            -         1863            -        1623         1712 
-
                                                                                                                           30  
-
 ----------------------- Page 2-----------------------
-
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Chhattisgarh Chhattisgarh   
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Chhattisgarh Chhattisgarh  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Bastar      Bilaspur   Dantewada   Dhamtari        Durg        Janjgir-     Jashpur      Kanker     Kawardha       Korba       Koriya    Mahasamun      Raigarh      Raipur      State Wtd  
                                                                                                                            Champa                                                                          d                                 Average  
 Sugar Raw         -               2006-07   -                   1592        1709         2000            -            -        1944         1745         1744         1525           -         1879         1886         1957        1752         1788 
@@ -69,15 +63,11 @@ Turmeric          -               2006-07   -                   3767        3112
                   -               2007-08   -                   4667        3542            -            -            -        4021         3875            -            -           -         3956         4100         3721        3812         3858 
 Wheat             -               2006-07   -                   1157        1068            -         1292         1034        1141            -         1494         1052           -         1296         1095         1169        1246         1144 
                   -               2007-08   -                   1296        1162            -         1200         1364        1390         1294            -         1148           -         1342         1333         1469        1394         1289 
-
                                                                                                                           31  
-
 ----------------------- Page 3-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India India  --  Chhattisgarh Chhattisgarh   
                                                    Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  IndiaIndia  --  Chhattisgarh Chhattisgarh  
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Rajnandgao     Surguja                                                                                                                                                             State Wtd  
                                                               n                                                                                                                                                                             Average  
 Barley            -               2006-07   -                     -          580                                                                                                                                                                  772 
@@ -119,11 +109,8 @@ Sesamum           -            2006-07   Kharif                   -         2041
                   -            2007-08   Rabi                     -            -                                                                                                                                                                 4256 
 Soyabean          -               2006-07   -                     -            -                                                                                                                                                                 1505 
                   -               2007-08   -                     -            -                                                                                                                                                                 1712 
-
                                                                                                                          32  
-
 ----------------------- Page 4-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Chhattisgarh Chhattisgarh   
                                                         Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Chhattisgarh Chhattisgarh  
                                                                                                                                                                                                                                                  (Rs. per Quintal)  
@@ -131,43 +118,15 @@ Crop              Variety      Year       Season              Rajnandgao       S
                                                                     n                                                                                                                                                                                              Average  
 Sugar Raw           -                 2006-07   -                        -             -                                                                                                                                                                                 1788 
                     -                 2007-08   -                        -             -                                                                                                                                                                                 1508 
-                                                                                          
 Sunflower           -                 2006-07   -                        -             -                                                                                                                                                                                 1512 
-                                                                                          
 Tobacco             -                 2006-07   -                     5534        4857                                                                                                                                                                                   5281 
-                                                                                          
                     -                 2007-08   -                     5594        4760                                                                                                                                                                                   5878 
-                                                                                          
 Tur Arhar           Delay             2006-07   -                        -         1841                                                                                                                                                                                  2283 
-                                                                                          
                     Delay             2007-08   -                     1595        2608                                                                                                                                                                                   2526 
-                                                                                          
                     Early             2006-07   -                        -         1830                                                                                                                                                                                  2218 
                     Early             2007-08   -                        -          2350                                                                                                                                                                                 2519 
 Turmeric            -                 2006-07   -                        -          3187                                                                                                                                                                                 3736 
                     -                 2007-08   -                        -          3192                                                                                                                                                                                 3858 
 Wheat               -                 2006-07   -                     1025           941                                                                                                                                                                                 1144 
-                                                                                          
                     -                 2007-08   -                     1343         1083                                                                                                                                                                                  1289 
-                                                                                          
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-                                                                                                                                                                                                                                              
-
                                                                                                                                      33  

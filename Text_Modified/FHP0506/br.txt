@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                                  (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Jumui      Katihar     Khagaria   Kishanganj  Lakhisarai  Madhepura  Madhubani      Munger   Muzaffarpur   Nalanda      Nawada       Patna       Purnia     Rohtas     State Wtd  
                                                                                                                                                                                                                                  Average  
 Barley           -           2005-06   Rabi                  512         512         516         512         512         512         512         512         512         512          512         525         512         480         512  
@@ -30,14 +28,10 @@ Tobacco          -           2005-06   Rabi                    -        2351    
 Tur Arhar        -           2005-06   Rabi                 1635        1790        1628        1790        1790        1790        1750        1790        1790        1790         1790        1790        1790        1790        1790  
 Turmeric         -           2005-06   Rabi                    -        1658        1658        1658           -        1658        1658           -        1658        1658         1658           -        1837        1658        1658  
 Wheat            -           2005-06   Rabi                  705         730         623         730         710         730         718         731         790         752          686         690         730         730         730  
-
                                                                                                                             15  
-
 ----------------------- Page 2-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Saharsa    Samastipur    Saran     Sheikhpura   Sheohar    Sitamarhi     Siwan      Supaul     Vaishali      West                                                     State Wtd  
                                                                                                                                                                  Champaran                                                    Average  
 Barley           -           2005-06   Rabi                 512         512         512         512         512         512        500         512         512         512                                                         512  
@@ -65,5 +59,4 @@ Tobacco          -           2005-06   Rabi                   -        2351     
 Tur Arhar        -           2005-06   Rabi                   -        1790        1666        1876        1790        1790       1790        1790        1790        1838                                                        1790  
 Turmeric         -           2005-06   Rabi                1658        1658           -           -        1658        1658       1658        1500        1800        1658                                                        1658  
 Wheat            -           2005-06   Rabi                 775         730         766         731         650         730        750         730         750         765                                                         730  
-
                                                                                                                           16  

@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                            Crop Wise Farm Harvest Prices of Principal Crops in India - Assam   
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Barpeta   Bongaigaon      Cachar      Darrang     Dhemaji       Dhubri     Dibrugarh    Goalpara     Golaghat    Hailkandi      Jorhat     Kamrup        Karbi      Karimganj    State Wtd  
                                                                                                                                                                                                                    Anglong                  Average  
 CasterSeed        -               2005-06  -                      -            -           -            -            -            -           -            -            -           -            -            -        2800            -         2800  
@@ -23,14 +21,10 @@ Sugarcane         -               2005-06  -                      -          527
 Tur Arhar         -               2005-06  -                      -            -           -         2592            -            -           -            -            -           -            -         2700        2500            -         2551  
 Turmeric          Kacha           2005-06  -                      -            -         270          729            -            -           -            -            -         714            -         2856        1200          650         1246  
 Wheat             -               2005-06  -                      -          788           -            -            -            -           -          750            -           -            -            -           -            -          804  
-
                                                                                                                                   12  
-
 ----------------------- Page 2-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Assam   
                                                                                                                                                                                                                  (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Kokrajhar   Lakhimpur   Morigaon     Nagaon      Nalbari      North      Sivasagar   Sonitpur    Tinsukia                                                                State Wtd  
                                                                                                                   Cachar Hills                                                                                                   Average  
 CasterSeed       -              2005-06  -                     -           -           -           -           -           -           -           -           -                                                                     2800  
@@ -51,5 +45,4 @@ Sugarcane        -              2005-06  -                     -           -    
 Tur Arhar        -              2005-06  -                     -           -           -           -           -           -           -           -           -                                                                     2551  
 Turmeric         Kacha          2005-06  -                     -           -           -           -         500         817           -        1460           -                                                                     1246  
 Wheat            -              2005-06  -                     -           -           -        1200           -           -           -         400           -                                                                      804  
-
                                                                                                                             13  

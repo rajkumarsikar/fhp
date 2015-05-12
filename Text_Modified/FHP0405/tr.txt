@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                     CROP WISE Farm Harvest Prices of Principal Crops in India -  Tripura   
                                                                                                                                                                                                              (Rs. per Quintal)  
 Crop              Variety      Year       Season          -  
@@ -13,5 +12,4 @@ Rice             -           2004-05   Autum               635
                  -           2004-05   Winter              690  
 Sesamum          -             2004-05  -                 1961  
 Sugarcane        -             2004-05  -                  500  
-
                                                                                                                  50  

@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Madhya Pradesh   
                                                                                                                                                                                                                             (Rs. per Quintal)  
 Crop              Variety      Year       Season           Anuppur   Ashoknagar   Balaghat       Barwani       Betul        Bhind       Bhopal     Burhanpur  Chhatarpur  Chhindwara       Damoh        Datia       Dewas         Dhar       Dindori  
@@ -30,14 +29,10 @@ Tur Arhar         Delay           2004-05   -                  1373            -
                   Early           2004-05   -                  1693            -            -           -         1367         1350         1720           -            -         1330         1279           -            -         1610            -  
 Turmeric          -               2004-05   -                  3363            -            -           -            -            -            -           -            -            -            -           -            -            -            -  
 Wheat             -               2004-05   -                   732          731          800         669          670          632          663         714          626          634          626         661          750          637            -  
-
                                                                                                                          31  
-
 ----------------------- Page 2-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Madhya Pradesh   
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Guna        Gwalior      Harda     Hoshangaba      Indore     Jabalpur      Jhabua       Katni      Khandwa      Khargone      Mandla     Mandsaur      Morena    Narsinghpur  Neemuch  
                                                                                                     d  
 Bajra             -               2004-05   -                     -          440            -           -            -            -          579           -          513          450            -         512          466            -            -  
@@ -69,11 +64,8 @@ Tobacco           -               2004-05   -                     -            -
 Tur Arhar         Delay           2004-05   -                     -         1825            -        1460            -         1337         1081           -         1650         1400            -        1656         1683         1463            -  
                   Early           2004-05   -                     -            -            -        1273            -         1398            -           -         1418         1645         1500        1690            -         1279            -  
 Wheat             -               2004-05   -                   806          680          650         637          714          641          658         634          676          654          700         670          679          670          673  
-
                                                                                                                          32  
-
 ----------------------- Page 3-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Madhya Pradesh   
                                                                                                                                                                                                                               (Rs. per Quintal)  
 Crop              Variety      Year       Season            Panna        Raisen      Rajgarh      Ratlam        Rewa         Sagar        Satna       Sehore      Shahdol     Shajapur     Sheopur       Shivani     Shivpuri      Sidhi     Tikamgarh  
@@ -104,11 +96,8 @@ Tur Arhar         Delay           2004-05   -                   1633        1345
                   Early           2004-05   -                   2030        1267         1681            -            -            -            -        1525            -         1522            -         1381        1369         1313            -  
 Turmeric          -               2004-05   -                      -           -            -            -            -            -            -           -            -            -            -            -           -         4000            -  
 Wheat             -               2004-05   -                    655         672          675          661          716          648          672         521          640          719          636          632         672          600          640  
-
                                                                                                                           33  
-
 ----------------------- Page 4-----------------------
-
                                            CROP WISE Farm Harvest Prices of Principal Crops in India -  Madhya Pradesh   
                                                                                                                                                                                                            (Rs. per Quintal)  
 Crop              Variety      Year       Season       Ujjain     Umaria      Vidisha  
@@ -132,5 +121,4 @@ Tur Arhar        Delay         2004-05  -                 1437        1417      
                  Early         2004-05  -                 1363           -          -  
 Turmeric         -             2004-05  -                    -        4225          -  
 Wheat            -             2004-05  -                  671         727        748  
-
                                                                                                                 34  

@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                         CROP WISE Farm Harvest Prices of Principal Crops in India -  Tamil Nadu   
                                                                                                                                                                                                                  * : Rs.  100 Nos           (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Coimbatore  Cuddalore  Dharmapuri   Dindugal              Erode      Kanchipura Kanyakumar         Karur      Krishnagiri    Madurai     Nagapattina   Namakkal       Nilgiris    Perambalur  Pudukkottai  
                                                                                                                                        m             i                                                     m  
 Arecanut            -                2004-05   -                    5208             -             -            -             -             -         1700             -             -            -             -             -            -             -             -  
@@ -24,15 +22,10 @@ Sugar Raw           -                2004-05   -                    1330        
 Tapioca             -                2004-05   -                     465             -             -            -             -             -          366             -             -            -             -             -            -             -             -  
 Tur Arhar           -                2004-05   -                    1550          1288          1302         1236          2067             -            -             -          1302         1860             -             -            -             -          2325  
 Turmeric            -                2004-05   -                    2064          3203             -         2325          1605             -            -          3674             -         2790          3488             -            -             -          3534  
-  
-
                                                                                                                                   48  
-
 ----------------------- Page 2-----------------------
-
                                                         CROP WISE Farm Harvest Prices of Principal Crops in India -  Tamil Nadu   
                                                                                                                                                                                                               * : Rs.  100 Nos            (Rs. per Quintal)  
-
                                                             Ramanathap                                                                        Thiruvanna                              Tiruchirappa                                          Virudhunaga 
 Crop              Variety      Year       Season                             Salem       Sivaganga    Thanjavur       Theni     Thirunelveli                Thiruvarur  Thoothukudi                  Tiruvallur     Vellore    Viluppuram  
                                                                 uram                                                                             malai                                      lli                                                   r  
@@ -53,6 +46,4 @@ Sugar Raw          -                 2004-05  -                        -        
 Tapioca            -                 2004-05  -                        -          193             -          442             -            -             -            -             -            -             -             -            -             -  
 Tur Arhar          -                 2004-05  -                        -         1830             -         2444          1411            -          1288         2240             -            -             -          1335         1622          1465  
 Turmeric           -                 2004-05  -                        -         2167             -         3263          2516         3255          2857         3759          2813         2883             -          3348         2463          3069  
-              
-
                                                                                                                                  49  

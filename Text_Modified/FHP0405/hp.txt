@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Himachal Pradesh   
                                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Bilaspur     Chamba       Hamirpur      Kangra       Kinnaur       Kullu       Lahaul &       Mandi        Shimla      Sirmaur        Solan         Una  
                                                                                                                                               Spiti  
 Barley             -                2004-05  -                     762          609          842           724          842         1000         1125          730           566          530          725          900  
@@ -19,5 +17,4 @@ Rape/Mustard -                      2004-05  -                    1275         2
 Sesamum            -                2004-05  -                    3000         5000         4780          3300            -            -            -         5322             -         2900         3500         3060  
 Turmeric           -                2004-05  -                    3500            -         4753             -            -            -            -         3880             -         3357         4000         3825  
 Wheat              -                2004-05  -                     687          704          661           635         1064          810          800          759           739          695          672          645  
-
                                                                                                                               26  

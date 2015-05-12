@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                          Crop wise Farm Harvest Prices of Principal Crops in India -  Bihar   
                                                                                                                                                                                                                     (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Aurangabad  Jahanabad      Araia        Arbal       Banka     Begusarai     Bhabua     Bhagalpur    Bhojpur      Buxar     Darbhanga       East       Gaya      Gopalganj     Jumui  
                                                                                                                                                                                               Champaran  
 Barley           -            2004-05   Rabi                  446         446         446          426         446         402         444          446         446         446         446          418         446         446          446  
@@ -27,11 +25,8 @@ Tobacco          -            2004-05   Rabi                    -           -   
 Tur Arhar        -            2004-05   Rabi                 1618        1772        1614         1534        1526        1614        1614         1614        1681        1614        1614         1620        1650        1614         1714  
 Turmeric         -            2004-05   Rabi                    -           -        1049            -           -        1289        1049         1049           -           -        1049            -        1049           -            -  
 Wheat            -            2004-05   Rabi                  585         622         585          584         585         577         585          585         617         585         515          526         599         630          585  
-
                                                                                                                      13  
-
 ----------------------- Page 2-----------------------
-
                                                         Crop wise Farm Harvest Prices of Principal Crops in India -  Bihar   
                                                                                                                                                                                                               (Rs. per Quintal)  
 Crop              Variety      Year       Season       Katihar     Khagaria  Kishanganj  Lakhisarai  Madhepura  Madhubani      Munger    Muzaffarpur   Nalanda    Nawada        Patna      Purnia      Rohtas     Saharsa    Samastipur  
@@ -57,14 +52,10 @@ Tobacco          -           2004-05   Rabi                2499           -     
 Tur Arhar        -           2004-05   Rabi                1614        1510        1614        1614        1739       1528        1614        1614        1614        1614        1700        1614        1694        1614        1601  
 Turmeric         -           2004-05   Rabi                1049           -        1049           -        1049       1049           -        1049        1049        1049           -        1049        1049        1049        1022  
 Wheat            -           2004-05   Rabi                 585         572         510         585         585        561         585         628         627         585         603         564         585         585         618  
-
                                                                                                                   14  
-
 ----------------------- Page 3-----------------------
-
                                                        Crop wise Farm Harvest Prices of Principal Crops in India -  Bihar   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Saran    Sheikhpura    Sheohar    Sitamarhi    Siwan       Supaul     Vaishali     West  
                                                                                                                                         Champaran  
 Barley           -           2004-05   Rabi                446           -           -         446         446         446         446        446  
@@ -89,5 +80,4 @@ Tobacco          -           2004-05   Rabi               2499           -      
 Tur Arhar        -           2004-05   Rabi               1512        1614        1614        1758        1614        1614        1614       1614  
 Turmeric         -           2004-05   Rabi                  -           -        1049        1049        1049        1049        1049          -  
 Wheat            -           2004-05   Rabi                612         606         585         599         585         585         565        615  
-
                                                                                                                  15  

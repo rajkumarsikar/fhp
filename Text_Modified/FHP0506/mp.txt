@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Anuppur   Ashoknagar   Balaghat        Barwani       Betul        Bhind       Bhopal     Burhanpur  Chhatarpur  Chhindwara        Damoh         Datia       Dewas         Dhar       State Wtd  
                                                                                                                                                                                                                                                  Average  
 Bajra              -               2005-06  -                      -          633            -          625            -          549            -            -            -            -            -          627            -          515          538  
@@ -33,14 +31,10 @@ Tur Arhar          Delay           2005-06  -                   1809            
                    Early           2005-06  -                   1571            -            -            -         1429         2150         1605         1522            -         1335         1480            -         1700         1741         1520  
 Turmeric           -               2005-06  -                   3213            -            -            -            -            -            -            -            -            -            -            -            -            -         3213  
 Wheat              -               2005-06  -                    946          967            -          831          792          815          869            -          862            -          820          846          915          881          850  
-
                                                                                                                                       34  
-
 ----------------------- Page 2-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh   
                                                                                                                                                                                                                          (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Dindori       Guna       Gwalior       Harda    Hoshangaba      Indore     Jabalpur     Jhabua        Katni     Khandwa      Khargone     Mandla      Mandsaur     Morena      State Wtd  
                                                                                                                 d                                                                                                                        Average  
 Bajra             -              2005-06   -                     -            -         567            -           -            -            -         669            -         618          721           -          664         518          538  
@@ -71,14 +65,10 @@ Tur Arhar         Delay          2005-06   -                     -         2000 
                   Early          2005-06   -                     -         1700        1900            -        1588            -         1517           -            -        1539         1610           -         1835        1825         1520  
 Turmeric          -              2005-06   -                     -            -           -            -           -            -            -           -            -           -            -           -            -           -         3213  
 Wheat             -              2005-06   -                     -         1092         836          741         831            -          758         784          851         852          846           -          901         837          850  
-
                                                                                                                                 35  
-
 ----------------------- Page 3-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Narsinghpur  Neemuch         Panna       Raisen       Rajgarh      Ratlam        Rewa         Sagar        Satna       Sehore       Shahdol     Shajapur     Sheopur       Shivani     State Wtd  
                                                                                                                                                                                                                                                  Average  
 Bajra              -               2005-06  -                      -            -            -            -            -            -            -            -            -            -            -            -          526            -          538  
@@ -109,14 +99,10 @@ Tur Arhar          Delay           2005-06  -                   1766            
                    Early           2005-06  -                   1509            -            -         1685         1735            -            -            -            -         1656            -         1829            -         1418         1520  
 Turmeric           -               2005-06  -                      -            -            -            -            -            -            -            -            -            -            -            -            -            -         3213  
 Wheat              -               2005-06  -                    814          918            -          811          857          907          840          835          881          858         1020         1060          893          713          850  
-
                                                                                                                                     36  
-
 ----------------------- Page 4-----------------------
-
                                               Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Shivpuri     Sidhi     Tikamgarh     Ujjain     Umaria      Vidisha                                                                                                   State Wtd  
                                                                                                                                                                                                                               Average  
 Bajra            -             2005-06   -                  587           -           -         800           -           -                                                                                                        538  
@@ -147,5 +133,4 @@ Tur Arhar        Delay         2005-06   -                    -        1530     
                  Early         2005-06   -                 2075        1395           -        1457           -           -                                                                                                       1520  
 Turmeric         -             2005-06   -                    -           -           -           -           -           -                                                                                                       3213  
 Wheat            -             2005-06   -                  828         867         791         939         770           -                                                                                                        850  
-
                                                                                                                           37  

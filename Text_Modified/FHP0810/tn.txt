@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu   
                                                                                                                                                                                                                         (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Ariyalur   Coimbatore  Cuddalore  Dharmapuri   Dindugal        Erode     Kanchipura Kanyakumar       Karur     Krishnagiri   Madurai   Nagapattina   Namakkal     Nilgiris    State Wtd  
                                                                                                                                         m            i                                                m                                  Average  
 Arecanut          -              2008-09   -                     -        8486            -           -            -           -            -        9881            -           -            -           -            -        8486         8592  
@@ -41,14 +39,10 @@ Tur Arhar         -              2008-09   -                     -           -  
                   -              2009-10   -                  6730           -         5878           -         3914           -            -           -         6730        3220         3637           -         4650           -         4404  
 Turmeric          -              2008-09   -                     -        4977         4924        4371         4809        4258         5802        4752         4919        4371         5510           -         5601        5432         4520  
                   -              2009-10   -                 11489       10146        10649       10122        11635       10358         9540       11007        11817       10122        10021       10498        13354       11057        10744  
-
                                                                                                                        78  
-
 ----------------------- Page 2-----------------------
-
                                                          Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu   
                                                                                                                                                                                                                                         (Rs. per Quintal)  
-
                                                                                        Ramanathap                                                                       Thiruvanna                             Tiruchirappa                              State Wtd  
 Crop              Variety      Year       Season            Perambalur  Pudukkottai                    Salem       Sivaganga    Thanjavur       Theni     Thirunelveli                Thiruvarur  Thoothukudi                  Tiruppur     Tiruvallur  
                                                                                           uram                                                                             malai                                     lli                                  Average  
@@ -88,14 +82,10 @@ Tur Arhar          -                2008-09   -                       -         
                    -                2009-10   -                    6730         3133             -         4923             -            -            -             -         4022             -            -             -         7068         6626          4404  
 Turmeric           -                2008-09   -                    4881            -             -         4371             -         5057         4734          4752         4626          5110            -          4881            -            -          4520  
                    -                2009-10   -                   11489         9719             -        10122             -        11152        11044         11107        12574         10275        11176         11489        10453            -         10744  
-
                                                                                                                                 79  
-
 ----------------------- Page 3-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu   
                                                                                                                                                                                                             (Rs. per Quintal)  
-
                                                                             Virudhunaga                                                                                                                                    State Wtd  
 Crop              Variety      Year       Season       Vellore  Viluppuram  
                                                                                  r                                                                                                                                         Average  
@@ -135,5 +125,4 @@ Tur Arhar        -             2008-09  -                 2837        3067      
                  -             2009-10  -                    -        5878        4352                                                                                                                                         4404  
 Turmeric         -             2008-09  -                 4626        3789           -                                                                                                                                         4520  
                  -             2009-10  -                12565       12574           -                                                                                                                                        10744  
-
                                                                                                                 80  

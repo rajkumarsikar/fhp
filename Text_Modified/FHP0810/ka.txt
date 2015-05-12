@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
                                                                                                                                                                                                                          (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Bagalkot    Bangalore   Bangalore    Belgaum       Bellary      Bidar       Bijapur   Chamrajnag  Chickaballa  Chickmagal  Chitradurga D. Kannada  Davangere       Dharwad     State Wtd  
                                                                         Rural       Urban                                                            ar         pura          ur                                                         Average  
 Arecanut          -              2008-09   Summer                -            -           -            -           -            -            -           -            -           -            -        7473         8766           -         7643  
@@ -45,12 +43,9 @@ Paddy             Local        2008-09   Kharif                  -            - 
                   Local        2008-09   Rabi                    -            -           -            -        1138            -            -           -            -           -            -         944            -           -          960  
                   Local          2008-09   Summer                -            -           -            -           -            -            -           -            -         988          768           -            -           -          781  
                                                                                                                        47  
-
 ----------------------- Page 2-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Bagalkot     Bangalore    Bangalore    Belgaum       Bellary       Bidar       Bijapur    Chamrajnag  Chickaballa  Chickmagal  Chitradurga D. Kannada  Davangere         Dharwad      State Wtd  
                                                                           Rural        Urban                                                              ar         pura          ur                                                            Average  
 Paddy              Local        2009-10   Kharif                   -            -            -            -            -            -            -            -            -          901            -         1117            -          985          918  
@@ -86,14 +81,10 @@ Tur Arhar         -             2008-09   Kharif                2259            
                   -             2009-10   Kharif                   -            -            -            -         4172         4042         5093            -            -            -         3638            -            -            -         4358  
 Wheat             -             2008-09   Rabi                  1206            -            -         1422         1020         1267         1245            -            -            -            -            -            -         1218         1310  
                   -             2009-10   Rabi                  1283            -            -         1553            -         1431         1484            -            -            -            -            -            -         1431         1457  
-
                                                                                                                            48  
-
 ----------------------- Page 3-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
                                                                                                                                                                                                                        (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Gadag      Gulbarga      Hassan      Haveri      Kodagu        Kolar       Koppal      Mandya      Mysore       Raichur   Ramanagara   Shimoga       Tumkur     U.Kannada   State Wtd  
                                                                                                                                                                                                                                         Average  
 Arecanut          -              2008-09   Summer                -           -            -           -        7475            -           -            -           -            -           -         7038        8301        7813         7643  
@@ -136,12 +127,9 @@ Maize             -           2008-09   Kharif                   -         923  
 Paddy             Local       2008-09   Kharif                   -           -          844           -           -          950           -            -           -            -           -          781           -         796          835  
                   Local       2008-09   Rabi                     -           -            -           -           -            -           -            -           -            -           -            -        1054         862          960  
                                                                                                                       49  
-
 ----------------------- Page 4-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Gadag      Gulbarga      Hassan       Haveri      Kodagu        Kolar       Koppal      Mandya       Mysore       Raichur   Ramanagara   Shimoga        Tumkur     U.Kannada   State Wtd  
                                                                                                                                                                                                                                              Average  
 Paddy             Local           2008-09   Summer                -            -            -            -         781            -            -          957           -            -            -            -           -            -          781  
@@ -178,14 +166,10 @@ Tur Arhar         -            2008-09   Kharif                   -         3068
                   -            2009-10   Kharif                   -         4370            -         3527           -            -         3260            -           -         4940            -            -        3899            -         4358  
 Wheat             -            2008-09   Rabi                  1129            -            -         1110           -            -         1170            -           -            -            -            -           -            -         1310  
                   -            2009-10   Rabi                  1317         1562            -         1248           -            -         1227            -           -         1578            -            -           -            -         1457  
-
                                                                                                                           50  
-
 ----------------------- Page 5-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Udupi                                                                                                                                                               State Wtd  
                                                                                                                                                                                                                            Average  
 Arecanut         -             2008-09   Summer           6900                                                                                                                                                                 7643  
@@ -228,12 +212,9 @@ Paddy            Local       2008-09   Kharif              918                  
                  Local       2009-10   Rabi               1035                                                                                                                                                                 1027  
                  Local         2009-10   Summer              -                                                                                                                                                                  940  
                                                                                                                 51  
-
 ----------------------- Page 6-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka   
                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Udupi                                                                                                                                                               State Wtd  
                                                                                                                                                                                                                            Average  
 Pepper           -             2008-09   Summer              -                                                                                                                                                                11517  
@@ -266,5 +247,4 @@ Tur Arhar        -           2008-09   Kharif                -                  
                  -           2009-10   Kharif                -                                                                                                                                                                 4358  
 Wheat            -           2008-09   Rabi                  -                                                                                                                                                                 1310  
                  -           2009-10   Rabi                  -                                                                                                                                                                 1457  
-
                                                                                                                 52  

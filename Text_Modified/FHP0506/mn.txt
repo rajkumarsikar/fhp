@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Manipur   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          -                                                                                                                                                                  State Wtd  
                                                                                                                                                                                                                               Average  
 Banana           -             2005-06   -                 1083                                                                                                                                                                   1083  
@@ -13,5 +11,4 @@ Paddy            -           2005-06   Autum                575                 
                  -           2005-06   Winter               600                                                                                                                                                                    600  
 Rape/Mustard -                 2005-06   -                 1375                                                                                                                                                                   1375  
 Sugarcane        -             2005-06   -                  210                                                                                                                                                                    210  
-
                                                                                                                           41  

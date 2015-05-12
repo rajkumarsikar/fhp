@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh   
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Anuppur   Ashoknagar   Balaghat       Barwani       Betul        Bhind       Bhopal     Burhanpur  Chhatarpur  Chhindwara      Damoh         Datia       Dewas        Dhar       State Wtd  
                                                                                                                                                                                                                                            Average  
 Bajra             -              2006-07   -                      -            -           -          886            -         672            -            -           -            -            -         655            -         881          641 
@@ -45,15 +43,11 @@ Potato            Hills        2006-07      Summer              767            -
 Ragi              -              2007-08   -                      -            -           -            -            -           -            -            -           -            -            -           -            -           -         1000 
 Rape/Mustard -                   2006-07   -                   1767         1650           -            -            -        1760            -            -           -            -            -        1896            -           -         1718 
                   -              2007-08   -                      -         2508           -            -            -        2721            -            -           -            -            -        2676            -           -         2612 
-
                                                                                                                          53  
-
 ----------------------- Page 2-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Madhya Pradesh Madhya Pradesh   
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Anuppur   Ashoknagar   Balaghat       Barwani       Betul        Bhind       Bhopal     Burhanpur  Chhatarpur  Chhindwara      Damoh         Datia       Dewas        Dhar       State Wtd  
                                                                                                                                                                                                                                            Average  
 Rice              Coarse         2006-07   -                   1090         1200         543         1100          900        1138            -         1132           -            -          881           -         1140          900         881 
@@ -77,15 +71,11 @@ Tur Arhar         Delay          2006-07   -                   2756            -
 Turmeric          -              2006-07   -                      -            -           -            -            -           -            -            -           -            -            -           -            -            -        3249 
 Wheat             -              2006-07   -                   1099         1156        1216          923          986         904         1002         1000        1014          845          987         855          931          910         909 
                   -              2007-08   -                   1173         1204           -         1093         1117        1095         1158         1106        1180         1139         1029        1062         1100         1113        1125 
-
                                                                                                                          54  
-
 ----------------------- Page 3-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Madhya Pradesh Madhya Pradesh   
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Dindori       Guna       Gwalior      Harda     Hoshangaba      Indore     Jabalpur      Jhabua       Katni      Khandwa     Khargone      Mandla     Mandsaur      Morena      State Wtd  
                                                                                                                 d                                                                                                                          Average  
 Bajra             -              2006-07   -                      -            -         693            -            -           -            -          693           -          627          816           -          769         616          641 
@@ -127,15 +117,11 @@ Potato            Hills        2006-07      Summer                -            -
 Ragi              -              2007-08   -                      -            -           -            -         1000           -            -            -           -            -            -           -            -           -         1000 
 Rape/Mustard -                   2006-07   -                   1660         1638        1850            -            -           -         1729            -        1550            -            -           -            -        1738         1718 
                   -              2007-08   -                   2440         2610        3161            -            -           -         2241            -        2514            -            -           -            -        2500         2612 
-
                                                                                                                          55  
-
 ----------------------- Page 4-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Madhya Pradesh Madhya Pradesh   
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Dindori      Guna        Gwalior      Harda     Hoshangaba      Indore     Jabalpur      Jhabua       Katni      Khandwa     Khargone      Mandla     Mandsaur      Morena      State Wtd  
                                                                                                                 d                                                                                                                          Average  
 Rice              Coarse         2006-07   -                    928            -         881         1162         1086           -          846         1011         850          975            -           -            -        1234          881 
@@ -159,15 +145,11 @@ Tur Arhar         Delay          2006-07   -                      -         3386
 Turmeric          -              2006-07   -                      -            -           -            -            -           -            -            -           -            -            -           -            -           -         3249 
 Wheat             -              2006-07   -                      -         1151         969          897          931        1009          947          923         974          954          962        1100          873         863          909 
                   -              2007-08   -                      -         1068        1232            -         1080        1181         1123         1100        1148         1100         1122        1100         1241        1025         1125 
-
                                                                                                                          56  
-
 ----------------------- Page 5-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Madhya Pradesh Madhya Pradesh   
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Narsinghpur  Neemuch         Panna       Raisen      Rajgarh      Ratlam        Rewa        Sagar        Satna       Sehore      Shahdol     Shajapur     Sheopur      Shivani     State Wtd  
                                                                                                                                                                                                                                            Average  
 Bajra             -              2006-07   -                      -            -           -            -            -           -            -            -           -            -            -           -          620           -          641 
@@ -209,15 +191,11 @@ Potato            Hills        2006-07      Summer              767            -
 Ragi              -              2007-08   -                      -            -           -            -            -           -            -            -           -            -            -           -            -           -         1000 
 Rape/Mustard -                   2006-07   -                      -         1497           -            -            -           -         1864            -           -            -            -           -         1640           -         1718 
                   -              2007-08   -                      -         2486           -            -            -           -         1778            -           -            -            -           -         2620           -         2612 
-
                                                                                                                          57  
-
 ----------------------- Page 6-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh   
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Narsinghpur  Neemuch         Panna       Raisen      Rajgarh      Ratlam        Rewa        Sagar        Satna       Sehore      Shahdol     Shajapur     Sheopur      Shivani     State Wtd  
                                                                                                                                                                                                                                            Average  
 Rice              Coarse         2006-07   -                   1044            -        1039         1000          870           -         1054         1017         862            -          901           -          940         956          881 
@@ -241,15 +219,11 @@ Tur Arhar         Delay          2006-07   -                   2218            -
 Turmeric          -              2006-07   -                      -            -           -            -            -           -            -            -           -            -            -           -            -           -         3249 
 Wheat             -              2006-07   -                    918          863        1200          943          887         977         1100          937        1083          947         1180         933          861         900          909 
                   -              2007-08   -                   1100         1146           -         1126         1097        1202         1219         1194        1129         1154          982        1250         1100        1094         1125 
-
                                                                                                                          58  
-
 ----------------------- Page 7-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh   
                                                  Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Shivpuri       Sidhi    Tikamgarh      Ujjain      Umaria       Vidisha                                                                                                          State Wtd  
                                                                                                                                                                                                                                            Average  
 Bajra             -              2006-07   -                    669            -           -          785            -           -                                                                                                               641 
@@ -291,15 +265,11 @@ Potato            Hills        2006-07      Summer                -          630
 Ragi              -              2007-08   -                      -            -           -            -            -           -                                                                                                              1000 
 Rape/Mustard -                   2006-07   -                      -         1589           -            -         1894           -                                                                                                              1718 
                   -              2007-08   -                      -         2305           -            -         2259           -                                                                                                              2612 
-
                                                                                                                          59  
-
 ----------------------- Page 8-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  Madhya Pradesh Madhya Pradesh   
                                                 Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Madhya Pradesh Madhya Pradesh  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Shivpuri       Sidhi    Tikamgarh      Ujjain      Umaria       Vidisha                                                                                                          State Wtd  
                                                                                                                                                                                                                                            Average  
 Rice              Coarse         2006-07   -                   1194         1193         921            -          997           -                                                                                                               881 
@@ -323,5 +293,4 @@ Tur Arhar         Delay          2006-07   -                      -         2020
 Turmeric          -              2006-07   -                      -            -           -            -         3249           -                                                                                                              3249 
 Wheat             -              2006-07   -                   1032         1040         951          876         1250         995                                                                                                               909 
                   -              2007-08   -                   1064          900        1127         1128         1200           -                                                                                                              1125 
-
                                                                                                                          60  

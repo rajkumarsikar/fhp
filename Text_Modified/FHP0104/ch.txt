@@ -1,6 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
-   
                                                                              2.26 FARM HARVEST PRICES OF PRINCIPAL CROPS IN CHANDIGARH  
                                                                                                                                                                                                           (Rs. Per Quintal)                                                     
  State/Union Territory                       Year             Paddy            Jowar          Bajra          Maize           Ragi         Wheat           Barley           Gram          Tur Arhar  SugarRaw                  Potato         Tobacco          Groundnut  
@@ -8,31 +6,18 @@
  CHANDIGARH                                     2001-02          530              ..             ..              ..             ..          610               ..               ..               ..               ..               ..               ..                ..  
                                                 2002-03         530               ..             ..              ..             ..          620               ..               ..               ..               ..               ..               ..                ..  
                                                 2003-04         530                                                                         631               ..               ..               ..               ..             250                ..                ..  
-                                                                                                                                                                                                                                                                        
  CHANDIGARH                                     2001-02         530               ..             ..              ..             ..          610               ..               ..               ..               ..               ..               ..                ..  
  (STATE  WEIGHTED                               2002-03         530               ..             ..              ..             ..          620               ..               ..               ..               ..               ..               ..                ..  
 AVERAGE)  
                                                 2003-04         530               ..             ..              ..             ..          631               ..               ..               ..               ..             250                ..                ..  
-                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                
                                                                              2.26 FARM HARVEST PRICES OF PRINCIPAL CROPS IN CHANDIGARH  
                                                                                                                                                                                                           (Rs. Per Quintal)                                                     
-
  State/Union Territory                        Year          RapeSeed  Sesamum                Linseed      CasterSeed          Toria        Cotton            Jute       Sunnhemp            Pepper            Ginger           Chilly         Turmeric            Mesta  
-
        1                                        2                 16              17            18              19             20             21              22              23               24                25              26               27                28  
  CHANDIGARH                                     2001-02           ..              ..             ..              ..             ..            ..              ..               ..               ..               ..               ..               ..                ..  
                                                 2002-03           ..              ..             ..              ..             ..            ..              ..               ..               ..               ..               ..               ..                ..  
                                                 2003-04           ..              ..             ..              ..             ..            ..              ..               ..               ..            2000                ..               ..                ..  
-                                                                                                                                                                                                                                                                        
-                                                                                                                                                                                                                                                                        
  CHANDIGARH                                     2001-02           ..              ..             ..              ..             ..            ..              ..               ..               ..               ..               ..               ..                ..  
  (STATE   WEIGHTED                              2002-03           ..              ..             ..              ..             ..            ..              ..               ..               ..               ..               ..               ..                ..  
 AVERAGE)  
                                                 2003-04           ..              ..             ..              ..             ..            ..              ..               ..               ..            2000                ..               ..                ..  
-                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                
-
-         

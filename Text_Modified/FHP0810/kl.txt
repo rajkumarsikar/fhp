@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Kerala   
                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Alappuzha  Ernakulam      Idukki      Kannur      Kasargod     Kollam     Kottayam   Kozhikode  Malappuram  Palakkad  Pathanamthi Thiruvanant        Trichur     Wayanad     State Wtd  
                                                                                                                                                                                        tta      hapuram                               Average  
 Banana           -               2008-09  -                  1762        1554         1374        1526        1518         1692        1735        1586         1434        1401         1794        1720        1474         1185        1467  
@@ -16,5 +14,4 @@ Pepper           -               2008-09  -                     -       11368   
 Sugarcane        -               2008-09  -                     -           -            -           -           -            -        1500           -            -           -            -           -           -            -        1500  
 Tapioca          -               2008-09  -                   584         544          629         660         742          497         651         591          480         459          595         501         552          504         543  
                  -               2009-10  -                   618         501          646         689         758          538         652         724          521         519          642         513         592          556         572  
-
                                                                                                                       53  

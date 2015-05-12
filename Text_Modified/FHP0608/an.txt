@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Andman & Nicobar Andman & Nicobar   
                                                Crop Wise Farm Harvest PCrop Wise Farm Harvest Prices of Principal Crops in rices of Principal Crops in India India --  Andman & Nicobar Andman & Nicobar  
                                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Campbellba Car-Nicobar   Diglipur     Ferrargunj     Little-   Mayabunder  Nancowrie      Portblair    Rangat                                                                     State Wtd  
                                                               y                                             Andaman                                                                                                                        Average  
 Arecanut          -              2006-07   -                   4000            -        6000         6300         6100        6000         6500         4000        5500                                                                        5600 
@@ -18,5 +16,4 @@ Paddy             -              2006-07   -                      -            -
                   -              2007-08   -                      -            -         700         1800            -         800            -         1250        1600                                                                        1230 
 Pepper            -              2006-07   -                      -            -           -        15000            -           -        15000        10000       12000                                                                       13000 
                   -              2007-08   -                      -        15000           -        20000            -       18000        13500        12000       13000                                                                       15250 
-
                                                                                                                          18  

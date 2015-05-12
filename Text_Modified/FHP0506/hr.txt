@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Haryana   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Panipat     Rewari      Rohtak       Sirsa     Sonipat   Yamunanag                                                                                                  State Wtd  
                                                                                                                      ar                                                                                                     Average  
 Bajra            -             2005-06  -                  550         600         530         550         530        500                                                                                                        568  
@@ -21,5 +19,4 @@ Sesamum          -             2005-06  -                    -        2000      
 Sugar Raw        -             2005-06  -                 1200           -        1250           -        1250       1150                                                                                                       1418  
 Tur Arhar        -             2005-06  -                    -           -        1500           -        1750          -                                                                                                       1626  
 Wheat            -             2005-06  -                  650         750         700         750         710        750                                                                                                        730  
-
                                                                                                                          26  

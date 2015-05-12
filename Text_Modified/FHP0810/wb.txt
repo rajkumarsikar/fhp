@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal   
                                                                                                                                                                                                                         (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Bankura    Bardhaman    Birbhum   Cooch Bihar     Dakhin      Darjiling      East      Hooghly      Howrah     Jalpaiguri     Malda    Murshidaba      Nadia      North 24    State Wtd  
                                                                                                            Dinajpur                Midnapore                                                           d                    Parganas     Average  
 Barley            -              2008-09   -                     -           -         2000           -            -        1113            -           -            -           -         1325         989            -           -         1292  
@@ -31,14 +29,10 @@ Sugar Raw         -              2008-09   -                  1948        2080  
                   -              2009-10   -                  3300        3867         3221           -            -        3189         3045           -            -           -         3094        3236         3112           -         3238  
 Wheat             -              2008-09   -                  1400        1241         1100        1100         1000         975         1100         968            -        1250         1150        1200         1350           -         1186  
                   -              2009-10   -                   950        1350         1150        1173          973        1200         1278           -            -        1125         1135        1250         1375           -         1215  
-
                                                                                                                        95  
-
 ----------------------- Page 2-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        North      Puruliya    South 24     West                                                                                                                             State Wtd  
                                                        Dinajpur                Parganas   Midnapore                                                                                                                           Average  
 Barley           -             2008-09   -                  850           -           -           -                                                                                                                               1292  
@@ -67,5 +61,4 @@ Sugar Raw        -             2008-09   -                 1800        2103     
                  -             2009-10   -                 3277        3689           -        3092                                                                                                                               3238  
 Wheat            -             2008-09   -                 1200        1061        1250         998                                                                                                                               1186  
                  -             2009-10   -                 1235        1153        1600        1391                                                                                                                               1215  
-
                                                                                                                   96  

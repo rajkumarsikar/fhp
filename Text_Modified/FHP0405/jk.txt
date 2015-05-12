@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                CROP WISE Farm Harvest Prices of Principal Crops in India -  Jammu & Kashmir   
                                                                                                                                                                                                                            (Rs. per Quintal)  
 Crop              Variety      Year       Season          Anantnag    Baramulla     Budgam        Doda       Jammu         Kargil      Kathua     Kupwara         Leh        Poonch     Pulwama       Rajauri     Srinagar    Udhampur  
@@ -18,5 +17,4 @@ Sesamum           -               2004-05  -                      -           - 
 Sugarcane         -               2004-05  -                      -           -            -            -         380            -            -           -            -            -           -          800            -         650  
 Tobacco           -               2004-05  -                      -           -            -            -           -            -         1500           -            -            -           -            -            -        2175  
 Wheat             -               2004-05  -                    800        1000         1000          750         800         1000          700           -          917          650         885          700          666         720  
-
                                                                                                                         27  

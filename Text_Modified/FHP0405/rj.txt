@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                    CROP WISE Farm Harvest Prices of Principal Crops in India -  Rajasthan   
                                                                                                                                                                                                                       (Rs. per Quintal)  
 Crop              Variety      Year       Season          Ajmer       Alwar      Banswara      Baran       Barmer     Bharatpur    Bhilwara     Bikaner      Bundi     Chittorgarh    Churu       Dausa       Dholpur    Dungarpur  Ganganagar  
@@ -25,14 +24,10 @@ Sugar Raw         -           2004-05   Rabi                    -            -  
 Tobacco           -           2004-05   Rabi                    -            -        3072           -            -           -           -            -           -            -           -           -            -           -            -  
 Tur Arhar         -           2004-05   Rabi                    -            -        1800           -            -        1537           -            -           -            -           -           -         1721           -            -  
 Wheat             -           2004-05   Rabi                  834          690         680         654          827         900         922          682         685          697         700         699          665         696          703  
-
                                                                                                                       45  
-
 ----------------------- Page 2-----------------------
-
                                                    CROP WISE Farm Harvest Prices of Principal Crops in India -  Rajasthan   
                                                                                                                                                                                                                    (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Hanumangar      Jaipur    Jaisalmer      Jalor     Jhalawar    Jhunjunu     Jodhpur     Karauli       Kota       Nagaur        Pali     Rajsamand     Sawai        Sikar       Sirohi  
                                                             h                                                                                                                                             Madhopur  
 Bajra            -            2004-05   Kharif               545          472           -         570           -          522         523         527           -         522          524         741         460         503          565  
@@ -56,11 +51,8 @@ Sugar Raw        -            2004-05   Rabi                1525            -   
 Tobacco          -            2004-05   Rabi                   -            -           -           -           -            -           -           -           -           -            -           -           -           -         1811  
 Tur Arhar        -            2004-05   Rabi                   -         1427           -           -           -            -           -           -           -           -            -           -           -           -         1539  
 Wheat            -            2004-05   Rabi                 650          813         800         900         663          715         805         720         675         766          863         724         713         750          875  
-
                                                                                                                     46  
-
 ----------------------- Page 3-----------------------
-
                                                 CROP WISE  Farm Harvest Prices of Principal Crops in India -  Rajasthan   
                                                                                                                                                                                                         (Rs. per Quintal)  
 Crop              Variety      Year       Season       Tonk      Udaipur  
@@ -81,5 +73,4 @@ Rice            -           2004-05   Kharif                -         956
 Sannhemp        -           2004-05   Kharif                -        2300  
 Sesamum         -           2004-05   Kharif             3031        2653  
 Wheat           -           2004-05   Rabi                705         721  
-
                                                                                                               47  

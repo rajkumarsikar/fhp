@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Mizoram   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season                                                                                                                                                                           State Wtd  
                                                                                                                                                                                                                             Average  
 Banana           -             2008-09  -                  925                                                                                                                                                                   925  
@@ -35,5 +33,4 @@ Tur Arhar        -             2008-09  -                 1584                  
                  -             2009-10  -                 1800                                                                                                                                                                  1800  
 Turmeric         -             2008-09  -                 1100                                                                                                                                                                  1100  
                  -             2009-10  -                 1100                                                                                                                                                                  1100  
-
                                                                                                                  66  

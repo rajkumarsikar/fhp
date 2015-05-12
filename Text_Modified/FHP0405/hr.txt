@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                         CROP WISE Farm Harvest Prices of Principal Crops in India - Haryana   
                                                                                                                                                                                                                                  (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Ambala       Bhiwani     Faridabad    Fatehabad     Gurgaon       Hisar        Jhajjar       Jind       Kaithal       Karnal    Kurukshetra Mahendraga       Mewat      Panchkula     Panipat  
                                                                                                                                                                                                               rh  
 Bajra             -                2004-05   -                    515          600          500          500          575          612          575          500          505          700            -          500            -          850          650  
@@ -22,14 +20,10 @@ Sugar Raw         -                2004-05   -                   1450         15
 Sunflower         -                2004-05   -                   1550            -            -            -            -            -            -            -         1800            -         1500            -            -         1500         1000  
 Toria             -                2004-05   -                   1700         1400         1150         1300            -            -            -            -         1250         1500         1280         1250            -         1540         1600  
 Wheat             -                2004-05   -                    640          640          650          640          770          670          670          640          640          780          755          630            -          800          650  
-
                                                                                                                             24  
-
 ----------------------- Page 2-----------------------
-
                                                        CROP WISE Farm Harvest Prices of Principal Crops in India -  Haryana   
                                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season            Rewari       Rohtak        Sirsa      Sonipat    Yamunanag 
                                                                                                                   ar  
 Bajra             -               2004-05   -                    575          510          600         420          600  
@@ -49,5 +43,4 @@ Sugar Raw         -               2004-05   -                   1450         120
 Sunflower         -               2004-05   -                      -            -            -        1800         1500  
 Toria             -               2004-05   -                      -         1100         1400         820         1450  
 Wheat             -               2004-05   -                    760          640          650         630          640  
-
                                                                                                                           25  

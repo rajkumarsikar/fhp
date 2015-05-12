@@ -1,35 +1,17 @@
 ﻿----------------------- Page 1-----------------------
-
 2.28. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN DELHI                             
-  
                                                                                                  (Rs. per quintal)  
-  
 District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram    Tur  Sugar Potato Tobacco Ground  
                                                                                 Arhar  Raw                   nut   
      (1)          (2)    (3)    (4)    (5)    (6)    (7)    (8)    (9)   (10)   (11)   (12)   (13)   (14)   (15)   
 DELHI           1998-99 3168r&   ..    417     ..     ..    704    531   1390   1939   1110    615     ..     ..  
                 1999-00 3680r&  675    577    680     ..    686    545   1389   1813    963    209     ..     ..  
                 2000-01 3400r&  450    375    470     ..    780    588   1436   1630   1165    206     ..     ..  
-  
-  
 DELHI           1998-99 3168r&   ..    417     ..     ..    704    531   1390   1939   1110    615     ..     ..    
  (State weighted 1999-00 3680r&  675    577    680     ..    686    545   1389   1813    963    209     ..     ..    
  average)       2000-01 3400r&  450    375    470     ..    780    588   1436   1630   1165    206     ..     ..    
-     
 &  The prices in Col. 3 with respect to Delhi State are of Basmati Variety of Rice.  
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 2.28. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN DELHI (Concluded)                            
-  
                                                                                                     (Rs. per quintal)  
 District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- Pepper Ginger Chilly Turmeric Mesta  
                        Mustard                Seed                        hemp  
@@ -37,10 +19,6 @@ District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- 
 DELHI           1998-99 1807     ..     ..     ..     ..     ..     ..     ..     ..     ..   4899     ..     ..    
                 1999-00 1383     ..     ..     ..     ..     ..     ..     ..     ..     ..   4553     ..     ..    
                 2000-00 1231     ..     ..     ..     ..     ..     ..     ..     ..     ..   4518     ..     ..    
-  
-  
 DELHI           1998-99 1807     ..     ..     ..     ..     ..     ..     ..     ..     ..   4899     ..     ..    
  (State weighted 1999-00 1383     ..     ..     ..     ..     ..     ..     ..     ..     ..   4553     ..     ..    
  average)       2000-01 1231     ..     ..     ..     ..     ..     ..     ..     ..     ..   4518     ..      ..    
-  
-  

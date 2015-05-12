@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                               Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                                  (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Adilabad    Anantapur    Chittor    Cuddapah       East       Guntur      Kadapa    Karimnagar  Khammam       Krishna     Kurnool   Mahbubnaga    Medak      Nalgonda    State Wtd  
                                                                                                         Godavari                                                                                r                                Average  
 Bajra            -              2005-06  -                   697         536         517         568         531         474           -         740         535         691          531         518         518         533         511  
@@ -45,23 +43,16 @@ Tur Arhar        -              2005-06  -                  1518        1383    
                  -           2005-06   Kharif               1518        1383        1430        1418        1454        1645           -        1506        1500        1454         1488        1633        1511        1532        1554  
 Turmeric         -              2005-06  -                  2209        2010        2667        2010        3613        1865           -        1682        1682        2522         1920        1920        1997        1682        1923  
                                                                                                                             8  
-
 ----------------------- Page 2-----------------------
-
                                              Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                           (Rs. per Quintal)  
-
 Crop              Variety      Year       Season     Adilabad   Anantapur     Chittor   Cuddapah      East       Guntur     Kadapa    Karimnagar  Khammam      Krishna     Kurnool   Mahbubnaga   Medak      Nalgonda    State Wtd  
                                                                                                     Godavari                                                                              r                              Average  
 Turmeric        -           2005-06   Kharif             2209        2010        2667       2010        3613        1865           -       1682        1682        2522       1920        1920        1997       1682        1923  
-
                                                                                                                         9  
-
 ----------------------- Page 3-----------------------
-
                                              Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Nellore   Nizamabad   Prakasam   Rangareddi  Srikakulam Visakhapatn Vizianagara  Warangal      West                                                                 State Wtd  
                                                                                                                     am          m                   Godavari                                                               Average  
 Bajra            -             2005-06  -                  577         550         475        518         438         529         537        533         529                                                                    511  
@@ -104,14 +95,10 @@ Tur Arhar        -             2005-06  -                 1664        1547      
                  -           2005-06   Kharif             1664        1547        1664       1542        1253        1253        1253       1551        1454                                                                   1554  
 Turmeric         -             2005-06  -                 2667        2036        2667       1980        3613        3613        3613       1682        3613                                                                   1923  
                                                                                                                          10  
-
 ----------------------- Page 4-----------------------
-
                                              Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh   
                                                                                                                                                                                                            (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Nellore   Nizamabad   Prakasam   Rangareddi  Srikakulam Visakhapatn Vizianagara  Warangal      West                                                                 State Wtd  
                                                                                                                    am          m                   Godavari                                                               Average  
 Turmeric        -           2005-06   Kharif              2667       2036        2667        1980        3613       3613        3613        1682        3613                                                                  1923  
-
                                                                                                                         11  

@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                             Crop Wise Farm Harvest Prices of Principal Crops in India - Andman & Nicobar   
                                                                                                                                                                                                                (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Campbellba Car-Nicobar   Diglipur   Ferrargunj    Little-  Mayabunder  Nancowrie     Portblair    Rangat                                                                State Wtd  
                                                           y                                            Andaman                                                                                                                 Average  
 Arecanut         -             2008-09   -                 6000       10000        8000        5500        5300        8000        6500        5500        6000                                                                    6760  
@@ -14,5 +12,4 @@ Maize            -             2009-10   -                    -           -     
 Paddy            -             2008-09   -                    -           -         625        2000         700         700           -        1000         900                                                                     990  
                  -             2009-10   -                    -           -         690         800        2200         900           -        1000         900                                                                    1080  
 Tapioca          -             2009-10   -                    -           -        2000        1500           -           -           -        1000           -                                                                    1500  
-
                                                                                                                   19  

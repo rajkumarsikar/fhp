@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                              Crop Wise Farm Harvest Prices of Principal Crops in India - Himachal Pradesh   
                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Bilaspur    Chamba      Hamirpur     Kangra      Kinnaur      Kullu      Lahaul &      Mandi       Shimla      Sirmaur      Solan        Una                               State Wtd  
                                                                                                                                     Spiti                                                                                            Average  
 Barley           -              2005-06   -                   917         672        1320          938         717        1040         1250         827         629         598          725        1200                                  903  
@@ -21,5 +19,4 @@ Soyabean         -              2005-06   -                  2000        2000   
 Tur Arhar        -              2005-06   -                  3400           -           -         3081           -           -            -        3150           -        2600         2167           -                                 2880  
 Turmeric         -              2005-06   -                  3833           -        4600            -           -           -            -        4253           -        4350         4750        4125                                 4319  
 Wheat            -              2005-06   -                   788         775         804          812         867         875          800         813         784         730          672         760                                  790  
-
                                                                                                                               27  

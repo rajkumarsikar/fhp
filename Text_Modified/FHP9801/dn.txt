@@ -1,7 +1,5 @@
 ﻿----------------------- Page 1-----------------------
-
 2.27. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN DADRA & NAGAR HAVELI                             
-  
                                                                                                  (Rs. per quintal)  
 District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram    Tur  Sugar Potato Tobacco Ground  
                                                                                 Arhar  Raw                   nut   
@@ -9,20 +7,10 @@ District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram   
 DADRA&NAGAR     1998-99  491     ..     ..     ..    530     ..     ..     ..   1886     ..     ..     ..     ..  
 HAVELI          1999-00  530     ..     ..     ..    425     ..     ..     ..   1848     ..     ..     ..     ..  
                                                2000-01  464     ..     ..     ..    532     ..     ..     ..   1932     ..     ..     ..     ..  
-  
-  
 DADRA&NAGAR     1998-99  491     ..     ..     ..    530     ..     ..     ..   1886     ..     ..     ..     ..  
 HAVELI          1999-00  530     ..     ..     ..    425     ..     ..     ..   1848     ..     ..     ..     ..  
  (S.W.Average)   2000-01  464     ..     ..     ..    532     ..     ..     ..   1932     ..     ..     ..     ..  
-    
-  
-
-  
-  
-  
-  
 2.27. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN DADRA & NAGAR HAVELI (Concluded).                            
-  
                                                                                                     (Rs. per quintal)  
 District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- Pepper Ginger Chilly Turmeric Mesta  
                        Mustard                Seed                        hemp  
@@ -30,11 +18,6 @@ District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- 
 DADRA&NAGAR     1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
 HAVELI          1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
                                                2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
-  
-                                                                                                  
 DADRA&NAGAR     1998-99   ..     ..     ..     ..     ..     . .     ..     ..     ..     ..     ..     ..     ..  
 HAVELI          1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..      ..  
  (S.W.Average)   2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
-                                                                                 
-  
-             

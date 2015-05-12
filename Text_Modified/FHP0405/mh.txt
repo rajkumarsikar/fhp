@@ -1,5 +1,4 @@
 ﻿----------------------- Page 1-----------------------
-
                                                  CROP WISE Farm Harvest Prices of Principal Crops in India -  Maharashtra   
                                                                                                                                                                                                                          (Rs. per Quintal)  
 Crop              Variety      Year       Season        Ahmednagar     Akola      Amravati  Aurangabad       Beed       Bhandara    Buldhana   Chandrapur      Dhule      Gadchiroli    Gondia      Hingoli      Jalgaon      Jalna      Kolhapur  
@@ -19,11 +18,8 @@ Soyabean          -              2004-05   -                   950         1065 
 Sunflower         -              2004-05   -                  1280         1232        1147         1075        1132            -        1100            -        1103            -           -         1075         1078        1100         1000  
 Tur Arhar         -              2004-05   -                  1802         1975        2278         1993        1995         1821        1808         1500        1927         1978        1993         2010         1865        1978         1975  
 Wheat             -              2004-05   -                   811          755         683          673         803          701         785          667         603          681         792          693          608         767          635  
-
                                                                                                                        35  
-
 ----------------------- Page 2-----------------------
-
                                                 CROP WISE Farm Harvest Prices of Principal Crops in India -  Maharashtra   
                                                                                                                                                                                                                      (Rs. per Quintal)  
 Crop              Variety      Year       Season          Latur      Mumbai       Nagpur      Nanded     Nandurbar      Nasik    Osmanabad     Parbhani      Pune       Raigarh     Ratnagiri    Sangli       Satara    Sindhudurg    Solapur  
@@ -43,11 +39,8 @@ Soyabean         -               2004-05  -                  1150           -   
 Sunflower        -               2004-05  -                  1200           -         1155        1100        1025         1092        1125        1252         1157           -           -         1252        1035           -         1150  
 Tur Arhar        -               2004-05  -                  1943           -         1935        1822        1888         2058        1972        2045         1735           -           -         1920        1752           -         1939  
 Wheat            -               2004-05  -                   799           -          762         682         615          615         709         754          875           -           -          823         812           -          803  
-
                                                                                                                      36  
-
 ----------------------- Page 3-----------------------
-
                                               CROP WISE Farm Harvest Prices of Principal Crops in India -  Maharashtra   
                                                                                                                                                                                                         (Rs. per Quintal)  
 Crop              Variety      Year       Season      Thane      Wardha      Washim     Yavatmal  
@@ -66,5 +59,4 @@ Soyabean        -             2004-05  -                    -        1150       
 Sunflower       -             2004-05  -                    -           -       1145        1135  
 Tur Arhar       -             2004-05  -                    -        2200       2001        1893  
 Wheat           -             2004-05  -                    -         712        763         669  
-
                                                                                                               37  

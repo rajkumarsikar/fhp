@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                             Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  Dadra & Nagar Haveli Dadra & Nagar Haveli   
                                             Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  Dadra & Nagar Haveli Dadra & Nagar Haveli  
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season                                                                                                                                                                                             State Wtd  
                                                                                                                                                                                                                                              Average  
 Nigerseed                         2006-07   -                   1686                                                                                                                                                                              1686 
@@ -16,5 +14,4 @@ Ragi              -               2006-07   -                    808            
                   -               2007-08   -                    891                                                                                                                                                                               891 
 Tur Arhar         -               2006-07   -                   2061                                                                                                                                                                              2061 
                   -               2007-08   -                   2363                                                                                                                                                                                 - 
-
                                                                                                                           34  

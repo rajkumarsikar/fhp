@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                     Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season             Bastar      Bilaspur   Dantewada     Dhamtari       Durg        Janjgir-     Jashpur      Kanker      Kawardha      Korba        Koriya    Mahasamun       Raigarh      Raipur      State Wtd  
                                                                                                                              Champa                                                                           d                                  Average  
 Barley             -               2005-06  -                      -            -            -            -            -            -            -            -            -            -            -            -            -            -          572  
@@ -33,14 +31,10 @@ Tur Arhar          Delay           2005-06  -                      -         184
                    Early           2005-06  -                      -         1674            -            -         1602         2541         1543            -         1600            -         2075            -         1665            -         1793  
 Turmeric           -               2005-06  -                   4398         3301            -            -            -         3479         3318            -            -            -         3963         4100         3647            -         3587  
 Wheat              -               2005-06  -                   1080          891            -         1036          831          954          727            -          744            -          973            -          877            -          885  
-
                                                                                                                                      18  
-
 ----------------------- Page 2-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh   
                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season     Rajnandgao   Surguja                                                                                                                                                  State Wtd  
                                                          n                                                                                                                                                                 Average  
 Barley           -             2005-06  -                    -         572                                                                                                                                                      572  
@@ -71,5 +65,4 @@ Tur Arhar        Delay         2005-06  -                 1750        1701      
                  Early         2005-06  -                 1800        1835                                                                                                                                                     1793  
 Turmeric         -             2005-06  -                    -        2762                                                                                                                                                     3587  
 Wheat            -             2005-06  -                  917         775                                                                                                                                                      885  
-
                                                                                                                          19  

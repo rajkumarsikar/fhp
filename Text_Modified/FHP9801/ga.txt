@@ -1,7 +1,5 @@
 ﻿----------------------- Page 1-----------------------
-
 2.5. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN INDIA. STATE GOA DISTRICT-WISE  
-  
                                                                                                  (Rs. per quintal)  
 District name    Year  Paddy  Jower  Bajra  Maize  Ragi   Wheat  Barley  Gram    Tur  Sugar Potato Tobacco Ground  
                                                                                 Arhar  Raw                   nut   
@@ -9,19 +7,10 @@ District name    Year  Paddy  Jower  Bajra  Maize  Ragi   Wheat  Barley  Gram   
 GOA             1998-99  460     ..     ..     ..    550     ..     ..     ..     ..     70**   ..     ..     ..    
 GOA             1999-00  525     ..     ..     ..    560     ..     ..     ..     ..     70**   ..     ..     ..    
                 2000-01  535     ..     ..     ..    600     ..     ..     ..     ..     80**   ..     ..     ..    
-                                                                                                                       
 GOA             1998-99  460     ..     ..     ..    550     ..     ..     ..     ..     70**   ..     ..     ..  
 (State weighted 1999-00  525     ..     ..     ..    560     ..     ..     ..     ..     70**   ..     ..     ..    
    average)     2000-01  535     ..     ..     ..    600     ..     ..     ..     ..     80**   ..     ..     ..    
-  
-  
-  
-  
-  
-  
-
 2.5. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN INDIA. STATE GOA DISTRICT-WISE (Concluded)  
-  
                                                                                                     (Rs. per quintal  
 District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- Pepper Ginger Chilly Turmeric Mesta  
                        Mustard                Seed                        hemp  
@@ -29,11 +18,6 @@ District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- 
 GOA              1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
                  1999-00   ..     ..     ..     ..      ..     ..     ..     ..     ..     ..     ..     ..     ..    
                  2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
-    
-  
  GOA             1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
  (State weighted 1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
    average)      2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-                                                                                                                    
-            
-             

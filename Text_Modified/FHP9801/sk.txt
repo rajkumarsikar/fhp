@@ -1,7 +1,5 @@
 ﻿----------------------- Page 1-----------------------
-
 2.20. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN INDIA. STATE SIKKIM DISTRICT-WISE  
-  
                                                                                                  (Rs. per quintal)  
 District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram    Tur  Sugar Potato Tobacco Ground  
                                                                                 Arhar  Raw                   nut   
@@ -9,26 +7,10 @@ District name    Year  Paddy  Jowar  Bajra  Maize  Ragi   Wheat  Barley  Gram   
 SIKKIM          1998-99   ..     ..    531    561     ..   1066     ..     ..     ..     ..    496     ..     ..    
                                                                                                 1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
                 2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..  
-    
-  
 SIKKIM          1998-99   ..     ..    531    561     ..   1066     ..     ..     ..     ..    496     ..     ..    
  (S.W.Average)   1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
                                                                                                 2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-  
-  
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
 2.20. FARM  HARVEST  PRICES OF PRINCIPAL  CROPS IN INDIA. STATE SIKKIM DISTRICT-WISE (Concluded)  
-  
                                                                                                     (Rs. per quintal)  
 District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- Pepper Ginger Chilly Turmeric Mesta  
                        Mustard                Seed                        hemp  
@@ -36,11 +18,6 @@ District name    Year   Rape/ Sesamum Linseed Caster Toria Cotton  Jute   Sann- 
 SIKKIM          1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..    618     ..     ..     ..    
                                                                                                 1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
                                                                                                 1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-  
-  
 SIKKIM          1998-99   ..     ..     ..     ..     ..     ..     ..     ..     ..    618     ..     ..     ..    
  (S.W.Average)   1999-00   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
                                                                                                 2000-01   ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..     ..    
-  
-  
-           

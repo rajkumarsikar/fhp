@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Agra       Aligarh    Allahabad   Ambedkar      Auraiya    Azamgarh      Bagpat     Bahraich      Ballia    Balrampur      Banda     Barabanki    Bareilly      Basti     State Wtd  
                                                                                                Nagar                                                                                                                                 Average  
 Bajra            -            2005-06   Kharif                  -         536           -            -           -           -            -           -           -           -            -           -         522            -         535  
@@ -25,14 +23,10 @@ Tobacco           Calcattia  2005-06   Rabi                     -           -   
 Tur Arhar        -            2005-06   Rabi                    -        1665           -            -           -           -            -           -           -           -         1754           -           -            -        1887  
 Turmeric         -            2005-06   Rabi                    -           -           -            -           -           -            -           -           -           -            -           -           -            -         451  
 Wheat            -            2005-06   Rabi                    -         735           -            -           -           -            -           -           -           -          811           -         619            -         760  
-
                                                                                                                               55  
-
 ----------------------- Page 2-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                       (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Bijnor      Budaun    Bulandshahr  Chandauli   Chitrakoot     Deoria       Etah       Etawah      Faizabad  Farrukhabad   Fatehpur     Firozabad    Gautam     Ghaziabad    State Wtd  
                                                                                                                                                                                                                Budha                   Average  
                                                                                                                                                                                                                Nagar  
@@ -56,14 +50,10 @@ Tobacco           Calcattia  2005-06   Rabi                     -            -  
 Tur Arhar         -           2005-06   Rabi                    -            -        2316            -           -           -            -        1935            -           -           -            -           -            -        1887  
 Turmeric          -           2005-06   Rabi                    -            -           -            -           -           -            -           -            -           -           -            -           -            -         451  
 Wheat             -           2005-06   Rabi                  810            -         754            -           -           -            -         793            -         754           -          787           -          799         760  
-
                                                                                                                                56  
-
 ----------------------- Page 3-----------------------
-
                                                  Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                      (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Ghazipur     Gonda     Gorakhpur    Hamirpur      Hardoi      Hathras      Jalaun      Jaunpur      Jhansi      Jyotiba    Kannauj      Kanpur    Kanpur(City  Kaushambi   State Wtd  
                                                                                                                                                                       phule Nagar                 Dehat          )                    Average  
 Bajra            -            2005-06   Kharif                574           -            -           -           -            -         536           -            -           -            -           -           -          432         535  
@@ -86,14 +76,10 @@ Tobacco           Calcattia  2005-06   Rabi                     -           -   
 Tur Arhar        -            2005-06   Rabi                 1854           -            -        1812           -            -        1841           -            -           -            -           -           -         2050        1887  
 Turmeric         -            2005-06   Rabi                    -           -            -           -           -            -           -           -            -           -            -           -           -            -         451  
 Wheat            -            2005-06   Rabi                  817           -            -         849           -            -         790           -          843           -            -           -           -          882         760  
-
                                                                                                                               57  
-
 ----------------------- Page 4-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                          (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Kheri     KushiNagar    Lalitpur    Lucknow     Mahamaya  Maharajganj   Mahoba        Mainpuri     Mathura        Mau        Meerut     Mirzapur    Moradabad Muzaffarnag     State Wtd  
                                                                                                              Nagar                                                                                                              ar       Average  
 Bajra             -            2005-06   Kharif                  -            -           -            -           -            -            -           -            -           -            -           -            -           -          535  
@@ -116,14 +102,10 @@ Tobacco           Calcattia  2005-06   Rabi                      -            - 
 Tur Arhar         -            2005-06   Rabi                    -            -           -         1713           -            -            -           -            -        1989            -           -            -           -         1887  
 Turmeric          -            2005-06   Rabi                    -          451           -            -           -            -            -           -            -           -            -           -            -           -          451  
 Wheat             -            2005-06   Rabi                    -          953         750          563           -          792            -           -            -         757            -           -            -         790          760  
-
                                                                                                                                 58  
-
 ----------------------- Page 5-----------------------
-
                                                   Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                                          (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Pilibhit   Pratapgarh   RaeBareli     Rampur     Saharanpur      Sant     Sant Kabir  Shahjahanpu   Shrawasti  Siddharthna    Sitapur    Sonbhadra    Sultanpur     Unnao      State Wtd  
                                                                                                                          Ravidas      Nagar          r                       gar                                                         Average  
                                                                                                                           Nagar  
@@ -147,14 +129,10 @@ Tobacco           Calcattia  2005-06   Rabi                      -            - 
 Tur Arhar         -            2005-06   Rabi                    -            -           -            -           -            -            -           -            -           -            -           -            -           -         1887  
 Turmeric          -            2005-06   Rabi                    -            -           -            -           -            -            -           -            -           -            -           -            -           -          451  
 Wheat             -            2005-06   Rabi                  739            -           -            -         805            -            -         679            -           -            -           -            -           -          760  
-
                                                                                                                                 59  
-
 ----------------------- Page 6-----------------------
-
                                                Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Varanasi                                                                                                                                                              State Wtd  
                                                                                                                                                                                                                              Average  
 Bajra            -           2005-06   Kharif                 -                                                                                                                                                                   535  
@@ -177,5 +155,4 @@ Tobacco          Calcattia  2005-06   Rabi                    -                 
 Tur Arhar        -           2005-06   Rabi                1995                                                                                                                                                                  1887  
 Turmeric         -           2005-06   Rabi                   -                                                                                                                                                                   451  
 Wheat            -           2005-06   Rabi                 782                                                                                                                                                                   760  
-
                                                                                                                          60  

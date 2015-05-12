@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Kerala   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Alappuzha  Ernakulam      Idukki     Kannur     Kasargod     Kollam     Kottayam   Kozhikode  Malappuram  Palakkad  Pathanamthi Thiruvanant      Trichur    Wayanad    State Wtd  
                                                                                                                                                                                  tta      hapuram                             Average  
 Banana           -             2005-06   -                 1291        1232        1152        1257        1251        1270       1344        1257        1442        1049        1303        1398        1331        1013        1202  
@@ -11,5 +9,4 @@ Paddy            -             2005-06   -                  611         631     
 Pepper           -             2005-06   -                 6583        6098        6159        5935        5895        6060       6108        5673        5885        5894        5974        5553        5890        6327        6118  
 Sugarcane        -             2005-06   -                    -         145         102         200           -           -          -           -           -          98         100           -           -           -         100  
 Tapioca          -             2005-06   -                  431         410         545         532         511         382        507         481         435         352         422         393         420         402         423  
-
                                                                                                                           33  

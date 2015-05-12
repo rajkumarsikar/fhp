@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Orissa   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season                                                                                                                                                                           State Wtd  
                                                                                                                                                                                                                             Average  
 Ground Nut       -             2008-09  -                 2339                                                                                                                                                                  2339  
@@ -25,5 +23,4 @@ Sugarcane        -             2008-09  -                   95                  
                  -             2009-10  -                  105                                                                                                                                                                   105  
 Wheat            -             2008-09  -                 1193                                                                                                                                                                  1193  
                  -             2009-10  -                 1091                                                                                                                                                                  1091  
-
                                                                                                                  68  

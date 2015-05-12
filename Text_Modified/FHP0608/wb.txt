@@ -1,9 +1,7 @@
 ﻿----------------------- Page 1-----------------------
-
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -  West Bengal West Bengal   
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  West Bengal West Bengal  
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Bankura    Bardhaman     Birbhum   Cooch Bihar     Dakhin      Darjiling      East      Hooghly      Howrah      Jalpaiguri     Malda     Murshidaba     Nadia      North 24     State Wtd  
                                                                                                              Dinajpur                 Midnapore                                                           d                    Parganas     Average  
 Barley            -              2006-07   -                      -            -            -           -         1066         1175            -           -            -            -        1071          980          657           -         1001 
@@ -32,15 +30,11 @@ Sugarcane         -              2006-07   -                   1702         1816
                   -              2007-08   -                   1694         1789         1800           -         1800            -         1891           -            -            -        1328         1673         1564        2327         1609 
 Wheat             -              2006-07   -                   1160          920          880           -          901          868            -         856          982            -        1026         1046          899        1031          991 
                   -              2007-08   -                   1342         1175         1048        1000          982          900         1050         936         1116         1225        1083         1088         1233        1300         1101 
-
                                                                                                                          92  
-
 ----------------------- Page 2-----------------------
-
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India  India --  West Bengal West Bengal   
                                                     Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in  India India --  West Bengal West Bengal  
                                                                                                                                                                                                                           (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           North       Puruliya    South 24      West                                                                                                                                     State Wtd  
                                                           Dinajpur                 Parganas    Midnapore                                                                                                                                  Average  
 Barley            -              2006-07   -                      -           -            -            -                                                                                                                                      1001 
@@ -69,5 +63,4 @@ Sugarcane         -              2006-07   -                   1927        2008 
                   -              2007-08   -                   1492        1677         2602         1489                                                                                                                                      1609 
 Wheat             -              2006-07   -                   1006         779          981         1001                                                                                                                                       991 
                   -              2007-08   -                   1069         999         1087          955                                                                                                                                      1101 
-
                                                                                                                         93  

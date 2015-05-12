@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                             CROP WISE Farm Harvest Prices of Principal Crops in India -  Assam   
                                                                                                                                                                                                                  * : Rs. 100 Nos       (Rs. per Quintal)  
-
 Crop              Variety      Year       Season              Barpeta    Bongaigaon      Cachar       Darrang      Dhemaji       Dhubri      Dibrugarh     Goalpara     Golaghat     Hailkandi      Jorhat       Kamrup        Karbi      Karimganj   Kokrajhar  
                                                                                                                                                                                                                               Anglong  
 Arecanut  *        -                2004-05   -                       -       48                -            45           65            -             -            -           47             -            -           62            72            -           58  
@@ -23,11 +21,8 @@ Tobacco            -                2004-05   -                       -         
 Tur Arhar          -                2004-05   -                       -            -            -          2511            -            -             -            -            -             -            -            -             -            -            -  
 Turmeric           Kacha            2004-05   -                       -            -          353           559            -            -             -            -            -           879            -            -             -            -            -  
 Wheat              -                2004-05   -                       -          694            -             -            -            -             -            -            -             -            -            -             -            -            -  
-
                                                                                                                                11  
-
 ----------------------- Page 2-----------------------
-
                                                            CROP WISE Farm Harvest Prices of Principal Crops in India -  Assam   
                                                                                                                                                                                                                        * : Rs. 100 Nos (Rs. per Quintal)  
 Crop              Variety      Year       Season            Lakhimpur   Morigaon        Nagaon       Nalbari       North       Sivasagar    Sonitpur     Tinsukia                                                                      
@@ -47,5 +42,4 @@ Sesamum            -                2004-05  -                    3333          
 Sugar Raw          -                2004-05  -                       -         2000         2100             -            -            -         1852            -  
 Turmeric           Kacha            2004-05  -                       -            -            -           700          642            -          580            -  
 Wheat              -                2004-05  -                       -         1000          900             -            -            -          467            -  
-
                                                                                                                               12  

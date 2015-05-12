@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                            Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab   
                                                                                                                                                                                                                                (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Amritsar      Barnala     Bhatinda     Faridkot    Fatehgarh     Firozpur    Gurdaspur  Hoshiarpur   Jalandhar      kapurthala   Ludhiana      Mansa         Moga       Muktsar      State Wtd  
                                                                                                                  Sahib                                                                                                                          Average  
 Bajra             -               2008-09   -                    525            -            -          800          750            -            -            -           -            -            -            -            -            -          645  
@@ -31,14 +29,10 @@ Sugarcane         -               2008-09   -                   1800            
                   -               2009-10   -                   2000            -            -         1970            -         1650         2180         2150        1600         1790         1820            -         2280            -         1993  
 Wheat             -               2008-09   -                    950         1000         1000          930         1000         1000         1000         1000        1080         1040         1000         1080         1080          930          967  
                   -               2009-10   -                   1080         1080         1100         1080         1080         1080         1100         1080        1100         1100         1100         1100         1100         1080         1089  
-
                                                                                                                            70  
-
 ----------------------- Page 2-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab   
                                                                                                                                                                                                                   (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Nawanshaha     Patiala    Rupnagar  S.A.S.Nagar    Sangrur     Tarean                                                                                                      State Wtd  
                                                            r                                                          Taran                                                                                                       Average  
 Bajra            -              2008-09  -                     -           -           -           -          400           -                                                                                                          645  
@@ -67,5 +61,4 @@ Sugarcane        -              2008-09  -                  1400        1520    
                  -              2009-10  -                  1850        1850           -        1750         2050        1920                                                                                                         1993  
 Wheat            -              2008-09  -                  1000        1000        1000        1000         1080        1000                                                                                                          967  
                  -              2009-10  -                  1080        1080        1080        1080         1100        1080                                                                                                         1089  
-
                                                                                                                     71  

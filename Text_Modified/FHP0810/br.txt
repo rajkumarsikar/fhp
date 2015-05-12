@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                          Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                                    (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Aurangabad  Jahanabad      Araia       Arbal       Banka     Begusarai     Bhabua     Bhagalpur    Bhojpur      Buxar     Darbhanga      East        Gaya      Gopalganj   State Wtd  
                                                                                                                                 (Kymmur)                   (Aara)                            Champaran                             Average  
 Bajra            -            2008-09   Kharif                 -           -            -           -           -           -           -          775         775         775           -           -            -         775         775  
@@ -45,12 +43,9 @@ Rape/Mustard -                2008-09   Rabi                2065        2065    
 Sesamum          -            2008-09   Kharif              1988        1988         1988        1988           -           -        1988         1988        1988           -        1988        1902         2065        1988        1988  
                  -            2008-09   Rabi                3215           -            -        3215        3215           -        3241         3215        3215           -        3215        3215         3215        3215        3215  
                                                                                                                     24  
-
 ----------------------- Page 2-----------------------
-
                                                            Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                                           (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Aurangabad  Jahanabad       Araia       Arbal       Banka      Begusarai     Bhabua     Bhagalpur     Bhojpur       Buxar     Darbhanga       East        Gaya      Gopalganj    State Wtd  
                                                                                                                                      (Kymmur)                   (Aara)                             Champaran                              Average  
 Sesamum           -            2008-09   Winter               2252            -         2252        2252         2252            -           -            -        2252            -           -            -         2252           -         2252  
@@ -67,14 +62,10 @@ Turmeric          -            2008-09   Rabi                 4607         4607 
                   -            2009-10   Rabi                    -         8000         8000           -            -         8000           -         8000           -            -           -         8000         8000           -         8000  
 Wheat             -            2008-09   Rabi                  975          930          911         953          953          953         953          953         953          930         953          985          951         957          953  
                   -            2009-10   Rabi                  991         1013         1039        1039         1039         1106         950         1039        1035         1035           -         1067         1035         989         1039  
-
                                                                                                                         25  
-
 ----------------------- Page 3-----------------------
-
                                                           Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                                         (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Jumui       Katihar    Khagaria    Kishanganj  Lakhisarai  Madhepura  Madhubani       Munger     Muzaffarpur   Nalanda      Nawada       Patna       Purnia       Rohtas     State Wtd  
                                                                                                                                                                                                                                          Average  
 Bajra             -           2008-09   Kharif                   -           -            -           -            -           -            -           -            -           -          775           -            -         775          775  
@@ -117,12 +108,9 @@ Rape/Mustard -                2008-09   Rabi                  2065        2065  
 Sesamum           -           2008-09   Kharif                   -        1988            -        1988            -        1988         1988           -         1988        1988         1988        1988         1988        1988         1988  
                   -           2008-09   Rabi                     -           -         3215        3215            -        3215            -           -         3215        3215         3215        3215            -           -         3215  
                                                                                                                        26  
-
 ----------------------- Page 4-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Jumui      Katihar    Khagaria   Kishanganj  Lakhisarai  Madhepura  Madhubani     Munger    Muzaffarpur   Nalanda     Nawada       Patna      Purnia      Rohtas    State Wtd  
                                                                                                                                                                                                                              Average  
 Sesamum          -           2008-09   Winter                 -       2252           -        2252           -        2252           -           -        2252        2252          -           -        2252           -        2252  
@@ -139,14 +127,10 @@ Turmeric         -           2008-09   Rabi                   -       4607      
                  -           2009-10   Rabi                   -       8000        8000        8000           -        8000        8000           -        8000           -       8000           -        8000           -        8000  
 Wheat            -           2008-09   Rabi                 953        953         953         919         953         953         953         953         953         953        953         956         953         928         953  
                  -           2009-10   Rabi                1039       1150        1039        1039         986        1039        1050        1039        1000        1038       1039        1000        1039        1035        1039  
-
                                                                                                                  27  
-
 ----------------------- Page 5-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Saharsa    Samastipur    Saran     Sheikhpura   Sheohar    Sitamarhi     Siwan      Supaul     Vaishali      West                                                     State Wtd  
                                                                                (Chapra)                                                                          Champaran                                                    Average  
 Bajra            -           2008-09   Kharif                 -           -         775           -           -         775        775           -         775         775                                                         775  
@@ -189,12 +173,9 @@ Rape/Mustard -               2008-09   Rabi                2065        2065     
 Sesamum          -           2008-09   Kharif              1988        1988           -           -           -           -       1988        1988           -        1988                                                        1988  
                  -           2008-09   Rabi                3215           -           -           -           -           -       3215        3200        3215        3215                                                        3215  
                                                                                                                   28  
-
 ----------------------- Page 6-----------------------
-
                                                         Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar   
                                                                                                                                                                                                               (Rs. per Quintal)  
-
 Crop              Variety      Year       Season       Saharsa    Samastipur    Saran     Sheikhpura   Sheohar    Sitamarhi     Siwan      Supaul     Vaishali      West                                                     State Wtd  
                                                                                (Chapra)                                                                          Champaran                                                    Average  
 Sesamum          -           2008-09   Winter                 -        2150           -           -           -           -       2252        2252        2252        2329                                                        2252  
@@ -211,5 +192,4 @@ Turmeric         -           2008-09   Rabi                   -        4607     
                  -           2009-10   Rabi                8000        8000           -           -           -           -       8000        8000        8000        8000                                                        8000  
 Wheat            -           2008-09   Rabi                 953         972         953         952         953         953        953         953         953         988                                                         953  
                  -           2009-10   Rabi                1050        1039        1039        1072        1039        1039       1039        1039         950        1039                                                        1039  
-
                                                                                                                   29  

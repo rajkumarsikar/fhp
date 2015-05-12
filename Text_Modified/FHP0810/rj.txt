@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                                          (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Ajmer       Alwar      Banswara       Baran      Barmer      Bharatpur    Bhilwara     Bikaner      Bundi     Chittorgarh    Churu        Dausa      Dholpur     Dungarpur    State Wtd  
                                                                                                                                                                                                                                          Average  
 Bajra             -           2008-09   Kharif                 729          663         950          828         843          719         707          780          676           -          720         694          663        1000          710  
@@ -45,12 +43,9 @@ Sugar Raw         -           2008-09   Rabi                  1864            - 
                   -           2009-10   Rabi                  3084         2265        4247         2571           -            -        3049            -            -        2500            -           -            -        2540         2754  
 Tobacco           -           2008-09   Rabi                     -         3000           -            -           -            -        2044            -            -           -            -           -            -           -         3301  
                                                                                                                         72  
-
 ----------------------- Page 2-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                                (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Ajmer       Alwar      Banswara     Baran       Barmer    Bharatpur    Bhilwara    Bikaner      Bundi     Chittorgarh   Churu       Dausa      Dholpur    Dungarpur   State Wtd  
                                                                                                                                                                                                                                Average  
 Tobacco          -           2009-10   Rabi                   -        2600           -           -           -           -           -           -           -           -           -           -           -           -        3895  
@@ -58,14 +53,10 @@ Tur Arhar        -           2008-09   Rabi                   -        3477     
                  -           2009-10   Rabi                   -        3424           -        3310           -        3547        5191           -           -           -           -           -        3900           -        3687  
 Wheat            -           2008-09   Rabi                1259        1070        1091        1052        1450        1075        1451        1123        1074        1112        1171        1250        1039        1134        1113  
                  -           2009-10   Rabi                1441        1107        1322        1152        1580        1106        1315        1267        1197        1259        1250        1129        1123        1134        1196  
-
                                                                                                                   73  
-
 ----------------------- Page 3-----------------------
-
                                                        Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Ganganagar Hanumangar        Jaipur     Jaisalmer      Jalor      Jhalawar     Jhunjunu     Jodhpur      Karauli       Kota        Nagaur        Pali      Pratapgarh  Rajsamand   State Wtd  
                                                                            h                                                                                                                                                                  Average  
 Bajra             -            2008-09   Kharif                  730         770          668            -          800            -         685          796          686            -          720         755            -          780          710  
@@ -108,12 +99,9 @@ Sugar Raw         -            2008-09   Rabi                      -           -
                   -            2009-10   Rabi                      -        2112            -            -            -            -           -            -            -            -            -           -            -         2855         2754  
 Tobacco           -            2008-09   Rabi                      -           -            -            -            -            -           -            -            -            -            -           -            -            -         3301  
                                                                                                                           74  
-
 ----------------------- Page 4-----------------------
-
                                                       Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                                           (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Ganganagar Hanumangar       Jaipur     Jaisalmer      Jalor      Jhalawar    Jhunjunu     Jodhpur      Karauli       Kota        Nagaur        Pali     Pratapgarh  Rajsamand   State Wtd  
                                                                           h                                                                                                                                                               Average  
 Tobacco           -            2009-10   Rabi                    -            -            -           -            -           -            -            -           -            -           -            -            -           -         3895  
@@ -121,14 +109,10 @@ Tur Arhar         -            2008-09   Rabi                    -            - 
                   -            2009-10   Rabi                    -            -            -           -            -           -            -            -           -         2780           -            -            -           -         3687  
 Wheat             -            2008-09   Rabi                 1060         1080         1110           -         1200        1110         1110         1350        1086         1059        1276         1316         1121        1163         1113  
                   -            2009-10   Rabi                 1124         1123         1252           -         1521        1220         1161         1500        1124         1185        1439         1502         1199        1439         1196  
-
                                                                                                                         75  
-
 ----------------------- Page 5-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Sawai       Sikar       Sirohi      Tonk      Udaipur                                                                                                               State Wtd  
                                                       Madhopur                                                                                                                                                               Average  
 Bajra            -           2008-09   Kharif               641        676         811         658           -                                                                                                                    710  
@@ -171,12 +155,9 @@ Sugar Raw        -           2008-09   Rabi                2528          -      
                  -           2009-10   Rabi                   -          -           -        2156        2963                                                                                                                   2754  
 Tobacco          -           2008-09   Rabi                   -       4135           -           -           -                                                                                                                   3301  
                                                                                                                  76  
-
 ----------------------- Page 6-----------------------
-
                                                    Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season        Sawai       Sikar       Sirohi      Tonk      Udaipur                                                                                                               State Wtd  
                                                       Madhopur                                                                                                                                                               Average  
 Tobacco          -           2009-10   Rabi                   -          -        6705           -           -                                                                                                                   3895  
@@ -184,5 +165,4 @@ Tur Arhar        -           2008-09   Rabi                3842          -      
                  -           2009-10   Rabi                   -          -           -           -           -                                                                                                                   3687  
 Wheat            -           2008-09   Rabi                1063       1233        1362        1109        1169                                                                                                                   1113  
                  -           2009-10   Rabi                   -       1342        1508        1283        1308                                                                                                                   1196  
-
                                                                                                                  77  

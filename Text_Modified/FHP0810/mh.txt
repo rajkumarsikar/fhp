@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                      Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra   
                                                                                                                                                                                                                                (Rs. per Quintal)  
-
 Crop              Variety      Year       Season         Ahmednagar       Akola      Amravati  Aurangabad        Beed      Bhandara     Buldhana   Chandrapur       Dhule      Gadchiroli    Gondia       Hingoli      Jalgaon       Jalna      State Wtd  
                                                                                                                                                                                                                                                 Average  
 Bajra             -               2008-09   -                    817          780          846          802          751            -          676            -         800            -            -          978          800          756          796  
@@ -33,14 +31,10 @@ Tur Arhar         -               2008-09   -                   2596         266
                   -               2009-10   -                   3574         4140         4066         3638         3536         3778         3637         3560        3398         3350         3690         3825         3354         3789         3878  
 Wheat             -               2008-09   -                   1095         1074         1082         1079         1108         1002         1180          987        1021         1000         1001         1100         1094         1103         1098  
                   -               2009-10   -                   1194         1190         1193         1222         1137         1150         1196         1238        1139         1109         1125         1240         1191         1309         1208  
-
                                                                                                                            62  
-
 ----------------------- Page 2-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra   
                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season      Kolhapur     Latur      Mumbai      Nagpur      Nanded    Nandurbar     Nasik    Osmanabad    Parbhani      Pune      Raigarh    Ratnagiri     Sangli     Satara     State Wtd  
                                                                                                                                                                                                                            Average  
 Bajra            -             2008-09  -                    -         752         803          -         913         788         806        720         730         850           -           -        872         900         796  
@@ -71,14 +65,10 @@ Tur Arhar        -             2008-09  -                 2180        2885      
                  -             2009-10  -                 2891        4263        3424       3727        3798        3534        3350       3737        3722        3292           -           -       2936        3308        3878  
 Wheat            -             2008-09  -                 1191        1012        1101       1080        1180        1070        1136       1112        1102        1089           -           -       1135        1113        1098  
                  -             2009-10  -                 1324        1187        1205       1154        1206        1148        1275       1298        1261        1269           -           -       1216        1252        1208  
-
                                                                                                                 63  
-
 ----------------------- Page 3-----------------------
-
                                                 Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra   
                                                                                                                                                                                                              (Rs. per Quintal)  
-
 Crop              Variety      Year       Season     Sindhudurg    Solapur     Thane       Wardha     Washim      Yavatmal                                                                                                  State Wtd  
                                                                                                                                                                                                                              Average  
 Bajra            -             2008-09  -                     -        800           -           -         823         667                                                                                                        796  
@@ -109,5 +99,4 @@ Tur Arhar        -             2008-09  -                     -       2588      
                  -             2009-10  -                     -       3728           -        3969        4176        4083                                                                                                       3878  
 Wheat            -             2008-09  -                     -       1119           -        1007        1073        1070                                                                                                       1098  
                  -             2009-10  -                     -       1183           -        1183        1233        1196                                                                                                       1208  
-
                                                                                                                  64  

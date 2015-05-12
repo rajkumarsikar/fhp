@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                       CROP WISE Farm Harvest Prices of Principal Crops in India -  Karnataka   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
-
 Crop              Variety      Year       Season           Bagalkot     Bangalore    Bangalore    Belgaum       Bellary       Bidar       Bijapur   Chamrajnag Chickmagal  Chitradurga D. Kannada  Davangere           Dharwad       Gadag       Gulbarga  
                                                                                        Rural                                                              ar          ur  
 Arecanut          -                2004-05   Summer                -            -            -            -            -            -            -            -            -            -         5180            -            -            -            -  
@@ -42,11 +40,8 @@ Tur Arhar         -            2004-05   Kharif                 1310            
 Turmeric          -                2004-05   Summer                -            -            -            -            -            -            -            -            -            -         1888            -            -            -            -  
 Wheat             -            2004-05   Rabi                      -            -            -          975            -            -            -            -            -            -            -            -          908            -         1039  
                   -                2004-05   Summer                -            -            -          919            -            -            -            -            -            -            -            -            -            -            -  
-
                                                                                                                            28  
-
 ----------------------- Page 2-----------------------
-
                                                       CROP WISE Farm Harvest Prices of Principal Crops in India -  Karnataka   
                                                                                                                                                                                                                                 (Rs. per Quintal)  
 Crop              Variety      Year       Season            Hassan       Haveri       Kodagu        Kolar       Koppal       Mandya       Mysore       Raichur     Shimoga       Tumkur     U.Kannada      Udupi  
@@ -80,5 +75,4 @@ Sunflower         -             2004-05   Kharif                   -         149
                   -             2004-05      Summer                -         1248            -            -         1527            -            -            -            -         1508            -            -  
 Tur Arhar         -             2004-05   Kharif                   -         1347            -            -            -         2505         1200            -            -            -            -            -  
 Wheat             -             2004-05   Rabi                     -            -            -            -          882            -            -            -            -            -            -            -  
-
                                                                                                                            29  

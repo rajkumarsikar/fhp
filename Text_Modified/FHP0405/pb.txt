@@ -1,8 +1,6 @@
 ﻿----------------------- Page 1-----------------------
-
                                                         CROP WISE Farm Harvest Prices of Principal Crops in India -  Punjab   
                                                                                                                                                                                                                             (Rs. per Quintal)  
-
 Crop              Variety      Year       Season          Amritsar     Bhatinda     Faridkot    Fatehgarh     Firozpur   Gurdaspur  Hoshiarpur   Jalandhar      kapurthala   Ludhiana      Mansa        Moga        Muktsar   Nawanshaha      Patiala  
                                                                                                   Sahib                                                                                                                             r  
 Bajra             -               2004-05   -                   455          700          460           -            -          750          895           -            -          560          490           -          453            -            -  
@@ -20,11 +18,8 @@ Sesamum           -               2004-05   -                  2315         2250
 Sugar Raw         -               2004-05   -                  1555         1250         1500        1775         1300         1500         1895        1350         1100         1550         1200        1500         1100          950         1250  
 Toria             -               2004-05   -                  1110            -            -           -            -            -            -           -            -            -            -           -            -            -         1450  
 Wheat             -               2004-05   -                   595          710          630         641          640          680          633         630          630          640          630         750          620          630          630  
-
                                                                                                                          43  
-
 ----------------------- Page 2-----------------------
-
                                                     CROP WISE Farm Harvest Prices of Principal Crops in India -  Punjab   
                                                                                                                                                                                                           (Rs. per Quintal)  
 Crop              Variety      Year       Season     Rupnagar     Sangrur  
@@ -41,5 +36,4 @@ Rape/Mustard -                2004-05   -                 1125       1300
 Sesamum         -             2004-05   -                 2500       2500  
 Sugar Raw       -             2004-05   -                 1200       1800  
 Wheat           -             2004-05   -                  630        630  
-
                                                                                                                44  
