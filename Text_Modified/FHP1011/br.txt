@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar
+	(Rs. per Quintal)
 Crop Variety Year Season	Aurangabad	Jahanabad	Araia	Arbal	Banka	Begusarai	Bhabua	Bhagalpur	Bhojpur	Buxar	Darbhanga	East	Gaya	Gopalganj	State Wtd
 	(Kymmur)	(Aara)	Champaran	Average
 Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	806	806	806	-	-	806	806	806
@@ -26,9 +26,9 @@ Tobacco	-	2010-11	Rabi	-	-	-	-	-	12076	-	12076	-	-	-	12076	-	12076	12076
 Tur Arhar	-	2010-11	Rabi	3216	3536	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216
 Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	8380	-	-	-	-	-	-	8380
 Wheat	-	2010-11	Rabi	1047	1047	1047	1047	1047	1047	1000	1047	1109	1068	1100	1047	1047	1047	1047
-	14	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar	
-	(Rs. per Quintal)	
+	14
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar
+	(Rs. per Quintal)
 Crop Variety Year Season	Jumui	Katihar	Khagaria	Kishanganj	Lakhisarai	Madhepura	Madhubani	Munger	Muzaffarpu	Nalanda	Nawada	Patna	Purnia	Rohtas	State Wtd
 	r	Average
 Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	806	806
@@ -55,33 +55,33 @@ Tobacco	-	2010-11	Rabi	-	12076	-	12076	-	-	-	-	12076	-	-	-	12076	-	12076
 Tur Arhar	-	2010-11	Rabi	3216	3216	3216	3216	3216	3216	3550	3216	3216	3216	3216	3000	3216	3500	3216
 Turmeric	-	2010-11	Rabi	-	8380	8380	8380	-	8380	-	-	8380	-	-	8380	8380	8380	8380
 Wheat	-	2010-11	Rabi	1047	1150	1047	1047	1047	1047	1175	1088	1047	1047	1047	1000	1047	900	1047
-	15	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar	
-	(Rs. per Quintal)	
-Crop Variety Year Season	Saharsa	Samastipur	Saran	Sheikhpura	Sheohar	Sitamarhi	Siwan	Supaul	Vaishali	West	State Wtd	
-	(Chapra)	Champaran	Average	
-Bajra	-	2010-11	Kharif	-	-	-	-	-	-	806	-	-	806	806	
-Barley	-	2010-11	Rabi	-	792	-	792	-	792	792	-	-	792	792	
-Chilly	-	2010-11	Rabi	4568	4568	-	4568	4568	4568	4568	4568	4568	4568	4568	
-Ginger	-	2010-11	Rabi	-	-	-	-	2647	-	-	-	-	2647	2647	
-Gram	-	2010-11	Rabi	-	2401	2401	2382	-	-	2401	2401	2401	2401	2401	
-Jowar	-	2010-11	Kharif	-	-	675	-	-	-	-	-	-	-	675	
-Jute	-	2010-11	Kharif	3120	3120	-	-	-	-	-	3120	-	3120	3120	
-Linseed	-	2010-11	Rabi	2172	2172	2172	2172	2200	2172	2172	2172	2172	2172	2172	
-Maize	-	2010-11	Kharif	740	740	740	883	740	740	740	740	740	740	740	
-	-	2010-11	Rabi	950	950	950	950	9509	950	950	950	50	950	950	
-Mesta	-	2010-11	Kharif	1255	1255	1255	-	-	1255	1255	1255	1255	1255	1255	
-Paddy	Aghani	2010-11	Kharif	859	859	859	804	875	859	859	859	859	859	859	
-	Bhadea	2010-11	Kharif	833	833	833	-	833	833	775	833	833	833	833	
-Potato	-	2010-11	Kharif	604	604	604	604	604	604	604	604	604	604	604	
-	-	2010-11	Rabi	612	612	612	612	612	612	612	612	612	612	612	
-Ragi	-	2010-11	Kharif	725	725	725	-	725	725	725	725	725	725	725	
-Rape/Mustard	-	2010-11	Rabi	2641	2461	-	2407	2641	2641	2641	2641	2461	2641	2641	
-Sesamum	-	2010-11	Kharif	3589	3588	-	-	3589	-	3589	3589	3589	3589	3589	
-	Bhadea	2010-11	Kharif	3964	3964	-	-	3964	-	3964	3964	3964	3964	3964	
-Sugar Raw	-	2010-11	Kharif	2889	2889	2889	2889	2889	2889	2889	2889	2889	2889	2889	
-Tobacco	-	2010-11	Rabi	-	12076	-	-	12076	-	12076	-	12076	-	12076	
-Tur Arhar	-	2010-11	Rabi	-	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216	
-Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	8380	8380	-	8380	8380	
-Wheat	-	2010-11	Rabi	1047	1066	1047	1051	1000	1047	1047	1047	1046	1047	1047	
-	16	
+	15
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar
+	(Rs. per Quintal)
+Crop Variety Year Season	Saharsa	Samastipur	Saran	Sheikhpura	Sheohar	Sitamarhi	Siwan	Supaul	Vaishali	West	State Wtd
+	(Chapra)	Champaran	Average
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	806	-	-	806	806
+Barley	-	2010-11	Rabi	-	792	-	792	-	792	792	-	-	792	792
+Chilly	-	2010-11	Rabi	4568	4568	-	4568	4568	4568	4568	4568	4568	4568	4568
+Ginger	-	2010-11	Rabi	-	-	-	-	2647	-	-	-	-	2647	2647
+Gram	-	2010-11	Rabi	-	2401	2401	2382	-	-	2401	2401	2401	2401	2401
+Jowar	-	2010-11	Kharif	-	-	675	-	-	-	-	-	-	-	675
+Jute	-	2010-11	Kharif	3120	3120	-	-	-	-	-	3120	-	3120	3120
+Linseed	-	2010-11	Rabi	2172	2172	2172	2172	2200	2172	2172	2172	2172	2172	2172
+Maize	-	2010-11	Kharif	740	740	740	883	740	740	740	740	740	740	740
+	-	2010-11	Rabi	950	950	950	950	9509	950	950	950	50	950	950
+Mesta	-	2010-11	Kharif	1255	1255	1255	-	-	1255	1255	1255	1255	1255	1255
+Paddy	Aghani	2010-11	Kharif	859	859	859	804	875	859	859	859	859	859	859
+	Bhadea	2010-11	Kharif	833	833	833	-	833	833	775	833	833	833	833
+Potato	-	2010-11	Kharif	604	604	604	604	604	604	604	604	604	604	604
+	-	2010-11	Rabi	612	612	612	612	612	612	612	612	612	612	612
+Ragi	-	2010-11	Kharif	725	725	725	-	725	725	725	725	725	725	725
+Rape/Mustard	-	2010-11	Rabi	2641	2461	-	2407	2641	2641	2641	2641	2461	2641	2641
+Sesamum	-	2010-11	Kharif	3589	3588	-	-	3589	-	3589	3589	3589	3589	3589
+	Bhadea	2010-11	Kharif	3964	3964	-	-	3964	-	3964	3964	3964	3964	3964
+Sugar Raw	-	2010-11	Kharif	2889	2889	2889	2889	2889	2889	2889	2889	2889	2889	2889
+Tobacco	-	2010-11	Rabi	-	12076	-	-	12076	-	12076	-	12076	-	12076
+Tur Arhar	-	2010-11	Rabi	-	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	8380	8380	-	8380	8380
+Wheat	-	2010-11	Rabi	1047	1066	1047	1051	1000	1047	1047	1047	1046	1047	1047
+	16

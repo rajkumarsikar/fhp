@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Orissa	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Orissa
+	(Rs. per Quintal)
 Crop Variety Year Season	State Wtd
 	Average
 Ground Nut	-	2010-11	-	2274	2274
@@ -12,4 +12,4 @@ Rape/Mustard	-	2010-11	-	3047	3047
 Sesamum	-	2010-11	-	3048	3048
 Sugarcane	-	2010-11	-	117	117
 Wheat	-	2010-11	-	1335	1335
-	46	
+	46

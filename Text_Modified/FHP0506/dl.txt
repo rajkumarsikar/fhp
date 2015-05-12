@@ -1,14 +1,14 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Delhi	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	-	State Wtd	
-	Average	
-Bajra	-	2005-06	-	716	716	
-Barley	-	2005-06	-	886	886	
-Gram	-	2005-06	-	2297	2297	
-Potato	-	2005-06	-	456	456	
-Rape/Mustard -	2005-06	-	1717	1717	
-Rice	-	2005-06	-	1082	1082	
-Tur Arhar	-	2005-06	-	2394	2394	
-Wheat	-	2005-06	-	982	982	
-	21	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Delhi
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	-	State Wtd
+	Average
+Bajra	-	2005-06	-	716	716
+Barley	-	2005-06	-	886	886
+Gram	-	2005-06	-	2297	2297
+Potato	-	2005-06	-	456	456
+Rape/Mustard -	2005-06	-	1717	1717
+Rice	-	2005-06	-	1082	1082
+Tur Arhar	-	2005-06	-	2394	2394
+Wheat	-	2005-06	-	982	982
+	21

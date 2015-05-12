@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Maharashtra Maharashtra	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Maharashtra Maharashtra	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Ahmednagar	Akola	Amravati	Aurangabad	Beed	Bhandara	Buldhana	Chandrapur	Dhule	Gadchiroli	Gondia	Hingoli	Jalgaon	Jalna	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Maharashtra Maharashtra
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Maharashtra Maharashtra
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmednagar	Akola	Amravati	Aurangabad	Beed	Bhandara	Buldhana	Chandrapur	Dhule	Gadchiroli	Gondia	Hingoli	Jalgaon	Jalna	State Wtd
+	Average
 Bajra	-	2006-07	-	615	538	580	529	470	-	452	-	618	-	-	606	627	573	581 
 	-	2007-08	-	602	777	720	606	561	-	545	-	600	-	-	626	635	593	616 
 CasterSeed	-	2006-07	-	-	1000	1200	1311	1265	-	-	1200	-	-	1200	-	1000	1403	989 
@@ -36,13 +36,13 @@ Tur Arhar	-	2006-07	-	1839	1750	1941	1795	1858	1827	1862	1748	1623	1955	1936	198
 	-	2007-08	-	1831	1784	1935	2049	1998	1817	1851	1718	1656	1940	1913	1966	1741	2048	1911 
 Wheat	-	2006-07	-	869	860	888	824	852	815	838	715	763	610	600	740	780	765	827 
 	-	2007-08	-	868	858	882	1012	850	812	835	710	760	608	595	773	778	770	838 
-	61	
+	61
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Maharashtra Maharashtra	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Maharashtra Maharashtra	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Kolhapur	Latur	Mumbai	Nagpur	Nanded	Nandurbar	Nasik	Osmanabad	Parbhani	Pune	Raigarh	Ratnagiri	Sangli	Satara	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Maharashtra Maharashtra
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Maharashtra Maharashtra
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Kolhapur	Latur	Mumbai	Nagpur	Nanded	Nandurbar	Nasik	Osmanabad	Parbhani	Pune	Raigarh	Ratnagiri	Sangli	Satara	State Wtd
+	Average
 Bajra	-	2006-07	-	-	611	613	-	-	682	603	541	586	656	-	-	607	642	581 
 	-	2007-08	-	-	603	604	-	-	713	590	558	675	690	-	-	657	792	616 
 CasterSeed	-	2006-07	-	900	-	993	1213	1265	915	1285	-	990	900	-	-	905	-	989 
@@ -75,13 +75,13 @@ Tur Arhar	-	2006-07	-	2020	1965	1662	1935	1865	1613	2079	1925	1960	1820	-	-	2000
 	-	2007-08	-	2005	1993	1622	1924	1863	1592	2062	1919	1958	1642	-	-	1961	2022	1911 
 Wheat	-	2006-07	-	780	810	789	815	710	750	815	866	752	840	-	-	1060	954	827 
 	-	2007-08	-	778	806	783	809	820	745	812	860	750	837	-	-	1058	950	838 
-	62	
+	62
 ----------------------- Page 3-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Maharashtra Maharashtra	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Maharashtra Maharashtra	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Sindhudurg	Solapur	Thane	Wardha	Washim	Yavatmal	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Maharashtra Maharashtra
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Maharashtra Maharashtra
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Sindhudurg	Solapur	Thane	Wardha	Washim	Yavatmal	State Wtd
+	Average
 Bajra	-	2006-07	-	-	642	-	-	510	698	581 
 	-	2007-08	-	-	659	-	-	660	690	616 
 CasterSeed	-	2006-07	-	-	900	-	-	-	-	989 
@@ -114,4 +114,4 @@ Tur Arhar	-	2006-07	-	-	1750	-	2180	1955	1829	1882
 	-	2007-08	-	-	2039	-	2128	1979	1824	1911 
 Wheat	-	2006-07	-	-	825	-	860	840	760	827 
 	-	2007-08	-	-	828	-	852	837	755	838 
-	63	
+	63

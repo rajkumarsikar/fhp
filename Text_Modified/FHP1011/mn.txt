@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Manipur	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Manipur
+	(Rs. per Quintal)
 Crop Variety Year Season	State Wtd
 	Average
 Banana	-	2010-11	-	1483	1483
@@ -11,4 +11,4 @@ Paddy	-	2010-11	Autum	975	975
 Potato	-	2010-11	-	902	902
 Rape/Mustard	-	2010-11	-	2100	2100
 Sugarcane	-	2010-11	-	418	418
-	43	
+	43

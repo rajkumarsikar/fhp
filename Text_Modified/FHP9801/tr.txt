@@ -1,27 +1,27 @@
 ﻿----------------------- Page 1-----------------------
-2.22. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN INDIA. STATE TRIPURA DISTRICT-WISE	
-	(Rs. per quintal)	
-District name	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Sugar Potato Tobacco Ground	
-	Arhar	Raw	nut	
-	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	
-TRIPURA	1998-99	540At	950At	..	..	..	..	..	..	..	1525	425	..	..	
-	565Wt 1000Wt	..	..	..	..	..	..	..	..	..	..	..	
-	1999-00	..	983At	..	..	..	..	..	..	..	1470	402	..	..	
-	..	1139Wt	..	..	..	..	..	..	..	..	..	..	..	
-	2000-00	..	991At	..	..	..	..	..	..	..	..	..	..	..	
-TRIPURA	1998-99	540At	950At	..	..	..	..	..	..	..	1525	425	..	..	
- (S.W.Average)	565Wt 1000Wt	..	..	..	..	..	..	..	..	..	..	..	
-	1999-00	..	983At	..	..	..	..	..	..	..	1470	402	..	..	
-	..	1139Wt	..	..	..	..	..	..	..	..	..	..	..	
-	2000-01	..	991At	..	..	..	..	..	..	..	..	..	..	..	
-2.22. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN INDIA. STATE TRIPURA DISTRICT-WISE (Concluded)	
-	(Rs. per quintal)	
-District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann- Pepper Ginger Chilly Turmeric Mesta	
-	Mustard	Seed	hemp	
-	(1)	(2)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)	
-TRIPURA	1998-99 1500	1550	..	..	..	2310	700	..	..	..	..	..	550	
-	1999-00 1650	1725	..	..	..	2400	678	..	..	..	..	..	539	
-	2000-01	..	1800	..	..	..	..	747	..	..	..	..	..	610	
-TRIPURA	1998-99 1500	1550	..	..	..	2310	700	..	..	..	..	..	550	
- (S.W.Average)	1999-00 1650	1725	..	..	..	2400	678	..	..	..	..	..	539	
-	2000-01	..	1800	..	..	..	..	747	..	..	..	..	..	610	
+2.22. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN INDIA. STATE TRIPURA DISTRICT-WISE
+	(Rs. per quintal)
+District name	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Sugar Potato Tobacco Ground
+	Arhar	Raw	nut
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)
+TRIPURA	1998-99	540At	950At	..	..	..	..	..	..	..	1525	425	..	..
+	565Wt 1000Wt	..	..	..	..	..	..	..	..	..	..	..
+	1999-00	..	983At	..	..	..	..	..	..	..	1470	402	..	..
+	..	1139Wt	..	..	..	..	..	..	..	..	..	..	..
+	2000-00	..	991At	..	..	..	..	..	..	..	..	..	..	..
+TRIPURA	1998-99	540At	950At	..	..	..	..	..	..	..	1525	425	..	..
+ (S.W.Average)	565Wt 1000Wt	..	..	..	..	..	..	..	..	..	..	..
+	1999-00	..	983At	..	..	..	..	..	..	..	1470	402	..	..
+	..	1139Wt	..	..	..	..	..	..	..	..	..	..	..
+	2000-01	..	991At	..	..	..	..	..	..	..	..	..	..	..
+2.22. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN INDIA. STATE TRIPURA DISTRICT-WISE (Concluded)
+	(Rs. per quintal)
+District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann- Pepper Ginger Chilly Turmeric Mesta
+	Mustard	Seed	hemp
+	(1)	(2)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)
+TRIPURA	1998-99 1500	1550	..	..	..	2310	700	..	..	..	..	..	550
+	1999-00 1650	1725	..	..	..	2400	678	..	..	..	..	..	539
+	2000-01	..	1800	..	..	..	..	747	..	..	..	..	..	610
+TRIPURA	1998-99 1500	1550	..	..	..	2310	700	..	..	..	..	..	550
+ (S.W.Average)	1999-00 1650	1725	..	..	..	2400	678	..	..	..	..	..	539
+	2000-01	..	1800	..	..	..	..	747	..	..	..	..	..	610

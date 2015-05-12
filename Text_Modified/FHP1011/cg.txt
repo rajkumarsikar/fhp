@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
+	(Rs. per Quintal)
 Crop Variety Year Season	Bastar	Bilaspur	Dantewada	Dhamtari	Durg	Janjgir-Cha	Jashpur	Kanker	Kawardha	Korba	Koriya	Mahasamun	Raigarh	Raipur	State Wtd
 	mpa	d	Average
 Bajra	-	2010-11	-	-	1613	-	-	-	-	-	-	-	-	-	1289	-	-	1442
@@ -32,9 +32,9 @@ Tur Arhar	Delay	2010-11	-	-	3367	-	-	5500	4581	-	7000	34417	-	3791	4712	4500	-	4
 Turmeric	-	2010-11	-	-	18831	-	-	-	16878	13099	-	-	-	16583	16689	10167	-	15070
 	-	2010-11	Kharif	-	18831	-	-	-	16878	13099	-	-	-	16583	16689	10167	-	15070
 Wheat	-	2010-11	-	2000	1217	-	1100	1485	-	1423	-	1152	-	1350	1736	-	1340	1367
-	18	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh	
-	(Rs. per Quintal)	
+	18
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
+	(Rs. per Quintal)
 Crop Variety Year Season	Rajnandgao	Surguja	State Wtd
 	n	Average
 Bajra	-	2010-11	-	-	-	1442
@@ -67,4 +67,4 @@ Tur Arhar	Delay	2010-11	-	3411	-	4349
 Turmeric	-	2010-11	-	-	-	15070
 	-	2010-11	Kharif	-	-	15070
 Wheat	-	2010-11	-	1114	-	1367
-	19	
+	19

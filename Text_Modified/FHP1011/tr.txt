@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura
+	(Rs. per Quintal)
 Crop Variety Year Season	State Wtd
 	Average
 Gram	-	2010-11	-	5357	5357
@@ -12,4 +12,4 @@ Potato	-	2010-11	-	964	964
 Rape/Mustard	-	2010-11	-	4812	4812
 Sesamum	-	2010-11	-	4780	4780
 Sugar Raw	-	2010-11	-	644	644
-	56	
+	56

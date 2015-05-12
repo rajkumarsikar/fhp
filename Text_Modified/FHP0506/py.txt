@@ -1,12 +1,12 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Pondicherry	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	-	State Wtd	
-	Average	
-Cotton	-	2005-06	-	1537	1537	
-Ground Nut	-	2005-06	-	1966	1966	
-Paddy	Coarse	2005-06	-	610	610	
-	Fine	2005-06	-	972	972	
-Ragi	-	2005-06	-	515	515	
-Sesamum	-	2005-06	-	1657	1657	
-	45	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Pondicherry
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	-	State Wtd
+	Average
+Cotton	-	2005-06	-	1537	1537
+Ground Nut	-	2005-06	-	1966	1966
+Paddy	Coarse	2005-06	-	610	610
+	Fine	2005-06	-	972	972
+Ragi	-	2005-06	-	515	515
+Sesamum	-	2005-06	-	1657	1657
+	45

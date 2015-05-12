@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttranchal	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttranchal
+	(Rs. per Quintal)
 Crop Variety Year Season	Almora	Dehradoon	Garhwal	Haridwar	Nanital	Udamsingh	State Wtd
 	(Pauri)	nagar	Average
 Barley	-	2010-11	Rabi	-	1087	-	-	-	-	1087
@@ -21,4 +21,4 @@ Sugarcane	-	2010-11	-	-	-	-	231	203	191	208
 	-	2010-11	Kharif	-	-	-	231	230	191	208
 Wheat	-	2010-11	-	-	-	1097	-	1119	1074	-
 	-	2010-11	Rabi	-	-	-	-	1119	1074	1097
-	63	
+	63

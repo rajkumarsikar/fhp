@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd	
-	Nagar	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd
+	Nagar	Average
 Bajra	-	2006-07	Kharif	-	549	-	-	-	-	-	-	-	-	-	-	-	-	572 
 	-	2007-08	Kharif	559	553	-	-	527	-	-	-	-	-	-	-	-	-	535 
 Barley	-	2006-07	Rabi	818	908	-	-	-	874	-	-	-	-	-	-	-	-	775 
@@ -43,21 +43,21 @@ Turmeric	-	2006-07	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	451
 	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	398 
 Wheat	-	2006-07	Rabi	838	706	-	-	-	928	965	913	-	793	907	-	-	-	880 
 	-	2007-08	Rabi	1054	-	-	-	1024	-	1097	958	1034	-	969	-	-	-	998 
-	81	
+	81
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd	
-	Nagar	Average	
-	82	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd
+	Nagar	Average
+	82
 ----------------------- Page 3-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd	
-	Budha	Average	
-	Nagar	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd
+	Budha	Average
+	Nagar
 Bajra	-	2006-07	Kharif	-	-	-	-	-	-	-	-	-	-	-	610	-	-	572 
 	-	2007-08	Kharif	-	-	734	-	-	-	557	609	-	-	-	657	-	-	535 
 Barley	-	2006-07	Rabi	-	-	685	-	-	-	-	-	-	-	856	766	-	-	775 
@@ -96,24 +96,24 @@ Tur Arhar	-	2006-07	Rabi	-	-	2303	-	-	-	-	-	-	-	2250	-	-	-	2205
 Turmeric	-	2006-07	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	451 
 	-	2007-08	-	-	-	-	-	-	368	-	-	-	-	-	-	-	-	- 
 	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	398 
-	82	
+	82
 ----------------------- Page 4-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd	
-	Budha	Average	
-	Nagar	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd
+	Budha	Average
+	Nagar
 Wheat	-	2006-07	Rabi	941	-	928	-	-	-	-	-	-	-	923	895	-	-	880 
 	-	2007-08	Rabi	1076	-	1038	-	-	-	-	1018	-	989	1031	1041	-	-	998 
-	83	
+	83
 ----------------------- Page 5-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(City	Kaushambi	State Wtd	
-	(M.M.Nagar	phule Nagar	Dehat	)	Average	
-	)	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(City	Kaushambi	State Wtd
+	(M.M.Nagar	phule Nagar	Dehat	)	Average
+	)
 Bajra	-	2006-07	Kharif	576	-	-	-	-	548	-	-	-	-	-	-	-	-	572 
 	-	2007-08	Kharif	567	-	-	-	-	-	-	-	-	-	-	526	-	-	535 
 Barley	-	2006-07	Rabi	710	-	-	-	-	-	-	-	690	-	-	-	-	-	775 
@@ -152,22 +152,22 @@ Tur Arhar	-	2006-07	Rabi	2362	-	2001	2162	-	2015	-	-	-	-	-	-	-	-	2205
 Turmeric	-	2006-07	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	451 
 	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	398 
 Wheat	-	2006-07	Rabi	921	-	945	879	-	-	-	-	880	-	-	-	-	-	880 
-	84	
+	84
 ----------------------- Page 6-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(City	Kaushambi	State Wtd	
-	(M.M.Nagar	phule Nagar	Dehat	)	Average	
-	)	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(City	Kaushambi	State Wtd
+	(M.M.Nagar	phule Nagar	Dehat	)	Average
+	)
 Wheat	-	2007-08	Rabi	-	-	937	991	-	-	-	-	1029	-	985	986	-	881	998 
-	85	
+	85
 ----------------------- Page 7-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad Muzaffarnag	State Wtd	
-	Nagar	ar	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad Muzaffarnag	State Wtd
+	Nagar	ar	Average
 Bajra	-	2006-07	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	572 
 	-	2007-08	Kharif	-	-	-	-	-	-	-	-	570	-	-	-	683	-	535 
 Barley	-	2006-07	Rabi	-	-	718	-	-	-	-	-	-	-	-	575	-	-	775 
@@ -207,22 +207,22 @@ Turmeric	-	2006-07	Rabi	-	459	-	-	-	-	-	-	-	-	-	-	-	-	451
 	-	2007-08	-	-	266	-	-	-	-	-	-	-	-	-	-	-	-	- 
 	-	2007-08	Rabi	712	-	-	-	-	-	-	-	-	-	-	-	-	-	398 
 Wheat	-	2006-07	Rabi	-	881	864	-	-	829	975	-	-	-	920	888	-	-	880 
-	86	
+	86
 ----------------------- Page 8-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad Muzaffarnag	State Wtd	
-	Nagar	ar	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad Muzaffarnag	State Wtd
+	Nagar	ar	Average
 Wheat	-	2007-08	Rabi	951	893	-	-	-	-	1031	-	-	900	1136	-	-	1081	998 
-	87	
+	87
 ----------------------- Page 9-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahapur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd	
-	Ravidas	Nagar	gar	Average	
-	Nagar	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahapur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd
+	Ravidas	Nagar	gar	Average
+	Nagar
 Bajra	-	2006-07	Kharif	-	624	-	-	-	-	-	-	-	-	-	491	-	-	572 
 	-	2007-08	Kharif	-	640	-	-	-	789	-	-	-	-	-	-	-	-	535 
 Barley	-	2006-07	Rabi	-	619	-	-	-	-	-	-	-	-	657	-	-	638	775 
@@ -261,22 +261,22 @@ Tur Arhar	-	2006-07	Rabi	-	1879	-	-	-	-	-	-	-	-	2148	-	-	1535	2205
 Turmeric	-	2006-07	Rabi	-	-	-	-	-	-	-	-	-	-	346	-	-	-	451 
 	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	-	389	-	-	-	398 
 Wheat	-	2006-07	Rabi	872	813	-	929	998	-	-	852	-	-	849	-	-	838	880 
-	88	
+	88
 ----------------------- Page 10-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahapur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd	
-	Ravidas	Nagar	gar	Average	
-	Nagar	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahapur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd
+	Ravidas	Nagar	gar	Average
+	Nagar
 Wheat	-	2007-08	Rabi	-	-	906	-	-	-	956	-	-	-	983	-	-	1028	998 
-	89	
+	89
 ----------------------- Page 11-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Varanasi	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Uttar Pradesh Uttar Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Uttar Pradesh Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Varanasi	State Wtd
+	Average
 Bajra	-	2006-07	Kharif	-	572 
 	-	2007-08	Kharif	-	535 
 Barley	-	2006-07	Rabi	-	775 
@@ -316,4 +316,4 @@ Turmeric	-	2006-07	Rabi	-	451
 	-	2007-08	Rabi	-	398 
 Wheat	-	2006-07	Rabi	-	880 
 	-	2007-08	Rabi	-	998 
-	90	
+	90

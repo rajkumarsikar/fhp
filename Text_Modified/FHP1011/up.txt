@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+	(Rs. per Quintal)
 Crop Variety Year Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd
 	Nagar	Average
 Bajra	-	2010-11	Kharif	-	737	-	-	-	-	-	-	-	-	-	-	-	-	739
@@ -22,12 +22,12 @@ Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
 Tur Arhar	-	2010-11	Rabi	3538	-	-	-	-	3775	-	-	-	-	2889	-	-	-	3345
 Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
 Wheat	-	2010-11	Rabi	1133	1097	-	-	-	1150	1188	-	-	-	1060	-	-	-	1063
-	57	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
-	(Rs. per Quintal)	
+	57
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+	(Rs. per Quintal)
 Crop Variety Year Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd
 	Budha	Average
-	Nagar	
+	Nagar
 Bajra	-	2010-11	Kharif	-	-	-	-	834	-	664	-	-	-	-	796	-	-	739
 Barley	-	2010-11	Rabi	-	-	1046	-	895	-	940	-	-	-	958	1062	-	-	984
 CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
@@ -48,12 +48,12 @@ Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	3363	-	-	-	-	-	-	-	3332
 Tur Arhar	-	2010-11	Rabi	-	-	5000	-	3004	-	3563	-	-	-	2928	-	-	-	3345
 Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
 Wheat	-	2010-11	Rabi	1151	-	1158	-	1051	-	1038	-	-	1078	1080	1099	-	-	1063
-	58	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
-	(Rs. per Quintal)	
+	58
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+	(Rs. per Quintal)
 Crop Variety Year Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(Cit	Kaushambi	State Wtd
 	(M.M.Naga	phule Nagar	Dehat	y)	Average
-	r)	
+	r)
 Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	689	-	724	739
 Barley	-	2010-11	Rabi	907	-	-	-	-	-	976	-	-	-	-	1001	-	923	984
 CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
@@ -74,9 +74,9 @@ Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
 Tur Arhar	-	2010-11	Rabi	3369	-	-	2875	-	-	2953	3268	-	-	-	2778	-	3423	3345
 Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
 Wheat	-	2010-11	Rabi	1074	-	-	1045	-	-	1002	976	1075	-	-	1060	-	1024	1063
-	59	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
-	(Rs. per Quintal)	
+	59
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+	(Rs. per Quintal)
 Crop Variety Year Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya Maharajgan	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad	Muzaffarna	State Wtd
 	Nagar	j	gar	Average
 Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	739
@@ -99,12 +99,12 @@ Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
 Tur Arhar	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3345
 Turmeric	-	2010-11	Rabi	2978	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
 Wheat	-	2010-11	Rabi	996	-	-	-	-	-	-	1120	-	-	1173	-	-	1159	1063
-	60	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
-	(Rs. per Quintal)	
+	60
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+	(Rs. per Quintal)
 Crop Variety Year Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahapur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd
 	Ravidas	Nagar	gar	Average
-	Nagar	
+	Nagar
 Bajra	-	2010-11	Kharif	-	790	-	-	-	-	-	-	-	-	-	-	-	-	739
 Barley	-	2010-11	Rabi	-	1080	-	-	-	-	-	-	-	-	888	894	1036	-	984
 CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
@@ -125,29 +125,29 @@ Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	2844	-	-	-	3332
 Tur Arhar	-	2010-11	Rabi	-	3022	-	-	-	3681	-	-	2928	-	3988	-	4878	-	3345
 Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	3019	-	-	-	2987
 Wheat	-	2010-11	Rabi	1050	1143	-	-	-	956	-	-	975	-	1012	1072	1044	-	1063
-	61	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop Variety Year Season	Varanasi	State Wtd	
-	Average	
-Bajra	-	2010-11	Kharif	-	739	
-Barley	-	2010-11	Rabi	-	984	
-CasterSeed	-	2010-11	Kharif	-	1808	
-Cotton	-	2010-11	Kharif	-	3686	
-Gram	-	2010-11	Rabi	-	2259	
-Ground Nut	-	2010-11	Kharif	-	2721	
-Jowar	-	2010-11	Kharif	-	836	
-Jute	-	2010-11	Kharif	-	2837	
-Linseed	-	2010-11	Rabi	-	2703	
-Maize	-	2010-11	Kharif	-	859	
-Paddy	-	2010-11	Kharif	-	888	
-Potato	-	2010-11	Rabi	-	459	
-Rape/Mustard	-	2010-11	Rabi	-	2267	
-Sesamum	-	2010-11	Kharif	-	4549	
-Sugar Raw	-	2010-11	Kharif	-	2789	
-Sugarcane	-	2010-11	Kharif	-	204	
-Tobacco	Calcattia	2010-11	Rabi	-	3332	
-Tur Arhar	-	2010-11	Rabi	-	3345	
-Turmeric	-	2010-11	Rabi	-	2987	
-Wheat	-	2010-11	Rabi	-	1063	
-	62	
+	61
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+	(Rs. per Quintal)
+Crop Variety Year Season	Varanasi	State Wtd
+	Average
+Bajra	-	2010-11	Kharif	-	739
+Barley	-	2010-11	Rabi	-	984
+CasterSeed	-	2010-11	Kharif	-	1808
+Cotton	-	2010-11	Kharif	-	3686
+Gram	-	2010-11	Rabi	-	2259
+Ground Nut	-	2010-11	Kharif	-	2721
+Jowar	-	2010-11	Kharif	-	836
+Jute	-	2010-11	Kharif	-	2837
+Linseed	-	2010-11	Rabi	-	2703
+Maize	-	2010-11	Kharif	-	859
+Paddy	-	2010-11	Kharif	-	888
+Potato	-	2010-11	Rabi	-	459
+Rape/Mustard	-	2010-11	Rabi	-	2267
+Sesamum	-	2010-11	Kharif	-	4549
+Sugar Raw	-	2010-11	Kharif	-	2789
+Sugarcane	-	2010-11	Kharif	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	3332
+Tur Arhar	-	2010-11	Rabi	-	3345
+Turmeric	-	2010-11	Rabi	-	2987
+Wheat	-	2010-11	Rabi	-	1063
+	62

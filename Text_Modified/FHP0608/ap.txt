@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnaga	Medak	Nalgonda	State Wtd	
-	Godavari	r	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnaga	Medak	Nalgonda	State Wtd
+	Godavari	r	Average
 Bajra	-	2006-07	-	885	649	584	-	562	885	680	885	616	-	598	512	512	616	602 
 	-	2006-07	Kharif	-	595	578	-	557	-	497	-	616	-	576	512	512	616	553 
 	-	2006-07	Rabi	885	885	885	-	885	885	885	885	-	-	885	-	-	-	885 
@@ -43,13 +43,13 @@ Jowar	-	2006-07	-	574	932	616	-	752	738	770	967	945	661	765	664	906	795	732
 Maize	-	2006-07	-	515	597	593	-	674	638	599	610	600	600	613	624	587	556	609 
 	-	2006-07	Kharif	497	605	605	-	520	551	605	590	586	520	597	621	585	537	576 
 	-	2006-07	Rabi	569	590	590	-	686	639	590	638	622	632	661	661	634	622	646 
-	12	
+	12
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnaga	Medak	Nalgonda	State Wtd	
-	Godavari	r	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnaga	Medak	Nalgonda	State Wtd
+	Godavari	r	Average
 Maize	-	2007-08	-	652	626	641	-	755	683	643	648	623	654	638	525	620	661	633 
 	-	2007-08	Kharif	628	614	624	-	639	639	624	632	607	639	633	519	618	639	601 
 	-	2007-08	Rabi	751	634	653	-	770	683	653	671	642	657	671	696	688	696	676 
@@ -89,23 +89,23 @@ Tur Arhar	-	2006-07	-	2094	1889	1690	-	1979	1896	1986	2001	1999	1921	2044	1759	2
 	-	2007-08	Kharif	2178	2024	1724	-	2081	2239	1834	2000	2160	1848	2105	1903	2115	2090	2086 
 Turmeric	-	2006-07	-	1845	1819	1819	-	2354	1963	1819	1885	1981	2354	1819	1826	1826	1981	1881 
 	-	2006-07	Kharif	1845	1819	1819	-	2358	1963	1819	1885	1981	2354	1819	1826	1826	1981	1881 
-	13	
+	13
 ----------------------- Page 3-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnaga	Medak	Nalgonda	State Wtd	
-	Godavari	r	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnaga	Medak	Nalgonda	State Wtd
+	Godavari	r	Average
 Turmeric	-	2007-08	-	2119	-	2759	-	3846	1875	2759	2210	2165	2526	2759	2542	3246	-	2400 
 	-	2007-08	Kharif	2119	-	2759	-	3846	1875	2759	2210	2165	-	2759	2543	3246	-	2393 
 	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	2526	-	-	-	-	2526 
-	14	
+	14
 ----------------------- Page 4-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India India	--	Andhra Pradesh Andhra Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	IndiaIndia	--	Andhra Pradesh Andhra Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam Visakhapatn Vizianagara	Warangal	West	State Wtd	
-	am	m	Godavari	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India India	--	Andhra Pradesh Andhra Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	IndiaIndia	--	Andhra Pradesh Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam Visakhapatn Vizianagara	Warangal	West	State Wtd
+	am	m	Godavari	Average
 Bajra	-	2006-07	-	540	885	584	512	502	513	655	616	-	602 
 	-	2006-07	Kharif	502	-	575	512	502	513	655	616	-	553 
 	-	2006-07	Rabi	885	885	885	-	-	-	-	-	-	885 
@@ -145,13 +145,13 @@ Jowar	-	2006-07	-	648	670	664	664	736	755	743	1025	695	732
 Maize	-	2006-07	-	639	566	635	553	605	634	680	585	664	609 
 	-	2006-07	Kharif	551	535	551	549	598	611	624	550	520	576 
 	-	2006-07	Rabi	646	660	646	634	610	652	695	639	670	646 
-	15	
+	15
 ----------------------- Page 5-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam Visakhapatn Vizianagara	Warangal	West	State Wtd	
-	am	m	Godavari	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam Visakhapatn Vizianagara	Warangal	West	State Wtd
+	am	m	Godavari	Average
 Maize	-	2007-08	-	681	634	678	650	696	701	709	622	642	633 
 	-	2007-08	Kharif	639	602	639	649	672	682	682	595	639	601 
 	-	2007-08	Rabi	683	761	683	696	710	716	722	660	642	676 
@@ -191,14 +191,14 @@ Tur Arhar	-	2006-07	-	2120	1884	2120	2064	1979	1979	1979	2037	1979	2007
 	-	2007-08	Kharif	2198	2166	2157	2122	2081	2081	2081	2075	2081	2086 
 Turmeric	-	2006-07	-	1963	1531	1963	1826	3825	3825	3825	1981	2354	1881 
 	-	2006-07	Kharif	1963	1531	1963	1826	3825	3825	3825	1981	2354	1881 
-	16	
+	16
 ----------------------- Page 6-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam Visakhapatn Vizianagara	Warangal	West	State Wtd	
-	am	m	Godavari	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Andhra Pradesh Andhra Pradesh
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Andhra Pradesh Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam Visakhapatn Vizianagara	Warangal	West	State Wtd
+	am	m	Godavari	Average
 Turmeric	-	2007-08	-	1875	2750	1875	2389	3846	3846	3846	2165	3846	2400 
 	-	2007-08	Kharif	1875	2750	1875	2389	3846	3846	3846	2165	3846	2393 
 	-	2007-08	Rabi	-	-	-	-	-	-	-	-	-	2526 
-	17	
+	17

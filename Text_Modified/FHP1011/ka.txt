@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka
+	(Rs. per Quintal)
 Crop Variety Year Season	Bagalkot	Bangalore	Bangalore	Belgaum	Bellary	Bidar	Bijapur	Chamrajnag	Chickaballa	Chickmagal	Chitradurga	D. Kannada	Davangere	Dharwad	State Wtd
 	Rural	Urban	ar	pura	ur	Average
 Arecanut	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	10179	10684	-	10755
@@ -34,9 +34,9 @@ Sunflower	-	2010-11	Kharif	2314	-	-	-	2751	2072	2746	-	2390	2352	-	-	1890	-	2600
 Tobacco	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	8624
 Tur Arhar	-	2010-11	Kharif	3053	-	-	-	3120	3811	2938	-	-	-	3432	-	-	-	3567
 Wheat	-	2010-11	Rabi	1766	-	-	-	-	1512	1649	-	-	-	-	-	-	1305	1597
-	32	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka	
-	(Rs. per Quintal)	
+	32
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka
+	(Rs. per Quintal)
 Crop Variety Year Season	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U.Kannada	State Wtd
 	Average
 Arecanut	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	9902	10755
@@ -71,41 +71,41 @@ Sunflower	-	2010-11	Kharif	2976	2808	2623	2898	-	-	2180	-	-	2892	-	-	-	-	2600
 Tobacco	-	2010-11	Summer	-	-	10625	-	-	-	-	-	-	-	-	-	-	-	8624
 Tur Arhar	-	2010-11	Kharif	-	3888	-	2779	-	-	3001	-	-	2904	-	-	3024	-	3567
 Wheat	-	2010-11	Rabi	1661	1687	-	1277	-	-	1203	-	-	-	-	-	-	-	1597
-	33	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka	
-	(Rs. per Quintal)	
-Crop Variety Year Season	Udupi	State Wtd	
-	Average	
-Arecanut	-	2010-11	Summer	11967	10755	
-Bajra	-	2010-11	Kharif	-	802	
-Cashewnut	-	2010-11	Summer	6704	6616	
-CasterSeed	-	2010-11	Kharif	-	2570	
-Chilly	Dry	2010-11	Kharif	-	5744	
-Cotton	-	2010-11	Summer	-	4573	
-Gram	-	2010-11	Rabi	-	2335	
-Ground Nut	-	2010-11	Kharif	-	2860	
-	-	2010-11	Summer	3831	3285	
-Jowar	Local	2010-11	Kharif	-	1401	
-	Local	2010-11	Rabi	-	1650	
-Maize	HB	2010-11	Kharif	-	889	
-	HB	2010-11	Rabi	-	986	
-	HB	2010-11	Summer	-	1085	
-Paddy	Local	2010-11	Kharif	1118	1020	
-	Local	2010-11	Rabi	1096	1096	
-Pepper	-	2010-11	Summer	-	21441	
-Potato	-	2010-11	Kharif	-	887	
-	-	2010-11	Rabi	-	1023	
-	-	2010-11	Summer	-	1096	
-Ragi	HB	2010-11	Summer	-	1031	
-	HYV	2010-11	Kharif	-	919	
-	HYV	2010-11	Rabi	-	872	
-	HYV	2010-11	Summer	-	1031	
-Sesamum	-	2010-11	Kharif	-	4119	
-Soyabean	-	2010-11	Kharif	-	1889	
-Sunflower	-	2010-11	Kharif	-	2600	
-	-	2010-11	Rabi	-	2756	
-	-	2010-11	Summer	-	2618	
-Tobacco	-	2010-11	Summer	-	8624	
-Tur Arhar	-	2010-11	Kharif	-	3567	
-Wheat	-	2010-11	Rabi	-	1597	
-	34	
+	33
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka
+	(Rs. per Quintal)
+Crop Variety Year Season	Udupi	State Wtd
+	Average
+Arecanut	-	2010-11	Summer	11967	10755
+Bajra	-	2010-11	Kharif	-	802
+Cashewnut	-	2010-11	Summer	6704	6616
+CasterSeed	-	2010-11	Kharif	-	2570
+Chilly	Dry	2010-11	Kharif	-	5744
+Cotton	-	2010-11	Summer	-	4573
+Gram	-	2010-11	Rabi	-	2335
+Ground Nut	-	2010-11	Kharif	-	2860
+	-	2010-11	Summer	3831	3285
+Jowar	Local	2010-11	Kharif	-	1401
+	Local	2010-11	Rabi	-	1650
+Maize	HB	2010-11	Kharif	-	889
+	HB	2010-11	Rabi	-	986
+	HB	2010-11	Summer	-	1085
+Paddy	Local	2010-11	Kharif	1118	1020
+	Local	2010-11	Rabi	1096	1096
+Pepper	-	2010-11	Summer	-	21441
+Potato	-	2010-11	Kharif	-	887
+	-	2010-11	Rabi	-	1023
+	-	2010-11	Summer	-	1096
+Ragi	HB	2010-11	Summer	-	1031
+	HYV	2010-11	Kharif	-	919
+	HYV	2010-11	Rabi	-	872
+	HYV	2010-11	Summer	-	1031
+Sesamum	-	2010-11	Kharif	-	4119
+Soyabean	-	2010-11	Kharif	-	1889
+Sunflower	-	2010-11	Kharif	-	2600
+	-	2010-11	Rabi	-	2756
+	-	2010-11	Summer	-	2618
+Tobacco	-	2010-11	Summer	-	8624
+Tur Arhar	-	2010-11	Kharif	-	3567
+Wheat	-	2010-11	Rabi	-	1597
+	34

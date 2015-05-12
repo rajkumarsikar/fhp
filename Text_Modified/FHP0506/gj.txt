@@ -1,46 +1,46 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Ahmedabad	Amreli	Anand	Banaskanth	Bharuch	Bhavnagar	Dahod	Gandhinagar	Jamnagar	Junagadh	Kachchh	Kheda	Mahesana	Narmada	State Wtd	
-	Average	
-Bajra	-	2005-06	-	487	605	468	652	-	604	657	616	720	702	739	601	587	672	644	
-CasterSeed	-	2005-06	-	1472	-	1565	1467	-	-	-	1565	1439	-	1393	1482	1525	1069	1463	
-Chilly	Dry	2005-06	-	-	4725	-	-	-	-	-	4050	1795	-	-	-	4561	-	3970	
-Cotton	Desi	2005-06	-	-	1845	-	-	1500	-	-	-	-	1713	-	-	1580	-	1684	
-Gram	-	2005-06	-	1939	-	1521	-	1870	-	1694	-	-	-	-	1989	-	1616	1754	
-Ground Nut	-	2005-06	-	-	1645	1567	1530	-	1752	1625	2000	1595	1672	1631	1492	-	1386	1550	
-Jowar	-	2005-06	-	464	-	-	946	745	-	-	-	-	703	-	-	528	590	921	
-Maize	-	2005-06	-	-	-	-	-	650	-	625	513	-	-	-	598	-	540	608	
-Paddy	-	2005-06	-	619	-	689	-	635	-	525	837	-	-	-	624	-	-	669	
-Potato	-	2005-06	-	-	-	373	550	-	-	550	320	-	-	-	527	335	-	451	
-Ragi	-	2005-06	-	-	-	-	-	-	-	475	-	-	-	-	-	-	-	569	
-Rape/Mustard -	2005-06	-	1469	-	1343	1487	-	-	-	1544	-	-	1737	1560	1514	-	1521	
-Sesamum	-	2005-06	-	-	3235	-	3107	-	3400	-	3557	2919	-	2681	-	-	-	3062	
-Sugar Raw	-	2005-06	-	-	1470	-	-	-	-	-	-	-	1377	-	-	-	-	1623	
-Tobacco	-	2005-06	-	-	-	1626	-	-	-	-	-	-	-	-	2099	1958	-	1766	
-Tur Arhar	-	2005-06	-	-	-	1971	-	1730	-	1604	1575	-	-	-	1679	-	1596	1679	
-Wheat	-	2005-06	-	981	813	675	827	830	825	789	883	847	805	851	770	736	702	836	
-	23	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmedabad	Amreli	Anand	Banaskanth	Bharuch	Bhavnagar	Dahod	Gandhinagar	Jamnagar	Junagadh	Kachchh	Kheda	Mahesana	Narmada	State Wtd
+	Average
+Bajra	-	2005-06	-	487	605	468	652	-	604	657	616	720	702	739	601	587	672	644
+CasterSeed	-	2005-06	-	1472	-	1565	1467	-	-	-	1565	1439	-	1393	1482	1525	1069	1463
+Chilly	Dry	2005-06	-	-	4725	-	-	-	-	-	4050	1795	-	-	-	4561	-	3970
+Cotton	Desi	2005-06	-	-	1845	-	-	1500	-	-	-	-	1713	-	-	1580	-	1684
+Gram	-	2005-06	-	1939	-	1521	-	1870	-	1694	-	-	-	-	1989	-	1616	1754
+Ground Nut	-	2005-06	-	-	1645	1567	1530	-	1752	1625	2000	1595	1672	1631	1492	-	1386	1550
+Jowar	-	2005-06	-	464	-	-	946	745	-	-	-	-	703	-	-	528	590	921
+Maize	-	2005-06	-	-	-	-	-	650	-	625	513	-	-	-	598	-	540	608
+Paddy	-	2005-06	-	619	-	689	-	635	-	525	837	-	-	-	624	-	-	669
+Potato	-	2005-06	-	-	-	373	550	-	-	550	320	-	-	-	527	335	-	451
+Ragi	-	2005-06	-	-	-	-	-	-	-	475	-	-	-	-	-	-	-	569
+Rape/Mustard -	2005-06	-	1469	-	1343	1487	-	-	-	1544	-	-	1737	1560	1514	-	1521
+Sesamum	-	2005-06	-	-	3235	-	3107	-	3400	-	3557	2919	-	2681	-	-	-	3062
+Sugar Raw	-	2005-06	-	-	1470	-	-	-	-	-	-	-	1377	-	-	-	-	1623
+Tobacco	-	2005-06	-	-	-	1626	-	-	-	-	-	-	-	-	2099	1958	-	1766
+Tur Arhar	-	2005-06	-	-	-	1971	-	1730	-	1604	1575	-	-	-	1679	-	1596	1679
+Wheat	-	2005-06	-	981	813	675	827	830	825	789	883	847	805	851	770	736	702	836
+	23
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Navsari	Panch	Patan	Porbandar	Rajkot	Sabar	Surat	Surendranag	The Dangs	Vadodara	Valsad	State Wtd	
-	Mahals	Kantha	ar	Average	
-Bajra	-	2005-06	-	-	688	830	770	660	642	-	679	-	511	-	644	
-CasterSeed	-	2005-06	-	-	1655	1411	-	-	1478	-	-	-	1500	-	1463	
-Chilly	Dry	2005-06	-	3850	-	-	-	3875	-	-	3664	-	-	5440	3970	
-Cotton	Desi	2005-06	-	-	-	1461	-	-	-	2103	1450	-	1822	-	1684	
-Gram	-	2005-06	-	-	1719	-	-	1559	-	-	1588	-	2050	-	1754	
-Ground Nut	-	2005-06	-	-	1640	-	1825	1640	1581	-	2038	-	-	-	1550	
-Jowar	-	2005-06	-	1050	-	1030	857	-	788	846	-	-	548	950	921	
-Maize	-	2005-06	-	-	651	-	-	-	682	-	-	-	604	-	608	
-Paddy	-	2005-06	-	990	644	-	-	-	679	677	-	600	623	556	669	
-Potato	-	2005-06	-	-	500	-	-	-	-	-	-	-	-	-	451	
-Ragi	-	2005-06	-	700	-	-	-	-	-	-	-	550	-	550	569	
-Rape/Mustard -	2005-06	-	-	-	1532	-	-	1507	-	-	-	-	-	1521	
-Sesamum	-	2005-06	-	-	-	-	-	2350	-	-	3248	-	-	-	3062	
-Sugar Raw	-	2005-06	-	1450	-	-	-	-	-	1750	-	-	-	2066	1623	
-Tobacco	-	2005-06	-	-	-	-	-	-	-	-	-	-	1380	-	1766	
-Tur Arhar	-	2005-06	-	-	1721	-	-	-	1503	1822	-	-	1585	-	1679	
-Wheat	-	2005-06	-	-	958	962	880	810	808	984	826	-	826	-	836	
-	24	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Navsari	Panch	Patan	Porbandar	Rajkot	Sabar	Surat	Surendranag	The Dangs	Vadodara	Valsad	State Wtd
+	Mahals	Kantha	ar	Average
+Bajra	-	2005-06	-	-	688	830	770	660	642	-	679	-	511	-	644
+CasterSeed	-	2005-06	-	-	1655	1411	-	-	1478	-	-	-	1500	-	1463
+Chilly	Dry	2005-06	-	3850	-	-	-	3875	-	-	3664	-	-	5440	3970
+Cotton	Desi	2005-06	-	-	-	1461	-	-	-	2103	1450	-	1822	-	1684
+Gram	-	2005-06	-	-	1719	-	-	1559	-	-	1588	-	2050	-	1754
+Ground Nut	-	2005-06	-	-	1640	-	1825	1640	1581	-	2038	-	-	-	1550
+Jowar	-	2005-06	-	1050	-	1030	857	-	788	846	-	-	548	950	921
+Maize	-	2005-06	-	-	651	-	-	-	682	-	-	-	604	-	608
+Paddy	-	2005-06	-	990	644	-	-	-	679	677	-	600	623	556	669
+Potato	-	2005-06	-	-	500	-	-	-	-	-	-	-	-	-	451
+Ragi	-	2005-06	-	700	-	-	-	-	-	-	-	550	-	550	569
+Rape/Mustard -	2005-06	-	-	-	1532	-	-	1507	-	-	-	-	-	1521
+Sesamum	-	2005-06	-	-	-	-	-	2350	-	-	3248	-	-	-	3062
+Sugar Raw	-	2005-06	-	1450	-	-	-	-	-	1750	-	-	-	2066	1623
+Tobacco	-	2005-06	-	-	-	-	-	-	-	-	-	-	1380	-	1766
+Tur Arhar	-	2005-06	-	-	1721	-	-	-	1503	1822	-	-	1585	-	1679
+Wheat	-	2005-06	-	-	958	962	880	810	808	984	826	-	826	-	836
+	24

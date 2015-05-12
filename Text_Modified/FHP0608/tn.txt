@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Tamil Nadu Tamil Nadu	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Tamil Nadu Tamil Nadu	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipura Kanyakumar	Karur	Krishnagiri	Madurai	Nagapattina	Namakkal	Nilgiris	Perambalur	State Wtd	
-	m	i	m	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Tamil Nadu Tamil Nadu
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Tamil Nadu Tamil Nadu
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipura Kanyakumar	Karur	Krishnagiri	Madurai	Nagapattina	Namakkal	Nilgiris	Perambalur	State Wtd
+	m	i	m	Average
 Arecanut	-	2007-08	-	7668	8370	-	-	-	-	7812	-	-	-	-	-	7500	-	7686 
 Bajra	-	2006-07	-	694	631	573	599	660	721	-	605	561	707	-	-	-	-	660 
 	-	2007-08	-	838	666	728	749	865	934	-	750	783	734	-	751	-	-	753 
@@ -38,14 +38,14 @@ Tur Arhar	-	2006-07	-	2114	3023	2325	1953	3006	2790	-	-	-	1953	-	-	-	-	2459
 	-	2007-08	-	2888	-	2290	2653	-	-	-	-	2790	2559	-	-	-	-	2556 
 Turmeric	-	2006-07	-	2627	2895	-	2418	1957	3131	-	-	-	3058	3131	-	-	-	2381 
 	-	2007-08	-	2994	3027	-	2720	2864	4576	-	3906	-	3139	3834	-	4393	-	2896 
-	77	
+	77
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Tamil Nadu Tamil Nadu	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Tamil Nadu Tamil Nadu	
-	(Rs. per Quintal)	
-	Ramanathap	Thiruvanna	Tiruchirappa	State Wtd	
-Crop	Variety	Year	Season	Pudukkottai	Salem	Sivaganga	Thanjavur	Theni	Thirunelveli	Thiruvarur	Thoothukudi	Tiruvallur	Vellore	Viluppuram	
-	uram	malai	lli	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Tamil Nadu Tamil Nadu
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Tamil Nadu Tamil Nadu
+	(Rs. per Quintal)
+	Ramanathap	Thiruvanna	Tiruchirappa	State Wtd
+Crop	Variety	Year	Season	Pudukkottai	Salem	Sivaganga	Thanjavur	Theni	Thirunelveli	Thiruvarur	Thoothukudi	Tiruvallur	Vellore	Viluppuram
+	uram	malai	lli	Average
 Arecanut	-	2007-08	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	7686 
 Bajra	-	2006-07	-	651	-	611	-	-	658	580	740	-	677	669	605	596	659	660 
 	-	2007-08	-	995	-	778	-	830	719	659	736	-	752	786	692	731	767	753 
@@ -80,13 +80,13 @@ Tur Arhar	-	2006-07	-	1953	-	2140	-	-	-	-	2046	-	-	-	-	-	-	2459
 	-	2007-08	-	-	-	2730	-	3246	2465	-	2290	-	-	-	3246	-	-	2556 
 Turmeric	-	2006-07	-	-	-	2725	-	3131	-	2558	2633	3131	-	2558	-	3255	2418	2381 
 	-	2007-08	-	-	-	2908	-	3754	-	3324	3132	4729	-	2904	-	3288	2281	2896 
-	78	
+	78
 ----------------------- Page 3-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Tamil Nadu Tamil Nadu	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Tamil Nadu Tamil Nadu	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Virudhunaga	State Wtd	
-	r	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Tamil Nadu Tamil Nadu
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Tamil Nadu Tamil Nadu
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Virudhunaga	State Wtd
+	r	Average
 Arecanut	-	2007-08	-	-	7686 
 Bajra	-	2006-07	-	684	660 
 	-	2007-08	-	821	753 
@@ -121,4 +121,4 @@ Tur Arhar	-	2006-07	-	1744	2459
 	-	2007-08	-	2612	2556 
 Turmeric	-	2006-07	-	2790	2381 
 	-	2007-08	-	2988	2896 
-	79	
+	79

@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Mizoram	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Mizoram
+	(Rs. per Quintal)
 Crop Variety Year Season	State Wtd
 	Average
 Banana	-	2010-11	-	950	950
@@ -17,4 +17,4 @@ Tapioca	-	2010-11	-	816	816
 Tobacco	-	2010-11	-	14572	14572
 Tur Arhar	-	2010-11	-	2331	2331
 Turmeric	-	2010-11	-	11000	11000
-	44	
+	44

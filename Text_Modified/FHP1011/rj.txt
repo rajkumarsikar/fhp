@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+	(Rs. per Quintal)
 Crop Variety Year Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	State Wtd
 	Average
 Bajra	-	2010-11	Kharif	864	765	960	838	1100	763	886	894	858	-	805	834	831	962	880
@@ -23,9 +23,9 @@ Sugar Raw	-	2010-11	Rabi	3083	2250	2769	2671	-	2922	2913	-	2435	2766	-	-	-	3475	
 Tobacco	-	2010-11	Rabi	3083	2250	2769	2671	-	2922	2913	-	2435	2766	-	-	-	3475	2191
 Tur Arhar	-	2010-11	Rabi	5111	2794	-	4950	-	3155	6173	-	-	2425	-	-	3900	-	3445
 Wheat	-	2010-11	Rabi	1139	1116	1217	1124	1430	1099	1223	1164	1132	1006	1217	1145	1123	1176	1155
-	50	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan	
-	(Rs. per Quintal)	
+	50
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+	(Rs. per Quintal)
 Crop Variety Year Season	Ganganagar	Hanumanga	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Pratapgarh	Rajsamand	State Wtd
 	rh	Average
 Bajra	-	2010-11	Kharif	822	847	808	-	1043	840	747	1134	761	-	849	872	-	1130	880
@@ -49,30 +49,30 @@ Sugar Raw	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	3132	2750	2731
 Tobacco	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	3132	2750	2191
 Tur Arhar	-	2010-11	Rabi	-	-	-	-	-	-	-	-	2465	2780	-	-	3577	-	3445
 Wheat	-	2010-11	Rabi	1160	1158	1139	-	1586	1188	1143	1434	1095	1165	1314	1334	1221	1139	1155
-	51	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan	
-	(Rs. per Quintal)	
-Crop Variety Year Season	Sawai	Sikar	Sirohi	Tonk	Udaipur	State Wtd	
-	Madhopur	Average	
-Bajra	-	2010-11	Kharif	831	797	868	788	-	880	
-Barley	-	2010-11	Rabi	938	1070	1141	1052	1037	1056	
-Chilly	Dry	2010-11	Kharif	8158	10000	6602	1290	8202	7134	
-Cotton	-	2010-11	Kharif	-	-	3760	-	4900	4125	
-	Lint	2010-11	Kharif	-	-	-	-	-	8224	
-Ginger	-	2010-11	Kharif	-	-	-	-	2205	2804	
-Gram	-	2010-11	Rabi	2124	2054	2218	2033	2251	2143	
-Ground Nut	-	2010-11	Kharif	2726	3260	2266	2410	3313	2586	
-Jowar	-	2010-11	Kharif	946	-	1157	1182	1034	1159	
-Linseed	-	2010-11	Rabi	-	-	-	2320	-	2601	
-Maize	-	2010-11	Kharif	843	-	1116	959	1008	949	
-Paddy	-	2010-11	Kharif	-	-	-	-	1068	1513	
-Potato	-	2010-11	Rabi	750	-	650	-	-	709	
-Rape/Mustard	-	2010-11	Rabi	2321	2319	2378	2400	2283	2356	
-Rice	-	2010-11	Kharif	1633	-	-	-	1623	2133	
-Sannhemp	-	2010-11	Kharif	-	-	2031	-	1700	1853	
-Sesamum	-	2010-11	Kharif	4990	4550	4978	4919	5060	5091	
-Sugar Raw	-	2010-11	Rabi	2440	-	-	2475	2950	2731	
-Tobacco	-	2010-11	Rabi	2440	-	-	2475	2950	2191	
-Tur Arhar	-	2010-11	Rabi	2373	-	3137	2283	-	3445	
-Wheat	-	2010-11	Rabi	1069	1233	1263	1086	1257	1155	
-	52	
+	51
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+	(Rs. per Quintal)
+Crop Variety Year Season	Sawai	Sikar	Sirohi	Tonk	Udaipur	State Wtd
+	Madhopur	Average
+Bajra	-	2010-11	Kharif	831	797	868	788	-	880
+Barley	-	2010-11	Rabi	938	1070	1141	1052	1037	1056
+Chilly	Dry	2010-11	Kharif	8158	10000	6602	1290	8202	7134
+Cotton	-	2010-11	Kharif	-	-	3760	-	4900	4125
+	Lint	2010-11	Kharif	-	-	-	-	-	8224
+Ginger	-	2010-11	Kharif	-	-	-	-	2205	2804
+Gram	-	2010-11	Rabi	2124	2054	2218	2033	2251	2143
+Ground Nut	-	2010-11	Kharif	2726	3260	2266	2410	3313	2586
+Jowar	-	2010-11	Kharif	946	-	1157	1182	1034	1159
+Linseed	-	2010-11	Rabi	-	-	-	2320	-	2601
+Maize	-	2010-11	Kharif	843	-	1116	959	1008	949
+Paddy	-	2010-11	Kharif	-	-	-	-	1068	1513
+Potato	-	2010-11	Rabi	750	-	650	-	-	709
+Rape/Mustard	-	2010-11	Rabi	2321	2319	2378	2400	2283	2356
+Rice	-	2010-11	Kharif	1633	-	-	-	1623	2133
+Sannhemp	-	2010-11	Kharif	-	-	2031	-	1700	1853
+Sesamum	-	2010-11	Kharif	4990	4550	4978	4919	5060	5091
+Sugar Raw	-	2010-11	Rabi	2440	-	-	2475	2950	2731
+Tobacco	-	2010-11	Rabi	2440	-	-	2475	2950	2191
+Tur Arhar	-	2010-11	Rabi	2373	-	3137	2283	-	3445
+Wheat	-	2010-11	Rabi	1069	1233	1263	1086	1257	1155
+	52

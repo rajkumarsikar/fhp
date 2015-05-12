@@ -1,116 +1,116 @@
 ﻿----------------------- Page 1-----------------------
-	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	Bijnor	
-	Nagar	
-Bajra	-	2004-05	Kharif	449	434	-	-	-	-	-	-	-	-	-	-	-	-	-	
-Barley	-	2004-05	Rabi	603	551	-	-	-	-	-	-	540	-	-	-	-	-	-	
-Cotton	-	2004-05	Kharif	1601	1922	-	-	-	-	1640	-	-	-	-	-	-	-	-	
-Gram	-	2004-05	Rabi	1445	-	-	-	-	-	-	-	1778	-	1438	-	-	-	-	
-Ground Nut	-	2004-05	Kharif	-	-	-	-	-	-	-	1988	-	-	-	-	-	-	1358	
-Jowar	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	410	-	-	-	-	
-Linseed	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	1835	-	-	-	-	
-Maize	-	2004-05	Kharif	-	573	-	-	-	-	-	436	-	-	-	-	-	-	-	
-Paddy	-	2004-05	Kharif	-	964	-	470	-	-	1023	457	551	560	482	-	-	433	573	
-Potato	-	2004-05	Rabi	246	256	-	-	-	-	-	-	222	-	-	-	-	434	-	
-Rape/Mustard -	2004-05	Rabi	1511	1402	-	-	-	-	-	1650	-	-	-	-	-	-	-	
-Sannhemp	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	1563	-	-	-	-	
-Sesamum	-	2004-05	Kharif	3233	-	-	-	-	-	-	-	-	-	2183	-	-	-	-	
-Sugar Raw	-	2004-05	Kharif	-	-	-	-	-	-	1174	1125	-	-	-	-	-	1069	1231	
-Sugarcane	-	2004-05	Kharif	-	-	-	-	-	-	101	105	-	-	-	-	-	113	105	
-Tur Arhar	-	2004-05	Rabi	1675	-	-	-	-	-	-	1591	1719	-	1577	-	-	1988	-	
-Wheat	-	2004-05	Rabi	662	679	-	629	-	-	-	543	631	-	633	-	-	638	664	
-	51	
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	Bijnor
+	Nagar
+Bajra	-	2004-05	Kharif	449	434	-	-	-	-	-	-	-	-	-	-	-	-	-
+Barley	-	2004-05	Rabi	603	551	-	-	-	-	-	-	540	-	-	-	-	-	-
+Cotton	-	2004-05	Kharif	1601	1922	-	-	-	-	1640	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	1445	-	-	-	-	-	-	-	1778	-	1438	-	-	-	-
+Ground Nut	-	2004-05	Kharif	-	-	-	-	-	-	-	1988	-	-	-	-	-	-	1358
+Jowar	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	410	-	-	-	-
+Linseed	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	1835	-	-	-	-
+Maize	-	2004-05	Kharif	-	573	-	-	-	-	-	436	-	-	-	-	-	-	-
+Paddy	-	2004-05	Kharif	-	964	-	470	-	-	1023	457	551	560	482	-	-	433	573
+Potato	-	2004-05	Rabi	246	256	-	-	-	-	-	-	222	-	-	-	-	434	-
+Rape/Mustard -	2004-05	Rabi	1511	1402	-	-	-	-	-	1650	-	-	-	-	-	-	-
+Sannhemp	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	1563	-	-	-	-
+Sesamum	-	2004-05	Kharif	3233	-	-	-	-	-	-	-	-	-	2183	-	-	-	-
+Sugar Raw	-	2004-05	Kharif	-	-	-	-	-	-	1174	1125	-	-	-	-	-	1069	1231
+Sugarcane	-	2004-05	Kharif	-	-	-	-	-	-	101	105	-	-	-	-	-	113	105
+Tur Arhar	-	2004-05	Rabi	1675	-	-	-	-	-	-	1591	1719	-	1577	-	-	1988	-
+Wheat	-	2004-05	Rabi	662	679	-	629	-	-	-	543	631	-	633	-	-	638	664
+	51
 ----------------------- Page 2-----------------------
-	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	Ghazipur	Gonda	
-	Budha	
-	Nagar	
-Bajra	-	2004-05	Kharif	-	534	-	-	-	489	-	-	-	432	417	-	-	564	-	
-Barley	-	2004-05	Rabi	-	606	-	-	1154	485	-	-	-	405	586	-	-	650	-	
-Cotton	-	2004-05	Kharif	-	3381	-	-	-	1531	-	-	-	-	-	-	-	-	-	
-Gram	-	2004-05	Rabi	-	-	-	-	-	1535	-	-	-	1496	-	-	-	1725	-	
-Jowar	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	406	-	-	-	683	-	
-Maize	-	2004-05	Kharif	-	570	-	-	-	443	-	-	465	-	512	-	-	-	-	
-Paddy	-	2004-05	Kharif	-	872	-	-	524	483	-	-	521	576	584	-	-	495	-	
-Potato	-	2004-05	Rabi	-	201	-	-	-	216	-	-	-	320	260	-	334	321	-	
-Rape/Mustard -	2004-05	Rabi	-	1794	-	-	-	1445	-	1459	-	1321	1459	-	-	-	-	
-Sesamum	-	2004-05	Kharif	-	-	-	-	-	1943	-	-	2090	3063	-	-	-	-	-	
-Sugar Raw	-	2004-05	Kharif	-	1259	-	-	1564	-	-	-	-	1625	-	-	-	1493	-	
-Sugarcane	-	2004-05	Kharif	-	97	-	-	89	-	-	-	-	95	-	-	-	119	-	
-Tobacco	-Desi	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	
-	Calcattia	2004-05	Rabi	-	-	-	-	-	1712	-	-	1547	-	-	-	-	-	-	
-Tur Arhar	-	2004-05	Rabi	-	1563	-	-	1847	-	-	-	-	1613	-	-	-	1580	-	
-Wheat	-	2004-05	Rabi	-	640	-	-	522	543	-	-	634	473	630	-	665	618	-	
-	52	
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	Ghazipur	Gonda
+	Budha
+	Nagar
+Bajra	-	2004-05	Kharif	-	534	-	-	-	489	-	-	-	432	417	-	-	564	-
+Barley	-	2004-05	Rabi	-	606	-	-	1154	485	-	-	-	405	586	-	-	650	-
+Cotton	-	2004-05	Kharif	-	3381	-	-	-	1531	-	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	-	-	-	-	-	1535	-	-	-	1496	-	-	-	1725	-
+Jowar	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	406	-	-	-	683	-
+Maize	-	2004-05	Kharif	-	570	-	-	-	443	-	-	465	-	512	-	-	-	-
+Paddy	-	2004-05	Kharif	-	872	-	-	524	483	-	-	521	576	584	-	-	495	-
+Potato	-	2004-05	Rabi	-	201	-	-	-	216	-	-	-	320	260	-	334	321	-
+Rape/Mustard -	2004-05	Rabi	-	1794	-	-	-	1445	-	1459	-	1321	1459	-	-	-	-
+Sesamum	-	2004-05	Kharif	-	-	-	-	-	1943	-	-	2090	3063	-	-	-	-	-
+Sugar Raw	-	2004-05	Kharif	-	1259	-	-	1564	-	-	-	-	1625	-	-	-	1493	-
+Sugarcane	-	2004-05	Kharif	-	97	-	-	89	-	-	-	-	95	-	-	-	119	-
+Tobacco	-Desi	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Calcattia	2004-05	Rabi	-	-	-	-	-	1712	-	-	1547	-	-	-	-	-	-
+Tur Arhar	-	2004-05	Rabi	-	1563	-	-	1847	-	-	-	-	1613	-	-	-	1580	-
+Wheat	-	2004-05	Rabi	-	640	-	-	522	543	-	-	634	473	630	-	665	618	-
+	52
 ----------------------- Page 3-----------------------
-	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(City	Kaushambi	Kheri	KushiNagar	Lalitpur	
-	phule Nagar	Dehat	)	
-Bajra	-	2004-05	Kharif	-	-	-	420	468	-	-	-	-	-	-	-	-	-	-	
-Barley	-	2004-05	Rabi	-	-	515	-	561	-	516	-	-	-	-	-	-	1266	521	
-Cotton	-	2004-05	Kharif	-	-	-	1631	-	-	-	-	-	-	-	-	-	-	-	
-Gram	-	2004-05	Rabi	-	1514	1489	-	1435	-	1363	-	-	-	-	-	-	-	1313	
-Ground Nut	-	2004-05	Kharif	-	-	1895	-	-	-	1570	-	-	-	-	-	1300	-	1486	
-Jowar	-	2004-05	Kharif	-	498	404	-	474	-	492	-	-	-	-	-	-	-	534	
-Linseed	-	2004-05	Rabi	-	1774	-	-	-	-	1716	-	-	-	-	-	-	-	1657	
-Maize	-	2004-05	Kharif	-	-	441	563	-	-	-	-	456	-	-	-	488	-	440	
-Paddy	-	2004-05	Kharif	-	-	560	550	-	-	-	-	512	-	-	-	525	541	584	
-Potato	-	2004-05	Rabi	-	-	194	-	-	-	-	-	255	-	-	-	-	-	-	
-Rape/Mustard -	2004-05	Rabi	-	1406	1442	-	1505	-	1542	-	1422	-	-	-	1301	1600	-	
-Sannhemp	-	2004-05	Kharif	-	680	-	-	-	-	-	-	-	-	-	-	-	1818	-	
-Sesamum	-	2004-05	Kharif	-	3149	1905	-	2557	-	3099	-	2696	-	-	-	-	-	1942	
-Soyabean	-	2004-05	Kharif	-	759	-	-	-	-	1260	-	-	-	-	-	-	-	1271	
-Sugar Raw	-	2004-05	Kharif	-	-	921	-	-	-	-	-	-	-	-	-	1175	1585	-	
-Sugarcane	-	2004-05	Kharif	-	-	81	-	-	-	-	-	-	-	-	-	53	95	-	
-Tur Arhar	-	2004-05	Rabi	-	1596	1696	-	1558	-	-	-	-	-	-	-	-	-	-	
-Turmeric	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	702	266	-	
-Wheat	-	2004-05	Rabi	-	634	628	-	615	-	636	-	612	-	-	-	510	573	645	
-	53	
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(City	Kaushambi	Kheri	KushiNagar	Lalitpur
+	phule Nagar	Dehat	)
+Bajra	-	2004-05	Kharif	-	-	-	420	468	-	-	-	-	-	-	-	-	-	-
+Barley	-	2004-05	Rabi	-	-	515	-	561	-	516	-	-	-	-	-	-	1266	521
+Cotton	-	2004-05	Kharif	-	-	-	1631	-	-	-	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	-	1514	1489	-	1435	-	1363	-	-	-	-	-	-	-	1313
+Ground Nut	-	2004-05	Kharif	-	-	1895	-	-	-	1570	-	-	-	-	-	1300	-	1486
+Jowar	-	2004-05	Kharif	-	498	404	-	474	-	492	-	-	-	-	-	-	-	534
+Linseed	-	2004-05	Rabi	-	1774	-	-	-	-	1716	-	-	-	-	-	-	-	1657
+Maize	-	2004-05	Kharif	-	-	441	563	-	-	-	-	456	-	-	-	488	-	440
+Paddy	-	2004-05	Kharif	-	-	560	550	-	-	-	-	512	-	-	-	525	541	584
+Potato	-	2004-05	Rabi	-	-	194	-	-	-	-	-	255	-	-	-	-	-	-
+Rape/Mustard -	2004-05	Rabi	-	1406	1442	-	1505	-	1542	-	1422	-	-	-	1301	1600	-
+Sannhemp	-	2004-05	Kharif	-	680	-	-	-	-	-	-	-	-	-	-	-	1818	-
+Sesamum	-	2004-05	Kharif	-	3149	1905	-	2557	-	3099	-	2696	-	-	-	-	-	1942
+Soyabean	-	2004-05	Kharif	-	759	-	-	-	-	1260	-	-	-	-	-	-	-	1271
+Sugar Raw	-	2004-05	Kharif	-	-	921	-	-	-	-	-	-	-	-	-	1175	1585	-
+Sugarcane	-	2004-05	Kharif	-	-	81	-	-	-	-	-	-	-	-	-	53	95	-
+Tur Arhar	-	2004-05	Rabi	-	1596	1696	-	1558	-	-	-	-	-	-	-	-	-	-
+Turmeric	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	702	266	-
+Wheat	-	2004-05	Rabi	-	634	628	-	615	-	636	-	612	-	-	-	510	573	645
+	53
 ----------------------- Page 4-----------------------
-	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Lucknow	Mahamaya	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad Muzaffarnag	Pilibhit	Pratapgarh	RaeBareli	Rampur	
-	Nagar	ar	
-Bajra	-	2004-05	Kharif	-	-	-	-	375	-	-	-	458	-	-	-	405	-	-	
-Barley	-	2004-05	Rabi	-	551	-	-	588	-	624	-	-	-	-	-	630	-	-	
-Cotton	-	2004-05	Kharif	-	2761	-	-	-	-	-	-	-	-	-	-	-	-	-	
-Gram	-	2004-05	Rabi	-	-	-	1377	-	-	-	-	-	-	-	-	1702	-	-	
-Ground Nut	-	2004-05	Kharif	-	-	-	1744	-	-	-	-	1950	-	-	-	-	-	-	
-Jowar	-	2004-05	Kharif	473	-	-	514	-	-	-	-	455	-	-	-	404	-	-	
-Linseed	-	2004-05	Rabi	-	-	-	1761	-	-	-	-	-	-	-	-	-	-	-	
-Maize	-	2004-05	Kharif	-	-	-	-	453	-	508	-	-	-	-	-	-	-	-	
-Paddy	-	2004-05	Kharif	480	635	-	-	493	-	480	678	496	-	-	-	470	-	-	
-Potato	-	2004-05	Rabi	-	234	-	-	218	-	-	233	-	288	-	-	373	-	-	
-Rape/Mustard -	2004-05	Rabi	-	1357	-	-	1305	-	-	-	-	1463	-	-	-	-	-	
-Sannhemp	-	2004-05	Kharif	-	-	-	662	-	-	-	-	-	-	-	-	-	-	-	
-Sesamum	-	2004-05	Kharif	3097	-	-	2559	-	-	-	-	2400	-	-	-	-	-	-	
-Sugar Raw	-	2004-05	Kharif	-	1154	-	-	-	-	-	-	1300	-	-	-	-	-	-	
-Sugarcane	-	2004-05	Kharif	-	108	-	-	-	-	-	-	95	-	-	-	-	-	-	
-Tur Arhar	-	2004-05	Rabi	-	1598	-	-	-	-	1984	-	-	-	-	-	1636	-	-	
-Wheat	-	2004-05	Rabi	-	641	-	661	619	-	622	678	-	663	649	-	655	-	-	
-	54	
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Lucknow	Mahamaya	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad Muzaffarnag	Pilibhit	Pratapgarh	RaeBareli	Rampur
+	Nagar	ar
+Bajra	-	2004-05	Kharif	-	-	-	-	375	-	-	-	458	-	-	-	405	-	-
+Barley	-	2004-05	Rabi	-	551	-	-	588	-	624	-	-	-	-	-	630	-	-
+Cotton	-	2004-05	Kharif	-	2761	-	-	-	-	-	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	-	-	-	1377	-	-	-	-	-	-	-	-	1702	-	-
+Ground Nut	-	2004-05	Kharif	-	-	-	1744	-	-	-	-	1950	-	-	-	-	-	-
+Jowar	-	2004-05	Kharif	473	-	-	514	-	-	-	-	455	-	-	-	404	-	-
+Linseed	-	2004-05	Rabi	-	-	-	1761	-	-	-	-	-	-	-	-	-	-	-
+Maize	-	2004-05	Kharif	-	-	-	-	453	-	508	-	-	-	-	-	-	-	-
+Paddy	-	2004-05	Kharif	480	635	-	-	493	-	480	678	496	-	-	-	470	-	-
+Potato	-	2004-05	Rabi	-	234	-	-	218	-	-	233	-	288	-	-	373	-	-
+Rape/Mustard -	2004-05	Rabi	-	1357	-	-	1305	-	-	-	-	1463	-	-	-	-	-
+Sannhemp	-	2004-05	Kharif	-	-	-	662	-	-	-	-	-	-	-	-	-	-	-
+Sesamum	-	2004-05	Kharif	3097	-	-	2559	-	-	-	-	2400	-	-	-	-	-	-
+Sugar Raw	-	2004-05	Kharif	-	1154	-	-	-	-	-	-	1300	-	-	-	-	-	-
+Sugarcane	-	2004-05	Kharif	-	108	-	-	-	-	-	-	95	-	-	-	-	-	-
+Tur Arhar	-	2004-05	Rabi	-	1598	-	-	-	-	1984	-	-	-	-	-	1636	-	-
+Wheat	-	2004-05	Rabi	-	641	-	661	619	-	622	678	-	663	649	-	655	-	-
+	54
 ----------------------- Page 5-----------------------
-	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Saharanpur	Sant	Sant Kabir	Shahjahanpu	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	Varanasi	
-	Ravidas	Nagar	r	gar	
-	Nagar	
-Barley	-	2004-05	Rabi	-	-	-	-	-	-	-	524	-	549	-	
-Gram	-	2004-05	Rabi	-	-	-	-	-	-	-	1538	-	-	-	
-Ground Nut	-	2004-05	Kharif	1268	-	-	1751	-	-	1279	-	-	1528	-	
-Jowar	-	2004-05	Kharif	-	-	-	474	-	-	469	-	-	479	-	
-Linseed	-	2004-05	Rabi	-	-	-	-	-	-	-	1726	-	-	-	
-Maize	-	2004-05	Kharif	491	-	-	-	-	-	516	415	-	487	-	
-Paddy	-	2004-05	Kharif	623	-	477	504	-	-	525	437	-	519	538	
-Potato	-	2004-05	Rabi	-	-	-	257	-	-	-	401	-	286	304	
-Rape/Mustard -	2004-05	Rabi	-	-	-	1597	-	-	-	1538	-	1244	-	
-Sannhemp	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	2121	
-Sesamum	-	2004-05	Kharif	-	-	-	2484	-	-	2053	2134	-	2538	-	
-Sugar Raw	-	2004-05	Kharif	1009	-	-	1378	-	-	1187	-	-	-	-	
-Sugarcane	-	2004-05	Kharif	107	-	-	87	-	-	109	-	-	90	-	
-Tur Arhar	-	2004-05	Rabi	-	-	-	-	-	-	-	1548	-	1320	1944	
-Wheat	-	2004-05	Rabi	621	-	-	601	-	-	-	653	-	606	643	
-	55	
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Saharanpur	Sant	Sant Kabir	Shahjahanpu	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	Varanasi
+	Ravidas	Nagar	r	gar
+	Nagar
+Barley	-	2004-05	Rabi	-	-	-	-	-	-	-	524	-	549	-
+Gram	-	2004-05	Rabi	-	-	-	-	-	-	-	1538	-	-	-
+Ground Nut	-	2004-05	Kharif	1268	-	-	1751	-	-	1279	-	-	1528	-
+Jowar	-	2004-05	Kharif	-	-	-	474	-	-	469	-	-	479	-
+Linseed	-	2004-05	Rabi	-	-	-	-	-	-	-	1726	-	-	-
+Maize	-	2004-05	Kharif	491	-	-	-	-	-	516	415	-	487	-
+Paddy	-	2004-05	Kharif	623	-	477	504	-	-	525	437	-	519	538
+Potato	-	2004-05	Rabi	-	-	-	257	-	-	-	401	-	286	304
+Rape/Mustard -	2004-05	Rabi	-	-	-	1597	-	-	-	1538	-	1244	-
+Sannhemp	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	2121
+Sesamum	-	2004-05	Kharif	-	-	-	2484	-	-	2053	2134	-	2538	-
+Sugar Raw	-	2004-05	Kharif	1009	-	-	1378	-	-	1187	-	-	-	-
+Sugarcane	-	2004-05	Kharif	107	-	-	87	-	-	109	-	-	90	-
+Tur Arhar	-	2004-05	Rabi	-	-	-	-	-	-	-	1548	-	1320	1944
+Wheat	-	2004-05	Rabi	621	-	-	601	-	-	-	653	-	606	643
+	55

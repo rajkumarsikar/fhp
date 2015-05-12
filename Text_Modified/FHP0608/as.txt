@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Crop Wise Farm Harvest Prices of Principal Crops in Harvest Prices of Principal Crops in India India --	Assam Assam	
-	Crop Wise FarmCrop Wise Farm	Harvest Prices of Principal Crops in Harvest Prices of Principal Crops in India India --	Assam Assam	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi	State Wtd	
-	Anglong	Average	
+	Crop Wise Farm Crop Wise Farm Harvest Prices of Principal Crops in Harvest Prices of Principal Crops in India India --	Assam Assam
+	Crop Wise FarmCrop Wise Farm	Harvest Prices of Principal Crops in Harvest Prices of Principal Crops in India India --	Assam Assam
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi	State Wtd
+	Anglong	Average
 CasterSeed	-	2006-07	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3083	3083 
 	-	2007-08	-	-	-	-	-	-	-	-	-	-	-	-	-	-	6007	6007 
 Chilly	Green	2006-07	-	-	2183	-	-	-	4000	-	2000	1907	3000	-	4500	2230	2843	2304 
@@ -43,24 +43,24 @@ Tobacco	-	2006-07	-	-	5375	-	-	-	-	-	-	-	-	-	-	-	5433	5419
 Tur Arhar	-	2006-07	-	1800	3500	-	-	2450	-	3850	-	-	3400	-	-	-	2870	2785 
 	-	2007-08	-	3205	-	3600	-	-	3400	-	-	-	-	-	-	3746	3167	3262 
 Turmeric	Dry	2007-08	-	-	-	6000	3803	-	3900	-	-	-	3600	-	6000	3446	3632	3719 
-	19	
+	19
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Assam Assam	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Assam Assam	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi	State Wtd	
-	Anglong	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Assam Assam
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Assam Assam
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi	State Wtd
+	Anglong	Average
 Turmeric	Fresh	2007-08	-	800	-	650	550	800	950	-	-	-	550	-	618	1058	582	732 
 	Kacha	2006-07	-	788	-	493	-	692	-	-	-	-	-	729	-	2667	890	1046 
 Wheat	-	2006-07	-	-	1131	-	-	-	-	-	-	814	1400	-	-	-	1540	1027 
 	-	2007-08	-	1010	-	-	963	-	-	-	-	-	-	-	-	1175	1084	1025 
-	20	
+	20
 ----------------------- Page 3-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Assam Assam	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Assam Assam	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North	Sivasagar	Sonitpur	Tinsukia	State Wtd	
-	Cachar Hills	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Assam Assam
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Assam Assam
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North	Sivasagar	Sonitpur	Tinsukia	State Wtd
+	Cachar Hills	Average
 CasterSeed	-	2006-07	-	-	-	-	-	-	-	-	-	-	-	3083 
 	-	2007-08	-	-	-	-	-	-	-	-	-	-	-	6007 
 Chilly	Green	2006-07	-	2311	1836	2192	-	1727	2800	1649	3540	2895	2000	2304 
@@ -100,15 +100,15 @@ Tobacco	-	2006-07	-	-	-	-	-	-	-	-	-	-	-	5419
 Tur Arhar	-	2006-07	-	-	1750	-	-	-	-	-	-	2850	-	2785 
 	-	2007-08	-	-	-	-	-	3237	-	-	-	-	-	3262 
 Turmeric	Dry	2007-08	-	1843	-	3309	-	3040	-	1729	-	-	-	3719 
-	21	
+	21
 ----------------------- Page 4-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Assam Assam	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Assam Assam	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North	Sivasagar	Sonitpur	Tinsukia	State Wtd	
-	Cachar Hills	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Assam Assam
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Assam Assam
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North	Sivasagar	Sonitpur	Tinsukia	State Wtd
+	Cachar Hills	Average
 Turmeric	Fresh	2007-08	-	678	-	648	-	980	650	784	-	-	-	732 
 	Kacha	2006-07	-	599	-	1058	-	-	683	704	-	900	-	1046 
 Wheat	-	2006-07	-	-	-	-	-	976	-	-	-	733	-	1027 
 	-	2007-08	-	-	-	-	-	995	-	-	-	900	-	1025 
-	22	
+	22

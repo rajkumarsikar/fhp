@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Jammu & Kashmir Jammu & Kashmir	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Jammu & Kashmir Jammu & Kashmir	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Anantnag	Bandipora	Baramulla	Budgam	Doda	Ganderbal	Jammu	Kargil	Kathua	Kishtwar	Kulgam	Kupwara	Leh	Poonch	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Jammu & Kashmir Jammu & Kashmir
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Jammu & Kashmir Jammu & Kashmir
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Anantnag	Bandipora	Baramulla	Budgam	Doda	Ganderbal	Jammu	Kargil	Kathua	Kishtwar	Kulgam	Kupwara	Leh	Poonch	State Wtd
+	Average
 Bajra	-	2006-07	-	-	-	-	-	-	-	1400	-	750	-	-	-	-	-	1193 
 	-	2007-08	-	-	-	-	-	-	-	1500	-	800	-	-	-	-	-	1344 
 Barley	-	2006-07	-	-	-	-	-	1000	-	900	-	1050	-	-	-	800	-	950 
@@ -31,13 +31,13 @@ Tobacco	-	2006-07	-	-	-	-	-	-	-	-	-	4000	-	-	-	-	-	4000
 	-	2007-08	-	-	-	-	-	-	-	-	-	2500	-	-	-	-	-	2500 
 Wheat	-	2006-07	-	1000	-	1100	1200	800	-	950	800	1000	-	-	-	800	800	914 
 	-	2007-08	-	-	-	1150	1500	800	-	1050	1100	1000	950	-	-	1200	950	996 
-	42	
+	42
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Jammu & Kashmir Jammu & Kashmir	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Jammu & Kashmir Jammu & Kashmir	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Pulwama	Rajauri	Rambon	Reasi	Samba	Shopian	Srinagar	Udhampur	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Jammu & Kashmir Jammu & Kashmir
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Jammu & Kashmir Jammu & Kashmir
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Pulwama	Rajauri	Rambon	Reasi	Samba	Shopian	Srinagar	Udhampur	State Wtd
+	Average
 Bajra	-	2006-07	-	-	1350	-	-	-	-	-	825	1193 
 	-	2007-08	-	-	1200	-	900	1400	-	-	1000	1344 
 Barley	-	2006-07	-	-	1000	-	-	-	-	-	750	950 
@@ -65,4 +65,4 @@ Tobacco	-	2006-07	-	-	-	-	-	-	-	-	-	4000
 	-	2007-08	-	-	-	-	-	-	-	-	2500	2500 
 Wheat	-	2006-07	-	1043	850	-	-	-	-	850	775	914 
 	-	2007-08	-	1050	950	800	900	1000	-	900	900	996 
-	43	
+	43

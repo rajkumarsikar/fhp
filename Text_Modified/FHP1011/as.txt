@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Assam	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Assam
+	(Rs. per Quintal)
 Crop Variety Year Season	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi	State Wtd
 	Anglong	Average
 CasterSeed	-	2010-11	-	7300	-	-	-	-	7000	-	-	-	-	-	-	-	7461	7399
@@ -22,29 +22,29 @@ Tobacco	-	2010-11	-	-	-	-	-	-	8908	-	-	-	-	-	-	9300	7433	7538
 Tur Arhar	-	2010-11	-	6616	6688	-	-	6088	5934	-	-	-	-	-	6920	-	6400	6077
 Turmeric	Dry	2010-11	-	11271	12856	8585	-	11930	9845	-	10500	11167	5367	-	8401	11092	9311	9790
 Wheat	-	2010-11	-	1270	1132	-	-	-	-	-	-	1071	-	-	-	-	987	1172
-	12	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Assam	
-	(Rs. per Quintal)	
-Crop Variety Year Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North	Sivasagar	Sonitpur	Tinsukia	State Wtd	
-	Cachar Hills	Average	
-CasterSeed	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	7399	
-Chilly	Dry	2010-11	-	9403	-	9941	-	10246	-	9700	12806	12572	-	10402	
-Cotton	-	2010-11	-	4175	-	-	-	4450	4520	-	-	-	-	4182	
-Gram	-	2010-11	-	-	-	-	-	3346	-	-	3500	-	-	3644	
-Jute	-	2010-11	-	-	-	-	1557	-	1503	-	-	-	-	1319	
-Linseed	-	2010-11	-	-	-	-	-	2200	-	-	-	-	-	2358	
-Maize	-	2010-11	-	-	-	-	-	-	-	-	-	1000	-	889	
-Mesta	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	1149	
-Nigerseed	2010-11	-	-	-	-	-	-	-	-	-	-	-	3096	
-Paddy	-	2010-11	Autum	-	-	765	-	724	867	-	-	900	-	825	
-	-	2010-11	Summer	-	-	-	-	815	921	-	-	-	-	831	
-	-	2010-11	Winter	-	-	821	-	957	960	-	700	900	814	898	
-Potato	-	2010-11	-	-	-	833	-	1048	-	-	1069	800	-	1191	
-Rape/Mustard	-	2010-11	-	-	-	2014	-	2583	-	-	2119	-	-	2476	
-Sesamum	-	2010-11	-	-	-	5067	-	5020	-	-	5250	-	-	5854	
-Sugar Raw	-	2010-11	-	-	-	3400	-	3055	-	-	-	3600	-	3627	
-Tobacco	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	7538	
-Tur Arhar	-	2010-11	-	-	-	-	-	5304	-	-	-	-	-	6077	
-Turmeric	Dry	2010-11	-	12133	-	7853	-	7967	-	8750	13600	12000	-	9790	
-Wheat	-	2010-11	-	-	-	-	-	-	1023	-	-	-	-	1172	
-	13	
+	12
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Assam
+	(Rs. per Quintal)
+Crop Variety Year Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North	Sivasagar	Sonitpur	Tinsukia	State Wtd
+	Cachar Hills	Average
+CasterSeed	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	7399
+Chilly	Dry	2010-11	-	9403	-	9941	-	10246	-	9700	12806	12572	-	10402
+Cotton	-	2010-11	-	4175	-	-	-	4450	4520	-	-	-	-	4182
+Gram	-	2010-11	-	-	-	-	-	3346	-	-	3500	-	-	3644
+Jute	-	2010-11	-	-	-	-	1557	-	1503	-	-	-	-	1319
+Linseed	-	2010-11	-	-	-	-	-	2200	-	-	-	-	-	2358
+Maize	-	2010-11	-	-	-	-	-	-	-	-	-	1000	-	889
+Mesta	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	1149
+Nigerseed	2010-11	-	-	-	-	-	-	-	-	-	-	-	3096
+Paddy	-	2010-11	Autum	-	-	765	-	724	867	-	-	900	-	825
+	-	2010-11	Summer	-	-	-	-	815	921	-	-	-	-	831
+	-	2010-11	Winter	-	-	821	-	957	960	-	700	900	814	898
+Potato	-	2010-11	-	-	-	833	-	1048	-	-	1069	800	-	1191
+Rape/Mustard	-	2010-11	-	-	-	2014	-	2583	-	-	2119	-	-	2476
+Sesamum	-	2010-11	-	-	-	5067	-	5020	-	-	5250	-	-	5854
+Sugar Raw	-	2010-11	-	-	-	3400	-	3055	-	-	-	3600	-	3627
+Tobacco	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	7538
+Tur Arhar	-	2010-11	-	-	-	-	-	5304	-	-	-	-	-	6077
+Turmeric	Dry	2010-11	-	12133	-	7853	-	7967	-	8750	13600	12000	-	9790
+Wheat	-	2010-11	-	-	-	-	-	-	1023	-	-	-	-	1172
+	13

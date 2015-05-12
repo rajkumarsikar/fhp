@@ -1,70 +1,70 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipura Kanyakumar	Karur	Krishnagiri	Madurai	Nagapattina	Namakkal	Nilgiris	Perambalur	State Wtd	
-	m	i	m	Average	
-Arecanut	-	2005-06	-	5921	-	-	-	-	-	1883	-	-	-	-	-	-	-	4994	
-Bajra	-	2005-06	-	589	639	507	513	552	639	-	558	658	539	-	568	-	-	586	
-CasterSeed	-	2005-06	-	1412	-	1330	1339	1588	-	-	-	-	1209	-	1330	-	-	1416	
-Chilly	-	2005-06	-	1893	2476	2581	1863	2102	1825	1860	1900	2569	1737	2186	2232	2584	-	1837	
-Cotton	-	2005-06	-	1668	-	-	-	1302	-	-	-	-	1697	-	1763	-	-	1574	
-Gram	Bengalgra 2005-06	-	2056	-	2795	2360	2150	2752	-	-	2795	2093	-	-	-	-	2095	
-Ground Nut	-	2005-06	-	1558	1930	1653	1447	1653	1913	-	1550	1325	1727	-	1610	-	1806	1642	
-Jowar	-	2005-06	-	678	517	517	546	633	-	-	605	546	549	-	653	-	-	572	
-Maize	-	2005-06	-	533	630	-	462	470	-	-	-	-	556	-	-	-	-	494	
-Paddy	-	2005-06	-	-	484	494	524	484	474	495	-	487	479	452	490	-	-	494	
-Potato	-	2005-06	-	-	-	-	674	895	-	-	-	792	-	-	-	907	-	820	
-Ragi	-	2005-06	-	598	472	496	498	697	664	-	-	488	632	-	571	-	-	534	
-Sesamum	-	2005-06	-	2473	2022	1883	1831	2106	2144	-	2275	2190	2166	1924	1953	-	2059	2098	
-Sugar Raw	-	2005-06	-	1355	1482	1208	1225	1235	1335	-	1286	1250	1290	1453	-	1700	-	1334	
-Tapioca	-	2005-06	-	465	-	-	-	-	-	391	-	-	-	-	-	-	-	340	
-Tur Arhar	-	2005-06	-	2295	1609	2195	1655	2232	-	-	-	2195	1953	-	-	-	-	2036	
-Turmeric	-	2005-06	-	2500	3238	-	2638	2354	-	-	3320	-	2906	3320	-	-	-	2499	
-	51	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipura Kanyakumar	Karur	Krishnagiri	Madurai	Nagapattina	Namakkal	Nilgiris	Perambalur	State Wtd
+	m	i	m	Average
+Arecanut	-	2005-06	-	5921	-	-	-	-	-	1883	-	-	-	-	-	-	-	4994
+Bajra	-	2005-06	-	589	639	507	513	552	639	-	558	658	539	-	568	-	-	586
+CasterSeed	-	2005-06	-	1412	-	1330	1339	1588	-	-	-	-	1209	-	1330	-	-	1416
+Chilly	-	2005-06	-	1893	2476	2581	1863	2102	1825	1860	1900	2569	1737	2186	2232	2584	-	1837
+Cotton	-	2005-06	-	1668	-	-	-	1302	-	-	-	-	1697	-	1763	-	-	1574
+Gram	Bengalgra 2005-06	-	2056	-	2795	2360	2150	2752	-	-	2795	2093	-	-	-	-	2095
+Ground Nut	-	2005-06	-	1558	1930	1653	1447	1653	1913	-	1550	1325	1727	-	1610	-	1806	1642
+Jowar	-	2005-06	-	678	517	517	546	633	-	-	605	546	549	-	653	-	-	572
+Maize	-	2005-06	-	533	630	-	462	470	-	-	-	-	556	-	-	-	-	494
+Paddy	-	2005-06	-	-	484	494	524	484	474	495	-	487	479	452	490	-	-	494
+Potato	-	2005-06	-	-	-	-	674	895	-	-	-	792	-	-	-	907	-	820
+Ragi	-	2005-06	-	598	472	496	498	697	664	-	-	488	632	-	571	-	-	534
+Sesamum	-	2005-06	-	2473	2022	1883	1831	2106	2144	-	2275	2190	2166	1924	1953	-	2059	2098
+Sugar Raw	-	2005-06	-	1355	1482	1208	1225	1235	1335	-	1286	1250	1290	1453	-	1700	-	1334
+Tapioca	-	2005-06	-	465	-	-	-	-	-	391	-	-	-	-	-	-	-	340
+Tur Arhar	-	2005-06	-	2295	1609	2195	1655	2232	-	-	-	2195	1953	-	-	-	-	2036
+Turmeric	-	2005-06	-	2500	3238	-	2638	2354	-	-	3320	-	2906	3320	-	-	-	2499
+	51
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu	
-	(Rs. per Quintal)	
-	Ramanathap	Thiruvanna	Tiruchirappa	State Wtd	
-Crop	Variety	Year	Season	Pudukkottai	Salem	Sivaganga	Thanjavur	Theni	Thirunelveli	Thiruvarur	Thoothukudi	Tiruvallur	Vellore	Viluppuram	
-	uram	malai	lli	Average	
-Arecanut	-	2005-06	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4994	
-Bajra	-	2005-06	-	721	-	563	-	675	530	508	651	-	645	589	505	564	566	586	
-CasterSeed	-	2005-06	-	-	-	1636	-	-	-	-	-	-	1414	-	-	-	1414	1416	
-Chilly	-	2005-06	-	1765	1775	2069	1700	1841	2116	1811	1800	1988	1825	1828	1863	1763	2232	1837	
-Cotton	-	2005-06	-	-	1350	-	-	1381	1632	1690	-	-	1696	-	-	-	1780	1574	
-Gram	Bengalgra 2005-06	-	-	-	2991	-	-	-	2162	2221	-	2232	2180	-	-	2409	2095	
-Ground Nut	-	2005-06	-	-	-	1736	1395	1465	-	1590	1471	1465	-	1528	1421	1520	1932	1642	
-Jowar	-	2005-06	-	-	-	622	-	-	472	546	648	-	560	579	-	498	644	572	
-Maize	-	2005-06	-	486	-	494	-	632	467	465	-	-	463	553	-	-	477	494	
-Paddy	-	2005-06	-	488	460	470	495	530	535	524	483	468	462	519	535	485	492	494	
-Potato	-	2005-06	-	-	-	-	-	-	-	-	695	-	-	-	-	639	-	820	
-Ragi	-	2005-06	-	628	475	608	-	694	479	526	591	-	479	618	614	602	504	534	
-Sesamum	-	2005-06	-	2275	1915	2408	-	2122	-	1920	2122	1953	1962	2021	1933	2140	1976	2098	
-Sugar Raw	-	2005-06	-	1418	-	1345	-	1355	1261	1357	1268	1238	1315	1263	1401	1295	1391	1334	
-Tapioca	-	2005-06	-	-	-	320	-	419	-	-	-	-	-	-	-	-	-	340	
-Tur Arhar	-	2005-06	-	2302	-	2167	-	-	2086	-	1882	-	-	-	-	1877	2430	2036	
-Turmeric	-	2005-06	-	3236	-	2606	-	3128	2781	3255	2758	2971	-	2790	-	3162	2688	2499	
-	52	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+	(Rs. per Quintal)
+	Ramanathap	Thiruvanna	Tiruchirappa	State Wtd
+Crop	Variety	Year	Season	Pudukkottai	Salem	Sivaganga	Thanjavur	Theni	Thirunelveli	Thiruvarur	Thoothukudi	Tiruvallur	Vellore	Viluppuram
+	uram	malai	lli	Average
+Arecanut	-	2005-06	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4994
+Bajra	-	2005-06	-	721	-	563	-	675	530	508	651	-	645	589	505	564	566	586
+CasterSeed	-	2005-06	-	-	-	1636	-	-	-	-	-	-	1414	-	-	-	1414	1416
+Chilly	-	2005-06	-	1765	1775	2069	1700	1841	2116	1811	1800	1988	1825	1828	1863	1763	2232	1837
+Cotton	-	2005-06	-	-	1350	-	-	1381	1632	1690	-	-	1696	-	-	-	1780	1574
+Gram	Bengalgra 2005-06	-	-	-	2991	-	-	-	2162	2221	-	2232	2180	-	-	2409	2095
+Ground Nut	-	2005-06	-	-	-	1736	1395	1465	-	1590	1471	1465	-	1528	1421	1520	1932	1642
+Jowar	-	2005-06	-	-	-	622	-	-	472	546	648	-	560	579	-	498	644	572
+Maize	-	2005-06	-	486	-	494	-	632	467	465	-	-	463	553	-	-	477	494
+Paddy	-	2005-06	-	488	460	470	495	530	535	524	483	468	462	519	535	485	492	494
+Potato	-	2005-06	-	-	-	-	-	-	-	-	695	-	-	-	-	639	-	820
+Ragi	-	2005-06	-	628	475	608	-	694	479	526	591	-	479	618	614	602	504	534
+Sesamum	-	2005-06	-	2275	1915	2408	-	2122	-	1920	2122	1953	1962	2021	1933	2140	1976	2098
+Sugar Raw	-	2005-06	-	1418	-	1345	-	1355	1261	1357	1268	1238	1315	1263	1401	1295	1391	1334
+Tapioca	-	2005-06	-	-	-	320	-	419	-	-	-	-	-	-	-	-	-	340
+Tur Arhar	-	2005-06	-	2302	-	2167	-	-	2086	-	1882	-	-	-	-	1877	2430	2036
+Turmeric	-	2005-06	-	3236	-	2606	-	3128	2781	3255	2758	2971	-	2790	-	3162	2688	2499
+	52
 ----------------------- Page 3-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Virudhunaga	State Wtd	
-	r	Average	
-Arecanut	-	2005-06	-	-	4994	
-Bajra	-	2005-06	-	545	586	
-CasterSeed	-	2005-06	-	1325	1416	
-Chilly	-	2005-06	-	1888	1837	
-Cotton	-	2005-06	-	1329	1574	
-Gram	Bengalgra 2005-06	-	2079	2095	
-Ground Nut	-	2005-06	-	1421	1642	
-Jowar	-	2005-06	-	505	572	
-Maize	-	2005-06	-	444	494	
-Paddy	-	2005-06	-	511	494	
-Potato	-	2005-06	-	-	820	
-Ragi	-	2005-06	-	473	534	
-Sesamum	-	2005-06	-	2022	2098	
-Sugar Raw	-	2005-06	-	1228	1334	
-Tapioca	-	2005-06	-	-	340	
-Tur Arhar	-	2005-06	-	1767	2036	
-Turmeric	-	2005-06	-	-	2499	
-	53	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Virudhunaga	State Wtd
+	r	Average
+Arecanut	-	2005-06	-	-	4994
+Bajra	-	2005-06	-	545	586
+CasterSeed	-	2005-06	-	1325	1416
+Chilly	-	2005-06	-	1888	1837
+Cotton	-	2005-06	-	1329	1574
+Gram	Bengalgra 2005-06	-	2079	2095
+Ground Nut	-	2005-06	-	1421	1642
+Jowar	-	2005-06	-	505	572
+Maize	-	2005-06	-	444	494
+Paddy	-	2005-06	-	511	494
+Potato	-	2005-06	-	-	820
+Ragi	-	2005-06	-	473	534
+Sesamum	-	2005-06	-	2022	2098
+Sugar Raw	-	2005-06	-	1228	1334
+Tapioca	-	2005-06	-	-	340
+Tur Arhar	-	2005-06	-	1767	2036
+Turmeric	-	2005-06	-	-	2499
+	53

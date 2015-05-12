@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Kerala Kerala	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Kerala Kerala	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappuram	Palakkad	Pathanamthi Thiruvanant	Trichur	Wayanad	State Wtd	
-	tta	hapuram	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Kerala Kerala
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Kerala Kerala
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappuram	Palakkad	Pathanamthi Thiruvanant	Trichur	Wayanad	State Wtd
+	tta	hapuram	Average
 Banana	-	2006-07	-	1356	1379	1268	1335	1409	1432	1467	1353	1213	1113	1545	1401	1336	1011	1243 
 	-	2007-08	-	1734	1483	1452	1436	1435	1650	1617	1460	1327	1251	1631	1546	1397	1089	1351 
 Ginger	Dry	2006-07	-	-	4509	4138	4066	-	4038	3898	3603	-	4778	4950	-	3433	3615	4004 
@@ -16,4 +16,4 @@ Sugarcane	-	2006-07	-	-	-	1006	-	-	-	-	-	-	1000	1000	-	-	-	1005
 	-	2007-08	-	-	-	925	-	-	-	1200	-	-	1000	950	-	-	-	926 
 Tapioca	-	2006-07	-	457	446	541	566	590	367	525	551	455	389	505	408	469	468	447 
 	-	2007-08	-	530	509	579	567	715	456	616	533	472	430	594	496	497	468	510 
-	52	
+	52

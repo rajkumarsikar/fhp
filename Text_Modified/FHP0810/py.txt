@@ -1,20 +1,20 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Pondicherry	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Karaikal	Mahe	Puducherry	Yanam	State Wtd	
-	Average	
-Bajra	-	2009-10	-	-	-	816	-	816	
-Cotton	-	2008-09	-	-	-	2075	-	2075	
-	-	2009-10	-	-	-	2469	-	2469	
-Ground Nut	-	2008-09	-	-	-	2754	-	2754	
-	-	2009-10	-	-	-	2886	-	2886	
-Jowar	-	2009-10	-	-	-	899	-	899	
-Paddy	Coarse	2008-09	-	814	-	735	818	735	
-	Coarse	2009-10	-	876	-	859	918	859	
-	Fine	2008-09	-	895	-	933	953	933	
-	Fine	2009-10	-	1475	-	1379	1002	1379	
-Ragi	-	2008-09	-	-	-	818	-	818	
-	-	2009-10	-	-	-	1000	-	1000	
-Sesamum	-	2008-09	-	-	-	3712	-	3712	
-	-	2009-10	-	-	-	3498	-	3498	
-	69	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Pondicherry
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Karaikal	Mahe	Puducherry	Yanam	State Wtd
+	Average
+Bajra	-	2009-10	-	-	-	816	-	816
+Cotton	-	2008-09	-	-	-	2075	-	2075
+	-	2009-10	-	-	-	2469	-	2469
+Ground Nut	-	2008-09	-	-	-	2754	-	2754
+	-	2009-10	-	-	-	2886	-	2886
+Jowar	-	2009-10	-	-	-	899	-	899
+Paddy	Coarse	2008-09	-	814	-	735	818	735
+	Coarse	2009-10	-	876	-	859	918	859
+	Fine	2008-09	-	895	-	933	953	933
+	Fine	2009-10	-	1475	-	1379	1002	1379
+Ragi	-	2008-09	-	-	-	818	-	818
+	-	2009-10	-	-	-	1000	-	1000
+Sesamum	-	2008-09	-	-	-	3712	-	3712
+	-	2009-10	-	-	-	3498	-	3498
+	69

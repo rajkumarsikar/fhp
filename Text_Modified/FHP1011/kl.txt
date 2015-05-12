@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Kerala	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Kerala
+	(Rs. per Quintal)
 Crop Variety Year Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappura	Palakkad	Pathanamt	Thiruvanan	Trichur	Wayanad	State Wtd
 	m	hitta	thapuram	Average
 Banana	-	2010-11	-	2398	2083	1982	2074	1988	2177	2222	2181	1944	1923	2122	2256	2073	1645	1979
@@ -7,4 +7,4 @@ Ginger	Dry	2010-11	-	-	14025	14800	-	13867	-	13667	13659	-	12545	16167	-	-	12383
 Paddy	-	2010-11	-	1331	1204	-	1243	1305	1329	1333	1112	1147	1192	1045	-	1207	1118	1200
 Pepper	-	2010-11	-	-	21255	21628	20970	21112	20023	21553	20997	20995	21050	21069	19833	20601	21761	21348
 Tapioca	-	2010-11	-	1016	1009	1030	977	943	948	1063	1055	885	846	1183	841	906	908	976
-	35	
+	35

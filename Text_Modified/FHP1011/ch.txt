@@ -1,9 +1,9 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - Chandigarh	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - Chandigarh
+	(Rs. per Quintal)
 Crop Variety Year Season	State Wtd
 	Average
 Maize	-	2010-11	-	900	900
 Paddy	-	2010-11	-	916	916
 Potato	-	2010-11	-	1175	1175
 Wheat	-	2010-11	-	1200	1200
-	17	
+	17

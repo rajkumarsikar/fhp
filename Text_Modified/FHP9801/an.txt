@@ -1,24 +1,24 @@
 ﻿----------------------- Page 1-----------------------
-2.25. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN ANDAMAN & NICOBAR ISLANDS	
-	(Rs. per quintal)	
-District name	Year	Paddy	Jowar	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Sugar Potato Tobacco Ground	
-	Arhar	Raw	nut	
-	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)	
-ANDAMAN&NICOBAR(1998-99	550	..	..	..	..	..	..	..	..	50**	..	..	..	
-ISLANDS	1999-00	550	..	..	..	..	..	..	..	..	608**	..	..	. .	
-	2000-01	625	..	..	..	..	..	..	..	..	575**	..	..	..	
-ANDAMAN&NICOBAR 1998-99	550	..	..	..	..	..	..	..	..	50**	..	..	..	
- ISLANDS	1999-00	550	..	..	..	..	..	..	..	..	608**	..	..	..	
- (S.W.Average)	2000-01	625	..	..	..	..	..	..	..	..	575**	..	..	..	
-Sugar-cane Pricein 1999-2000& 2000-2001 in Rs. Per 100 Nos	
+2.25. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN ANDAMAN & NICOBAR ISLANDS
+	(Rs. per quintal)
+District name	Year	Paddy	Jowar	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Sugar Potato Tobacco Ground
+	Arhar	Raw	nut
+	(1)	(2)	(3)	(4)	(5)	(6)	(7)	(8)	(9)	(10)	(11)	(12)	(13)	(14)	(15)
+ANDAMAN&NICOBAR(1998-99	550	..	..	..	..	..	..	..	..	50**	..	..	..
+ISLANDS	1999-00	550	..	..	..	..	..	..	..	..	608**	..	..	. .
+	2000-01	625	..	..	..	..	..	..	..	..	575**	..	..	..
+ANDAMAN&NICOBAR 1998-99	550	..	..	..	..	..	..	..	..	50**	..	..	..
+ ISLANDS	1999-00	550	..	..	..	..	..	..	..	..	608**	..	..	..
+ (S.W.Average)	2000-01	625	..	..	..	..	..	..	..	..	575**	..	..	..
+Sugar-cane Pricein 1999-2000& 2000-2001 in Rs. Per 100 Nos
 2.25. FARM	HARVEST	PRICES OF PRINCIPAL	CROPS IN ANDAMAN & NICOBAR ISLANDS (Concluded). 
-	(Rs. per quintal)	
-District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann- Pepper Ginger Chilly Turmeric Mesta	
-	Mustard	Seed	hemp	
-	(1)	(2)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)	
-ANDAMAN&NICOBAR 1998-99	..	..	..	..	..	..	..	..	10000	3000	1200	..	..	
-ISLANDS	1999-00	..	..	..	..	..	..	..	..	11000	..	..	..	..	
-	2000-01	..	..	..	..	..	..	..	..	15000	4585	4150	..	..	
-ANDAMAN&NICOBAR 1998-99	..	..	..	..	..	..	..	..	10000	3000	1200	..	..	
-ISLANDS	1999-00	..	..	..	..	..	..	..	..	11000	..	..	..	..	
- (S.W.Average)	2000-01	..	..	..	..	..	..	..	..	15000	4585	4150	..	..	
+	(Rs. per quintal)
+District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann- Pepper Ginger Chilly Turmeric Mesta
+	Mustard	Seed	hemp
+	(1)	(2)	(16)	(17)	(18)	(19)	(20)	(21)	(22)	(23)	(24)	(25)	(26)	(27)	(28)
+ANDAMAN&NICOBAR 1998-99	..	..	..	..	..	..	..	..	10000	3000	1200	..	..
+ISLANDS	1999-00	..	..	..	..	..	..	..	..	11000	..	..	..	..
+	2000-01	..	..	..	..	..	..	..	..	15000	4585	4150	..	..
+ANDAMAN&NICOBAR 1998-99	..	..	..	..	..	..	..	..	10000	3000	1200	..	..
+ISLANDS	1999-00	..	..	..	..	..	..	..	..	11000	..	..	..	..
+ (S.W.Average)	2000-01	..	..	..	..	..	..	..	..	15000	4585	4150	..	..

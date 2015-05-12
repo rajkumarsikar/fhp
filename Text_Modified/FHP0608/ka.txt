@@ -1,9 +1,9 @@
 ﻿----------------------- Page 1-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Bagalkot	Bangalore	Bangalore	Belgaum	Bellary	Bidar	Bijapur	Chamrajnag	Chickaballa	Chickmagal	Chitradurga D. Kannada	Davangere	Dharwad	State Wtd	
-	Rural	Urban	ar	pura	ur	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bagalkot	Bangalore	Bangalore	Belgaum	Bellary	Bidar	Bijapur	Chamrajnag	Chickaballa	Chickmagal	Chitradurga D. Kannada	Davangere	Dharwad	State Wtd
+	Rural	Urban	ar	pura	ur	Average
 Arecanut	-	2006-07	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	7653 
 	-	2007-08	Summer	-	-	-	-	-	-	-	-	-	-	-	7529	-	-	7570 
 Bajra	Local	2006-07	Kharif	-	-	-	555	-	-	-	458	-	-	-	-	-	-	423 
@@ -43,13 +43,13 @@ Paddy	Local	2006-07	Kharif	-	-	-	650	634	750	-	-	-	554	593	693	568	-	594
 	Local	2007-08	Summer	-	833	861	-	1015	-	-	-	-	840	-	-	906	-	587 
 Pepper	-	2006-07	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	8267 
 	-	2007-08	Summer	-	-	-	-	-	-	-	-	-	-	-	12390	-	-	12360 
-	46	
+	46
 ----------------------- Page 2-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Bagalkot	Bangalore	Bangalore	Belgaum	Bellary	Bidar	Bijapur	Chamrajnag	Chickaballa	Chickmagal	Chitradurga D. Kannada	Davangere	Dharwad	State Wtd	
-	Rural	Urban	ar	pura	ur	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bagalkot	Bangalore	Bangalore	Belgaum	Bellary	Bidar	Bijapur	Chamrajnag	Chickaballa	Chickmagal	Chitradurga D. Kannada	Davangere	Dharwad	State Wtd
+	Rural	Urban	ar	pura	ur	Average
 Potato	-	2006-07	Kharif	-	975	-	-	-	-	-	875	-	-	-	-	-	854	645 
 	-	2006-07	Rabi	-	-	819	-	-	-	-	-	-	-	-	-	-	-	- 
 	-	2007-08	Rabi	-	801	690	-	-	-	-	-	-	-	-	-	-	-	810 
@@ -72,13 +72,13 @@ Turmeric	-	2006-07	Summer	-	-	-	-	-	-	-	2188	-	-	-	-	-	-	2356
 	-	2007-08	Summer	-	-	-	-	-	-	-	2514	-	-	-	-	-	-	2544 
 Wheat	-	2006-07	Rabi	1065	-	-	1315	1005	1076	1190	-	-	-	-	-	-	1069	1221 
 	-	2007-08	Rabi	1119	-	-	1000	1019	1121	1493	-	-	-	-	-	1450	1187	1248 
-	47	
+	47
 ----------------------- Page 3-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U.Kannada	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U.Kannada	State Wtd
+	Average
 Arecanut	-	2006-07	Summer	-	-	-	-	-	-	-	-	4126	-	-	-	6816	5664	7653 
 	-	2007-08	Summer	-	-	-	-	-	-	-	-	-	-	-	8409	8609	5405	7570 
 Bajra	Local	2006-07	Kharif	-	597	-	-	-	-	-	-	-	-	-	-	-	-	423 
@@ -118,13 +118,13 @@ Paddy	Local	2006-07	Kharif	-	638	492	-	536	567	649	-	645	606	-	602	568	595	594
 	Local	2007-08	Summer	-	686	-	810	680	1143	635	765	-	-	600	696	813	-	587 
 Pepper	-	2006-07	Summer	-	-	-	-	8349	-	-	-	-	-	-	-	-	8915	8267 
 	-	2007-08	Summer	-	-	-	-	12398	-	-	-	-	-	-	11858	-	12690	12360 
-	48	
+	48
 ----------------------- Page 4-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U.Kannada	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India - India -	Karnataka Karnataka
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U.Kannada	State Wtd
+	Average
 Potato	-	2006-07	Kharif	-	-	630	-	-	667	-	-	-	-	-	-	-	-	645 
 	-	2007-08	Rabi	-	-	-	-	-	850	-	-	-	-	590	-	-	-	810 
 Ragi	-	2006-07	Summer	-	-	-	-	-	-	-	-	670	-	-	-	-	-	- 
@@ -147,13 +147,13 @@ Turmeric	-	2006-07	Summer	-	-	-	-	-	-	-	-	3688	-	-	-	-	-	2356
 	-	2007-08	Summer	-	-	-	-	-	-	-	-	2915	-	-	-	-	-	2544 
 Wheat	-	2006-07	Rabi	-	1164	-	1037	-	-	-	-	-	-	-	-	-	-	1221 
 	-	2007-08	Rabi	1165	1375	-	1133	-	-	-	-	-	-	-	-	-	-	1248 
-	49	
+	49
 ----------------------- Page 5-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Karnataka Karnataka	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Udupi	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Karnataka Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Udupi	State Wtd
+	Average
 Arecanut	-	2006-07	Summer	7196	7653 
 	-	2007-08	Summer	6983	7570 
 Bajra	Local	2006-07	Kharif	-	423 
@@ -193,16 +193,16 @@ Sunflower	-	2006-07	Kharif	-	1987
 	-	2006-07	Summer	-	1997 
 	-	2007-08	Rabi	-	2601 
 	-	2007-08	Summer	-	2592 
-	50	
+	50
 ----------------------- Page 6-----------------------
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka	
-	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Karnataka Karnataka	
-	(Rs. per Quintal)	
-Crop	Variety	Year	Season	Udupi	State Wtd	
-	Average	
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in India	India --	Karnataka Karnataka
+	Crop Wise Farm Harvest Prices of Principal Crops inCrop Wise Farm Harvest Prices of Principal Crops in	India India --	Karnataka Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Udupi	State Wtd
+	Average
 Tur Arhar	-	2006-07	Kharif	-	1950 
 Turmeric	-	2006-07	Summer	-	2356 
 	-	2007-08	Summer	-	2544 
 Wheat	-	2006-07	Rabi	-	1221 
 	-	2007-08	Rabi	-	1248 
-	51	
+	51

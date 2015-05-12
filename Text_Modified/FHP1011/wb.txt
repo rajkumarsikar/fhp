@@ -1,5 +1,5 @@
-	Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal	
-	(Rs. per Quintal)	
+	Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal
+	(Rs. per Quintal)
 Crop Variety Year Season	Bankura	Bardhaman	Birbhum	Cooch	Dakhin	Darjiling	East	Hooghly	Howrah	Jalpaiguri	Malda	Murshidaba	Nadia	North 24	State Wtd
 	Bihar	Dinajpur	Midnapore	d	Parganas	Average
 Barley	-	2010-11	-	-	-	1650	-	-	-	-	-	-	-	-	1250	-	-	1303
@@ -15,9 +15,9 @@ Rice	-	2010-11	Autum	1551	1521	-	1795	-	-	1950	1527	-	2017	1890	1650	1622	1800	1
 	-	2010-11	Winter	1533	1686	1833	1767	1800	1750	2102	1918	1906	1800	1897	1875	1800	1800	1825
 Sugar Raw	-	2010-11	-	-	3500	3200	-	-	3406	-	-	-	-	2950	3250	3300	-	3199
 Wheat	-	2010-11	-	950	1100	1200	1200	1143	1200	1150	1100	-	1233	1131	1300	-	-	1231
-	64	
-	Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal	
-	(Rs. per Quintal)	
+	64
+	Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal
+	(Rs. per Quintal)
 Crop Variety Year Season	North	Puruliya	South 24	West	State Wtd
 	Dinajpur	Parganas	Midnapore	Average
 Barley	-	2010-11	-	-	-	-	-	1303
@@ -33,4 +33,4 @@ Rice	-	2010-11	Autum	-	1875	-	1561	1698
 	-	2010-11	Winter	1800	1875	1900	1807	1825
 Sugar Raw	-	2010-11	-	3140	3549	3446	3150	3199
 Wheat	-	2010-11	-	1250	1319	1450	-	1231
-	65	
+	65
