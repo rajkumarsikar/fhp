@@ -1,238 +1,7 @@
-	Table 1 Crop-wise State-wise Weighted Average* of Farm Harvest Prices of Principal Crops in India
-	(Rs. per Quintal)
-Crop Variety Year Season $	Andhra	Andman &	Assam	Bihar	Chandigarh	Chhattisgar	Dadra &	Delhi	Goa	Gujarat	Haryana	Himachal	Jammu &	Jharkhand	Karnataka
-	Pradesh	Nicobar	h	Nagar	Pradesh	Kashmir
-	Haveli
-Arecanut	-	2011-12	-	-	10214	-	-	-	-	-	-	14223	-	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	14499
-Bajra	-	2011-12	-	1078	-	-	-	-	1599	-	1250	-	987	1229	-	1052	-	-
-	-	2011-12	Kharif	1004	-	-	834	-	-	-	-	-	-	-	-	-	1030	1010
-	-	2011-12	Rabi	1408	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Barley	-	2011-12	-	-	-	-	-	-	2710	-	1300	-	-	981	1489	1468	-	-
-	-	2011-12	Rabi	-	-	-	838	-	-	-	-	-	-	-	-	-	1182	-
-Cashewnut	-	2011-12	-	-	-	-	-	-	-	-	-	7706	-	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	6492
-	Raw	2011-12	-	-	3500	-	-	-	-	-	-	-	-	-	-	-	-	-
-CasterSeed	-	2011-12	-	3146	-	-	-	-	-	-	-	-	3833	-	-	-	-	-
-	-	2011-12	Kharif	3286	-	-	-	-	-	-	-	-	-	-	-	-	-	3394
-	-	2011-12	Rabi	1833	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Chilly	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	3307	-	8869	-	-
-	-	2011-12	Rabi	-	-	-	5050	-	-	-	-	-	-	-	-	-	-	-
-	Dry	2011-12	-	5006	-	10594	-	-	7576	-	-	-	9575	-	9241	-	-	-
-	Dry	2011-12	Kharif	4940	-	-	-	-	-	-	-	-	-	-	-	-	-	6438
-	Dry	2011-12	Rabi	5247	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	Green	2011-12	-	-	4083	-	-	-	-	-	-	-	-	-	-	-	-	-
-Cotton	-	2011-12	-	3682	-	4507	-	-	3100	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	3682	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3835
-	American 2011-12	-	-	-	-	-	-	-	-	-	-	-	5516	-	-	-	-
-	Desi	2011-12	-	-	-	-	-	-	-	-	-	-	2445	5788	-	-	-	-
-	Hybrid	2011-12	-	-	-	-	-	-	-	-	-	-	4030	-	-	-	-	-
-Ginger	-	2011-12	-	-	5286	-	-	-	-	-	-	-	-	-	3597	-	-	-
-	-	2011-12	Rabi	-	-	-	2886	-	-	-	-	-	-	-	-	-	2415	-
-	Fresh	2011-12	-	-	-	-	-	-	3944	-	-	-	-	-	-	-	-	-
-Gram	-	2011-12	-	3582	-	4062	-	-	3500	-	3800	-	2605	2487	4558	3500	-	-
-	-	2011-12	Rabi	3582	-	-	2524	-	-	-	-	-	-	-	-	-	3451	3421
-Ground Nut	-	2011-12	-	3685	3000	-	-	-	3461	-	-	-	3727	4884	4989	4000	-	-
-	-	2011-12	Kharif	3167	-	-	5500	-	-	-	-	-	-	-	-	-	2517	3007
-	-	2011-12	Rabi	4113	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3695
-Jowar	-	2011-12	-	1548	-	-	-	-	-	-	1800	-	1585	1105	-	-	-	-
-	-	2011-12	Kharif	1791	-	-	733	-	980	-	-	-	-	-	-	-	-	-
-	-	2011-12	Rabi	1439	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	Local	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2197
-	1
-	Table 1 (Contd.) Crop-wise State-wise Weighted Average* of Farm Harvest Prices of Principal Crops in India
-	(Rs. per Quintal)
-Crop Variety Year Season $	Andhra	Andman &	Assam	Bihar	Chandigarh	Chhattisgar	Dadra &	Delhi	Goa	Gujarat	Haryana	Himachal	Jammu &	Jharkhand	Karnataka
-	Pradesh	Nicobar	h	Nagar	Pradesh	Kashmir
-	Haveli
-Jowar	Local	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2451
-Jute	-	2011-12	-	-	-	1456	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	-	-	-	3200	-	-	-	-	-	-	-	-	-	-	-
-Linseed	-	2011-12	-	-	-	2430	-	-	3304	-	-	-	-	-	5806	5117	-	-
-	-	2011-12	Rabi	-	-	-	2451	-	-	-	-	-	-	-	-	-	2440	-
-Maize	-	2011-12	-	1058	2120	981	-	1030	1155	-	1550	-	1046	1256	1228	1205	-	-
-	-	2011-12	Kharif	986	-	-	848	-	-	-	-	-	-	-	-	-	904	-
-	-	2011-12	Rabi	1108	-	-	978	-	-	-	-	-	-	-	-	-	-	-
-	HB	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1001
-	HB	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1029
-	HB	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1159
-Mesta	-	2011-12	-	1414	-	1235	-	-	3000	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	1414	-	-	1320	-	-	-	-	-	-	-	-	-	-	-
-Nigerseed	2011-12	-	-	-	3397	-	-	3747	3094	-	-	-	-	-	-	-	-
-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	2750	-
-Paddy	-	2011-12	-	1064	880	-	-	1115	-	-	-	1478	1121	1452	1772	-	-	-
-	-	2011-12	Autum	-	-	845	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	1068	-	-	-	-	-	-	-	-	-	-	-	-	851	-
-	-	2011-12	Rabi	1057	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Summer	-	-	843	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Winter	-	-	899	-	-	-	-	-	-	-	-	-	-	-	-
-	Aghani	2011-12	Kharif	-	-	-	897	-	-	-	-	-	-	-	-	-	915	-
-	Bhadea	2011-12	Kharif	-	-	-	864	-	-	-	-	-	-	-	-	-	-	-
-	Coarse	2011-12	-	-	-	-	-	-	997	-	-	-	-	-	-	-	-	-
-	Fine	2011-12	-	-	-	-	-	-	1217	1194	-	-	-	-	-	-	-	-
-	Local	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	998
-	Local	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	972
-	Medium	2011-12	-	-	-	-	-	-	1046	822	-	-	-	-	-	-	-	-
-Pepper	-	2011-12	-	-	26000	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	28813
-Potato	-	2011-12	-	-	-	1206	-	960	-	-	-	-	658	-	-	1312	-	-
-	-	2011-12	Kharif	-	-	-	615	-	-	-	-	-	-	-	1138	-	-	673
-	-	2011-12	Rabi	-	-	-	629	-	-	-	-	-	-	-	1192	-	880	920
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	920
-	Aghani	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	886	-
-	Hills	2011-12	Winter	-	-	-	-	-	1085	-	-	-	-	-	-	-	-	-
-Ragi	-	2011-12	-	1005	-	-	-	-	-	1023	-	1485	1210	-	-	-	-	-
-	-	2011-12	Kharif	914	-	-	795	-	-	-	-	-	-	-	-	-	842	957
-	2
-	Table 1 (Contd.) Crop-wise State-wise Weighted Average* of Farm Harvest Prices of Principal Crops in India
-	(Rs. per Quintal)
-Crop Variety Year Season $	Andhra	Andman &	Assam	Bihar	Chandigarh	Chhattisgar	Dadra &	Delhi	Goa	Gujarat	Haryana	Himachal	Jammu &	Jharkhand	Karnataka
-	Pradesh	Nicobar	h	Nagar	Pradesh	Kashmir
-	Haveli
-Ragi	-	2011-12	Rabi	1304	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	HYV	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	954
-	HYV	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1079
-Rape/Mustard	-	2011-12	-	-	3500	2486	-	-	2774	-	3275	-	2363	2617	5452	3829	-	-
-	-	2011-12	Rabi	-	-	-	3036	-	-	-	-	-	-	-	-	-	3571	-
-Rice	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	2689	-	-
-	Coarse	2011-12	-	-	-	-	-	-	1730	-	1950	-	-	-	-	-	-	-
-	Local	2011-12	-	-	-	-	-	-	-	-	1950	-	-	-	-	-	-	-
-Sannhemp	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	1643	-	-	-	-
-Sesamum	-	2011-12	-	4237	3667	5974	-	-	-	-	-	-	5040	4543	7174	6142	-	-
-	-	2011-12	Kharif	3638	-	-	3663	-	5371	-	-	-	-	-	-	-	5710	4333
-	-	2011-12	Rabi	4617	-	-	4320	-	5521	-	-	-	-	-	-	-	-	-
-	Bhadea	2011-12	Kharif	-	-	-	4293	-	-	-	-	-	-	-	-	-	-	-
-Soyabean	-	2011-12	-	-	-	-	-	-	2702	-	-	-	-	-	4012	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2249
-Sugar Raw	-	2011-12	-	2455	-	3679	-	-	3361	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	2455	-	-	3031	-	-	-	-	-	-	-	-	-	-	-
-Sugarcane	-	2011-12	-	-	-	-	-	-	-	-	-	186	190	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	200
-Sunflower	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2887
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2904
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3134
-Tobacco	-	2011-12	-	10283	-	7774	-	-	10059	-	-	-	3253	-	-	6000	-	-
-	-	2011-12	Rabi	10283	-	-	12237	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	10095
-Tur Arhar	-	2011-12	-	3334	4000	6193	-	-	-	3686	4600	-	3031	-	-	-	-	-
-	-	2011-12	Kharif	3332	-	-	-	-	-	-	-	-	-	-	-	-	-	3031
-	-	2011-12	Rabi	3594	-	-	3260	-	-	-	-	-	-	-	-	-	3675	-
-	Delay	2011-12	-	-	-	-	-	-	4261	-	-	-	-	-	-	-	-	-
-	Early	2011-12	-	-	-	-	-	-	4022	-	-	-	-	-	-	-	-	-
-Turmeric	-	2011-12	-	3550	5375	-	-	-	9914	-	-	-	-	-	10275	-	-	-
-	-	2011-12	Kharif	3550	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Rabi	-	-	-	8522	-	-	-	-	-	-	-	-	-	2324	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4372
-	Dry	2011-12	-	-	-	10414	-	-	-	-	-	-	-	-	-	-	-	-
-Wheat	-	2011-12	-	-	-	1192	-	1098	1416	-	1310	-	1301	1153	1310	1287	-	-
-	-	2011-12	Rabi	-	-	-	1070	-	-	-	-	-	-	-	-	-	1255	1559
-	3
-	Table 1 (Contd.) Crop-wise State-wise Weighted Average* of Farm Harvest Prices of Principal Crops in India
-	(Rs. per Quintal)
-Crop Variety Year Season $	Kerala	Madhya	Maharashtr	Manipur	Mizoram	Nagaland	Orissa	Pondicherr	Punjab	Rajasthan	Tamil Nadu	Tripura	Uttar	Uttranchal	West
-	Pradesh	a	y	Pradesh	Bengal
-Arecanut	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	14769	-	-	-	-
-Bajra	-	2011-12	-	-	807	1085	-	-	-	-	-	1100	-	1291	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	855	-	-	808	-	-
-Banana	-	2011-12	-	2334	-	-	1696	1047	-	-	-	-	-	-	-	-	-	-
-Barley	-	2011-12	-	-	1126	-	-	-	-	-	-	1070	-	-	-	-	-	1452
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	1227	-	-	1086	1349	-
-Cashewnut	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	5477	-	-	-	-
-CasterSeed	-	2011-12	-	-	3133	3724	-	-	-	-	-	-	-	3148	-	-	-	-
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	3401	-	-	-	-	-
-Chilly	-	2011-12	-	-	-	-	21288	9050	-	-	-	-	-	6900	-	-	-	-
-	Dry	2011-12	-	-	6532	-	-	-	-	-	-	-	-	-	-	-	-	-
-	Dry	2011-12	Kharif	-	-	-	-	-	-	-	-	-	7706	-	-	-	-	-
-Coconut	With husk 2011-12	-	-	-	-	-	-	-	-	-	-	-	622	-	-	-	-
-Cotton	-	2011-12	-	-	3876	-	-	-	-	-	-	-	-	3142	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	4503	-	-	4146	-	-
-	American 2011-12	-	-	-	-	-	-	-	-	-	4273	-	-	-	-	-	-
-	Desi	2011-12	-	-	-	-	-	-	-	-	-	4296	-	-	-	-	-	-
-	Lint	2011-12	Kharif	-	-	-	-	-	-	-	-	-	11866	-	-	-	-	-
-Ginger	-	2011-12	-	-	-	-	1270	1050	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	3718	-	-	-	-	-
-	Dry	2011-12	-	6204	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-	Fresh	2011-12	-	-	3254	-	-	-	-	-	-	-	-	-	-	-	-	-
-Gram	-	2011-12	-	-	3414	2517	-	-	-	-	-	2542	-	3966	4000	-	-	3359
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	3082	-	-
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	3445	-	-	3332	-	-
-Ground Nut	-	2011-12	-	-	3093	2472	-	-	-	2370	3551	3376	-	3722	3750	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	3274	-	-	3271	3851	-
-Jowar	-	2011-12	-	-	-	1779	-	-	-	-	932	-	-	1534	-	-	-	-
-	-	2011-12	Kharif	-	1122	-	-	-	-	-	-	-	1074	-	-	984	-	-
-	-	2011-12	Rabi	-	1208	-	-	-	-	-	-	-	-	-	-	-	-	-
-Jute	-	2011-12	-	-	-	-	-	-	-	2704	-	-	-	-	2100	-	-	2307
-Linseed	-	2011-12	-	-	3380	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	3078	-	-	3572	-	-
-Maize	-	2011-12	-	-	940	1024	752	1150	800	969	-	995	-	1198	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	1028	-	-	910	1081	-
-Mesta	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	1720	-	-	-
-Nigerseed	2011-12	-	-	5062	-	-	-	-	-	-	-	-	-	-	-	-	-
-Paddy	-	2011-12	-	1235	-	1564	-	1375	-	984	831	1126	-	1009	-	-	-	-
-	4
-	Table 1 (Contd.) Crop-wise State-wise Weighted Average* of Farm Harvest Prices of Principal Crops in India
-	(Rs. per Quintal)
-Crop Variety Year Season $	Kerala	Madhya	Maharashtr	Manipur	Mizoram	Nagaland	Orissa	Pondicherr	Punjab	Rajasthan	Tamil Nadu	Tripura	Uttar	Uttranchal	West
-	Pradesh	a	y	Pradesh	Bengal
-Paddy	-	2011-12	Autum	-	-	-	933	-	-	-	-	-	-	-	813	-	-	963
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	1384	-	-	1008	1139	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	874	-	-	1005
-	-	2011-12	Winter	-	-	-	992	-	-	-	-	-	-	-	1351	-	-	1002
-	Coarse	2011-12	-	-	1049	-	-	-	500	-	-	-	-	-	-	-	-	-
-	Fine	2011-12	-	-	1541	-	-	-	520	-	1214	-	-	-	-	-	-	-
-	Medium	2011-12	-	-	1262	-	-	-	-	-	-	-	-	-	-	-	-	-
-Pepper	-	2011-12	-	32527	-	-	-	-	-	-	-	-	-	-	-	-	-	-
-Potato	-	2011-12	-	-	-	-	954	1400	-	654	-	-	-	1450	1106	-	-	519
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	677	-	-	534	-	-
-	Hills	2011-12	Summer	-	969	-	-	-	-	-	-	-	-	-	-	-	-	-
-	Hills	2011-12	Winter	-	948	-	-	-	-	-	-	-	-	-	-	-	-	-
-Ragi	-	2011-12	-	-	2200	-	-	-	-	1005	1078	-	-	1246	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	2109	-
-Rape/Mustard	-	2011-12	-	-	3204	-	2180	2000	-	3197	-	2777	-	-	4500	-	-	2799
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	3322	-	-	3149	2317	-
-Rice	-	2011-12	Autum	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1628
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	2388	-	-	-	-	-
-	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1959
-	-	2011-12	Winter	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1746
-	Coarse	2011-12	-	-	1659	-	-	-	-	-	-	-	-	-	-	-	-	-
-Sannhemp	-	2011-12	-	-	1820	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	1634	-	-	2110	-	-
-Sesamum	-	2011-12	-	-	-	-	-	3300	-	3206	3060	7188	-	4142	4344	-	-	-
-	-	2011-12	Kharif	-	5308	-	-	-	-	-	-	-	5184	-	-	4865	5191	-
-	-	2011-12	Rabi	-	6499	-	-	-	-	-	-	-	-	-	-	-	-	-
-Soyabean	-	2011-12	-	-	2240	2162	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	2167	1765	-
-Sugar Raw	-	2011-12	-	-	2499	-	-	-	-	-	-	-	-	3009	-	-	-	3247
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	2848	2782	-
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	2794	-	-	-	-	-
-Sugarcane	-	2011-12	-	200	-	-	456	-	-	131	-	165	-	-	-	-	-	-
-	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	221	220	-
-Sunflower	-	2011-12	-	-	-	2794	-	-	-	-	-	-	-	-	-	-	-	-
-Tapioca	-	2011-12	-	901	-	-	-	-	-	-	-	-	-	820	-	-	-	-
-Tobacco	-	2011-12	-	-	4438	-	-	-	-	-	-	-	-	-	-	-	-	-
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	2612	-	-	-	-	-
-	Calcattia	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	3353	-	-
-Toria	-	2011-12	-	-	-	-	-	-	-	-	-	3500	-	-	-	-	-	-
-	5
-	Table 1 (Contd.) Crop-wise State-wise Weighted Average* of Farm Harvest Prices of Principal Crops in India
-	(Rs. per Quintal)
-Crop Variety Year Season $	Kerala	Madhya	Maharashtr	Manipur	Mizoram	Nagaland	Orissa	Pondicherr	Punjab	Rajasthan	Tamil Nadu	Tripura	Uttar	Uttranchal	West
-	Pradesh	a	y	Pradesh	Bengal
-Tur Arhar	-	2011-12	-	-	-	3070	-	2741	-	-	-	-	-	3218	-	-	-	-
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	3382	-	-	3452	-	-
-	Delay	2011-12	-	-	3208	-	-	-	-	-	-	-	-	-	-	-	-	-
-	Early	2011-12	-	-	3312	-	-	-	-	-	-	-	-	-	-	-	-	-
-Turmeric	-	2011-12	-	-	8838	-	-	1165	-	-	-	-	-	8188	-	-	-	-
-Wheat	-	2011-12	-	-	1279	1280	-	-	-	1376	-	1130	-	-	-	-	-	1052
-	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	1226	-	-	1105	1256	-
-*State Weighted Average Provided by State Authority. $ The icon (-) is given wherever state has not mentioned specific season.
-	6
-	Table 2.1 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnag	Medak	Nalgonda	St	ate Wtd
-	Godavari	ar	Average
+(Rs. per Quintal)
+CROP-WISE DISTRICT-WISE FARM HARVEST PRICES OF PRINCIPAL CROPS IN INDIA - ANDHRA PRADESH
+Table 2.1
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East_Godavari	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnagar	Medak	Nalgonda	StateWtdAverage
 Bajra	-	2011-12	-	1906	1042	999	-	1061	-	1042	-	-	-	1097	924	748	989	1078
 	-	2011-12	Kharif	-	1041	999	-	1061	-	1023	-	-	-	1100	924	748	989	1004
 	-	2011-12	Rabi	1906	1063	-	-	-	-	1063	-	-	-	1063	-	-	-	1408
@@ -271,20 +40,18 @@ Sugar Raw	-	2011-12	-	-	2133	2133	-	3579	2020	2133	2200	2200	3231	2133	2133	1915
 Tobacco	-	2011-12	-	-	-	-	-	9752	8867	6663	6663	6663	10952	-	6663	-	-	10283
 	-	2011-12	Rabi	-	-	-	-	9752	8867	6663	6663	6663	10952	-	6663	-	-	10283
 Tur Arhar	-	2011-12	-	3072	2886	3290	-	2772	3303	2640	2801	2977	2772	3278	4291	3217	2976	3334
-	7
-	Table 2.1 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Adilabad	Anantapur	Chittor	Cuddapah	East	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnag	Medak	Nalgonda	State Wtd
-	Godavari	ar	Average
+7
+Table 2.1 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East_Godavari	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnagar	Medak	Nalgonda	StateWtdAverage
 Tur Arhar	-	2011-12	Kharif	3065	2886	3290	-	2772	3293	2640	2801	2932	2772	3274	4291	3217	2976	3332
 	-	2011-12	Rabi	3536	-	-	-	-	3702	-	-	3536	-	3523	-	-	-	3594
 Turmeric	-	2011-12	-	3314	3125	3125	-	4442	3066	3125	3619	3815	3144	3125	3125	2905	3815	3550
 	-	2011-12	Kharif	3314	3125	3125	-	4442	3066	3125	3619	3815	3144	3125	3125	2905	3815	3550
-	8
-	Table 2.1 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam	Visakhapat	Vizianagara	Warangal	West	State Wtd
-	nam	m	Godavari	Average
+8
+Table 2.1 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam	Visakhapatnam	Vizianagaram	Warangal	West_Godavari	StateWtdAverage
 Bajra	-	2011-12	-	933	1906	940	748	1078	1230	874	-	-	1078
 	-	2011-12	Kharif	922	-	935	748	1078	1230	874	-	-	1004
 	-	2011-12	Rabi	1063	1906	1063	-	-	-	-	-	-	1408
@@ -323,20 +90,18 @@ Sugar Raw	-	2011-12	-	1813	2200	1916	1915	2563	2435	2157	-	2883	2455
 Tobacco	-	2011-12	-	10645	-	9788	-	-	10952	10952	6663	12152	10283
 	-	2011-12	Rabi	10645	-	9788	-	-	10952	10952	6663	12152	10283
 Tur Arhar	-	2011-12	-	2611	2915	3483	3619	2772	2772	2772	2898	2772	3334
-	9
-	Table 2.1 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam	Visakhapat	Vizianagara	Warangal	West	State Wtd
-	nam	m	Godavari	Average
+9
+Table 2.1 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam	Visakhapatnam	Vizianagaram	Warangal	West_Godavari	StateWtdAverage
 Tur Arhar	-	2011-12	Kharif	2387	2915	3483	3619	2772	2772	2772	2888	2772	3332
 	-	2011-12	Rabi	3702	-	-	3523	-	-	-	3536	-	3594
 Turmeric	-	2011-12	-	3066	4082	3066	3279	3900	6281	4442	4010	4442	3550
 	-	2011-12	Kharif	3066	4082	3066	3279	3900	6281	4442	4010	4442	3550
-	10
-	Table 2.2 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andman & Nicobar
-	(Rs. per Quintal)
-Crop Variety Year Season $	Campbellba	Car-Nicobar	Diglipur	Ferrargunj	Little-Anda	Mayabunder	Nancowrie	Portblair	Rangat	State Wtd
-	y	man	Average
+10
+Table 2.2 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Andman & Nicobar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Campbellbay	Car_Nicobar	Diglipur	Ferrargunj	Little_Andaman	Mayabunder	Nancowrie	Portblair	Rangat	StateWtdAverage
 Arecanut	-	2011-12	-	6000	-	13000	10000	10000	10000	-	11500	11000	10214
 Cashewnut	Raw	2011-12	-	-	-	3500	3500	-	-	-	-	-	3500
 Chilly	Green	2011-12	-	-	-	3000	5000	4000	3000	-	4500	5000	4083
@@ -349,11 +114,10 @@ Rape/Mustard	-	2011-12	-	-	-	3500	-	-	-	-	-	-	3500
 Sesamum	-	2011-12	-	-	-	3000	-	-	4000	-	-	4000	3667
 Tur Arhar	-	2011-12	-	-	-	4000	-	-	-	-	-	4000	4000
 Turmeric	-	2011-12	-	-	-	3000	-	-	3500	-	7000	8000	5375
-	11
-	Table 2.3 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Assam
-	(Rs. per Quintal)
-Crop Variety Year Season $	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi	State Wtd
-	Anglong	Average
+11
+Table 2.3 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Assam
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi_Anglong	StateWtdAverage
 Chilly	Dry	2011-12	-	10254	11009	-	10600	10677	11063	9970	10250	10337	11788	10700	10655	10106	10900	10594
 Cotton	-	2011-12	-	4392	-	-	-	-	4378	4150	-	-	-	-	-	4575	4525	4507
 Gram	-	2011-12	-	3979	3938	-	-	-	4100	-	-	-	-	-	4278	-	4140	4062
@@ -361,7 +125,7 @@ Jute	-	2011-12	-	1257	1723	-	-	1623	-	1603	-	-	-	-	-	1376	-	1456
 Linseed	-	2011-12	-	2404	2450	-	-	-	-	-	-	-	-	-	3950	-	-	2430
 Maize	-	2011-12	-	1285	1250	-	-	713	-	-	-	-	-	-	1275	-	885	981
 Mesta	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1235
-Nigerseed	2011-12	-	3371	-	-	-	-	-	-	-	-	-	-	-	-	3650	3397
+Nigerseed		2011-12	-	3371	-	-	-	-	-	-	-	-	-	-	-	-	3650	3397
 Paddy	-	2011-12	Autum	865	-	-	822	-	750	963	-	-	-	814	-	908	900	845
 	-	2011-12	Summer	838	822	-	-	841	-	872	-	862	-	-	-	848	920	843
 	-	2011-12	Winter	980	935	876	846	989	860	906	880	928	925	886	953	930	951	899
@@ -373,11 +137,10 @@ Tobacco	-	2011-12	-	7613	-	-	-	-	9667	6600	-	-	-	-	-	9983	7500	7774
 Tur Arhar	-	2011-12	-	6071	6355	-	-	-	6335	-	-	-	-	-	6836	-	6250	6193
 Turmeric	Dry	2011-12	-	10600	12243	9500	-	11291	11342	-	11000	-	6800	-	9376	11413	12750	10414
 Wheat	-	2011-12	-	1297	1088	-	-	-	-	-	-	-	-	-	-	1150	925	1192
-	12
-	Table 2.3 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Assam
-	(Rs. per Quintal)
-Crop Variety Year Season $	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North	Sivasagar	Sonitpur	Tinsukia	State Wtd
-	Cachar Hills	Average
+12
+Table 2.3 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Assam
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North_Cachar_Hills	Sivasagar	Sonitpur	Tinsukia	StateWtdAverage
 Chilly	Dry	2011-12	-	11689	9965	10844	10250	10081	-	-	11763	12833	12056	10594
 Cotton	-	2011-12	-	-	4200	-	-	4381	4300	-	-	-	-	4507
 Gram	-	2011-12	-	-	-	-	-	3667	-	-	-	-	-	4062
@@ -385,7 +148,7 @@ Jute	-	2011-12	-	-	1225	-	-	1377	1339	-	-	1646	-	1456
 Linseed	-	2011-12	-	-	-	-	-	-	2563	-	-	-	-	2430
 Maize	-	2011-12	-	750	-	-	-	4200	-	-	-	1200	-	981
 Mesta	-	2011-12	-	-	1235	-	-	-	-	-	-	-	-	1235
-Nigerseed	2011-12	-	-	-	-	-	-	-	-	-	-	-	3397
+Nigerseed		2011-12	-	-	-	-	-	-	-	-	-	-	-	3397
 Paddy	-	2011-12	Autum	800	864	-	-	797	875	-	-	850	805	845
 	-	2011-12	Summer	-	701	-	812	846	975	798	-	800	-	843
 	-	2011-12	Winter	915	832	871	865	965	945	854	795	890	819	899
@@ -397,11 +160,10 @@ Tobacco	-	2011-12	-	-	-	-	-	-	-	-	9000	-	-	7774
 Tur Arhar	-	2011-12	-	-	-	-	-	6138	5950	-	-	-	-	6193
 Turmeric	Dry	2011-12	-	12727	9395	10712	-	8660	8955	-	11900	12063	-	10414
 Wheat	-	2011-12	-	-	-	-	-	-	-	995	-	1288	-	1192
-	13
-	Table 2.4 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Bihar
-	(Rs. per Quintal)
-Crop Variety Year Season $	Aurangabad	Jahanabad	Araia	Arbal	Banka	Begusarai	Bhabua	Bhagalpur	Bhojpur	Buxar	Darbhanga	East	Gaya	Gopalganj	State Wtd
-	(Kymmur)	(Aara)	Champaran	Average
+13
+Table 2.4 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Bihar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Aurangabad	Jahanabad	Araia	Arbal	Banka	Begusarai	Bhabua_Kymmur	Bhagalpur	Bhojpur_Aara	Buxar	Darbhanga	East_Champaran	Gaya	Gopalganj	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	-	-	-	-	-	834	834	834	-	834	834	834	834
 Barley	-	2011-12	Rabi	838	838	838	838	838	838	838	838	838	838	838	838	838	838	838
 Chilly	-	2011-12	Rabi	-	5050	5050	-	-	5050	-	5050	-	-	-	5050	5050	-	5050
@@ -428,11 +190,10 @@ Tobacco	-	2011-12	Rabi	-	-	-	-	-	12237	-	12237	-	-	-	-	-	12237	12237
 Tur Arhar	-	2011-12	Rabi	3550	3260	3260	3260	3500	3260	3260	3260	3260	3260	3260	3260	3260	3260	3260
 Turmeric	-	2011-12	Rabi	-	-	-	-	-	-	-	8522	-	-	-	-	-	-	8522
 Wheat	-	2011-12	Rabi	1100	1070	1070	1070	1070	1070	1070	1070	1070	1070	1070	1055	1050	1070	1070
-	14
-	Table 2.4 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Bihar
-	(Rs. per Quintal)
-Crop Variety Year Season $	Jumui	Katihar	Khagaria	Kishanganj	Lakhisarai	Madhepura	Madhubani	Munger	Muzaffarpu	Nalanda	Nawada	Patna	Purnia	Rohtas	State Wtd
-	r	Average
+14
+Table 2.4 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Bihar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Jumui	Katihar	Khagaria	Kishanganj	Lakhisarai	Madhepura	Madhubani	Munger	Muzaffarpur	Nalanda	Nawada	Patna	Purnia	Rohtas	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	834
 Barley	-	2011-12	Rabi	838	838	838	-	-	-	838	838	838	838	838	838	-	838	838
 Chilly	-	2011-12	Rabi	-	5050	5050	5050	-	5050	5050	-	5050	5050	5050	5050	5050	5050	5050
@@ -459,11 +220,10 @@ Tobacco	-	2011-12	Rabi	-	12237	12237	12237	-	-	-	-	12237	-	-	-	-	-	12237
 Tur Arhar	-	2011-12	Rabi	3260	3260	3260	3260	3260	3260	3260	3260	2960	3260	3260	3200	3260	3200	3260
 Turmeric	-	2011-12	Rabi	-	8522	8522	8522	-	8522	-	-	8522	-	-	8522	8522	8522	8522
 Wheat	-	2011-12	Rabi	1070	1070	1055	1070	1070	1070	1055	1117	1070	1041	1070	1100	1112	1050	1070
-	15
-	Table 2.4 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Bihar
-	(Rs. per Quintal)
-Crop Variety Year Season $	Saharsa	Samastipur	Saran	Sheikhpura	Sheohar	Sitamarhi	Siwan	Supaul	Vaishali	West	State Wtd
-	(Chapra)	Champaran	Average
+15
+Table 2.4 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Bihar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Saharsa	Samastipur	Saran_Chapra	Sheikhpura	Sheohar	Sitamarhi	Siwan	Supaul	Vaishali	West_Champaran	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	-	-	-	-	834	-	-	834	834
 Barley	-	2011-12	Rabi	-	838	838	838	838	838	838	-	838	838	838
 Chilly	-	2011-12	Rabi	5050	5050	-	-	5050	5050	5050	5050	5050	5050	5050
@@ -490,20 +250,18 @@ Tobacco	-	2011-12	Rabi	-	12237	-	-	12237	-	12237	-	12237	-	12237
 Tur Arhar	-	2011-12	Rabi	3260	3260	3260	3260	3433	3260	3260	3260	3260	3260	3260
 Turmeric	-	2011-12	Rabi	-	-	-	-	-	-	8522	8522	-	8522	8522
 Wheat	-	2011-12	Rabi	1070	1126	1070	1048	1116	1070	1070	1070	1070	1054	1070
-	16
-	Table 2.5 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Chandigarh
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
+16
+Table 2.5	Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Chandigarh
+(Rs. per Quintal)			
+Crop	Variety	Year	Season	State	StateWtdAverage
 Maize	-	2011-12	-	1030	1030
 Paddy	-	2011-12	-	1115	1115
 Potato	-	2011-12	-	960	960
 Wheat	-	2011-12	-	1098	1098
-	17
-	Table 2.6 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Bastar	Bilaspur	Dantewada	Dhamtari	Durg	Janjgir-Cha	Jashpur	Kanker	Kawardha	Korba	Koriya	Mahasamun	Raigarh	Raipur	State Wtd
-	mpa	d	Average
+17
+Table 2.6 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bastar	Bilaspur	Dantewada	Dhamtari	Durg	Janjgir_Champa	Jashpur	Kanker	Kawardha	Korba	Koriya	Mahasamund	Raigarh	Raipur	StateWtdAverage
 Bajra	-	2011-12	-	-	1420	-	-	-	1500	-	-	-	-	-	1921	-	-	1599
 Barley	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	2710	-	-	-	2710
 Chilly	Dry	2011-12	-	9000	-	-	-	14305	9785	9184	-	5000	-	11033	5173	10699	-	7576
@@ -515,7 +273,7 @@ Jowar	-	2011-12	Kharif	-	980	-	-	-	-	-	-	-	-	-	-	-	-	980
 Linseed	-	2011-12	-	-	3233	-	3509	3883	2285	-	-	-	-	3192	-	-	4050	3304
 Maize	-	2011-12	-	-	1154	1000	-	-	-	1434	-	-	1637	986	2151	1100	-	1155
 Mesta	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	3000	-	-	3000
-Nigerseed	2011-12	-	-	3067	-	-	-	-	2858	-	-	-	-	-	6000	-	3747
+Nigerseed		2011-12	-	-	3067	-	-	-	-	2858	-	-	-	-	-	6000	-	3747
 Paddy	Coarse	2011-12	-	1056	1024	-	1036	965	1030	931	1080	1000	920	949	961	985	997	997
 	Fine	2011-12	-	1369	1142	-	1367	-	-	1065	1110	1000	1350	-	1677	-	1189	1217
 	Medium	2011-12	-	1094	1066	-	1107	-	1030	971	-	1000	1050	-	1083	-	1058	1046
@@ -531,11 +289,10 @@ Tur Arhar	Delay	2011-12	-	-	3583	-	-	4750	-	-	6688	3450	-	4171	4325	-	-	4261
 	Early	2011-12	-	-	-	-	-	-	-	3893	-	3325	-	4183	5500	4613	-	4022
 Turmeric	-	2011-12	-	-	13185	-	-	-	8137	13931	-	-	-	9550	7561	8796	-	9914
 Wheat	-	2011-12	-	2150	1114	-	1353	1356	1432	-	-	1300	-	1394	1467	-	1474	1416
-	18
-	Table 2.6 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Rajnandgao	Surguja	State Wtd
-	n	Average
+18
+Table 2.6 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Rajnandgaon	Surguja	StateWtdAverage
 Bajra	-	2011-12	-	-	-	1599
 Barley	-	2011-12	-	-	-	2710
 Chilly	Dry	2011-12	-	-	-	7576
@@ -547,7 +304,7 @@ Jowar	-	2011-12	Kharif	-	-	980
 Linseed	-	2011-12	-	-	-	3304
 Maize	-	2011-12	-	-	-	1155
 Mesta	-	2011-12	-	-	-	3000
-Nigerseed	2011-12	-	-	-	3747
+Nigerseed		2011-12	-	-	-	3747
 Paddy	Coarse	2011-12	-	1043	-	997
 	Fine	2011-12	-	1044	-	1217
 	Medium	2011-12	-	1013	-	1046
@@ -563,21 +320,20 @@ Tur Arhar	Delay	2011-12	-	3600	-	4261
 	Early	2011-12	-	3083	-	4022
 Turmeric	-	2011-12	-	-	-	9914
 Wheat	-	2011-12	-	1318	-	1416
-	19
-	Table 2.7 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Dadra & Nagar Haveli
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
-Nigerseed	2011-12	-	3094	3094
+19
+(Rs. per Quintal)
+CROP-WISE DISTRICT-WISE FARM HARVEST PRICES OF PRINCIPAL CROPS IN INDIA - DADRA & NAGAR HAVEL!
+Table 2.7
+Crop	Variety	Year	Season	State	StateWtdAverage
+Nigerseed		2011-12	-	3094	3094
 Paddy	Fine	2011-12	-	1194	1194
 	Medium	2011-12	-	822	822
 Ragi	-	2011-12	-	1023	1023
 Tur Arhar	-	2011-12	-	3686	3686
-	20
-	Table 2.8 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Delhi
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
+20
+Table 2.8 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Delhi
+(Rs. per Quintal)				
+Crop	Variety	Year	Season	State	StateWtdAverage
 Bajra	-	2011-12	-	1250	1250
 Barley	-	2011-12	-	1300	1300
 Gram	-	2011-12	-	3800	3800
@@ -588,21 +344,19 @@ Rice	Coarse	2011-12	-	1950	1950
 	Local	2011-12	-	1950	1950
 Tur Arhar	-	2011-12	-	4600	4600
 Wheat	-	2011-12	-	1310	1310
-	21
-	Table 2.9 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Goa
-	(Rs. per Quintal)
-Crop Variety Year Season $	Goa	State Wtd
-	Average
+21
+Table 2.9 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Goa
+(Rs. per Quintal)			
+Crop	Variety	Year	Season	Goa	StateWtdAverage
 Arecanut	-	2011-12	-	14223	14223
 Cashewnut	-	2011-12	-	7706	7706
 Paddy	-	2011-12	-	1478	1478
 Ragi	-	2011-12	-	1485	1485
 Sugarcane	-	2011-12	-	186	186
-	22
-	Table 2.10 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Gujarat
-	(Rs. per Quintal)
-Crop Variety Year Season $	Ahmedabad	Amreli	Anand	Banaskanth	Bharuch	Bhavnagar	Dahod	Gandhinaga	Jamnagar	Junagadh	Kachchh	Kheda	Mahesana	Narmada	State Wtd
-	r	Average
+22
+Table 2.10 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Gujarat
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmedabad	Amreli	Anand	Banaskanth	Bharuch	Bhavnagar	Dahod	Gandhinagar	Jamnagar	Junagadh	Kachchh	Kheda	Mahesana	Narmada	StateWtdAverage
 Bajra	-	2011-12	-	934	1180	989	1210	-	1008	945	1250	-	946	982	965	1049	-	987
 CasterSeed	-	2011-12	-	3403	4047	4956	4693	-	-	-	3745	-	-	3960	3468	3644	-	3833
 Chilly	Dry	2011-12	-	-	11194	-	-	-	8639	-	9250	-	-	-	-	-	-	9575
@@ -621,11 +375,10 @@ Sugarcane	-	2011-12	-	-	-	-	-	-	-	-	-	-	135	-	-	-	-	190
 Tobacco	-	2011-12	-	-	-	2949	-	-	-	-	-	-	-	-	3635	-	-	3253
 Tur Arhar	-	2011-12	-	-	2712	4572	-	3541	-	2962	2735	-	-	-	3234	-	3725	3031
 Wheat	-	2011-12	-	1363	1413	1237	1415	1439	1617	1170	1233	-	1125	1171	1160	1044	1450	1301
-	23
-	Table 2.10 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Gujarat
-	(Rs. per Quintal)
-Crop Variety Year Season $	Navsari	Panch	Patan	Porbandar	Rajkot	Sabar	Surat	Surendranag	Tapi	The Dangs	Vadodara	Valsad	State Wtd
-	Mahals	Kantha	ar	Average
+23
+Table 2.10 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Gujarat
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Navsari	Panch_Mahals	Patan	Porbandar	Rajkot	Sabar_Kantha	Surat	Surendranagar	Tapi	The_Dangs	Vadodara	Valsad	StateWtdAverage
 Bajra	-	2011-12	-	-	1011	925	901	975	-	-	991	-	-	1099	-	987
 CasterSeed	-	2011-12	-	-	3962	4142	3815	-	3094	-	2907	-	-	-	-	3833
 Chilly	Dry	2011-12	-	-	-	-	-	8829	-	-	10100	-	-	-	9440	9575
@@ -644,15 +397,15 @@ Sugarcane	-	2011-12	-	-	-	-	-	-	-	261	-	-	-	-	344	190
 Tobacco	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	3175	-	3253
 Tur Arhar	-	2011-12	-	-	2832	-	2062	-	3179	4820	-	-	-	2962	-	3031
 Wheat	-	2011-12	-	-	1267	1260	1138	1182	1251	2012	1182	-	-	1185	-	1301
-	24
-	Table 2.11 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Haryana
-	(Rs. per Quintal)
-Crop Variety Year Season $	Ambala	Bhiwani	Faridabad	Fatehabad	Gurgaon	Hisar	Jhajjar	Jind	Kaithal	Karnal	Kurukshetra	Mahendraga	Mewat	Palwal	State Wtd
-	rh	Average
+24
+(Rs. per Quintal)
+CROP-WISE DISTRICT-WISE FARM HARVEST PRICES OF PRINCIPAL CROPS IN INDIA - HARYANA
+Table 2.11
+Crop	Variety	Year	Season	Ambala	Bhiwani	Faridabad	Fatehabad	Gurgaon	Hisar	Jhajjar	Jind	Kaithal	Karnal	Kurukshetra	Mahendragarh	Mewat	Palwal	StateWtdAverage
 Bajra	-	2011-12	-	1900	1200	1150	1050	1150	1200	1200	1250	1900	900	-	1300	1300	1100	1229
 Barley	-	2011-12	-	-	1000	-	980	900	1000	980	1000	-	-	-	1000	950	950	981
 Chilly	-	2011-12	-	3250	-	-	-	4000	3300	-	3410	3400	3300	3250	-	-	-	3307
-Cotton	American 2011-12	-	-	5450	-	5500	-	5450	5600	5500	6000	-	-	5550	-	-	5516
+Cotton	American	2011-12	-	-	5450	-	5500	-	5450	5600	5500	6000	-	-	5550	-	-	5516
 	Desi	2011-12	-	-	5200	-	5200	-	5500	-	5450	-	-	-	-	-	-	5788
 Gram	-	2011-12	-	-	2500	-	2500	-	2450	-	-	-	-	-	2450	2500	-	2487
 Ground Nut	-	2011-12	-	4250	4200	-	4250	4200	4150	4200	-	-	-	-	4250	4150	-	4884
@@ -663,15 +416,14 @@ Rape/Mustard	-	2011-12	-	2600	2650	2550	2640	2550	2500	2550	2580	2600	2650	2550	
 Sannhemp	-	2011-12	-	-	1600	-	-	-	-	1650	-	-	-	-	-	-	-	1643
 Sesamum	-	2011-12	-	-	4500	4400	-	4450	4500	4600	4550	4400	4500	-	4600	4650	4400	4543
 Wheat	-	2011-12	-	1150	1200	1150	1150	1200	1050	1100	1150	1150	1250	1100	1250	1150	1100	1153
-	25
-	Table 2.11 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Haryana
-	(Rs. per Quintal)
-Crop Variety Year Season $	Panchkula	Panipat	Rewari	Rohtak	Sirsa	Sonipat	Yamunanag	State Wtd
-	ar	Average
+25
+Table 2.11 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Haryana
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Panchkula	Panipat	Rewari	Rohtak	Sirsa	Sonipat	Yamunanagar		StateWtdAverage
 Bajra	-	2011-12	-	1250	1350	1150	1300	1250	1200	1150	1229
 Barley	-	2011-12	-	-	-	950	900	1000	-	-	981
 Chilly	-	2011-12	-	3350	3300	-	-	3250	3350	3300	3307
-Cotton	American 2011-12	-	-	-	5670	5600	5580	5500	-	5516
+Cotton	American	2011-12	-	-	-	5670	5600	5580	5500	-	5516
 	Desi	2011-12	-	-	-	-	-	5450	5500	-	5788
 Gram	-	2011-12	-	-	-	-	2550	2500	-	-	2487
 Ground Nut	-	2011-12	-	4100	-	4250	-	4250	-	4200	4884
@@ -682,11 +434,10 @@ Rape/Mustard	-	2011-12	-	2550	2600	2640	2575	2600	2580	2600	2617
 Sannhemp	-	2011-12	-	-	-	-	1680	-	-	-	1643
 Sesamum	-	2011-12	-	4550	-	4500	4650	4600	4500	4550	4543
 Wheat	-	2011-12	-	1100	1200	1150	1175	1150	1200	1150	1153
-	26
-	Table 2.12 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Himachal Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Bilaspur	Chamba	Hamirpur	Kangra	Kinnaur	Kullu	Lahaul &	Mandi	Shimla	Sirmaur	Solan	Una	State Wtd
-	Spiti	Average
+26
+Table 2.12 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Himachal Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bilaspur	Chamba	Hamirpur	Kangra	Kinnaur	Kullu	Lahaul_Spiti	Mandi	Shimla	Sirmaur	Solan	Una	StateWtdAverage
 Barley	-	2011-12	-	1333	1147	1736	1475	1300	1600	2500	1633	1090	1075	1229	1750	1489
 Chilly	Dry	2011-12	-	9783	9000	9500	-	-	12600	-	11050	8000	6400	6688	10150	9241
 Ginger	-	2011-12	-	3867	-	4000	-	-	-	-	3900	-	2250	3563	4000	3597
@@ -702,11 +453,10 @@ Sesamum	-	2011-12	-	7200	-	8125	6750	-	-	-	7200	-	6650	6667	7625	7174
 Soyabean	-	2011-12	-	8833	-	-	6200	-	-	-	3088	-	2750	-	-	4012
 Turmeric	-	2011-12	-	12500	-	10000	-	-	-	-	-	-	5800	-	12800	10275
 Wheat	-	2011-12	-	1362	1182	1314	1200	1400	1480	1500	1313	1330	1200	1219	1220	1310
-	27
-	Table 2.13 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
-	(Rs. per Quintal)
-Crop Variety Year Season $	Anantnag	Bandipora	Baramulla	Budgam	Doda	Ganderbal	Jammu	Kargil	Kathua	Kishtwar	Kulgam	Kupwara	Leh	Poonch	State Wtd
-	Average
+27
+Table 2.13 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Anantnag	Bandipora	Baramulla	Budgam	Doda	Ganderbal	Jammu	Kargil	Kathua	Kishtwar	Kulgam	Kupwara	Leh	Poonch	StateWtdAverage
 Bajra	-	2011-12	-	-	-	-	-	-	-	1000	-	1200	1800	-	-	-	-	1052
 Barley	-	2011-12	-	-	-	-	-	1600	1350	1500	-	1500	1400	-	-	1350	-	1468
 Chilly	-	2011-12	-	9000	-	-	8000	7000	-	6000	-	10000	-	9000	-	-	8500	8869
@@ -720,11 +470,10 @@ Rice	-	2011-12	-	2300	2500	2200	2430	3600	2500	3600	-	2400	2800	2300	2500	-	2800
 Sesamum	-	2011-12	-	-	-	-	-	-	-	6000	-	6000	-	-	-	-	-	6142
 Tobacco	-	2011-12	-	-	-	-	-	-	-	-	-	6000	-	-	-	-	-	6000
 Wheat	-	2011-12	-	-	-	1300	1800	1300	-	1300	1200	1300	1100	2000	-	1200	1200	1287
-	28
-	Table 2.13 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
-	(Rs. per Quintal)
-Crop Variety Year Season $	Pulwama	Rajauri	Rambon	Reasi	Samba	Shopian	Srinagar	Udhampur	State Wtd
-	Average
+28
+Table 2.13 (Cqntd.)	Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Pulwama	Rajauri	Rambon	Reasi	Samba	Shopian	Srinagar	Udhampur	StateWtdAverage
 Bajra	-	2011-12	-	-	1500	-	1500	1000	-	-	1050	1052
 Barley	-	2011-12	-	-	-	1200	1200	1900	-	-	1300	1468
 Chilly	-	2011-12	-	9000	10000	7000	9000	-	-	8000	7500	8869
@@ -738,11 +487,10 @@ Rice	-	2011-12	-	2300	2400	2200	2300	3500	2200	2500	3700	2689
 Sesamum	-	2011-12	-	-	6100	-	6000	6200	-	-	6500	6142
 Tobacco	-	2011-12	-	-	-	-	-	-	-	-	-	6000
 Wheat	-	2011-12	-	1860	1300	1300	1200	1200	-	-	1350	1287
-	29
-	Table 2.14 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jharkhand
-	(Rs. per Quintal)
-Crop Variety Year Season $	Bokaro	Chatra	Deoghar	Dhanbad	Dumka	East	Garhwa	Giridih	Godda	Gumla	Hazaribagh	Jamtara	Khunti	Koderma	State Wtd
-	Singhbhum	Average
+29
+Table 2.14 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jharkhand
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bokaro	Chatra	Deoghar	Dhanbad	Dumka	East_Singhbhum	Garhwa	Giridih	Godda	Gumla	Hazaribagh	Jamtara	Khunti	Koderma	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	-	-	-	-	-	-	1030	-	-	-	-	-	1030
 Barley	-	2011-12	Rabi	-	1142	1400	-	960	-	-	836	1044	-	-	-	-	-	1182
 Ginger	-	2011-12	Rabi	-	-	-	-	2225	-	-	2319	-	-	-	-	2333	-	2415
@@ -750,7 +498,7 @@ Gram	-	2011-12	Rabi	4032	2629	4300	4096	2740	3817	3151	2923	4050	2950	4278	3900	
 Ground Nut	-	2011-12	Kharif	-	-	-	-	3881	-	-	-	-	-	2317	-	2833	2495	2517
 Linseed	-	2011-12	Rabi	-	-	-	-	2128	-	-	3634	2550	-	-	-	2728	-	2440
 Maize	-	2011-12	Kharif	-	757	1000	1205	782	1248	625	618	781	-	1051	800	1257	-	904
-Nigerseed	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	2643	-	2750
+Nigerseed		2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	2643	-	2750
 Paddy	-	2011-12	Kharif	-	903	1080	-	788	1009	552	615	919	-	978	900	834	-	851
 	Aghani	2011-12	Kharif	-	-	1022	982	872	1010	811	1089	808	-	966	783	946	1080	915
 Potato	-	2011-12	Rabi	1125	992	1027	923	650	711	-	-	733	1050	931	778	958	684	880
@@ -761,11 +509,10 @@ Sesamum	-	2011-12	Kharif	-	-	-	-	3339	-	-	-	-	-	-	-	-	-	5710
 Tur Arhar	-	2011-12	Rabi	4000	2871	-	-	3225	-	2558	3219	3550	2950	6221	-	3553	3729	3675
 Turmeric	-	2011-12	Rabi	-	-	-	-	2600	-	-	2047	-	-	-	-	-	-	2324
 Wheat	-	2011-12	Rabi	1463	1228	1344	1218	935	1452	1095	1008	1300	1650	1262	1281	1296	1246	1255
-	30
-	Table 2.14 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jharkhand
-	(Rs. per Quintal)
-Crop Variety Year Season $	Latehar	Lohardaga	Pakur	Palamu	Ramgarh	Ranchi	Sahibganj	Seraikela	Simdega	West	State Wtd
-	Singhbhum	Average
+30
+Table 2.14 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Jharkhand
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Latehar	Lohardaga	Pakur	Palamu	Ramgarh	Ranchi	Sahibganj	Seraikela	Simdega	West_Singhbhum	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	1030
 Barley	-	2011-12	Rabi	-	1500	-	916	-	1841	999	-	-	-	1182
 Ginger	-	2011-12	Rabi	-	2700	-	-	2500	-	-	-	-	-	2415
@@ -773,7 +520,7 @@ Gram	-	2011-12	Rabi	2279	3600	3883	3954	4500	2437	3646	2517	-	2492	3451
 Ground Nut	-	2011-12	Kharif	-	3000	-	-	3550	-	-	-	1322	-	2517
 Linseed	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	1161	2440
 Maize	-	2011-12	Kharif	513	980	928	786	-	740	936	858	1494	723	904
-Nigerseed	2011-12	Kharif	-	-	-	-	-	-	-	-	2856	-	2750
+Nigerseed		2011-12	Kharif	-	-	-	-	-	-	-	-	2856	-	2750
 Paddy	-	2011-12	Kharif	506	920	950	842	-	948	821	850	863	887	851
 	Aghani	2011-12	Kharif	522	850	893	857	1075	1029	782	1067	901	880	915
 Potato	-	2011-12	Rabi	-	800	-	-	1000	837	693	833	1111	-	880
@@ -784,11 +531,10 @@ Sesamum	-	2011-12	Kharif	-	-	-	-	-	-	8081	-	-	-	5710
 Tur Arhar	-	2011-12	Rabi	2321	4500	4200	2985	4000	4370	3609	4317	3722	3603	3675
 Turmeric	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	2324
 Wheat	-	2011-12	Rabi	1013	1250	1567	1180	1220	1380	1155	1256	1372	950	1255
-	31
-	Table 2.15 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Karnataka
-	(Rs. per Quintal)
-Crop Variety Year Season $	Bagalkot	Bangalore	Bangalore	Belgaum	Bellary	Bidar	Bijapur	Chamrajnag	Chickaballa	Chickmagal	Chitradurga	D. Kannada	Davangere	Dharwad	State Wtd
-	Rural	Urban	ar	pura	ur	Average
+31
+Table 2.15 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Karnataka
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bagalkot	Bangalore_Rural	Bangalore_Urban	Belgaum	Bellary	Bidar	Bijapur	Chamrajnagar	Chickaballapura	Chickmagalur	Chitradurga	D_Kannada	Davangere	Dharwad	StateWtdAverage
 Arecanut	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	14569	12201	-	14499
 Bajra	-	2011-12	Kharif	902	-	-	995	1005	1017	1000	-	-	-	-	-	-	-	1010
 Cashewnut	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	6054	-	-	6492
@@ -822,11 +568,10 @@ Tobacco	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	10095
 Tur Arhar	-	2011-12	Kharif	2975	-	-	-	3128	3601	3604	-	3049	-	2132	-	2441	2225	3031
 Turmeric	-	2011-12	Summer	4813	-	-	-	-	-	-	3930	-	-	-	-	-	-	4372
 Wheat	-	2011-12	Rabi	1875	-	-	1522	-	1489	1652	-	-	-	-	-	-	1394	1559
-	32
-	Table 2.15 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Karnataka
-	(Rs. per Quintal)
-Crop Variety Year Season $	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U.Kannada	State Wtd
-	Average
+32
+Table 2.15 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Karnataka
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U_Kannada	StateWtdAverage
 Arecanut	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	19188	-	12019	-	14499
 Bajra	-	2011-12	Kharif	-	1203	-	-	-	-	961	-	-	995	-	-	-	-	1010
 Cashewnut	-	2011-12	Summer	-	-	-	-	6825	-	-	-	-	-	-	-	-	-	6492
@@ -860,11 +605,10 @@ Tobacco	-	2011-12	Summer	-	-	11125	-	-	-	-	-	9065	-	-	-	-	-	10095
 Tur Arhar	-	2011-12	Kharif	-	3844	-	2689	-	-	2461	-	3855	-	3402	-	2702	-	3031
 Turmeric	-	2011-12	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4372
 Wheat	-	2011-12	Rabi	1569	1748	-	-	-	-	1151	-	-	1627	-	-	-	-	1559
-	33
-	Table 2.15 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Karnataka
-	(Rs. per Quintal)
-Crop Variety Year Season $	Udupi	State Wtd
-	Average
+33
+Table 2.15 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Karnataka
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Udupi	StateWtdAverage
 Arecanut	-	2011-12	Summer	14517	14499
 Bajra	-	2011-12	Kharif	-	1010
 Cashewnut	-	2011-12	Summer	6596	6492
@@ -898,22 +642,21 @@ Tobacco	-	2011-12	Summer	-	10095
 Tur Arhar	-	2011-12	Kharif	-	3031
 Turmeric	-	2011-12	Summer	-	4372
 Wheat	-	2011-12	Rabi	-	1559
-	34
-	Table 2.16 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Kerala
-	(Rs. per Quintal)
-Crop Variety Year Season $	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappura	Palakkad	Pathanamt	Thiruvanan	Trichur	Wayanad	State Wtd
-	m	hitta	thapuram	Average
+34
+Table 2.16 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Kerala
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappuram	Palakkad	Pathanamthitta	Thiruvananthapuram	Trichur	Wayanad	StateWtdAverage
 Banana	-	2011-12	-	2780	2500	2279	2538	2369	2712	2697	2544	2385	2212	2548	2685	2543	2096	2334
 Ginger	Dry	2011-12	-	-	5775	6000	7693	-	-	-	7693	-	6876	-	-	7263	5877	6204
 Paddy	-	2011-12	-	1500	1252	-	1212	1143	1325	1500	1195	964	1163	1031	1260	987	909	1235
 Pepper	-	2011-12	-	-	33109	32697	32043	31207	33361	32884	31283	31366	31218	33462	31803	32968	32539	32527
 Sugarcane	-	2011-12	-	-	-	-	-	-	-	-	-	-	200	-	-	-	-	200
 Tapioca	-	2011-12	-	922	775	859	1101	1075	870	981	912	719	860	1130	957	906	722	901
-	35
-	Table 2.17 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Alirajpur	Anuppur	Ashoknagar	Balaghat	Barwani	Betul	Bhind	Bhopal	Burhanpur	Chhatarpur	Chhindwara	Damoh	Datia	Dewas	State Wtd
-	Average
+35
+(Rs. per Quintal)
+CROP-WISE DISTRICT-WISE FARM HARVEST PRICES OF PRINCIPAL CROPS IN INDIA - MADHYA PRADESH
+Table 2.17
+Crop	Variety	Year	Season	Alirajpur	Anuppur	Ashoknagar	Balaghat	Barwani	Betul	Bhind	Bhopal	Burhanpur	Chhatarpur	Chhindwara	Damoh	Datia	Dewas	StateWtdAverage
 Bajra	-	2011-12	-	965	-	-	-	1105	-	-	-	1090	-	-	-	983	-	807
 Barley	-	2011-12	-	-	1192	-	-	-	-	-	-	-	-	-	-	1200	-	1126
 CasterSeed	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3133
@@ -926,7 +669,7 @@ Jowar	-	2011-12	Kharif	916	-	-	-	1133	1015	-	1497	1054	-	-	867	1000	1100	1122
 	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	1133	1208
 Linseed	-	2011-12	-	-	3271	2523	-	-	-	-	-	-	-	-	3104	-	-	3380
 Maize	-	2011-12	-	1119	993	1078	-	1076	868	-	1377	1205	-	870	1114	-	981	940
-Nigerseed	2011-12	-	-	3388	-	-	-	4600	-	-	-	-	6520	-	-	-	5062
+Nigerseed		2011-12	-	-	3388	-	-	-	4600	-	-	-	-	6520	-	-	-	5062
 Paddy	Coarse	2011-12	-	813	840	-	1064	774	900	-	-	1400	-	-	-	-	-	1049
 	Fine	2011-12	-	1015	1150	-	1573	-	-	-	-	1717	-	-	-	1100	-	1541
 	Medium	2011-12	-	932	1124	-	1091	-	1200	-	-	1483	-	-	-	1050	-	1262
@@ -945,11 +688,10 @@ Tur Arhar	Delay	2011-12	-	-	3267	-	-	-	3707	-	-	2867	-	3094	2882	4600	-	3208
 	Early	2011-12	-	-	-	3163	-	-	3224	-	2716	3318	-	-	3093	3567	-	3312
 Turmeric	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	8838
 Wheat	-	2011-12	-	1410	1282	1095	-	1390	1229	-	1353	1252	-	1311	1199	1275	1323	1279
-	36
-	Table 2.17 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Dhar	Dindori	Guna	Gwalior	Harda	Hoshangaba	Indore	Jabalpur	Jhabua	Katni	Khandwa	Khargone	Mandla	Mandsaur	State Wtd
-	d	Average
+36
+Table 2.17 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Dhar	Dindori	Guna	Gwalior	Harda	Hoshangabad	Indore	Jabalpur	Jhabua	Katni	Khandwa	Khargone	Mandla	Mandsaur	StateWtdAverage
 Bajra	-	2011-12	-	1500	-	-	913	-	-	-	-	1550	-	-	-	-	-	807
 Barley	-	2011-12	-	-	-	-	1249	-	-	-	-	-	-	-	-	-	1325	1126
 CasterSeed	-	2011-12	-	-	-	-	-	-	-	-	-	3133	-	-	-	-	-	3133
@@ -962,7 +704,7 @@ Jowar	-	2011-12	Kharif	990	-	1514	1003	1300	1690	-	1907	1079	-	-	1052	-	1290	112
 	-	2011-12	Rabi	-	-	-	-	-	1400	-	-	-	-	-	-	-	-	1208
 Linseed	-	2011-12	-	3500	3268	-	4000	-	3225	3500	-	-	3133	-	-	-	-	3380
 Maize	-	2011-12	-	1055	641	-	-	-	-	830	1402	997	908	-	890	1000	907	940
-Nigerseed	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	5062
+Nigerseed		2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	5062
 Paddy	Coarse	2011-12	-	-	1260	-	-	1250	1477	-	-	807	-	-	-	1000	-	1049
 	Fine	2011-12	-	-	-	1525	-	-	2044	-	-	-	-	-	-	-	-	1541
 	Medium	2011-12	-	-	-	-	-	-	1692	-	-	-	1118	-	-	-	-	1262
@@ -981,11 +723,10 @@ Tur Arhar	Delay	2011-12	-	-	-	-	4523	-	3494	4000	-	3147	-	-	-	-	4007	3208
 	Early	2011-12	-	4044	-	-	4023	-	3126	6366	-	-	-	2993	2730	-	3415	3312
 Turmeric	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	8838
 Wheat	-	2011-12	-	1368	-	-	1219	1228	1325	1325	1474	1280	1457	1187	1367	-	1304	1279
-	37
-	Table 2.17 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Morena	Narsinghpur	Neemuch	Panna	Raisen	Rajgarh	Ratlam	Rewa	Sagar	Satna	Sehore	Shahdol	Shajapur	Sheopur	State Wtd
-	Average
+37
+Table 2.17 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Morena	Narsinghpur	Neemuch	Panna	Raisen	Rajgarh	Ratlam	Rewa	Sagar	Satna	Sehore	Shahdol	Shajapur	Sheopur	StateWtdAverage
 Bajra	-	2011-12	-	760	-	-	-	-	-	-	-	-	-	-	-	-	775	807
 Barley	-	2011-12	-	-	-	-	-	-	-	-	-	-	1109	-	-	-	-	1126
 CasterSeed	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3133
@@ -998,7 +739,7 @@ Jowar	-	2011-12	Kharif	-	1000	-	1000	-	2032	-	-	1243	1121	-	1000	1133	-	1122
 	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1208
 Linseed	-	2011-12	-	-	-	-	-	-	-	-	-	3081	4412	-	3275	-	-	3380
 Maize	-	2011-12	-	-	-	1047	1195	880	904	955	-	881	-	985	-	860	-	940
-Nigerseed	2011-12	-	-	-	-	-	-	-	-	-	5992	-	-	3030	-	-	5062
+Nigerseed		2011-12	-	-	-	-	-	-	-	-	-	5992	-	-	3030	-	-	5062
 Paddy	Coarse	2011-12	-	-	-	-	-	-	-	-	-	1013	-	-	-	-	-	1049
 	Fine	2011-12	-	-	-	-	-	1779	-	-	-	1475	-	-	-	-	-	1541
 	Medium	2011-12	-	1525	-	-	-	-	-	960	-	1125	-	-	-	-	-	1262
@@ -1017,11 +758,10 @@ Tur Arhar	Delay	2011-12	-	-	3013	-	5945	3000	-	-	-	3110	-	-	3800	3725	-	3208
 	Early	2011-12	-	-	2753	-	6100	3738	3571	-	-	3528	-	-	4600	-	-	3312
 Turmeric	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	8838
 Wheat	-	2011-12	-	-	1317	1279	1288	1273	1189	-	-	1316	1315	-	1512	1240	1280	1279
-	38
-	Table 2.17 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Shivani	Shivpuri	Sidhi	Singhroli	Tikamgarh	Ujjain	Umaria	Vidisha	State Wtd
-	Average
+38
+Table 2.17 (Cqntd.)	Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Shivani	Shivpuri	Sidhi	Singhroli	Tikamgarh	Ujjain	Umaria	Vidisha	StateWtdAverage
 Bajra	-	2011-12	-	-	1028	-	-	-	-	-	-	807
 Barley	-	2011-12	-	-	894	1088	-	1067	-	1100	-	1126
 CasterSeed	-	2011-12	-	-	-	-	-	-	-	-	-	3133
@@ -1034,7 +774,7 @@ Jowar	-	2011-12	Kharif	-	1500	867	-	986	1025	-	1995	1122
 	-	2011-12	Rabi	-	-	-	-	-	-	-	-	1208
 Linseed	-	2011-12	-	3300	1990	3200	-	3969	3494	3630	-	3380
 Maize	-	2011-12	-	1100	1282	800	940	-	1037	894	-	940
-Nigerseed	2011-12	-	-	-	-	-	-	-	3022	-	5062
+Nigerseed		2011-12	-	-	-	-	-	-	-	3022	-	5062
 Paddy	Coarse	2011-12	-	-	880	-	-	-	-	-	-	1049
 	Fine	2011-12	-	-	-	-	-	-	-	-	-	1541
 	Medium	2011-12	-	1650	-	-	-	-	-	1126	-	1262
@@ -1053,11 +793,10 @@ Tur Arhar	Delay	2011-12	-	-	4830	2886	-	-	-	2663	-	3208
 	Early	2011-12	-	3500	4810	-	-	-	3160	-	4729	3312
 Turmeric	-	2011-12	-	-	-	-	-	9103	-	6955	-	8838
 Wheat	-	2011-12	-	1100	1177	1167	-	1103	1380	1200	-	1279
-	39
-	Table 2.18 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Maharashtra
-	(Rs. per Quintal)
-Crop Variety Year Season $	Ahmednaga	Akola	Amravati	Aurangabad	Beed	Bhandara	Buldhana	Chandrapur	Dhule	Gadchiroli	Gondia	Hingoli	Jalgaon	Jalna	State Wtd
-	r	Average
+39
+Table 2.18 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Maharashtra
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmednagar	Akola	Amravati	Aurangabad	Beed	Bhandara	Buldhana	Chandrapur	Dhule	Gadchiroli	Gondia	Hingoli	Jalgaon	Jalna	StateWtdAverage
 Bajra	-	2011-12	-	1073	1408	1364	1103	1130	-	919	-	1036	-	-	1165	1050	1057	1085
 CasterSeed	-	2011-12	-	3842	3362	2769	3678	3672	-	3362	3250	2785	-	-	3793	3825	3846	3724
 Gram	-	2011-12	-	2551	2590	2607	2466	2452	2441	2434	2148	2792	1875	2441	2330	2696	2906	2517
@@ -1069,11 +808,10 @@ Soyabean	-	2011-12	-	2110	2172	2207	2069	2134	1938	2132	2161	2119	1944	-	2157	20
 Sunflower	-	2011-12	-	2678	2990	2855	2473	2709	-	2832	-	2255	-	-	2290	2835	2482	2794
 Tur Arhar	-	2011-12	-	2975	3136	3134	2907	3357	2779	3013	2828	2869	2715	2779	3011	2930	3180	3070
 Wheat	-	2011-12	-	1286	1192	1193	1250	1263	1096	1185	1067	1210	1067	1096	1169	1204	1291	1280
-	40
-	Table 2.18 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Maharashtra
-	(Rs. per Quintal)
-Crop Variety Year Season $	Kolhapur	Latur	Mumbai	Nagpur	Nanded	Nandurbar	Nasik	Osmanabad	Parbhani	Pune	Raigarh	Ratnagiri	Sangli	Satara	State Wtd
-	Average
+40
+Table 2.18 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Maharashtra
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Kolhapur	Latur	Mumbai	Nagpur	Nanded	Nandurbar	Nasik	Osmanabad	Parbhani	Pune	Raigarh	Ratnagiri	Sangli	Satara	StateWtdAverage
 Bajra	-	2011-12	-	-	1046	1047	-	1053	1077	1052	988	1165	1259	-	-	1221	1166	1085
 CasterSeed	-	2011-12	-	3375	3773	3861	3250	3634	4531	3837	3662	3634	3200	-	-	-	-	3724
 Gram	-	2011-12	-	3427	2720	2618	2501	2338	3020	2601	2469	2327	2753	-	-	2664	2497	2517
@@ -1085,11 +823,10 @@ Soyabean	-	2011-12	-	2165	2222	2167	2189	2120	2174	2205	2094	2123	2138	-	-	2165	
 Sunflower	-	2011-12	-	2782	2977	2934	2550	2632	3126	2782	2800	2715	2884	-	-	2782	2823	2794
 Tur Arhar	-	2011-12	-	2887	3472	2566	2791	2979	2789	2612	3141	3034	2868	-	-	2887	2817	3070
 Wheat	-	2011-12	-	2033	1295	1206	1206	1141	1188	1215	1326	1364	1554	-	-	1871	1352	1280
-	41
-	Table 2.18 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Maharashtra
-	(Rs. per Quintal)
-Crop Variety Year Season $	Sindhudurg	Solapur	Thane	Wardha	Washim	Yavatmal	State Wtd
-	Average
+41
+Table 2.18 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Maharashtra
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Sindhudurg	Solapur	Thane	Wardha	Washim	Yavatmal	StateWtdAverage
 Bajra	-	2011-12	-	-	1148	-	-	1282	1254	1085
 CasterSeed	-	2011-12	-	-	3661	-	-	-	-	3724
 Gram	-	2011-12	-	-	2373	-	2355	2414	2328	2517
@@ -1101,11 +838,10 @@ Soyabean	-	2011-12	-	-	2125	-	2175	2225	2126	2162
 Sunflower	-	2011-12	-	-	2823	-	1531	2353	-	2794
 Tur Arhar	-	2011-12	-	-	3296	-	3110	3275	2968	3070
 Wheat	-	2011-12	-	-	1496	-	1102	1178	1185	1280
-	42
-	Table 2.19 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Manipur
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
+42
+Table 2.19 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Manipur
+(Rs. per Quintal)				
+Crop	Variety	Year	Season	State	StateWtdAverage
 Banana	-	2011-12	-	1696	1696
 Chilly	-	2011-12	-	21288	21288
 Ginger	-	2011-12	-	1270	1270
@@ -1115,11 +851,10 @@ Paddy	-	2011-12	Autum	933	933
 Potato	-	2011-12	-	954	954
 Rape/Mustard	-	2011-12	-	2180	2180
 Sugarcane	-	2011-12	-	456	456
-	43
-	Table 2.20 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Mizoram
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
+43
+Table 2.20	Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Mizoram
+(Rs. per Quintal)			
+Crop	Variety	Year	Season	State	StateWtdAverage
 Banana	-	2011-12	-	1047	1047
 Chilly	-	2011-12	-	9050	9050
 Ginger	-	2011-12	-	1050	1050
@@ -1130,19 +865,18 @@ Rape/Mustard	-	2011-12	-	2000	2000
 Sesamum	-	2011-12	-	3300	3300
 Tur Arhar	-	2011-12	-	2741	2741
 Turmeric	-	2011-12	-	1165	1165
-	44
-	Table 2.21 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Nagaland
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
+44
+Table 2.21
+CROP-WISE DISTRICT-WISE FARM HARVEST PRICES OF PRINCIPAL CROPS IN INDIA - NAGALAND
+(Rs. per Quintal)				
+Crop	Variety	Year	Season	State	StateWtdAverage
 Maize	-	2011-12	-	800	800
 Paddy	Coarse	2011-12	-	500	500
 	Fine	2011-12	-	520	520
-	45
-	Table 2.22 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Orissa
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
+45
+Table 2.22 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Orissa
+(Rs. per Quintal)			
+Crop	Variety	Year	Season	State	StateWtdAverage
 Ground Nut	-	2011-12	-	2370	2370
 Jute	-	2011-12	-	2704	2704
 Maize	-	2011-12	-	969	969
@@ -1153,25 +887,23 @@ Rape/Mustard	-	2011-12	-	3197	3197
 Sesamum	-	2011-12	-	3206	3206
 Sugarcane	-	2011-12	-	131	131
 Wheat	-	2011-12	-	1376	1376
-	46
-	Table 2.23 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Pondicherry
-	(Rs. per Quintal)
-Crop Variety Year Season $	Karaikal	Mahe	Puducherry	Yanam	State Wtd
-	Average
+46
+Table 2.23 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Pondicherry
+(Rs. per Quintal)							
+Crop	Variety	Year	Season	Karaikal	Mahe	Puducherry	Yanam	StateWtdAverage
 Ground Nut	-	2011-12	-	-	-	3551	-	3551
 Jowar	-	2011-12	-	-	-	932	-	932
 Paddy	-	2011-12	-	1009	-	831	1036	831
 	Fine	2011-12	-	1099	-	1214	1067	1214
 Ragi	-	2011-12	-	-	-	1078	-	1078
 Sesamum	-	2011-12	-	-	-	3060	-	3060
-	47
-	Table 2.24 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Punjab
-	(Rs. per Quintal)
-Crop Variety Year Season $	Amritsar	Barnala	Bhatinda	Faridkot	Fatehgarh	Fazilka	Firozpur	Gurdaspur	Hoshiarpur	Jalandhar	kapurthala	Ludhiana	Mansa	Moga	State Wtd
-	Sahib	Average
+47
+Table 2.24 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Punjab
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Amritsar	Barnala	Bhatinda	Faridkot	Fatehgarh_Sahib	Fazilka	Firozpur	Gurdaspur	Hoshiarpur	Jalandhar	kapurthala	Ludhiana	Mansa	Moga	StateWtdAverage
 Bajra	-	2011-12	-	-	-	-	-	-	-	-	1100	-	-	-	-	-	-	1100
 Barley	-	2011-12	-	-	1050	-	-	-	1135	-	1700	-	-	-	-	1025	-	1070
-Cotton	American 2011-12	-	-	4000	-	-	-	4000	-	5000	-	-	-	-	4127	-	4273
+Cotton	American	2011-12	-	-	4000	-	-	-	4000	-	5000	-	-	-	-	4127	-	4273
 	Desi	2011-12	-	-	4650	-	-	-	4550	-	5000	-	-	-	-	4100	-	4296
 Ginger	-	2011-12	-	-	1650	-	-	-	1800	-	3000	-	-	-	-	-	-	-
 Gram	-	2011-12	-	-	-	-	-	-	2475	-	4000	-	-	-	-	-	-	2542
@@ -1186,14 +918,13 @@ Sesamum	-	2011-12	-	-	-	-	-	-	-	-	10000	-	-	-	-	-	-	7188
 Sugarcane	-	2011-12	-	-	-	-	-	-	-	-	235	-	-	-	-	-	-	165
 Toria	-	2011-12	-	-	-	-	-	-	-	-	3200	-	-	-	-	-	-	3500
 Wheat	-	2011-12	-	-	1120	-	-	-	1120	-	1285	-	-	-	-	1120	-	1130
-	48
-	Table 2.24 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Punjab
-	(Rs. per Quintal)
-Crop Variety Year Season $	Muktsar	Nawanshah	Pathankot	Patiala	Rupnagar	S.A.S.Nagar	Sangrur	Tarean	State Wtd
-	ar	Taran	Average
+48
+Table 2.24 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Punjab
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Muktsar	Nawanshahar	Pathankot	Patiala	Rupnagar	SAS_Nagar	Sangrur	Tarean_Taran	StateWtdAverage
 Bajra	-	2011-12	-	-	-	1250	-	-	-	-	-	1100
 Barley	-	2011-12	-	1140	-	1500	1100	-	1000	980	-	1070
-Cotton	American 2011-12	-	4000	-	-	-	-	-	-	-	4273
+Cotton	American	2011-12	-	4000	-	-	-	-	-	-	-	4273
 	Desi	2011-12	-	4500	-	-	-	-	-	-	-	4296
 Ginger	-	2011-12	-	4500	1700	1600	2600	1800	2800	-	2000	-
 Gram	-	2011-12	-	2375	-	5000	-	-	-	4500	-	2542
@@ -1207,11 +938,10 @@ Sesamum	-	2011-12	-	-	-	7000	-	-	-	-	-	7188
 Sugarcane	-	2011-12	-	-	-	220	-	-	-	-	-	165
 Toria	-	2011-12	-	-	3100	4300	-	-	-	-	-	3500
 Wheat	-	2011-12	-	1120	-	1285	1120	1120	1120	1120	1120	1130
-	49
-	Table 2.25 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Rajasthan
-	(Rs. per Quintal)
-Crop Variety Year Season $	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	State Wtd
-	Average
+49
+Table 2.25 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	StateWtdAverage
 Bajra	-	2011-12	Kharif	870	782	795	838	972	836	982	874	808	-	850	834	827	964	855
 Barley	-	2011-12	Rabi	1208	1190	1187	1180	1311	1204	1143	1224	1116	1176	1210	1245	1152	1110	1227
 CasterSeed	-	2011-12	Rabi	-	-	-	-	2502	-	2018	-	-	-	-	-	-	-	3401
@@ -1234,11 +964,10 @@ Sugar Raw	-	2011-12	Rabi	3098	3000	3073	3000	-	2705	2948	-	2586	2870	-	-	-	3038	
 Tobacco	-	2011-12	Rabi	-	2651	-	-	-	-	1268	-	-	-	-	-	-	-	2612
 Tur Arhar	-	2011-12	Rabi	5085	3257	-	-	-	4008	-	-	-	2625	-	-	-	-	3382
 Wheat	-	2011-12	Rabi	1336	1174	1297	1150	1496	1179	1224	1280	1148	1170	1353	1230	1181	1245	1226
-	50
-	Table 2.25 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Rajasthan
-	(Rs. per Quintal)
-Crop Variety Year Season $	Ganganagar	Hanumanga	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Pratapgarh	Rajsamand	State Wtd
-	rh	Average
+50
+Table 2.25 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ganganagar	Hanumangarh	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Pratapgarh	Rajsamand	StateWtdAverage
 Bajra	-	2011-12	Kharif	922	846	802	-	914	868	785	997	765	-	783	972	-	1130	855
 Barley	-	2011-12	Rabi	1211	1337	1245	-	1100	1095	1297	1178	1278	1166	1254	1261	1053	1057	1227
 CasterSeed	-	2011-12	Rabi	-	3426	4255	-	3566	-	-	3592	-	-	-	2952	-	-	3401
@@ -1261,11 +990,10 @@ Sugar Raw	-	2011-12	Rabi	-	2594	2789	-	-	-	-	-	-	2990	-	-	-	2521	2794
 Tobacco	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2612
 Tur Arhar	-	2011-12	Rabi	-	-	3508	-	-	-	-	-	2864	4403	-	-	4340	-	3382
 Wheat	-	2011-12	Rabi	1279	1299	1266	-	1314	1145	1237	1385	1177	1186	1425	1405	1173	1236	1226
-	51
-	Table 2.25 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Rajasthan
-	(Rs. per Quintal)
-Crop Variety Year Season $	Sawai	Sikar	Sirohi	Tonk	Udaipur	State Wtd
-	Madhopur	Average
+51
+Table 2.25 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Sawai_Madhopur	Sikar	Sirohi	Tonk	Udaipur	StateWtdAverage
 Bajra	-	2011-12	Kharif	842	786	944	768	-	855
 Barley	-	2011-12	Rabi	1255	1328	1262	1158	1108	1227
 CasterSeed	-	2011-12	Rabi	-	-	3342	-	-	3401
@@ -1288,17 +1016,16 @@ Sugar Raw	-	2011-12	Rabi	-	-	-	3050	3120	2794
 Tobacco	-	2011-12	Rabi	-	-	-	-	-	2612
 Tur Arhar	-	2011-12	Rabi	-	-	3463	-	-	3382
 Wheat	-	2011-12	Rabi	1200	1317	1298	1115	1230	1226
-	52
-	Table 2.26 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
-	(Rs. per Quintal)
-Crop Variety Year Season $	Ariyalur	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipura	Kanyakuma	Karur	Krishnagiri	Madurai	Nagapattina	Namakkal	Nilgiris	State Wtd
-	m	ri	m	Average
+52
+Table 2.26 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ariyalur	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipuram	Kanyakumari	Karur	Krishnagiri	Madurai	Nagapattinam	Namakkal	Nilgiris	StateWtdAverage
 Arecanut	-	2011-12	-	-	15392	15839	15392	15392	15329	-	15392	15392	15392	15392	15392	15392	15392	14769
 Bajra	-	2011-12	-	1500	1361	1078	1468	1152	1447	1500	-	1500	1468	1554	-	1247	-	1291
 Cashewnut	-	2011-12	-	5436	5436	5436	-	5436	5436	5436	6500	5436	5436	5436	5436	5436	-	5477
 CasterSeed	-	2011-12	-	3243	2900	3050	3066	3712	3243	-	-	3243	3066	3712	-	3066	-	3148
 Chilly	-	2011-12	-	7208	7234	6574	6419	7216	6966	6200	6320	7208	7189	6808	6386	6637	6418	6900
-Coconut	With husk 2011-12	-	602	643	631	614	606	745	675	689	602	597	542	462	634	992	622
+Coconut	With husk 2011-12		-	602	643	631	614	606	745	675	689	602	597	542	462	634	992	622
 Cotton	-	2011-12	-	3152	3152	3038	3152	3224	3152	-	-	3152	3152	3224	3073	3152	3000	3142
 Gram	-	2011-12	-	-	3783	-	4149	4061	-	-	-	-	4149	3921	-	4149	-	3966
 Ground Nut	-	2011-12	-	3975	3699	3539	3689	4368	3263	3539	4079	3975	3375	3888	4200	3666	-	3722
@@ -1312,17 +1039,16 @@ Sugar Raw	-	2011-12	-	-	2976	3156	2687	2611	2976	2888	3206	3069	2975	2948	3372	3
 Tapioca	-	2011-12	-	861	802	855	802	868	802	855	868	861	802	850	917	802	839	820
 Tur Arhar	-	2011-12	-	3974	4179	3325	4009	3271	4179	3350	-	3974	4009	3759	-	4009	-	3218
 Turmeric	-	2011-12	-	7093	7444	9578	8263	7157	7728	8600	-	7093	8263	8617	-	8919	7444	8188
-	53
-	Table 2.26 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
-	(Rs. per Quintal)
-Crop Variety Year Season $	Perambalur	Pudukkottai	Ramanatha	Salem	Sivaganga	Thanjavur	Theni	Thirunelvel	Thiruvanna	Thiruvarur	Thoothuku	Tiruchirapp	Tiruppur	Tirupur	State Wtd
-	puram	i	malai	di	alli	Average
+53
+Table 2.26 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Perambalur	Pudukkottai	Ramanathapuram	Salem	Sivaganga	Thanjavur	Theni	Thirunelveli	Thiruvannamalai	Thiruvarur	Thoothukudi	Tiruchirappalli	Tiruppur	Tirupur	StateWtdAverage
 Arecanut	-	2011-12	-	15392	-	-	13979	-	15392	15392	15392	15839	15392	-	15392	15392	15392	14769
 Bajra	-	2011-12	-	1500	1574	1426	1250	1426	1366	1219	1554	1125	-	1328	1295	1353	1353	1291
 Cashewnut	-	2011-12	-	5436	5436	5436	5436	5436	5436	5436	6500	5436	5436	6500	5436	5436	5436	5477
 CasterSeed	-	2011-12	-	3243	-	3061	3066	3061	3243	3712	3061	3100	-	3061	3243	3956	3956	3148
 Chilly	-	2011-12	-	7208	7010	6619	6800	7106	7044	7420	6806	7152	6493	7059	7399	6541	6541	6900
-Coconut	With husk 2011-12	-	602	577	582	598	727	547	542	760	598	393	668	578	779	779	622
+Coconut	With husk 2011-12		-	602	577	582	598	727	547	542	760	598	393	668	578	779	779	622
 Cotton	-	2011-12	-	3152	3152	3224	3152	3224	3073	3224	3000	3038	3073	3000	3152	3152	3152	3142
 Gram	-	2011-12	-	-	-	-	4149	-	-	3921	-	4215	-	4038	4063	3870	3870	3966
 Ground Nut	-	2011-12	-	3975	3609	4013	3666	3684	4202	3888	3760	3877	4200	3760	3975	3263	3263	3722
@@ -1336,17 +1062,16 @@ Sugar Raw	-	2011-12	-	-	3063	-	-	-	2853	-	3135	3055	2718	3512	2961	2947	2947	300
 Tapioca	-	2011-12	-	861	917	-	802	-	917	850	868	855	917	868	861	802	802	820
 Tur Arhar	-	2011-12	-	3974	3974	3470	4009	3470	3325	3759	3650	3927	-	3650	3974	4179	4179	3218
 Turmeric	-	2011-12	-	7093	8986	7157	8919	8279	10325	8580	8000	8676	11000	8000	7093	7662	7662	8188
-	54
-	Table 2.26 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
-	(Rs. per Quintal)
-Crop Variety Year Season $	Tiruvallur	Vellore	Viluppuram	Virudhunaga	State Wtd
-	r	Average
+54
+Table 2.26 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Tiruvallur	Vellore	Viluppuram	Virudhunagar	StateWtdAverage
 Arecanut	-	2011-12	-	-	15839	15839	15392	14769
 Bajra	-	2011-12	-	1193	1182	1212	1426	1291
 Cashewnut	-	2011-12	-	5436	5436	5436	5436	5477
 CasterSeed	-	2011-12	-	3050	3100	3017	3061	3148
 Chilly	-	2011-12	-	6200	7152	7152	7106	6900
-Coconut	With husk 2011-12	-	637	477	636	700	622
+Coconut	With husk	2011-12	-	637	477	636	700	622
 Cotton	-	2011-12	-	-	3038	3038	3224	3142
 Gram	-	2011-12	-	-	4046	-	3960	3966
 Ground Nut	-	2011-12	-	3539	3539	3521	4013	3722
@@ -1360,13 +1085,12 @@ Sugar Raw	-	2011-12	-	3168	2463	2928	2835	3009
 Tapioca	-	2011-12	-	855	855	855	968	820
 Tur Arhar	-	2011-12	-	3350	3325	3325	3470	3218
 Turmeric	-	2011-12	-	8600	7188	8676	8279	8188
-	55
-	Table 2.27 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tripura
-	(Rs. per Quintal)
-Crop Variety Year Season $	State Wtd
-	Average
+55
+Table 2.27 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Tripura
+(Rs. per Quintal)					
+Crop	Variety	Year	Season	State	StateWtdAverage
 Gram	-	2011-12	-	4000	4000
-	Bengalgram2011-12	-	4000	-
+	Bengalgram2011-12		-	4000	-
 Ground Nut	-	2011-12	-	3750	3750
 Jute	-	2011-12	-	2100	2100
 Mesta	-	2011-12	-	1720	1720
@@ -1376,11 +1100,10 @@ Paddy	-	2011-12	Autum	813	813
 Potato	-	2011-12	-	1106	1106
 Rape/Mustard	-	2011-12	-	4500	4500
 Sesamum	-	2011-12	-	4344	4344
-	56
-	Table 2.28 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Agra	Aligarh	Allahabad	Ambedkar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	State Wtd
-	Nagar	Average
+56
+Table 2.28 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar_Nagar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	StateWtdAverage
 Bajra	-	2011-12	Kharif	743	843	-	-	-	-	-	-	-	-	813	800	-	-	808
 Barley	-	2011-12	Rabi	1143	1201	-	-	-	1000	-	-	-	-	-	-	-	-	1086
 Cotton	-	2011-12	Kharif	4056	4236	-	-	-	-	-	-	-	-	-	-	-	-	4146
@@ -1401,18 +1124,16 @@ Sugarcane	-	2011-12	Kharif	-	-	-	-	-	-	227	215	-	250	-	301	-	246	221
 Tobacco	Calcattia	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3353
 Tur Arhar	-	2011-12	Rabi	-	-	-	-	-	-	-	3740	2079	3487	3334	3648	-	3945	3452
 Wheat	-	2011-12	Rabi	1202	1145	-	-	-	1200	1221	1043	980	1079	1053	1019	-	989	1105
-	57
-	Table 2.28 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam	Ghaziabad	State Wtd
-	Budha	Average
-	Nagar
+57
+Table 2.28 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam_Budha_Nagar	Ghaziabad	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	975	-	-	-	810	-	-	-	822	833	-	-	808
 Barley	-	2011-12	Rabi	-	-	1147	-	-	-	943	-	-	-	1236	1188	-	-	1086
 Cotton	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4146
 Gram	-	2011-12	Kharif	3815	-	-	-	-	-	-	-	-	-	3874	-	-	-	3082
 	-	2011-12	Rabi	-	-	-	-	-	-	4058	-	-	-	2732	-	-	-	3332
-Ground Nut	-	2011-12	Kharif	3840	-	-	-	-	-	-	-	-	-	-	-	-	-	3271
+GroundNut	-	2011-12	Kharif	3840	-	-	-	-	-	-	-	-	-	-	-	-	-	3271
 Jowar	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	980	-	-	-	984
 Linseed	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3572
 Maize	-	2011-12	Kharif	-	-	1000	-	-	-	888	-	-	-	-	-	-	-	910
@@ -1427,37 +1148,10 @@ Sugarcane	-	2011-12	Kharif	211	-	-	-	-	-	-	-	-	-	-	-	-	-	221
 Tobacco	Calcattia	2011-12	Rabi	-	-	-	-	-	-	3353	-	-	-	-	-	-	-	3353
 Tur Arhar	-	2011-12	Rabi	-	-	4407	-	-	-	3202	-	-	-	3187	-	-	-	3452
 Wheat	-	2011-12	Rabi	1235	-	1250	-	-	-	1153	1153	-	-	1124	1163	-	-	1105
-	58
-	Table 2.28 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba	Kannauj	Kanpur	Kanpur(Cit	Kaushambi	State Wtd
-	(M.M.Naga	phule Nagar	Dehat	y)	Average
-	r)
-Bajra	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	794	-	959	808
-Barley	-	2011-12	Rabi	-	-	-	-	-	-	-	-	1121	-	-	1197	-	902	1086
-Cotton	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4146
-Gram	-	2011-12	Kharif	-	-	-	3011	2842	-	-	-	2409	-	-	3425	-	-	3082
-	-	2011-12	Rabi	-	4031	-	3633	-	-	-	3313	3064	-	-	3103	-	2450	3332
-Ground Nut	-	2011-12	Kharif	-	-	-	-	3023	-	-	-	3059	-	-	-	-	-	3271
-Jowar	-	2011-12	Kharif	-	-	-	1351	-	-	-	-	-	-	-	918	-	-	984
-Linseed	-	2011-12	Rabi	-	-	-	-	-	-	-	-	3453	-	-	-	-	-	3572
-Maize	-	2011-12	Kharif	-	948	-	-	856	-	-	-	-	-	-	938	-	-	910
-Paddy	-	2011-12	Kharif	-	949	-	-	851	-	-	-	1025	-	-	917	-	959	1008
-Potato	-	2011-12	Rabi	-	-	-	1026	458	-	-	621	-	-	-	397	-	479	534
-Rape/Mustard	-	2011-12	Rabi	-	-	-	2853	3259	-	-	-	3064	-	-	2855	-	-	3149
-Sannhemp	-	2011-12	Kharif	-	-	-	2834	-	-	-	-	-	-	-	-	-	-	2110
-Sesamum	-	2011-12	Kharif	-	-	-	5052	-	-	-	-	4949	-	-	5134	-	-	4865
-Soyabean	-	2011-12	Kharif	-	-	-	-	-	-	-	-	2167	-	-	-	-	-	2167
-Sugar Raw	-	2011-12	Kharif	-	2959	-	-	2728	-	-	-	-	-	-	-	-	-	2848
-Sugarcane	-	2011-12	Kharif	-	220	-	-	211	-	-	-	-	-	-	-	-	-	221
-Tobacco	Calcattia	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3353
-Tur Arhar	-	2011-12	Rabi	-	-	-	2915	5083	-	-	3276	-	-	-	3693	-	3194	3452
-Wheat	-	2011-12	Rabi	1074	1077	-	1080	1028	-	-	966	1063	-	-	1053	-	1091	1105
-	59
-	Table 2.28 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya Maharajgan	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad	Muzaffarna	State Wtd
-	Nagar	j	gar	Average
+59
+Table 2.28 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya_Nagar	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad	Muzaffarnagar	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	881	682	-	808
 Barley	-	2011-12	Rabi	-	-	-	-	-	-	946	-	-	-	-	869	-	1267	1086
 Cotton	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4146
@@ -1478,12 +1172,10 @@ Sugarcane	-	2011-12	Kharif	208	236	-	-	-	-	-	-	-	-	228	301	230	235	221
 Tobacco	Calcattia	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3353
 Tur Arhar	-	2011-12	Rabi	-	-	-	-	-	-	3553	-	-	-	-	3006	-	-	3452
 Wheat	-	2011-12	Rabi	1119	1217	-	-	-	-	1044	-	-	-	1293	994	1095	1283	1105
-	60
-	Table 2.28 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant	Sant Kabir	Shahjahapur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	State Wtd
-	Ravidas	Nagar	gar	Average
-	Nagar
+60
+Table 2.28 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant_Ravidas_Nagar	Sant_Kabir_Nagar	Shahjahapur	Shrawasti	Siddharthnagar	Sitapur	Sonbhadra	Sultanpur	Unnao	StateWtdAverage
 Bajra	-	2011-12	Kharif	-	-	-	-	-	743	-	-	-	-	-	-	-	-	808
 Barley	-	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	-	930	-	-	1086
 Cotton	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4146
@@ -1504,11 +1196,11 @@ Sugarcane	-	2011-12	Kharif	-	-	-	-	-	-	-	-	-	-	184	-	235	-	221
 Tobacco	Calcattia	2011-12	Rabi	-	-	-	-	-	-	-	-	-	-	2844	-	-	-	3353
 Tur Arhar	-	2011-12	Rabi	-	-	-	-	-	-	-	-	3396	-	3563	2738	-	-	3452
 Wheat	-	2011-12	Rabi	-	-	-	-	-	1048	1023	-	1006	-	1103	873	1052	-	1105
-	61
-	Table 2.28 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
-	(Rs. per Quintal)
-Crop Variety Year Season $	Varanasi	State Wtd
-	Average
+61
+Table 2.28 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	State	StateWtdAverage
+donotconsiderthislineAverage
 Bajra	-	2011-12	Kharif	-	808
 Barley	-	2011-12	Rabi	-	1086
 Cotton	-	2011-12	Kharif	-	4146
@@ -1529,11 +1221,10 @@ Sugarcane	-	2011-12	Kharif	-	221
 Tobacco	Calcattia	2011-12	Rabi	-	3353
 Tur Arhar	-	2011-12	Rabi	-	3452
 Wheat	-	2011-12	Rabi	-	1105
-	62
-	Table 2.29 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttranchal
-	(Rs. per Quintal)
-Crop Variety Year Season $	Almora	Dehradoon	Garhwal	Haridwar	Nanital	Udamsingh	State Wtd
-	(Pauri)	Nagar	Average
+62
+Table 2.29 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - Uttranchal
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Almora	Dehradoon	Garhwal_Pauri	Haridwar	Nanital	Udamsinghnagar	StateWtdAverage
 Barley	-	2011-12	Rabi	-	1349	-	-	-	-	1349
 Ground Nut	-	2011-12	Kharif	-	-	-	3851	-	-	3851
 Maize	-	2011-12	Kharif	-	1056	-	1083	1065	1119	1081
@@ -1545,11 +1236,10 @@ Soyabean	-	2011-12	Kharif	-	-	-	-	1765	-	1765
 Sugar Raw	-	2011-12	Kharif	-	-	3083	2892	2372	-	2782
 Sugarcane	-	2011-12	Kharif	-	-	-	210	242	209	220
 Wheat	-	2011-12	Rabi	-	1259	-	1245	1254	1266	1256
-	63
-	Table 2.30 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - West Bengal
-	(Rs. per Quintal)
-Crop Variety Year Season $	Bankura	Bardhaman	Birbhum	Cooch	Dakhin	Darjiling	East	Hooghly	Howrah	Jalpaiguri	Malda	Murshidaba	Nadia	North 24	State Wtd
-	Bihar	Dinajpur	Midnapore	d	Parganas	Average
+63
+Table 2.30 Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - West Bengal
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bankura	Bardhaman	Birbhum	Cooch_Bihar	Dakhin_Dinajpur	Darjiling	East_Midnapore	Hooghly	Howrah	Jalpaiguri	Malda	Murshidabad	Nadia	North_24_Parganas	StateWtdAverage
 Barley	-	2011-12	-	-	-	-	-	-	-	-	-	-	-	1415	1560	-	-	1452
 Gram	-	2011-12	-	-	-	3567	-	-	-	-	-	-	-	4021	3241	2850	-	3359
 Jute	-	2011-12	-	2000	-	1750	2255	2150	2300	2500	-	2175	2375	2300	2200	2500	2300	2307
@@ -1563,11 +1253,10 @@ Rice	-	2011-12	Autum	1069	1500	-	-	-	1124	1968	-	-	1977	-	1600	1850	1800	1628
 	-	2011-12	Winter	1700	1668	1850	1700	1400	1738	2200	1750	2012	1815	1700	1646	1600	1700	1746
 Sugar Raw	-	2011-12	-	-	3500	3044	-	-	3545	-	-	-	-	3000	3186	3418	-	3247
 Wheat	-	2011-12	-	800	1050	963	1052	-	1133	1188	1050	-	1050	1079	978	1285	-	1052
-	64
-	Table 2.30 (Contd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - West Bengal
-	(Rs. per Quintal)
-Crop Variety Year Season $	North	Puruliya	South 24	West	State Wtd
-	Dinajpur	Parganas	Midnapore	Average
+64
+(Rs. per Quintal)
+Table 2.30 (Cqntd.) Crop-wise District-wise Farm Harvest Prices of Principal Crops in India - West Bengal
+Crop	Variety	Year	Season	North_Dinajpur	Puruliya	South_24_Parganas	West_Midnapore	StateWtdAverage
 Barley	-	2011-12	-	-	-	-	-	1452
 Gram	-	2011-12	-	3272	3790	-	-	3359
 Jute	-	2011-12	-	2300	-	-	2150	2307
@@ -1581,4 +1270,3 @@ Rice	-	2011-12	Autum	-	1966	-	1300	1628
 	-	2011-12	Winter	1850	1800	2000	1560	1746
 Sugar Raw	-	2011-12	-	3374	3764	-	3250	3247
 Wheat	-	2011-12	-	992	1190	-	1225	1052
-	65

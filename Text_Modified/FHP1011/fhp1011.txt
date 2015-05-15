@@ -1,0 +1,1265 @@
+Crop Wise Farm Harvest Prices of Principal Crops in India - Andman & Nicobar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Campbellbay	Car_Nicobar	Diglipur	Ferrargunj	Little_Andaman	Mayabunder	Nancowrie	Portblair	Rangat	StateWtdAverage
+Ground Nut	-	2010-11	-	-	-	-	-	-	-	-	2500	-	2500
+Paddy	-	2010-11	-	1000	-	700	-	1000	800	-	-	1500	1000
+Sesamum	-	2010-11	-	-	-	2500	-	-	-	-	3000	5000	3500
+11
+Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East_Godavari	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnagar	Medak	Nalgonda	StateWtdAverage
+Bajra	-	2010-11	-	3526	1040	919	-	1207	914	879	3526	-	-	916	978	978	1009	1137
+	-	2010-11	Kharif	-	1040	919	-	1207	918	882	-	-	-	918	978	978	1009	912
+	-	2010-11	Rabi	3526	-	-	-	-	876	876	3526	-	-	876	-	-	-	2249
+CasterSeed	-	2010-11	-	-	3450	3464	-	-	1920	3761	-	-	-	3165	3152	2747	3364	3188
+	-	2010-11	Kharif	-	3464	3464	-	-	1925	3761	-	-	-	3167	3153	3153	3364	3192
+	-	2010-11	Rabi	-	2577	-	-	-	1852	-	-	-	-	2577	2577	2577	-	2692
+Chilly	Dry	2010-11	-	8527	7173	9282	-	7683	7386	7974	8987	8115	8471	7671	7105	7410	7784	7721
+	Dry	2010-11	Kharif	8987	7173	-	-	7296	7360	7974	8987	8371	8592	7687	7101	7740	7938	7699
+	Dry	2010-11	Rabi	7271	-	9282	-	7881	7775	-	-	7271	7881	7271	7271	7271	7271	7794
+Cotton	-	2010-11	-	4310	5484	-	-	2826	4720	3258	3871	3760	4503	4286	4068	3882	3972	4176
+	-	2010-11	Kharif	4310	5484	-	-	2826	4720	3258	3871	3760	4503	4286	4068	3882	3972	4176
+Gram	-	2010-11	-	2050	2431	-	-	2971	2971	2452	2592	2808	2971	2349	2509	2499	2808	2435
+	-	2010-11	Rabi	2050	2431	-	-	2971	2971	2452	2592	2808	2971	2349	2509	2499	2808	2435
+Ground Nut	-	2010-11	-	3651	2714	2670	-	3028	3628	2855	3645	3592	3257	2981	3706	3307	3019	2971
+	-	2010-11	Kharif	-	2609	2535	-	-	2220	2457	3098	2822	3061	2675	3280	-	2715	2597
+	-	2010-11	Rabi	3651	4095	3355	-	3028	3676	3524	3651	3610	3646	3454	3740	3307	3122	3553
+Jowar	-	2010-11	-	822	1353	1051	-	1253	1543	1430	1165	1432	1463	1864	1226	1885	1628	1546
+	-	2010-11	Kharif	750	1446	1051	-	1253	1764	1318	-	1028	-	1433	843	1057	1854	965
+	-	2010-11	Rabi	1039	1329	-	-	-	1542	1461	1165	1453	1463	1886	2985	3027	1409	1889
+Maize	-	2010-11	-	878	929	950	-	1133	1144	973	990	1089	1122	956	906	923	908	1035
+	-	2010-11	Kharif	843	932	914	-	923	968	914	914	873	842	895	897	906	860	902
+	-	2010-11	Rabi	968	925	987	-	1138	1144	987	1110	1153	1144	1050	1034	1180	1077	1130
+Mesta	-	2010-11	-	-	2326	2326	-	-	2326	-	-	2326	-	2326	-	-	-	2457
+	-	2010-11	Kharif	-	2326	2326	-	-	2326	-	-	2326	-	2326	-	-	-	2457
+Paddy	-	2010-11	-	987	935	992	-	1055	1101	1022	982	1023	1036	981	997	956	1040	990
+	-	2010-11	Kharif	1005	1042	1136	-	1072	1142	1018	989	1051	1073	1039	1007	966	1045	1023
+	-	2010-11	Rabi	948	779	933	-	1046	970	1028	977	946	963	821	979	944	1036	954
+Ragi	-	2010-11	-	-	1240	1132	-	990	-	1411	-	-	-	-	1146	-	-	1018
+	-	2010-11	Kharif	-	1230	1130	-	990	-	-	-	-	-	-	1114	-	-	976
+	-	2010-11	Rabi	-	1281	1151	-	-	-	1411	-	-	-	-	1281	-	-	1249
+Sesamum	-	2010-11	-	4209	-	3486	-	3678	3881	4207	3908	3807	3887	4207	4715	4715	3592	3487
+	-	2010-11	Kharif	4715	-	-	-	3357	3949	-	-	3438	-	-	4715	4715	3592	3109
+	-	2010-11	Rabi	4128	-	3486	-	3887	3527	4207	3908	3908	3887	4207	-	-	-	3909
+Sugar Raw	-	2010-11	-	2069	2238	2529	-	3415	2010	2238	2069	2069	3352	1947	1947	1956	2069	2510
+	-	2010-11	Kharif	2069	2238	2529	-	3415	2010	2238	2069	2069	3352	1947	1947	1956	2069	2510
+Tobacco	-	2010-11	-	-	5291	-	-	10045	11333	5291	5291	5291	5938	-	5291	-	-	10584
+	-	2010-11	Rabi	-	5291	-	-	10045	11333	5291	5291	5291	5938	-	5291	-	-	10584
+Tur Arhar	-	2010-11	-	3055	3040	3604	-	3013	3512	2946	3172	3289	3025	3710	3181	3602	3355	3322
+7
+Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East_Godavari	Guntur	Kadapa	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnagar	Medak	Nalgonda	StateWtdAverage
+Tur Arhar	-	2010-11	Kharif	3047	3040	3604	-	3013	3519	2946	3172	3289	3013	3722	3181	3602	3355	3322
+	-	2010-11	Rabi	3294	-	-	-	-	3314	-	-	3294	3314	3314	3314	-	-	3306
+Turmeric	-	2010-11	-	11857	9310	9310	-	10653	6758	9094	11978	7802	8043	9525	9525	7758	-	10587
+	-	2010-11	Kharif	11857	9310	9310	-	10653	6758	9094	11978	7802	8043	9525	9525	7758	-	10587
+8
+Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam	Visakhapatnam	Vizianagaram	Warangal	West_Godavari	StateWtdAverage
+Bajra	-	2010-11	-	842	3526	838	978	928	1430	1264	-	-	1137
+	-	2010-11	Kharif	841	-	836	978	928	1430	1264	-	-	912
+	-	2010-11	Rabi	876	3526	876	-	-	-	-	-	-	2249
+CasterSeed	-	2010-11	-	-	-	3969	3153	-	-	-	3555	-	3188
+	-	2010-11	Kharif	-	-	4020	3153	-	-	-	3555	-	3192
+	-	2010-11	Rabi	-	-	3301	-	-	-	-	-	-	2692
+Chilly	Dry	2010-11	-	7963	7617	8094	4610	7324	8522	7905	7724	7480	7721
+	Dry	2010-11	Kharif	-	8987	8060	3336	7944	7944	7944	7307	-	7699
+	Dry	2010-11	Rabi	7963	6382	8150	7271	7314	8849	7881	8159	7480	7794
+Cotton	-	2010-11	-	3172	4310	4724	4068	3179	3364	3548	4373	4884	4176
+	-	2010-11	Kharif	3172	4310	4724	4068	3179	3364	3548	4373	4884	4176
+Gram	-	2010-11	-	3313	1872	2628	2161	-	2971	2971	2808	-	2435
+	-	2010-11	Rabi	3313	1872	2628	2161	-	2971	2971	2808	-	2435
+Ground Nut	-	2010-11	-	3120	3651	3333	3540	2406	3068	2470	3181	3034	2971
+	-	2010-11	Kharif	2699	-	3256	-	2386	3119	2373	2652	3061	2597
+	-	2010-11	Rabi	3601	3651	3335	3540	2438	3001	3028	3264	3028	3553
+Jowar	-	2010-11	-	-	1897	1394	1225	1253	1253	1253	1282	1253	1546
+	-	2010-11	Kharif	-	1671	1764	846	1253	1253	1253	1028	1253	965
+	-	2010-11	Rabi	-	2016	1383	2960	-	-	-	1290	-	1889
+Maize	-	2010-11	-	1130	938	1125	881	1160	1129	1110	1031	1130	1035
+	-	2010-11	Kharif	954	881	940	852	875	1049	928	971	923	902
+	-	2010-11	Rabi	1137	1167	1129	1034	1218	1207	1197	1077	1138	1130
+Mesta	-	2010-11	-	-	-	-	2326	2098	2326	2554	-	-	2457
+	-	2010-11	Kharif	-	-	-	2326	2098	2326	2554	-	-	2457
+Paddy	-	2010-11	-	907	906	972	937	996	1039	1013	981	905	990
+	-	2010-11	Kharif	898	956	961	924	1009	1046	1019	1021	922	1023
+	-	2010-11	Rabi	910	855	976	954	873	901	928	919	895	954
+Ragi	-	2010-11	-	-	-	1511	935	1136	870	1029	-	-	1018
+	-	2010-11	Kharif	-	-	-	879	1134	865	970	-	-	976
+	-	2010-11	Rabi	-	-	1511	1281	1137	1137	1137	-	-	1249
+Sesamum	-	2010-11	-	2685	3688	3158	-	3483	3928	3547	3283	3887	3487
+	-	2010-11	Kharif	2666	-	3092	-	3357	3676	3037	3283	-	3109
+	-	2010-11	Rabi	3527	3688	3527	-	3518	4299	3844	-	3887	3909
+Sugar Raw	-	2010-11	-	2050	1913	2030	1947	2685	1822	1840	-	3290	2510
+	-	2010-11	Kharif	2050	1913	2030	1947	2685	1822	1840	-	3290	2510
+Tobacco	-	2010-11	-	11323	5291	10432	-	-	9331	9331	5291	12010	10584
+	-	2010-11	Rabi	11323	5291	10432	-	-	9331	9331	5291	12010	10584
+Tur Arhar	-	2010-11	-	4273	3511	3228	3181	3284	3284	3284	3107	3143	3322
+9
+Crop Wise Farm Harvest Prices of Principal Crops in India - Andhra Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Nellore	Nizamabad	Prakasam	Rangareddi	Srikakulam	Visakhapatnam	Vizianagaram	Warangal	West_Godavari	StateWtdAverage
+Tur Arhar	-	2010-11	Kharif	4385	3511	3228	3181	3284	3284	3284	3096	3013	3322
+	-	2010-11	Rabi	3314	-	-	-	-	-	-	3294	3314	3306
+Turmeric	-	2010-11	-	6758	12950	6758	9525	12042	11875	10653	7802	10653	10587
+	-	2010-11	Kharif	6758	12950	6758	9525	12042	11875	10653	7802	10653	10587
+10
+Crop Wise Farm Harvest Prices of Principal Crops in India - Assam
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Barpeta	Bongaigaon	Cachar	Chhirang	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi_Anglong	StateWtdAverage
+CasterSeed	-	2010-11	-	7300	-	-	-	-	7000	-	-	-	-	-	-	-	7461	7399
+Chilly	Dry	2010-11	-	9595	11069	-	12340	10657	9606	-	9950	10757	10554	-	10290	9568	11367	10402
+Cotton	-	2010-11	-	4225	4600	-	-	4180	4157	-	-	-	-	-	-	-	-	4182
+Gram	-	2010-11	-	3793	3175	-	-	-	3533	-	-	-	-	-	4054	-	3689	3644
+Jute	-	2010-11	-	1035	1440	-	-	1201	-	-	-	1050	-	-	-	1107	1937	1319
+Linseed	-	2010-11	-	2258	2250	-	-	2260	-	-	-	-	-	-	-	2380	5917	2358
+Maize	-	2010-11	-	1045	1529	-	-	750	-	-	-	-	-	-	-	-	894	889
+Mesta	-	2010-11	-	-	1125	-	-	-	-	-	-	-	-	-	-	-	1200	1149
+Nigerseed		2010-11	-	3067	3200	-	-	-	-	-	-	-	-	-	-	-	-	3096
+Paddy	-	2010-11	Autum	896	751	-	-	755	700	-	-	764	-	-	-	853	944	825
+	-	2010-11	Summer	887	785	-	-	855	-	750	-	959	-	-	-	766	901	831
+	-	2010-11	Winter	1050	950	855	886	968	845	-	903	865	938	-	892	914	971	898
+Potato	-	2010-11	-	1485	820	1816	-	1004	1352	-	1538	526	1342	-	1485	1409	1065	1191
+Rape/Mustard	-	2010-11	-	2267	2175	-	-	2107	2283	-	-	2150	2020	-	2662	2446	3941	2476
+Sesamum	-	2010-11	-	5014	4953	-	-	-	-	-	-	-	5300	-	5050	5574	9382	5854
+Sugar Raw	-	2010-11	-	3540	3500	-	-	3508	4042	-	3000	-	4100	-	3989	2580	4028	3627
+Tobacco	-	2010-11	-	-	-	-	-	-	8908	-	-	-	-	-	-	9300	7433	7538
+Tur Arhar	-	2010-11	-	6616	6688	-	-	6088	5934	-	-	-	-	-	6920	-	6400	6077
+Turmeric	Dry	2010-11	-	11271	12856	8585	-	11930	9845	-	10500	11167	5367	-	8401	11092	9311	9790
+Wheat	-	2010-11	-	1270	1132	-	-	-	-	-	-	1071	-	-	-	-	987	1172
+12
+Crop Wise Farm Harvest Prices of Principal Crops in India - Assam
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Karimganj	Kokrajhar	Lakhimpur	Morigaon	Nagaon	Nalbari	North_Cachar_Hills	Sivasagar	Sonitpur	Tinsukia	StateWtdAverage
+CasterSeed	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	7399
+Chilly	Dry	2010-11	-	9403	-	9941	-	10246	-	9700	12806	12572	-	10402
+Cotton	-	2010-11	-	4175	-	-	-	4450	4520	-	-	-	-	4182
+Gram	-	2010-11	-	-	-	-	-	3346	-	-	3500	-	-	3644
+Jute	-	2010-11	-	-	-	-	1557	-	1503	-	-	-	-	1319
+Linseed	-	2010-11	-	-	-	-	-	2200	-	-	-	-	-	2358
+Maize	-	2010-11	-	-	-	-	-	-	-	-	-	1000	-	889
+Mesta	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	1149
+Nigerseed		2010-11	-	-	-	-	-	-	-	-	-	-	-	3096
+Paddy	-	2010-11	Autum	-	-	765	-	724	867	-	-	900	-	825
+	-	2010-11	Summer	-	-	-	-	815	921	-	-	-	-	831
+	-	2010-11	Winter	-	-	821	-	957	960	-	700	900	814	898
+Potato	-	2010-11	-	-	-	833	-	1048	-	-	1069	800	-	1191
+Rape/Mustard	-	2010-11	-	-	-	2014	-	2583	-	-	2119	-	-	2476
+Sesamum	-	2010-11	-	-	-	5067	-	5020	-	-	5250	-	-	5854
+Sugar Raw	-	2010-11	-	-	-	3400	-	3055	-	-	-	3600	-	3627
+Tobacco	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	7538
+Tur Arhar	-	2010-11	-	-	-	-	-	5304	-	-	-	-	-	6077
+Turmeric	Dry	2010-11	-	12133	-	7853	-	7967	-	8750	13600	12000	-	9790
+Wheat	-	2010-11	-	-	-	-	-	-	1023	-	-	-	-	1172
+13
+Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Aurangabad	Jahanabad	Araia	Arbal	Banka	Begusarai	Bhabua_Kymmur	Bhagalpur	Bhojpur_Aara	Buxar	Darbhanga	East_Champaran	Gaya	Gopalganj	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	806	806	806	-	-	806	806	806
+Barley	-	2010-11	Rabi	792	792	792	792	792	792	792	792	792	792	792	792	792	792	792
+Chilly	-	2010-11	Rabi	4568	-	4568	-	-	4568	-	4568	-	-	-	4568	4568	4568	4568
+Ginger	-	2010-11	Rabi	-	-	-	2647	-	-	-	-	-	-	-	-	-	-	2647
+Gram	-	2010-11	Rabi	2401	2338	2401	2401	2401	2401	2500	2401	2521	2236	2401	2401	2401	-	2401
+Jowar	-	2010-11	Kharif	-	-	-	675	-	675	675	675	675	675	-	-	-	-	675
+Jute	-	2010-11	Kharif	-	-	3120	-	-	-	-	3120	-	-	-	3120	-	3120	3120
+Linseed	-	2010-11	Rabi	2172	2172	2172	2172	2172	-	2172	2172	2172	2172	2172	2172	2172	2172	2172
+Maize	-	2010-11	Kharif	740	740	740	740	740	-	740	740	740	705	740	740	740	740	740
+	-	2010-11	Rabi	-	950	950	950	950	950	-	950	950	950	950	950	950	950	950
+Mesta	-	2010-11	Kharif	-	1255	1255	1255	1255	1255	-	1255	1255	-	1255	1255	-	1255	1255
+Paddy	Aghani	2010-11	Kharif	859	859	859	859	859	859	910	859	859	881	859	859	859	859	859
+	Bhadea	2010-11	Kharif	-	-	833	-	-	833	833	833	833	833	833	855	833	833	833
+Potato	-	2010-11	Kharif	604	604	604	604	4	604	660	6046	592	604	500	604	604	604	604
+	-	2010-11	Rabi	612	612	612	612	612	-	612	612	612	612	600	612	612	612	612
+Ragi	-	2010-11	Kharif	725	725	725	725	-	725	-	-	725	-	725	725	725	725	725
+Rape/Mustard	-	2010-11	Rabi	2641	2641	2641	2641	2641	2461	2800	2641	2641	2826	2461	2641	2641	2641	2641
+Sesamum	-	2010-11	Kharif	3589	-	-	-	3589	3588	-	3589	3589	-	3589	-	3589	-	3589
+	Bhadea	2010-11	Kharif	3964	3964	-	3964	-	3964	3964	3964	3964	-	-	3964	3964	-	3964
+Sugar Raw	-	2010-11	Kharif	2889	2889	2889	2889	2889	2889	2889	2889	2325	2889	3100	2889	2889	2889	2889
+Tobacco	-	2010-11	Rabi	-	-	-	-	-	12076	-	12076	-	-	-	12076	-	12076	12076
+Tur Arhar	-	2010-11	Rabi	3216	3536	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	8380	-	-	-	-	-	-	8380
+Wheat	-	2010-11	Rabi	1047	1047	1047	1047	1047	1047	1000	1047	1109	1068	1100	1047	1047	1047	1047
+14
+Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Jumui	Katihar	Khagaria	Kishanganj	Lakhisarai	Madhepura	Madhubani	Munger	Muzaffarpur	Nalanda	Nawada	Patna	Purnia	Rohtas	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	806	806
+Barley	-	2010-11	Rabi	792	792	792	-	-	-	792	792	792	792	792	700	792	800	792
+Chilly	-	2010-11	Rabi	-	4568	4568	4568	-	4568	4568	-	4568	4568	-	4568	4568	4568	4568
+Ginger	-	2010-11	Rabi	-	2647	-	2647	-	-	-	-	2647	-	-	-	2647	-	2647
+Gram	-	2010-11	Rabi	2401	2401	2401	2401	2401	-	2401	2401	2401	2401	2401	2500	2401	2200	2401
+Jowar	-	2010-11	Kharif	-	-	675	-	-	-	-	-	-	-	-	-	-	675	675
+Jute	-	2010-11	Kharif	-	3120	3120	3120	-	3120	3120	-	-	-	-	-	3120	-	3120
+Linseed	-	2010-11	Rabi	2172	2172	2172	2172	2172	2172	2172	2567	2172	2172	2172	2000	2172	2172	2172
+Maize	-	2010-11	Kharif	740	740	740	740	740	740	780	740	740	740	740	740	740	800	740
+	-	2010-11	Rabi	950	950	950	950	-	950	950	950	950	950	950	950	950	-	950
+Mesta	-	2010-11	Kharif	-	1255	-	1255	-	1255	1255	-	1255	-	-	-	1255	1255	1255
+Paddy	Aghani	2010-11	Kharif	871	859	859	859	859	859	820	859	859	859	859	859	859	850	859
+	Bhadea	2010-11	Kharif	833	833	833	833	-	833	833	-	833	-	-	833	833	833	833
+Potato	-	2010-11	Kharif	604	600	604	604	604	604	622	604	604	604	604	604	604	600	604
+	-	2010-11	Rabi	612	612	612	612	-	612	622	638	612	612	612	600	612	612	612
+Ragi	-	2010-11	Kharif	-	725	725	725	-	725	725	-	725	725	725	-	-	725	725
+Rape/Mustard	-	2010-11	Rabi	2641	2641	2641	2641	2641	2641	2461	2850	2641	2641	2641	2500	2641	2641	2641
+Sesamum	-	2010-11	Kharif	-	-	-	3589	-	3589	3675	-	-	-	3589	-	3589	-	3589
+	Bhadea	2010-11	Kharif	-	3964	-	3964	-	4500	3522	-	-	-	3964	-	-	3964	3964
+Sugar Raw	-	2010-11	Kharif	2889	2889	2889	2889	2889	2889	3077	2889	2889	2889	2889	2889	2889	220	2889
+Tobacco	-	2010-11	Rabi	-	12076	-	12076	-	-	-	-	12076	-	-	-	12076	-	12076
+Tur Arhar	-	2010-11	Rabi	3216	3216	3216	3216	3216	3216	3550	3216	3216	3216	3216	3000	3216	3500	3216
+Turmeric	-	2010-11	Rabi	-	8380	8380	8380	-	8380	-	-	8380	-	-	8380	8380	8380	8380
+Wheat	-	2010-11	Rabi	1047	1150	1047	1047	1047	1047	1175	1088	1047	1047	1047	1000	1047	900	1047
+15
+Crop Wise Farm Harvest Prices of Principal Crops in India - Bihar
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Saharsa	Samastipur	Saran_Chapra	Sheikhpura	Sheohar	Sitamarhi	Siwan	Supaul	Vaishali	West_Champaran	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	806	-	-	806	806
+Barley	-	2010-11	Rabi	-	792	-	792	-	792	792	-	-	792	792
+Chilly	-	2010-11	Rabi	4568	4568	-	4568	4568	4568	4568	4568	4568	4568	4568
+Ginger	-	2010-11	Rabi	-	-	-	-	2647	-	-	-	-	2647	2647
+Gram	-	2010-11	Rabi	-	2401	2401	2382	-	-	2401	2401	2401	2401	2401
+Jowar	-	2010-11	Kharif	-	-	675	-	-	-	-	-	-	-	675
+Jute	-	2010-11	Kharif	3120	3120	-	-	-	-	-	3120	-	3120	3120
+Linseed	-	2010-11	Rabi	2172	2172	2172	2172	2200	2172	2172	2172	2172	2172	2172
+Maize	-	2010-11	Kharif	740	740	740	883	740	740	740	740	740	740	740
+	-	2010-11	Rabi	950	950	950	950	9509	950	950	950	50	950	950
+Mesta	-	2010-11	Kharif	1255	1255	1255	-	-	1255	1255	1255	1255	1255	1255
+Paddy	Aghani	2010-11	Kharif	859	859	859	804	875	859	859	859	859	859	859
+	Bhadea	2010-11	Kharif	833	833	833	-	833	833	775	833	833	833	833
+Potato	-	2010-11	Kharif	604	604	604	604	604	604	604	604	604	604	604
+	-	2010-11	Rabi	612	612	612	612	612	612	612	612	612	612	612
+Ragi	-	2010-11	Kharif	725	725	725	-	725	725	725	725	725	725	725
+Rape/Mustard	-	2010-11	Rabi	2641	2461	-	2407	2641	2641	2641	2641	2461	2641	2641
+Sesamum	-	2010-11	Kharif	3589	3588	-	-	3589	-	3589	3589	3589	3589	3589
+	Bhadea	2010-11	Kharif	3964	3964	-	-	3964	-	3964	3964	3964	3964	3964
+Sugar Raw	-	2010-11	Kharif	2889	2889	2889	2889	2889	2889	2889	2889	2889	2889	2889
+Tobacco	-	2010-11	Rabi	-	12076	-	-	12076	-	12076	-	12076	-	12076
+Tur Arhar	-	2010-11	Rabi	-	3216	3216	3216	3216	3216	3216	3216	3216	3216	3216
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	8380	8380	-	8380	8380
+Wheat	-	2010-11	Rabi	1047	1066	1047	1051	1000	1047	1047	1047	1046	1047	1047
+16
+Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bastar	Bilaspur	Dantewada	Dhamtari	Durg	Janjgir_Champa	Jashpur	Kanker	Kawardha	Korba	Koriya	Mahasamund	Raigarh	Raipur	StateWtdAverage
+Bajra	-	2010-11	-	-	1613	-	-	-	-	-	-	-	-	-	1289	-	-	1442
+Barley	-	2010-11	-	-	800	-	-	-	-	-	-	-	-	-	1730	-	-	1176
+Chilly	Dry	2010-11	-	-	8219	9280	-	10167	8282	7949	-	-	-	12371	7427	8037	-	8739
+Ginger	Fresh	2010-11	-	4601	5842	5100	-	-	-	-	-	-	-	4853	5213	5926	-	5234
+Gram	-	2010-11	-	2577	2450	-	2019	2604	-	2907	4000	2037	3000	2987	3080	-	2392	3638
+Ground Nut	-	2010-11	-	-	4347	-	-	-	-	2790	-	2400	-	2925	2367	2954	3754	3009
+Jowar	-	2010-11	Kharif	-	1017	-	-	-	-	-	-	-	-	1050	2692	-	-	1422
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	2000	-	-	2000
+Linseed	-	2010-11	-	-	2440	800	2575	4961	-	-	-	-	-	-	3338	-	2554	2443
+Maize	-	2010-11	-	835	-	1000	-	-	-	1000	820	-	2500	913	1141	1000	-	1075
+Nigerseed		2010-11	-	-	2500	-	-	-	-	2856	-	-	-	2089	4553	-	-	2871
+Paddy	Coarse	2010-11	-	1000	944	972	977	1000	-	994	950	1231	-	-	977	900	1029	1213
+	Fine	2010-11	-	-	1229	1088	1149	-	-	1224	985	1196	-	-	1149	1630	1127	1191
+	Medium	2010-11	-	1030	885	1040	1030	-	1012	992	-	1014	-	-	1001	1190	1027	1027
+Potato	Hills	2010-11	Winter	-	1000	-	-	-	-	-	-	-	-	999	905	-	-	967
+Ragi	-	2010-11	-	1086	-	2000	-	-	-	2000	-	-	-	-	-	-	500	1231
+Rape/Mustard	-	2010-11	-	-	2267	-	-	-	3536	2816	-	-	-	3210	4250	5500	-	3453
+Rice	Coarse	2010-11	-	1425	985	2000	-	1825	-	1789	2000	1231	2000	1659	1543	1520	1638	1618
+Sannhemp	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	2675	-	-	2675
+Sesamum	-	2010-11	Kharif	-	4521	7000	6188	8000	5734	4553	-	-	-	5047	4264	4919	6155	5711
+	-	2010-11	Rabi	-	5287	-	-	-	6230	-	-	-	-	4673	4500	5400	6258	5348
+Soyabean	-	2010-11	-	-	1878	5000	-	-	-	-	-	1961	-	4167	2581	-	-	2880
+Sugar Raw	-	2010-11	-	3064	3146	3727	-	-	3075	3117	-	3038	-	3684	3110	3782	-	3291
+Tobacco	-	2010-11	-	-	10168	-	-	11725	-	7951	-	-	-	9182	6313	9000	-	8893
+Tur Arhar	Delay	2010-11	-	-	3367	-	-	5500	4581	-	7000	34417	-	3791	4712	4500	-	4349
+	Delay	2010-11	Rabi	-	3367	-	-	5500	4581	-	7000	3417	-	3791	4712	4500	-	4349
+	Early	2010-11	-	-	2863	-	-	4375	5228	4403	7000	3650	-	2987	4698	4500	3709	4171
+Turmeric	-	2010-11	-	-	18831	-	-	-	16878	13099	-	-	-	16583	16689	10167	-	15070
+	-	2010-11	Kharif	-	18831	-	-	-	16878	13099	-	-	-	16583	16689	10167	-	15070
+Wheat	-	2010-11	-	2000	1217	-	1100	1485	-	1423	-	1152	-	1350	1736	-	1340	1367
+18
+Crop Wise Farm Harvest Prices of Principal Crops in India - Chhattisgarh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Rajnandgaon	Surguja	StateWtdAverage
+Bajra	-	2010-11	-	-	-	1442
+Barley	-	2010-11	-	-	-	1176
+Chilly	Dry	2010-11	-	7882	-	8739
+Ginger	Fresh	2010-11	-	-	-	5234
+Gram	-	2010-11	-	2187	-	3638
+Ground Nut	-	2010-11	-	-	-	3009
+Jowar	-	2010-11	Kharif	-	-	1422
+	-	2010-11	Rabi	-	-	2000
+Linseed	-	2010-11	-	-	-	2443
+Maize	-	2010-11	-	-	-	1075
+Nigerseed		2010-11	-	-	-	2871
+Paddy	Coarse	2010-11	-	1076	-	1213
+	Fine	2010-11	-	1224	-	1191
+	Medium	2010-11	-	1100	-	1027
+Potato	Hills	2010-11	Winter	-	-	967
+Ragi	-	2010-11	-	1300	-	1231
+Rape/Mustard	-	2010-11	-	-	-	3453
+Rice	Coarse	2010-11	-	1816	-	1618
+Sannhemp	-	2010-11	-	-	-	2675
+Sesamum	-	2010-11	Kharif	7917	-	5711
+	-	2010-11	Rabi	-	-	5348
+Soyabean	-	2010-11	-	-	-	2880
+Sugar Raw	-	2010-11	-	-	-	3291
+Tobacco	-	2010-11	-	-	-	8893
+Tur Arhar	Delay	2010-11	-	3411	-	4349
+	Delay	2010-11	Rabi	3411	-	4349
+	Early	2010-11	-	3857	-	4171
+Turmeric	-	2010-11	-	-	-	15070
+	-	2010-11	Kharif	-	-	15070
+Wheat	-	2010-11	-	1114	-	1367
+19
+Crop Wise Farm Harvest Prices of Principal Crops in India - Chandigarh
+(Rs. per Quintal)			
+Crop	Variety	Year	Season	State	StateWtdAverage
+Maize	-	2010-11	-	900	900
+Paddy	-	2010-11	-	916	916
+Potato	-	2010-11	-	1175	1175
+Wheat	-	2010-11	-	1200	1200
+17
+Crop Wise Farm Harvest Prices of Principal Crops in India - Delhi
+(Rs. per Quintal)
+Crop	Variety	Year	Season	State	StateWtdAverage
+Bajra	-	2010-11	-	1200	1200
+Barley	-	2010-11	-	1200	1200
+Gram	-	2010-11	-	3000	3000
+Jowar	-	2010-11	-	1700	1700
+Maize	-	2010-11	-	1400	1400
+Rape/Mustard	-	2010-11	-	2750	2750
+Tur Arhar	-	2010-11	-	4500	4500
+Wheat	-	2010-11	-	1300	1300
+21
+Crop Wise Farm Harvest Prices of Principal Crops in India - Dadra & Nagar Hayeli
+(Rs. per Quintal)
+Crop	Variety	Year	Season	State	StateWtdAverage
+Nigerseed		2010-11	-	2760	2760
+Paddy	Fine	2010-11	-	971	971
+	Medium	2010-11	-	806	806
+Ragi	-	2010-11	-	912	912
+Tur Arhar	-	2010-11	-	3140	3140
+20
+Crop Wise Farm Harvest Prices of Principal Crops in India - Goa
+(Rs. per Quintal)			
+Crop	Variety	Year	Season	Goa	StateWtdAverage
+Arecanut	-	2010-11	-	9800	9800
+Cashewnut	-	2010-11	-	7863	7863
+Paddy	-	2010-11	-	942	942
+Ragi	-	2010-11	-	1420	1420
+Sugarcane	-	2010-11	-	135	135
+22
+Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmedabad	Amreli	Anand	Banaskanth	Bharuch	Bhavnagar	Dahod	Gandhinagar	Jamnagar	Junagadh	Kachchh	Kheda	Mahesana	Narmada	StateWtdAverage
+Bajra	-	2010-11	-	992	1091	892	1038	-	751	951	1050	1451	983	935	941	1049	1500	1018
+CasterSeed	-	2010-11	-	2487	-	4457	3638	-	-	-	5150	3659	-	3595	3028	3900	3700	3819
+Chilly	Dry	2010-11	-	-	5960	-	-	-	8396	-	7200	8117	-	-	-	-	-	7441
+Cotton	Desi	2010-11	-	1863	-	-	-	-	-	-	-	-	3175	-	-	-	-	2717
+	Hybrid	2010-11	-	4503	4037	4935	4762	5089	2827	2822	5250	5372	-	4110	3742	4933	4000	4397
+Gram	-	2010-11	-	2100	-	2484	-	2328	-	2081	-	-	-	-	2245	-	3500	2340
+Ground Nut	-	2010-11	-	-	2819	2787	2763	-	2281	2764	2650	3138	2707	2660	3791	-	4100	2899
+Jowar	-	2010-11	-	-	-	-	2229	1363	-	-	1240	-	1435	1135	-	2161	1300	1659
+Maize	-	2010-11	-	-	-	-	-	1113	-	1018	890	-	-	-	1014	-	1300	1067
+Paddy	-	2010-11	-	792	-	1021	-	971	-	944	1085	-	-	-	1026	-	-	1074
+Potato	-	2010-11	-	-	-	540	-	-	-	-	-	-	-	-	631	603	-	1560
+Ragi	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1321
+Rape/Mustard	-	2010-11	-	2324	-	2511	2328	-	-	-	-	-	-	2150	2172	2311	-	2302
+Sesamum	-	2010-11	-	-	5541	-	5172	5025	3544	-	5362	4077	-	4930	-	-	-	4927
+Sugarcane	-	2010-11	-	-	222	-	-	-	-	-	-	-	129	-	-	-	-	226
+Tobacco	-	2010-11	-	-	-	1952	-	-	-	-	-	-	-	-	3272	2830	-	2794
+Tur Arhar	-	2010-11	-	-	-	4074	-	3589	-	3234	2640	-	-	-	3288	-	4200	3539
+Wheat	-	2010-11	-	1424	1530	1040	1319	1454	1534	1248	1213	956	1400	1250	1081	1222	1700	1325
+23
+Crop Wise Farm Harvest Prices of Principal Crops in India - Gujarat
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Navsari	Panch_Mahals	Patan	Porbandar	Rajkot	Sabar_Kantha	Surat	Surendranagar	Tapi	The_Dangs	Vadodara	Valsad	StateWtdAverage
+Bajra	-	2010-11	-	-	844	930	855	984	1012	-	1017	-	-	1068	-	1018
+CasterSeed	-	2010-11	-	-	3442	5213	3250	-	4126	-	-	-	-	-	-	3819
+Chilly	Dry	2010-11	-	-	-	-	5146	7928	-	-	7843	-	-	-	8940	7441
+Cotton	Desi	2010-11	-	-	-	-	-	-	-	3114	-	-	-	-	-	2717
+	Hybrid	2010-11	-	-	4400	4496	-	4287	3755	3177	3078	4025	-	8729	-	4397
+Gram	-	2010-11	-	-	2292	-	2025	-	-	-	2340	-	2005	-	-	2340
+Ground Nut	-	2010-11	-	-	2627	-	3412	2774	2632	-	2653	-	2733	-	-	2899
+Jowar	-	2010-11	-	1662	-	2020	2221	-	1895	1847	-	1081	-	1703	1600	1659
+Maize	-	2010-11	-	-	1198	-	-	-	937	-	-	-	-	1073	-	1067
+Paddy	-	2010-11	-	1284	972	-	-	-	989	1644	-	1010	846	1146	1302	1074
+Potato	-	2010-11	-	-	1100	910	-	-	-	-	-	-	-	-	-	1560
+Ragi	-	2010-11	-	1512	1012	-	-	-	-	-	-	-	959	-	1800	1321
+Rape/Mustard	-	2010-11	-	-	-	2110	2345	-	2471	-	-	-	-	-	-	2302
+Sesamum	-	2010-11	-	-	3988	-	5112	5578	-	-	5873	-	-	-	-	4927
+Sugarcane	-	2010-11	-	230	-	-	-	-	-	253	-	-	-	-	297	226
+Tobacco	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	3125	-	2794
+Tur Arhar	-	2010-11	-	-	3042	-	3638	-	3135	5133	-	3293	3157	3583	-	3539
+Wheat	-	2010-11	-	-	1141	1320	1403	1290	1057	1943	1419	1264	-	1267	-	1325
+24
+Crop Wise Farm Harvest Prices of Principal Crops in India - Himachal Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bilaspur	Chamba	Hamirpur	Kangra	Kinnaur	Kullu	Lahaul_Spiti	Mandi	Shimla	Sirmaur	Solan	Una	StateWtdAverage
+Barley	-	2010-11	-	1308	985	1571	1381	1300	1300	1900	1400	1015	1100	1294	1750	1359
+Chilly	-	2010-11	-	9350	10000	7000	9000	-	11400	-	10591	8000	7514	6238	8625	8772
+Ginger	-	2010-11	-	3216	-	4000	3343	-	-	-	3600	2000	2870	2950	3500	3185
+Gram	-	2010-11	-	3950	-	3333	3458	-	4100	-	3767	4200	3550	3525	3233	3683
+Ground Nut	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	5300	5250	5275
+Linseed	-	2010-11	-	-	4500	5300	2725	-	-	-	5779	-	-	-	6000	4861
+Maize	-	2010-11	-	1184	945	950	1000	1192	1110	2000	947	1170	1135	1094	1070	1149
+Paddy	-	2010-11	-	1392	1380	1118	1290	-	2600	-	1458	3712	1183	1613	1196	1694
+Potato	-	2010-11	Kharif	-	1400	-	-	-	1100	1300	-	1125	-	1097	983	1168
+	-	2010-11	Rabi	827	1400	800	860	-	1000	-	1132	1125	900	1000	933	998
+Rape/Mustard	-	2010-11	-	5317	4188	4100	5000	-	6000	-	4969	5000	3010	3775	2800	4416
+Sesamum	-	2010-11	-	5817	-	7825	7050	-	-	-	6780	-	-	7257	7033	6960
+Soyabean	-	2010-11	-	8500	-	-	5890	-	-	-	2835	-	-	-	-	5742
+Turmeric	-	2010-11	-	10117	-	9250	6052	-	-	-	-	-	-	-	16000	10355
+Wheat	-	2010-11	-	1217	1130	1171	2011	1400	1500	1500	1225	1215	1225	1281	1176	1338
+27
+Crop Wise Farm Harvest Prices of Principal Crops in India - Haryana
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ambala	Bhiwani	Faridabad	Fatehabad	Gurgaon	Hisar	Jhajjar	Jind	Kaithal	Karnal	Kurukshetra	Mahendragarh	Mewat	Palwal	StateWtdAverage
+Bajra	-	2010-11	-	-	800	775	800	750	800	750	770	810	850	800	750	900	850	691
+Barley	-	2010-11	-	-	1050	-	1050	1050	1200	1150	1100	-	-	-	1050	1150	1100	1077
+Chilly	-	2010-11	-	5500	-	-	-	6200	5570	-	5800	5600	6000	5750	-	-	-	5682
+Cotton	American	2010-11	-	-	4500	-	4550	-	4450	4600	4450	4480	-	-	-	-	-	4513
+	Desi	2010-11	-	-	5500	-	5470	-	5750	-	5600	-	-	-	-	-	-	5514
+Gram	-	2010-11	-	-	2350	-	2350	-	2300	2350	-	-	-	-	2400	2500	-	2305
+Ground Nut	-	2010-11	-	4250	4100	-	4200	4150	4000	4200	-	4100	4350	4300	4200	4150	-	4123
+Jowar	-	2010-11	-	-	-	1200	-	1150	-	1100	-	-	-	-	-	1200	1150	1157
+Maize	-	2010-11	-	1350	-	-	-	-	-	-	-	-	-	-	-	-	-	1307
+Paddy	-	2010-11	-	2000	1950	1900	2050	1950	2350	2100	2075	2050	2150	2300	-	2300	2000	2076
+Potato	-	2010-11	-	550	600	550	640	400	500	750	550	500	640	750	700	650	-	679
+Rape/Mustard	-	2010-11	Rabi	2700	2650	2550	2550	2300	2500	2500	2550	2600	2600	2550	2450	2600	2600	2544
+Sannhemp	-	2010-11	-	-	1540	-	-	1550	1600	1500	1550	1540	-	-	-	-	-	1566
+Sesamum	-	2010-11	-	-	6100	-	-	6000	6250	6000	6250	6300	6000	-	-	5800	6250	5395
+Sugar Raw	-	2010-11	-	2150	2100	2200	-	-	1950	2000	2150	2100	2050	2200	-	-	2200	2063
+Wheat	-	2010-11	-	1200	1150	1200	1200	1300	1180	1150	1200	1150	1150	1200	1150	1250	1200	1180
+25
+Crop Wise Farm Harvest Prices of Principal Crops in India - Haryana
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Panchkula	Panipat	Rewari	Rohtak	Sirsa	Sonipat	Yamunanagar	StateWtdAverage
+Bajra	-	2010-11	-	950	1100	900	890	850	800	850	691
+Barley	-	2010-11	-	-	-	1100	1050	1000	-	-	1077
+Chilly	-	2010-11	-	5800	6000	-	-	6000	5800	6000	5682
+Cotton	American	2010-11	-	-	-	4500	4600	4550	-	-	4513
+	Desi	2010-11	-	-	-	-	-	5450	-	-	5514
+Gram	-	2010-11	-	-	-	-	2450	2500	-	-	2305
+Ground Nut	-	2010-11	-	4000	4200	4000	-	4150	-	4100	4123
+Jowar	-	2010-11	-	-	-	1175	1150	-	1200	-	1157
+Maize	-	2010-11	-	1300	-	-	1250	-	1300	1350	1307
+Paddy	-	2010-11	-	2050	1800	1950	1850	1900	2050	2100	2076
+Potato	-	2010-11	-	550	850	750	850	640	550	650	679
+Rape/Mustard	-	2010-11	Rabi	2600	2500	2550	2500	2550	2600	2600	2544
+Sannhemp	-	2010-11	-	-	-	-	1600	-	1600	-	1566
+Sesamum	-	2010-11	-	6200	-	6150	6000	6000	6100	6200	5395
+Sugar Raw	-	2010-11	-	-	2250	-	2150	-	2050	2100	2063
+Wheat	-	2010-11	-	1150	1150	1200	1150	1200	1150	1150	1180
+26
+Crop Wise Farm Harvest Prices of Principal Crops in India - Jharkhand
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bokaro	Chatra	Deoghar	Dhanbad	Dumka	East_Singhbhum	Garhwa	Giridih	Godda	Gumla	Hazaribagh	Jamtara	Khunti	Koderma	StateWtdAverage
+Maize	-	2010-11	Kharif	1220	820	875	1140	970	1240	526	634	794	687	1106	863	640	913	836
+Paddy	-	2010-11	Kharif	1238	921	1050	-	1027	1088	511	677	913	720	928	1025	724	803	840
+	-	2010-11	Summer	733	-	1125	-	-	900	-	865	817	-	-	-	1011	-	901
+Ragi	-	2010-11	Kharif	1265	-	2000	-	-	-	-	630	741	931	-	1525	620	716	966
+30
+Crop Wise Farm Harvest Prices of Principal Crops in India - Jharkhand
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Latehar	Lohardaga	Pakur	Palamu	Ramgarh	Ranchi	Sahibganj	Seraikela	Simdega	West_Singhbhum	StateWtdAverage
+Maize	-	2010-11	Kharif	513	825	931	723	950	645	856	774	700	714	836
+Paddy	-	2010-11	Kharif	505	880	994	547	1000	-	788	775	666	703	840
+	-	2010-11	Summer	522	1100	1080	867	-	712	1043	-	943	-	901
+Ragi	-	2010-11	Kharif	-	600	-	-	-	-	-	813	788	-	966
+31
+Crop Wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Anantnag	Bandipora	Baramulla	Budgam	Doda	Ganderbal	Jammu	Kargil	Kathua	Kishtwar	Kulgam	Kupwara	Leh	Poonch	StateWtdAverage
+Bajra	-	2010-11	-	-	-	-	-	-	-	1000	-	1200	-	-	-	1000	-	1000
+Barley	-	2010-11	-	-	-	-	-	1500	1350	1500	-	1500	1400	-	-	1350	-	1453
+Chilly	-	2010-11	-	10000	-	-	8000	-	8000	-	-	8700	-	9000	-	-	8000	8888
+Gram	-	2010-11	-	-	-	-	-	-	-	-	-	4500	-	-	-	-	-	3823
+Ground Nut	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4000
+Jowar	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3000
+Linseed	-	2010-11	-	-	-	2500	-	-	-	6300	-	4000	-	-	-	-	-	4351
+Maize	-	2010-11	-	1550	1150	900	1800	1200	850	1000	-	1200	1200	1300	1200	-	900	1156
+Potato	-	2010-11	-	1500	1200	-	1200	-	1000	800	1900	1000	1400	1100	1600	2100	1500	1207
+Rape/Mustard	-	2010-11	-	4000	2000	2800	3300	4500	2200	5950	-	5500	7000	4000	-	3450	10000	3823
+Rice	-	2010-11	-	2200	2500	2200	2400	3600	2800	3500	-	3200	2800	2000	2000	-	2800	2641
+Sesamum	-	2010-11	-	-	-	-	-	-	-	6000	-	6100	-	-	-	-	-	6311
+Tobacco	-	2010-11	-	-	-	-	-	-	-	-	-	6000	-	-	-	-	-	6000
+Wheat	-	2010-11	-	1500	1000	1300	1800	1250	-	1200	1200	1200	1000	2200	-	1150	1200	1213
+28
+Crop Wise Farm Harvest Prices of Principal Crops in India - Jammu & Kashmir
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Pulwama	Rajauri	Rambon	Reasi	Samba	Shopian	Srinagar	Udhampur	StateWtdAverage
+Bajra	-	2010-11	-	-	1400	-	1000	950	-	-	1000	1000
+Barley	-	2010-11	-	-	2200	-	-	1900	-	-	1200	1453
+Chilly	-	2010-11	-	9000	10000	-	9000	-	-	10000	7500	8888
+Gram	-	2010-11	-	-	-	-	-	3400	-	-	-	3823
+Ground Nut	-	2010-11	-	-	-	-	-	4000	-	-	-	4000
+Jowar	-	2010-11	-	-	-	-	-	3000	-	-	-	3000
+Linseed	-	2010-11	-	4200	6200	-	-	-	-	-	3000	4351
+Maize	-	2010-11	-	1500	1200	1200	1000	1150	1200	1100	1150	1156
+Potato	-	2010-11	-	1400	-	-	-	1000	1500	1500	1250	1207
+Rape/Mustard	-	2010-11	-	3870	6000	2200	2400	2700	3100	2100	4650	3823
+Rice	-	2010-11	-	2200	2200	2000	2300	3500	2100	2100	3700	2641
+Sesamum	-	2010-11	-	-	6100	-	6200	6500	-	-	6300	6311
+Tobacco	-	2010-11	-	-	-	-	-	-	-	-	-	6000
+Wheat	-	2010-11	-	1875	1200	1200	1150	1200	1300	1400	1350	1213
+29
+Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bagalkot	Bangalore_Rural	Bangalore_Urban	Belgaum	Bellary	Bidar	Bijapur	Chamrajnagar	Chickaballapura	Chickmagalur	Chitradurga	D_Kannada	Davangere	Dharwad	StateWtdAverage
+Arecanut	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	10179	10684	-	10755
+Bajra	-	2010-11	Kharif	-	-	800	830	923	856	790	-	-	-	-	-	-	-	802
+Cashewnut	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	6477	-	-	6616
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2570
+Chilly	Dry	2010-11	Kharif	-	-	-	-	5823	-	-	-	-	5333	5766	-	-	5712	5744
+Cotton	-	2010-11	Summer	-	-	-	5251	-	-	-	-	-	-	-	-	-	4018	4573
+Gram	-	2010-11	Rabi	2278	-	-	-	2618	2320	2301	-	-	2213	-	-	2063	2217	2335
+Ground Nut	-	2010-11	Kharif	2063	-	-	2724	2864	-	2785	-	2669	2318	3616	-	2295	2862	2860
+	-	2010-11	Summer	3517	-	-	-	3556	2875	3350	-	-	3186	2426	-	2277	-	3285
+Jowar	Local	2010-11	Kharif	-	-	-	1417	-	-	-	-	-	-	-	-	-	1394	1401
+	Local	2010-11	Rabi	-	-	-	-	-	2348	-	-	-	2067	-	-	-	1227	1650
+Maize	HB	2010-11	Kharif	871	-	-	950	886	-	831	-	-	936	953	-	853	935	889
+	HB	2010-11	Rabi	962	1228	-	-	-	984	-	-	1075	-	945	-	-	962	986
+	HB	2010-11	Summer	-	-	-	-	-	-	1144	-	-	-	-	-	-	-	1085
+Paddy	Local	2010-11	Kharif	-	-	-	1107	966	909	-	-	-	994	998	-	-	1124	1020
+	Local	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1096
+Pepper	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	17440	-	-	21441
+Potato	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	887
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1023
+	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1096
+Ragi	HB	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1031
+	HYV	2010-11	Kharif	-	-	1106	-	940	-	-	-	928	860	883	-	775	-	919
+	HYV	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	872
+	HYV	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1031
+Sesamum	-	2010-11	Kharif	-	-	-	-	-	4059	-	-	-	4750	-	-	-	-	4119
+Soyabean	-	2010-11	Kharif	-	-	-	1831	-	1927	-	-	-	-	-	-	-	1874	1889
+Sunflower	-	2010-11	Kharif	2314	-	-	-	2751	2072	2746	-	2390	2352	-	-	1890	-	2600
+	-	2010-11	Rabi	3006	-	-	-	2774	2051	2934	-	-	-	2518	-	2134	3050	2756
+	-	2010-11	Summer	2550	-	-	-	-	2668	2863	-	-	-	-	-	-	-	2618
+Tobacco	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	-	8624
+Tur Arhar	-	2010-11	Kharif	3053	-	-	-	3120	3811	2938	-	-	-	3432	-	-	-	3567
+Wheat	-	2010-11	Rabi	1766	-	-	-	-	1512	1649	-	-	-	-	-	-	1305	1597
+32
+Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Gadag	Gulbarga	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Ramanagara	Shimoga	Tumkur	U_Kannada	StateWtdAverage
+Arecanut	-	2010-11	Summer	-	-	-	-	-	-	-	-	-	-	-	-	-	9902	10755
+Bajra	-	2010-11	Kharif	-	886	-	-	-	-	794	-	-	838	-	-	-	-	802
+Cashewnut	-	2010-11	Summer	-	-	-	-	7994	-	-	-	-	-	-	-	-	-	6616
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	2570	-	-	-	-	-	-	-	2570
+Chilly	Dry	2010-11	Kharif	-	-	-	5846	-	-	-	-	-	5588	-	-	-	-	5744
+Cotton	-	2010-11	Summer	3806	3800	-	5022	-	-	4312	-	-	3892	-	-	-	-	4573
+Gram	-	2010-11	Rabi	2157	2412	-	-	-	-	-	-	-	2375	-	-	-	-	2335
+Ground Nut	-	2010-11	Kharif	3105	-	-	2362	-	2241	2364	3337	-	2496	-	-	2656	-	2860
+	-	2010-11	Summer	3206	3428	-	2867	-	-	3106	-	-	3392	-	-	-	-	3285
+Jowar	Local	2010-11	Kharif	-	2201	-	-	-	-	-	-	-	-	-	-	-	-	1401
+	Local	2010-11	Rabi	2144	-	-	972	-	-	-	-	-	3039	-	-	-	-	1650
+Maize	HB	2010-11	Kharif	858	-	907	883	846	-	823	846	871	-	-	879	905	-	889
+	HB	2010-11	Rabi	-	-	1128	1254	-	-	827	-	756	-	-	-	-	-	986
+	HB	2010-11	Summer	-	996	-	1126	-	-	969	-	-	-	-	-	-	-	1085
+Paddy	Local	2010-11	Kharif	-	-	1007	-	913	-	-	-	-	1107	-	1085	-	963	1020
+	Local	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1096
+Pepper	-	2010-11	Summer	-	-	-	-	22200	-	-	-	-	-	-	-	-	18996	21441
+Potato	-	2010-11	Kharif	-	-	887	-	-	-	1000	-	-	-	-	-	-	-	887
+	-	2010-11	Rabi	-	-	-	-	-	1023	800	-	-	-	-	-	-	-	1023
+	-	2010-11	Summer	-	-	-	-	-	1096	-	-	-	-	-	-	-	-	1096
+Ragi	HB	2010-11	Summer	-	-	-	-	-	-	-	1031	-	-	-	-	-	-	1031
+	HYV	2010-11	Kharif	-	-	858	-	-	971	-	1003	974	-	-	902	869	-	919
+	HYV	2010-11	Rabi	-	-	812	-	-	-	-	1050	928	-	-	-	-	-	872
+	HYV	2010-11	Summer	-	-	-	-	-	-	-	1031	-	-	-	-	-	-	1031
+Sesamum	-	2010-11	Kharif	-	4272	3775	-	-	-	4665	3305	-	4340	-	-	-	3300	4119
+Soyabean	-	2010-11	Kharif	-	-	-	2193	-	-	-	-	-	-	-	-	-	-	1889
+Sunflower	-	2010-11	Kharif	2976	2808	2623	2898	-	-	2180	-	-	2892	-	-	-	-	2600
+	-	2010-11	Rabi	2720	2478	-	2746	-	-	2436	-	-	2615	-	-	-	-	2756
+	-	2010-11	Summer	2973	2836	-	2434	-	-	2629	-	-	2426	-	-	-	-	2618
+Tobacco	-	2010-11	Summer	-	-	10625	-	-	-	-	-	-	-	-	-	-	-	8624
+Tur Arhar	-	2010-11	Kharif	-	3888	-	2779	-	-	3001	-	-	2904	-	-	3024	-	3567
+Wheat	-	2010-11	Rabi	1661	1687	-	1277	-	-	1203	-	-	-	-	-	-	-	1597
+33
+Crop Wise Farm Harvest Prices of Principal Crops in India - Karnataka
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Udupi	StateWtdAverage
+Arecanut	-	2010-11	Summer	11967	10755
+Bajra	-	2010-11	Kharif	-	802
+Cashewnut	-	2010-11	Summer	6704	6616
+CasterSeed	-	2010-11	Kharif	-	2570
+Chilly	Dry	2010-11	Kharif	-	5744
+Cotton	-	2010-11	Summer	-	4573
+Gram	-	2010-11	Rabi	-	2335
+Ground Nut	-	2010-11	Kharif	-	2860
+	-	2010-11	Summer	3831	3285
+Jowar	Local	2010-11	Kharif	-	1401
+	Local	2010-11	Rabi	-	1650
+Maize	HB	2010-11	Kharif	-	889
+	HB	2010-11	Rabi	-	986
+	HB	2010-11	Summer	-	1085
+Paddy	Local	2010-11	Kharif	1118	1020
+	Local	2010-11	Rabi	1096	1096
+Pepper	-	2010-11	Summer	-	21441
+Potato	-	2010-11	Kharif	-	887
+	-	2010-11	Rabi	-	1023
+	-	2010-11	Summer	-	1096
+Ragi	HB	2010-11	Summer	-	1031
+	HYV	2010-11	Kharif	-	919
+	HYV	2010-11	Rabi	-	872
+	HYV	2010-11	Summer	-	1031
+Sesamum	-	2010-11	Kharif	-	4119
+Soyabean	-	2010-11	Kharif	-	1889
+Sunflower	-	2010-11	Kharif	-	2600
+	-	2010-11	Rabi	-	2756
+	-	2010-11	Summer	-	2618
+Tobacco	-	2010-11	Summer	-	8624
+Tur Arhar	-	2010-11	Kharif	-	3567
+Wheat	-	2010-11	Rabi	-	1597
+34
+Crop Wise Farm Harvest Prices of Principal Crops in India - Kerala
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappuram	Palakkad	Pathanamthitta	Thiruvananthapuram	Trichur	Wayanad	StateWtdAverage
+Banana	-	2010-11	-	2398	2083	1982	2074	1988	2177	2222	2181	1944	1923	2122	2256	2073	1645	1979
+Ginger	Dry	2010-11	-	-	14025	14800	-	13867	-	13667	13659	-	12545	16167	-	-	12383	12046
+Paddy	-	2010-11	-	1331	1204	-	1243	1305	1329	1333	1112	1147	1192	1045	-	1207	1118	1200
+Pepper	-	2010-11	-	-	21255	21628	20970	21112	20023	21553	20997	20995	21050	21069	19833	20601	21761	21348
+Tapioca	-	2010-11	-	1016	1009	1030	977	943	948	1063	1055	885	846	1183	841	906	908	976
+35
+Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmednagar	Akola	Amravati	Aurangabad	Beed	Bhandara	Buldhana	Chandrapur	Dhule	Gadchiroli	Gondia	Hingoli	Jalgaon	Jalna	StateWtdAverage
+Bajra	-	2010-11	-	943	1205	1094	944	883	-	1173	-	948	-	-	788	968	945	958
+CasterSeed	-	2010-11	-	2600	2075	2042	2610	2563	-	2075	2700	2570	-	-	2474	2633	2648	2574
+Gram	-	2010-11	-	2054	2051	2053	1968	1920	1952	1945	1845	2157	1825	1952	1898	2177	2278	2023
+Ground Nut	-	2010-11	-	2586	2938	2738	2745	2682	-	2738	-	3029	-	-	2801	2808	2745	2427
+Jowar	-	2010-11	-	1009	800	855	1162	1067	-	848	932	1091	908	-	805	981	1183	1099
+Maize	-	2010-11	-	878	930	896	855	846	-	825	-	874	879	890	735	856	869	879
+Paddy	-	2010-11	-	1273	-	889	-	890	1063	-	1035	963	1035	1063	890	1023	-	1153
+Soyabean	-	2010-11	-	1916	1954	1962	1998	1919	1875	1913	2001	2166	1931	-	1946	1955	1967	1957
+Sunflower	-	2010-11	-	2256	2302	2255	1957	2103	-	2239	-	1847	-	-	1926	2184	2022	2180
+Tur Arhar	-	2010-11	-	3436	3697	3752	3640	3596	3575	3572	3816	3291	3592	3575	3787	3343	3830	3748
+Wheat	-	2010-11	-	1389	1270	1328	1366	1374	1173	1296	1133	1295	1100	1173	1239	1308	1493	1384
+40
+Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Kolhapur	Latur	Mumbai	Nagpur	Nanded	Nandurbar	Nasik	Osmanabad	Parbhani	Pune	Raigarh	Ratnagiri	Sangli	Satara	StateWtdAverage
+Bajra	-	2010-11	-	-	882	976	-	902	1040	946	800	850	1010	-	-	1034	961	958
+CasterSeed	-	2010-11	-	2208	2657	2828	2700	2440	3209	2701	2598	2474	2500	-	-	-	-	2574
+Gram	-	2010-11	-	2383	2080	2191	1937	1923	2384	2060	1905	1876	2157	-	-	2059	2033	2023
+Ground Nut	-	2010-11	-	2031	3294	2966	2909	2856	2656	3089	2762	2599	2025	-	-	2979	1861	2427
+Jowar	-	2010-11	-	1575	958	1008	854	815	1038	1110	1004	1009	1312	-	-	1316	1365	1099
+Maize	-	2010-11	-	946	857	880	711	906	875	913	843	906	966	-	-	955	925	879
+Paddy	-	2010-11	-	1316	890	1231	1091	890	963	1347	890	890	1127	1245	1242	928	994	1153
+Soyabean	-	2010-11	-	1816	1989	2010	1999	1957	1986	1954	1880	1937	1962	-	-	1877	2034	1957
+Sunflower	-	2010-11	-	2098	2322	2266	1788	2152	2398	2192	2101	2088	2381	-	-	2098	2098	2180
+Tur Arhar	-	2010-11	-	3086	3972	3272	3753	3825	3240	3158	3659	3783	2988	-	-	3086	3242	3748
+Wheat	-	2010-11	-	1836	1511	1315	1257	1264	1320	1330	1521	1418	1063	-	-	1875	1410	1384
+41
+Crop Wise Farm Harvest Prices of Principal Crops in India - Maharashtra
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Sindhudurg	Solapur	Thane	Wardha	Washim	Yavatmal	StateWtdAverage
+Bajra	-	2010-11	-	-	911	-	-	964	1089	958
+CasterSeed	-	2010-11	-	-	2208	-	-	-	-	2574
+Gram	-	2010-11	-	-	1949	-	1919	2003	1936	2023
+Ground Nut	-	2010-11	-	-	2951	-	2776	2781	2958	2427
+Jowar	-	2010-11	-	-	1320	-	795	824	839	1099
+Maize	-	2010-11	-	-	917	-	-	930	880	879
+Paddy	-	2010-11	-	1208	916	1245	-	845	889	1153
+Soyabean	-	2010-11	-	-	1899	-	2001	1977	1979	1957
+Sunflower	-	2010-11	-	-	2195	-	1788	1706	-	2180
+Tur Arhar	-	2010-11	-	-	3697	-	3916	3923	3816	3748
+Wheat	-	2010-11	-	-	1527	-	1234	1298	1327	1384
+42
+Crop Wise Farm Harvest Prices of Principal Crops in India - Manipur
+(Rs. per Quintal)				
+Crop	Variety	Year	Season	State	StateWtdAverage
+Banana	-	2010-11	-	1483	1483
+Chilly	-	2010-11	-	20000	20000
+Ginger	-	2010-11	-	1175	1175
+Maize	-	2010-11	-	700	700
+Paddy	-	2010-11	Autum	975	975
+	-	2010-11	Winter	1125	1125
+Potato	-	2010-11	-	902	902
+Rape/Mustard	-	2010-11	-	2100	2100
+Sugarcane	-	2010-11	-	418	418
+43
+Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Alirajpur	Anuppur	Ashoknagar	Balaghat	Barwani	Betul	Bhind	Bhopal	Burhanpur	Chhatarpur	Chhindwara	Damoh	Datia	Dewas	StateWtdAverage
+Bajra	-	2010-11	-	1100	-	-	-	1268	-	-	-	840	-	-	-	1033	-	895
+Barley	-	2010-11	-	-	1210	-	-	-	-	-	-	-	-	-	-	-	-	991
+CasterSeed	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3375
+Chilly	Dry	2010-11	-	-	-	-	6120	-	8835	-	7288	11039	-	3733	-	-	6500	6717
+Cotton	-	2010-11	-	-	-	-	-	-	-	-	-	4841	-	3066	-	-	4039	4216
+Ginger	Fresh	2010-11	-	-	-	-	4000	5603	6293	-	-	5114	-	-	3759	-	-	4279
+Gram	-	2010-11	-	-	2437	-	-	-	1931	-	2174	2160	-	1740	2156	2167	2235	2281
+Ground Nut	-	2010-11	-	-	-	-	-	3813	2643	-	3238	-	-	2430	1979	-	-	2734
+Jowar	-	2010-11	Kharif	-	-	-	-	1200	1100	-	-	887	-	-	1127	-	1099	1020
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	970	1126
+Linseed	-	2010-11	-	-	2544	-	-	-	-	-	-	-	-	3800	3118	-	-	2783
+Maize	-	2010-11	-	-	753	-	-	1026	888	-	950	789	-	881	657	31	942	918
+Nigerseed		2010-11	-	-	2383	-	-	-	-	-	-	-	-	2450	-	-	-	2385
+Paddy	Coarse	2010-11	-	-	881	-	-	945	-	-	-	1337	-	-	-	-	-	884
+	Fine	2010-11	-	-	1125	-	1200	-	-	-	-	-	-	-	-	-	-	1195
+	Medium	2010-11	-	-	1008	-	1100	-	2000	-	-	-	-	-	-	-	-	1165
+Potato	Hills	2010-11	Summer	-	1000	-	-	-	-	-	-	-	-	-	743	-	-	803
+	Hills	2010-11	Winter	-	927	-	-	-	-	-	-	-	-	-	-	-	-	807
+Ragi	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2000
+Rape/Mustard	-	2010-11	-	-	2548	-	-	-	-	-	-	-	-	-	-	2338	-	2292
+Rice	Coarse	2010-11	-	-	1533	-	-	-	1730	-	1503	1627	-	1619	1520	-	-	1606
+Sannhemp	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1242
+Sesamum	-	2010-11	Kharif	-	4190	-	-	-	4900	-	-	-	-	5437	4310	4844	-	4633
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	5648
+Soyabean	-	2010-11	-	-	-	-	-	2076	2176	2267	2087	-	-	2353	-	-	2206	2163
+Sugar Raw	-	2010-11	-	-	-	-	3752	-	2590	-	3443	-	-	3174	-	-	-	2751
+Tobacco	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	5712
+Tur Arhar	Delay	2010-11	-	-	3971	-	-	-	3376	-	2662	3388	-	3740	2778	6100	-	3383
+	Early	2010-11	-	-	-	-	-	-	4611	-	2592	3850	-	-	3342	-	-	3514
+Wheat	-	2010-11	-	-	1346	-	-	1263	1277	-	1228	1206	-	1170	1203	1225	1290	1166
+36
+Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Dhar	Dindori	Guna	Gwalior	Harda	Hoshangabad	Indore	Jabalpur	Jhabua	Katni	Khandwa	Khargone	Mandla	Mandsaur	StateWtdAverage
+Bajra	-	2010-11	-	700	-	-	861	-	-	-	-	-	-	-	-	-	-	895
+Barley	-	2010-11	-	-	-	-	1174	-	-	-	-	-	-	-	-	-	1038	991
+CasterSeed	-	2010-11	-	-	-	-	-	-	-	-	-	3375	-	-	-	-	-	3375
+Chilly	Dry	2010-11	-	7097	-	-	8124	6922	8349	8675	-	7362	-	7760	5739	-	6910	6717
+Cotton	-	2010-11	-	4608	-	-	-	4380	-	-	-	5575	-	-	4622	-	-	4216
+Ginger	Fresh	2010-11	-	6293	-	3470	-	6254	4537	2875	3403	-	4209	-	5772	-	-	4279
+Gram	-	2010-11	-	2315	2224	-	2928	2179	2206	3500	2821	-	-	-	2236	-	2213	2281
+Ground Nut	-	2010-11	-	3313	-	-	3978	-	-	4120	-	2626	-	-	2722	-	3389	2734
+Jowar	-	2010-11	Kharif	817	-	1470	940	1325	1406	1200	1329	763	-	-	849	-	1326	1020
+	-	2010-11	Rabi	-	-	-	-	1100	1367	-	-	-	-	-	1003	-	-	1126
+Linseed	-	2010-11	-	-	2440	-	-	-	2850	2775	2400	-	2400	-	-	-	2798	2783
+Maize	-	2010-11	-	20	607	-	937	-	-	1092	1212	955	1179	-	886	-	965	918
+Nigerseed		2010-11	-	-	-	2750	-	-	-	-	-	-	-	-	-	-	-	2385
+Paddy	Coarse	2010-11	-	-	-	-	-	-	-	-	-	742	835	-	-	-	-	884
+	Fine	2010-11	-	-	-	-	-	-	-	-	-	-	1122	-	-	-	-	1195
+	Medium	2010-11	-	-	-	-	-	-	-	-	-	-	905	-	-	-	-	1165
+Potato	Hills	2010-11	Summer	-	-	493	-	-	-	829	-	-	-	-	-	800	-	803
+	Hills	2010-11	Winter	-	-	-	-	-	-	800	-	-	-	-	-	-	-	807
+Ragi	-	2010-11	-	-	-	-	-	-	2000	-	-	-	-	-	-	-	-	2000
+Rape/Mustard	-	2010-11	-	-	2485	-	2450	-	-	-	-	-	2500	-	-	-	-	2292
+Rice	Coarse	2010-11	-	2250	1675	-	2306	1811	1738	1300	1838	1613	1585	-	-	-	-	1606
+Sannhemp	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1242	1242
+Sesamum	-	2010-11	Kharif	-	-	-	5171	5500	5310	-	-	4942	-	-	-	-	5289	4633
+	-	2010-11	Rabi	-	-	-	-	6000	5500	-	-	-	-	-	-	-	-	5648
+Soyabean	-	2010-11	-	2189	-	-	-	2119	2090	2266	2111	-	-	-	-	-	2189	2163
+Sugar Raw	-	2010-11	-	3204	-	3000	3071	-	-	3318	-	-	-	-	3158	-	3219	2751
+Tobacco	-	2010-11	-	-	-	-	5056	-	-	-	-	-	-	-	4600	-	-	5712
+Tur Arhar	Delay	2010-11	-	-	-	-	4864	-	3330	5500	-	-	-	-	3770	-	3329	3383
+	Early	2010-11	-	-	-	-	4800	-	3679	6143	-	-	-	-	3209	-	3983	3514
+Wheat	-	2010-11	-	1222	-	-	1259	1190	1224	1249	1593	1193	1276	-	1223	-	1196	1166
+37
+Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Morena	Narsinghpur	Neemuch	Panna	Raisen	Rajgarh	Ratlam	Rewa	Sagar	Satna	Sehore	Shahdol	Shajapur	Sheopur	StateWtdAverage
+Bajra	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	810	895
+Barley	-	2010-11	-	-	-	-	-	-	-	-	-	-	1141	-	-	-	-	991
+CasterSeed	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3375
+Chilly	Dry	2010-11	-	-	-	-	-	-	8223	6087	-	-	-	9400	-	9000	-	6717
+Cotton	-	2010-11	-	-	-	-	-	-	-	5452	-	-	-	-	-	-	-	4216
+Ginger	Fresh	2010-11	-	-	4371	-	-	-	-	-	4000	3275	4142	3456	-	-	-	4279
+Gram	-	2010-11	-	-	2161	2257	2100	2382	2059	2322	-	2200	2358	-	3005	2500	2500	2281
+Ground Nut	-	2010-11	-	-	-	2790	-	-	2563	-	-	2450	-	-	-	3500	4500	2734
+Jowar	-	2010-11	Kharif	-	1028	-	-	-	1269	876	800	950	1099	1065	1000	-	900	1020
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1126
+Linseed	-	2010-11	-	-	-	-	-	-	-	-	-	2500	2545	-	3510	-	-	2783
+Maize	-	2010-11	-	-	-	984	1200	1125	873	964	-	800	-	-	-	860	-	918
+Nigerseed		2010-11	-	-	-	-	-	-	-	-	-	-	-	-	3000	-	-	2385
+Paddy	Coarse	2010-11	-	-	-	-	-	950	-	1153	-	900	-	-	825	609	-	884
+	Fine	2010-11	-	-	-	-	-	-	-	1470	-	1950	-	-	-	-	-	1195
+	Medium	2010-11	-	-	-	-	-	-	-	952	-	1100	-	-	-	1200	1500	1165
+Potato	Hills	2010-11	Summer	-	762	-	1095	-	-	-	-	-	700	-	1067	-	-	803
+	Hills	2010-11	Winter	-	-	-	-	-	-	-	-	-	-	-	1000	-	-	807
+Ragi	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2000
+Rape/Mustard	-	2010-11	-	-	-	2301	2485	-	-	-	-	-	-	-	2500	-	2000	2292
+Rice	Coarse	2010-11	-	-	1757	1975	1450	1669	1800	-	-	-	1780	-	1398	-	-	1606
+Sannhemp	-	2010-11	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1242
+Sesamum	-	2010-11	Kharif	-	5360	-	4500	4500	-	-	4167	4733	4993	5460	3185	-	-	4633
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	5648
+Soyabean	-	2010-11	-	-	2070	2183	-	2068	2179	2194	-	2013	-	2110	-	2100	2100	2163
+Sugar Raw	-	2010-11	-	-	2348	-	3400	-	3149	-	-	-	-	2990	-	4068	3400	2751
+Tobacco	-	2010-11	-	-	4958	-	-	-	-	-	-	-	-	-	-	-	-	5712
+Tur Arhar	Delay	2010-11	-	-	3317	-	4120	3250	-	-	-	3100	4050	-	3000	-	-	3383
+	Early	2010-11	-	-	3477	-	-	3133	3883	-	-	-	-	4359	4140	-	-	3514
+Wheat	-	2010-11	-	-	1221	1267	1125	1248	1201	1332	1200	1200	1338	1220	1567	1300	1235	1166
+38
+Crop Wise Farm Harvest Prices of Principal Crops in India - Madhya Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Shivani	Shivpuri	Sidhi	Singhroli	Tikamgarh	Ujjain	Umaria	Vidisha	StateWtdAverage
+Bajra	-	2010-11	-	-	874	-	-	-	-	-	-	895
+Barley	-	2010-11	-	-	-	829	979	923	-	1238	-	991
+CasterSeed	-	2010-11	-	-	-	-	-	-	-	-	-	3375
+Chilly	Dry	2010-11	-	-	8867	-	-	7270	5908	11008	-	6717
+Cotton	-	2010-11	-	-	-	-	-	-	-	-	-	4216
+Ginger	Fresh	2010-11	-	-	-	-	-	3868	-	4026	-	4279
+Gram	-	2010-11	-	2000	2881	2264	1914	2173	2235	2550	2135	2281
+Ground Nut	-	2010-11	-	-	2679	-	-	-	2228	-	-	2734
+Jowar	-	2010-11	Kharif	-	-	780	1033	743	979	-	2070	1020
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	1126
+Linseed	-	2010-11	-	-	-	2200	2257	-	2680	2820	-	2783
+Maize	-	2010-11	-	1000	1013	780	1000	-	894	733	890	918
+Nigerseed		2010-11	-	-	-	-	1720	-	-	3000	-	2385
+Paddy	Coarse	2010-11	-	1000	-	700	-	-	-	-	-	884
+	Fine	2010-11	-	-	-	-	-	-	-	-	-	1195
+	Medium	2010-11	-	-	-	1000	-	-	-	-	-	1165
+Potato	Hills	2010-11	Summer	-	532	725	667	762	-	-	-	803
+	Hills	2010-11	Winter	-	-	575	900	-	-	-	-	807
+Ragi	-	2010-11	-	-	-	-	-	-	-	-	-	2000
+Rape/Mustard	-	2010-11	-	-	-	2675	2388	-	-	2333	2063	2292
+Rice	Coarse	2010-11	-	1500	-	1200	1150	1759	-	1581	-	1606
+Sannhemp	-	2010-11	-	-	-	-	-	-	-	-	-	1242
+Sesamum	-	2010-11	Kharif	-	4510	3178	4900	4366	-	2983	-	4633
+	-	2010-11	Rabi	-	-	-	-	-	-	-	-	5648
+Soyabean	-	2010-11	-	1850	-	-	-	-	2228	-	-	2163
+Sugar Raw	-	2010-11	-	-	4200	-	-	3240	-	-	-	2751
+Tobacco	-	2010-11	-	-	-	-	8000	-	-	12000	-	5712
+Tur Arhar	Delay	2010-11	-	-	-	3175	3500	3325	-	-	-	3383
+	Early	2010-11	-	-	-	-	4000	-	3652	-	3236	3514
+Wheat	-	2010-11	-	1200	1194	1250	1150	1156	1336	1460	1327	1166
+39
+Crop Wise Farm Harvest Prices of Principal Crops in India - Mizoram
+(Rs. per Quintal)
+Crop	Variety	Year	Season	State	StateWtdAverage
+Banana	-	2010-11	-	950	950
+Chilly	-	2010-11	-	8375	8375
+Cotton	-	2010-11	-	7012	7012
+Ginger	-	2010-11	-	900	900
+Maize	-	2010-11	-	992	992
+Paddy	-	2010-11	-	1082	1082
+Potato	-	2010-11	-	1250	1250
+Rape/Mustard	-	2010-11	-	1531	1531
+Sesamum	-	2010-11	-	3125	3125
+Soyabean	-	2010-11	-	3550	3550
+Sugarcane	-	2010-11	-	575	575
+Tapioca	-	2010-11	-	816	816
+Tobacco	-	2010-11	-	14572	14572
+Tur Arhar	-	2010-11	-	2331	2331
+Turmeric	-	2010-11	-	11000	11000
+44
+Crop Wise Farm Harvest Prices of Principal Crops in India - Nagaland
+(Rs. per Quintal)
+Crop	Variety	Year	Season	State	StateWtdAverage
+Ginger	-	2010-11	-	2000	2000
+Maize	-	2010-11	-	650	650
+Paddy	Coarse	2010-11	-	800	800
+	Fine	2010-11	-	900	900
+45
+Crop Wise Farm Harvest Prices of Principal Crops in India - Orissa
+(Rs. per Quintal)			
+Crop	Variety	Year	Season	State	StateWtdAverage
+Ground Nut	-	2010-11	-	2274	2274
+Jute	-	2010-11	-	1671	1671
+Maize	-	2010-11	-	804	804
+Paddy	-	2010-11	-	932	932
+Potato	-	2010-11	-	614	614
+Ragi	-	2010-11	-	932	932
+Rape/Mustard	-	2010-11	-	3047	3047
+Sesamum	-	2010-11	-	3048	3048
+Sugarcane	-	2010-11	-	117	117
+Wheat	-	2010-11	-	1335	1335
+46
+Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Amritsar	Barnala	Bhatinda	Faridkot	Fatehgarh_Sahib	Firozpur	Gurdaspur	Hoshiarpur	Jalandhar	kapurthala	Ludhiana	Mansa	Moga	Muktsar	StateWtdAverage
+Bajra	-	2010-11	-	1340	-	-	-	-	-	800	-	-	-	-	-	-	920	1073
+Barley	-	2010-11	-	-	1250	1000	-	-	-	-	-	-	-	-	1000	-	900	999
+Cotton	American	2010-11	-	-	5025	-	5500	-	-	5000	-	-	-	-	5500	3995	3995	5082
+	Desi	2010-11	-	-	4200	-	4800	-	-	5000	-	-	-	-	-	3355	3355	3792
+Ginger	-	2010-11	-	-	4500	-	3200	-	-	2600	-	-	-	-	2500	-	-	3033
+Gram	-	2010-11	-	-	-	3200	-	-	-	3500	-	-	-	-	-	-	-	3378
+Ground Nut	-	2010-11	-	-	-	-	-	-	-	7000	3000	-	-	-	-	-	-	2872
+Maize	-	2010-11	-	892	1380	-	615	-	-	1300	1050	880	900	1400	-	-	-	1027
+Paddy	-	2010-11	-	1030	1100	1130	1080	1030	1030	1100	1030	1030	1030	1130	1030	1130	1030	1092
+Potato	-	2010-11	-	500	275	-	550	300	-	700	490	-	480	-	600	-	-	605
+Rape/Mustard	-	2010-11	-	1950	2600	-	2000	-	-	3400	-	-	2200	-	2200	-	2200	2693
+Sesamum	-	2010-11	-	2490	-	-	-	-	-	6500	-	-	-	-	-	-	-	3997
+Sugarcane	-	2010-11	-	-	-	-	-	-	-	420	-	-	-	-	-	-	-	322
+Wheat	-	2010-11	-	1100	1130	1100	1100	1120	1100	1170	1100	1020	1100	1100	1100	1100	1100	1103
+48
+Crop Wise Farm Harvest Prices of Principal Crops in India - Punjab
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Nawanshahar	Patiala	Rupnagar	SAS_Nagar	Sangrur	Tarean_Taran	StateWtdAverage
+Bajra	-	2010-11	-	-	-	-	-	1500	-	1073
+Barley	-	2010-11	-	-	975	-	-	-	-	999
+Cotton	American	2010-11	-	-	-	-	-	-	-	5082
+	Desi	2010-11	-	-	-	-	-	-	-	3792
+Ginger	-	2010-11	-	-	2700	-	-	-	-	3033
+Gram	-	2010-11	-	-	-	-	-	3200	-	3378
+Ground Nut	-	2010-11	-	-	3200	-	-	-	-	2872
+Maize	-	2010-11	-	-	1200	925	1200	-	892	1027
+Paddy	-	2010-11	-	-	1130	1080	1030	1130	1200	1092
+Potato	-	2010-11	-	-	800	-	-	-	1000	605
+Rape/Mustard	-	2010-11	-	2375	2400	-	-	-	3500	2693
+Sesamum	-	2010-11	-	-	-	-	-	-	-	3997
+Sugarcane	-	2010-11	-	-	-	-	225	-	-	322
+Wheat	-	2010-11	-	-	1100	1100	1120	1100	1100	1103
+49
+Crop Wise Farm Harvest Prices of Principal Crops in India - Pondicherry
+(Rs. per Quintal)							
+Crop	Variety	Year	Season	Karaikal	Mahe	Puducherry	Yanam	StateWtdAverage
+Ground Nut	-	2010-11	-	-	-	3055	-	3055
+Jowar	-	2010-11	-	-	-	1074	-	1074
+Paddy	Fine	2010-11	-	1150	-	1135	1145	1135
+Ragi	-	2010-11	-	-	-	1043	-	1043
+Sesamum	-	2010-11	-	-	-	3216	-	3216
+47
+Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	StateWtdAverage
+Bajra	-	2010-11	Kharif	864	765	960	838	1100	763	886	894	858	-	805	834	831	962	880
+Barley	-	2010-11	Rabi	1012	1018	968	1027	1222	1001	1043	993	1008	902	1230	983	1028	1008	1056
+Chilly	Dry	2010-11	Kharif	7907	1048	6329	7444	-	8960	8813	-	9690	6039	-	-	7100	7192	7134
+Cotton	-	2010-11	Kharif	4059	3301	3401	-	-	-	4487	4100	-	4493	-	-	-	-	4125
+	Lint	2010-11	Kharif	-	-	10485	-	-	6946	8056	-	-	-	-	-	-	-	8224
+Ginger	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	3977	2804
+Gram	-	2010-11	Rabi	2255	2194	2296	2093	3075	2196	2203	2132	2173	2045	2108	2050	2160	2270	2143
+Ground Nut	-	2010-11	Kharif	3097	3436	2696	2426	3800	3056	2783	2414	2775	2856	2600	2469	-	-	2586
+Jowar	-	2010-11	Kharif	1156	865	789	1091	1095	1133	909	2293	1002	844	-	901	1085	952	1159
+Linseed	-	2010-11	Rabi	2498	-	2271	2580	-	-	2909	-	2734	2000	-	-	-	-	2601
+Maize	-	2010-11	Kharif	1119	912	910	882	-	-	961	-	938	904	-	932	-	881	949
+Paddy	-	2010-11	Kharif	-	-	1160	-	-	1569	1011	-	-	-	-	-	-	1015	1513
+Potato	-	2010-11	Rabi	1041	637	-	965	1550	602	1281	-	511	785	-	-	1120	-	709
+Rape/Mustard	-	2010-11	Rabi	2671	2359	2194	2255	2222	2473	2295	2284	2340	2275	2083	2331	2272	1889	2356
+Rice	-	2010-11	Kharif	2025	-	2392	2081	-	-	2995	-	1862	3225	-	-	2485	1759	2133
+Sannhemp	-	2010-11	Kharif	-	-	2505	-	-	-	1678	-	-	-	-	-	-	1200	1853
+Sesamum	-	2010-11	Kharif	5854	4896	5745	5148	4539	5131	5436	3927	4951	5582	4266	4750	4924	5997	5091
+Sugar Raw	-	2010-11	Rabi	3083	2250	2769	2671	-	2922	2913	-	2435	2766	-	-	-	3475	2731
+Tobacco	-	2010-11	Rabi	3083	2250	2769	2671	-	2922	2913	-	2435	2766	-	-	-	3475	2191
+Tur Arhar	-	2010-11	Rabi	5111	2794	-	4950	-	3155	6173	-	-	2425	-	-	3900	-	3445
+Wheat	-	2010-11	Rabi	1139	1116	1217	1124	1430	1099	1223	1164	1132	1006	1217	1145	1123	1176	1155
+50
+Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ganganagar	Hanumangarh	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Pratapgarh	Rajsamand	StateWtdAverage
+Bajra	-	2010-11	Kharif	822	847	808	-	1043	840	747	1134	761	-	849	872	-	1130	880
+Barley	-	2010-11	Rabi	1063	1134	1060	-	1271	833	1080	1141	1057	1040	1137	1065	1084	1098	1056
+Chilly	Dry	2010-11	Kharif	-	-	-	-	6000	7803	-	6498	-	6605	9972	11386	4645	6570	7134
+Cotton	-	2010-11	Kharif	4265	4178	-	-	6900	6170	-	2818	-	-	4137	3550	3930	4805	4125
+	Lint	2010-11	Kharif	-	8000	-	-	-	-	-	-	-	-	-	-	-	-	8224
+Ginger	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2804
+Gram	-	2010-11	Rabi	2209	2213	2109	-	2800	2135	2136	2216	2110	2044	2076	2192	2059	2334	2143
+Ground Nut	-	2010-11	Kharif	-	2420	2640	-	2400	2826	-	2386	-	2544	2851	-	2850	3051	2586
+Jowar	-	2010-11	Kharif	-	-	1081	-	957	1138	-	1273	-	1078	1454	1228	976	977	1159
+Linseed	-	2010-11	Rabi	-	-	-	-	-	2900	-	-	-	2733	-	-	2562	-	2601
+Maize	-	2010-11	Kharif	-	-	927	-	1000	913	-	-	-	960	982	1114	896	1045	949
+Paddy	-	2010-11	Kharif	-	1661	-	-	-	-	-	-	-	-	-	-	-	-	1513
+Potato	-	2010-11	Rabi	-	728	-	-	933	1059	-	-	-	625	-	-	-	486	709
+Rape/Mustard	-	2010-11	Rabi	2339	2387	2305	-	2607	2104	2344	2174	2457	2340	2245	2366	2264	2337	2356
+Rice	-	2010-11	Kharif	-	3000	-	-	-	2120	-	-	-	1776	-	-	1523	2010	2133
+Sannhemp	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	1525	1853
+Sesamum	-	2010-11	Kharif	-	5101	5120	-	4450	5036	-	5780	4798	5263	5018	4964	4312	5500	5091
+Sugar Raw	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	3132	2750	2731
+Tobacco	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	3132	2750	2191
+Tur Arhar	-	2010-11	Rabi	-	-	-	-	-	-	-	-	2465	2780	-	-	3577	-	3445
+Wheat	-	2010-11	Rabi	1160	1158	1139	-	1586	1188	1143	1434	1095	1165	1314	1334	1221	1139	1155
+51
+Crop Wise Farm Harvest Prices of Principal Crops in India - Rajasthan
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Sawai_Madhopur	Sikar	Sirohi	Tonk	Udaipur	StateWtdAverage
+Bajra	-	2010-11	Kharif	831	797	868	788	-	880
+Barley	-	2010-11	Rabi	938	1070	1141	1052	1037	1056
+Chilly	Dry	2010-11	Kharif	8158	10000	6602	1290	8202	7134
+Cotton	-	2010-11	Kharif	-	-	3760	-	4900	4125
+	Lint	2010-11	Kharif	-	-	-	-	-	8224
+Ginger	-	2010-11	Kharif	-	-	-	-	2205	2804
+Gram	-	2010-11	Rabi	2124	2054	2218	2033	2251	2143
+Ground Nut	-	2010-11	Kharif	2726	3260	2266	2410	3313	2586
+Jowar	-	2010-11	Kharif	946	-	1157	1182	1034	1159
+Linseed	-	2010-11	Rabi	-	-	-	2320	-	2601
+Maize	-	2010-11	Kharif	843	-	1116	959	1008	949
+Paddy	-	2010-11	Kharif	-	-	-	-	1068	1513
+Potato	-	2010-11	Rabi	750	-	650	-	-	709
+Rape/Mustard	-	2010-11	Rabi	2321	2319	2378	2400	2283	2356
+Rice	-	2010-11	Kharif	1633	-	-	-	1623	2133
+Sannhemp	-	2010-11	Kharif	-	-	2031	-	1700	1853
+Sesamum	-	2010-11	Kharif	4990	4550	4978	4919	5060	5091
+Sugar Raw	-	2010-11	Rabi	2440	-	-	2475	2950	2731
+Tobacco	-	2010-11	Rabi	2440	-	-	2475	2950	2191
+Tur Arhar	-	2010-11	Rabi	2373	-	3137	2283	-	3445
+Wheat	-	2010-11	Rabi	1069	1233	1263	1086	1257	1155
+52
+Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ariyalur	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipuram	Kanyakumari	Karur	Krishnagiri	Madurai	Nagapattinam	Namakkal	Nilgiris	StateWtdAverage
+Arecanut	-	2010-11	-	-	22291	9572	22291	3290	22291	-	3290	22291	22291	3290	16940	22291	22291	21229
+Bajra	-	2010-11	-	-	1149	945	1132	-	1161	1530	1271	-	1116	949	1202	1042	1413	1186
+Cashewnut	-	2010-11	-	3794	3794	6324	-	3794	3794	3794	3794	3794	3794	3794	3794	-	-	5183
+CasterSeed	-	2010-11	-	-	2950	2279	1845	3249	3577	-	2627	3577	1845	1685	3282	3607	-	3154
+Chilly	-	2010-11	-	4955	6589	7138	6193	6203	6745	3999	-	4955	7657	3817	6038	7405	5981	6198
+Coconut	With husk 2010-11		-	520	666	563	586	649	699	609	677	685	598	592	584	825	616	645
+Cotton	-	2010-11	-	3020	3027	3255	3069	2883	3020	3255	2651	3020	3329	2883	3020	3069	3329	3081
+Ginger	Dry	2010-11	-	-	11904	-	-	11904	11904	-	11904	-	-	-	-	-	11904	11904
+Gram	-	2010-11	-	-	-	-	3371	2915	-	-	3207	2790	3371	2917	3555	3371	-	3265
+Ground Nut	-	2010-11	-	2976	3259	2806	4205	3617	3162	4278	3745	2976	4205	2996	4355	2823	3259	3227
+Jowar	-	2010-11	-	-	1227	1349	1395	1333	1642	1302	1116	1298	1538	1005	1500	1066	1334	1410
+Maize	-	2010-11	-	1116	1078	943	1044	1001	1029	943	1151	1116	1044	801	1174	1075	1274	1093
+Paddy	-	2010-11	-	914	914	958	856	1188	914	949	929	914	856	1188	1180	744	914	991
+Pepper	-	2010-11	-	-	14259	-	-	16084	14259	-	16467	-	-	-	-	11584	16083	15218
+Potato	-	2010-11	-	-	-	-	-	1236	1659	-	-	-	1250	-	-	-	1493	1483
+Ragi	-	2010-11	-	-	1131	1142	1093	1018	1119	1116	-	1132	1073	861	1167	1108	1124	1146
+Sesamum	-	2010-11	-	3864	3832	3327	3602	3940	3832	3681	5107	3864	3602	3715	3339	4097	5107	3880
+Sugar Raw	-	2010-11	-	3253	2830	2838	2604	2340	2604	2503	2809	3253	2732	1868	3010	2968	2840	2760
+Tapioca	-	2010-11	-	828	630	630	630	589	630	630	900	828	630	971	971	630	1006	650
+Tobacco	-	2010-11	-	-	3490	-	3490	-	3490	2775	-	-	3490	3310	3310	3490	-	3562
+Tur Arhar	-	2010-11	-	-	4484	4232	4484	4556	4484	4557	4556	4542	4484	4546	4526	4484	4484	4462
+Turmeric	-	2010-11	-	9593	12918	12932	12918	10137	12889	-	-	9593	12918	9400	-	10804	12918	12073
+53
+Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Perambalur	Pudukkottai	Ramanathapuram	Salem	Sivaganga	Thanjavur	Theni	Thirunelveli	Thiruvannamalai	Thiruvarur	Thoothukudi	Tiruchirappalli	Tiruppur	Tirupur	StateWtdAverage
+Arecanut	-	2010-11	-	22291	-	-	22291	-	22291	3290	3290	9486	22291	-	22291	22291	22291	21229
+Bajra	-	2010-11	-	-	-	1497	1042	-	1202	1129	-	939	1202	1290	1116	1155	1155	1186
+Cashewnut	-	2010-11	-	-	3794	3794	3794	3794	3794	3794	3794	-	-	3794	3794	3794	3794	5183
+CasterSeed	-	2010-11	-	-	-	1685	3534	-	3282	1685	-	2279	3282	2627	3577	2647	2647	3154
+Chilly	-	2010-11	-	4955	5239	6975	7574	5453	6242	6099	6074	6589	5784	5685	6683	6790	6790	6198
+Coconut	With husk 2010-11		-	520	501	548	633	665	599	592	809	619	585	935	520	659	659	645
+Cotton	-	2010-11	-	3020	3020	2883	3069	-	3020	2883	2651	3255	3020	2651	3020	3027	3027	3081
+Ginger	Dry	2010-11	-	-	-	-	-	-	11904	-	11904	-	-	-	-	-	-	11904
+Gram	-	2010-11	-	-	-	2591	3371	-	2867	2917	-	3217	3152	3433	2759	2760	2750	3265
+Ground Nut	-	2010-11	-	2976	2223	3097	3056	2935	4355	3980	3874	2806	4355	3745	4692	3162	3162	3227
+Jowar	-	2010-11	-	-	1352	1383	1380	-	1500	1164	-	1127	1500	1324	1353	1611	1611	1410
+Maize	-	2010-11	-	-	910	1025	1016	-	1174	1126	-	1023	1174	1091	1041	1029	1029	1093
+Paddy	-	2010-11	-	914	1180	1188	713	1188	1180	1188	930	900	1180	930	914	914	914	991
+Pepper	-	2010-11	-	-	-	-	11684	-	-	15314	16467	-	-	-	-	-	-	15218
+Potato	-	2010-11	-	-	-	-	-	-	-	-	1493	1240	-	-	-	-	-	1483
+Ragi	-	2010-11	-	-	1178	837	1083	-	1167	1127	-	1127	1167	1191	1046	1190	1190	1146
+Sesamum	-	2010-11	-	3864	4815	4052	3867	-	3339	3715	-	5115	3339	3964	3854	4027	4027	3880
+Sugar Raw	-	2010-11	-	3253	2475	-	2725	2767	2299	2728	-	2840	2642	3271	2659	2830	2852	2760
+Tapioca	-	2010-11	-	828	828	-	630	589	971	589	744	630	971	744	630	630	630	650
+Tobacco	-	2010-11	-	-	-	-	-	-	3490	-	-	3490	-	-	-	3705	3705	3562
+Tur Arhar	-	2010-11	-	-	4192	4556	4484	-	4526	4546	-	4249	4526	4556	4645	4484	4484	4462
+Turmeric	-	2010-11	-	9593	9593	-	10804	-	12682	10137	12337	12733	12682	12337	9593	12889	12889	12073
+54
+Crop Wise Farm Harvest Prices of Principal Crops in India - Tamil Nadu
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Tiruvallur	Vellore	Viluppuram	Virudhunagar	StateWtdAverage
+Arecanut	-	2010-11	-	-	9486	9486	3290	21229
+Bajra	-	2010-11	-	1047	1019	954	1497	1186
+Cashewnut	-	2010-11	-	3794	3794	3794	3794	5183
+CasterSeed	-	2010-11	-	2279	2279	2279	2627	3154
+Chilly	-	2010-11	-	5503	6589	6589	5453	6198
+Coconut	With husk	2010-11	-	891	655	661	626	645
+Cotton	-	2010-11	-	-	3255	3255	3450	3081
+Ginger	Dry	2010-11	-	-	-	-	-	11904
+Gram	-	2010-11	-	3534	3251	2685	2591	3265
+Ground Nut	-	2010-11	-	4010	2806	2806	3097	3227
+Jowar	-	2010-11	-	1302	1215	1423	1383	1410
+Maize	-	2010-11	-	943	943	985	1025	1093
+Paddy	-	2010-11	-	991	900	896	1188	991
+Pepper	-	2010-11	-	-	-	-	-	15218
+Potato	-	2010-11	-	-	1101	-	-	1483
+Ragi	-	2010-11	-	1114	1071	1058	980	1146
+Sesamum	-	2010-11	-	3483	3082	3298	4052	3880
+Sugar Raw	-	2010-11	-	2742	2133	2691	2524	2760
+Tapioca	-	2010-11	-	630	630	630	589	650
+Tobacco	-	2010-11	-	-	3490	-	-	3562
+Tur Arhar	-	2010-11	-	4557	4249	4249	-	4462
+Turmeric	-	2010-11	-	12178	12733	11803	-	12073
+55
+Crop Wise Farm Harvest Prices of Principal Crops in India - Tripura
+(Rs. per Quintal)
+Crop	Variety	Year	Season	State	StateWtdAverage
+Gram	-	2010-11	-	5357	5357
+Jute	-	2010-11	-	2100	2100
+Mesta	-	2010-11	-	1200	1200
+Paddy	-	2010-11	Autum	817	817
+	-	2010-11	Summer	740	740
+	-	2010-11	Winter	948	948
+Potato	-	2010-11	-	964	964
+Rape/Mustard	-	2010-11	-	4812	4812
+Sesamum	-	2010-11	-	4780	4780
+Sugar Raw	-	2010-11	-	644	644
+56
+(Rs. per Quintal)
+Crop Wise Farm Harvest Prices of Principal Crops in India - Uttranchal
+Crop	Variety	Year	Season	Almora	Dehradoon	Garhwal_Pauri	Haridwar	Nanital	Udamsingh_nagar	StateWtdAverage
+Barley	-	2010-11	Rabi	-	1087	-	-	-	-	1087
+Ground Nut	-	2010-11	-	-	-	-	3413	-	-	3413
+	-	2010-11	Kharif	-	-	-	3413	-	-	3413
+Maize	-	2010-11	-	-	947	-	1130	1018	1115	1053
+	-	2010-11	Kharif	-	947	-	1130	1018	1115	1053
+Paddy	-	2010-11	-	-	1111	-	1023	983	1053	1043
+	-	2010-11	Kharif	-	1111	-	1023	983	1053	1043
+Ragi	-	2010-11	-	-	1699	-	-	-	-	1699
+	-	2010-11	Kharif	-	1699	-	-	-	-	1699
+Rape/Mustard	-	2010-11	Rabi	-	-	-	-	2437	2108	2273
+Sesamum	-	2010-11	-	-	-	-	5580	-	-	5580
+	-	2010-11	Kharif	-	-	-	5580	-	-	5580
+Soyabean	-	2010-11	-	-	-	-	-	1901	-	1901
+	-	2010-11	Kharif	-	-	-	-	1901	-	1901
+Sugar Raw	-	2010-11	-	-	-	-	2711	3031	3083	2942
+Sugarcane	-	2010-11	-	-	-	-	231	203	191	208
+	-	2010-11	Kharif	-	-	-	231	230	191	208
+Wheat	-	2010-11	-	-	-	1097	-	1119	1074	-
+	-	2010-11	Rabi	-	-	-	-	1119	1074	1097
+63
+Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar_Nagar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	737	-	-	-	-	-	-	-	-	-	-	-	-	739
+Barley	-	2010-11	Rabi	1011	1050	-	-	-	1025	-	-	-	-	-	-	-	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	1808	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	3719	-	-	-	-	3058	-	-	-	2889	-	-	-	3686
+Gram	-	2010-11	Rabi	2159	-	-	-	-	2981	-	-	-	-	2260	-	-	-	2259
+Ground Nut	-	2010-11	Kharif	-	-	-	-	-	-	-	3532	-	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	818	-	-	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	2837	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	2837	-	-	-	2703
+Maize	-	2010-11	Kharif	-	957	-	-	-	-	-	854	-	-	2584	-	-	-	859
+Paddy	-	2010-11	Kharif	-	2063	-	-	-	-	2097	813	-	-	838	-	-	-	888
+Potato	-	2010-11	Rabi	513	473	-	-	-	-	-	-	-	-	-	-	-	-	459
+Rape/Mustard	-	2010-11	Rabi	2278	2219	-	-	-	-	-	-	-	-	-	-	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	4293	-	-	-	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	3072	2995	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	225	200	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	3538	-	-	-	-	3775	-	-	-	-	2889	-	-	-	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	1133	1097	-	-	-	1150	1188	-	-	-	1060	-	-	-	1063
+57
+Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bijnor	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam_Budha_Nagar	Ghaziabad	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	-	-	-	834	-	664	-	-	-	-	796	-	-	739
+Barley	-	2010-11	Rabi	-	-	1046	-	895	-	940	-	-	-	958	1062	-	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	-	-	-	-	2503	-	2510	-	-	-	2293	-	-	-	2259
+Ground Nut	-	2010-11	Kharif	3089	-	-	-	-	-	-	-	-	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	-	-	791	-	-	-	-	-	818	-	-	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	-	2501	-	-	-	-	-	-	-	-	-	2703
+Maize	-	2010-11	Kharif	-	-	-	-	-	-	843	-	-	850	-	905	-	-	859
+Paddy	-	2010-11	Kharif	1047	-	-	-	922	-	-	-	-	845	954	979	-	-	888
+Potato	-	2010-11	Rabi	-	-	389	-	-	-	337	-	-	315	551	492	-	-	459
+Rape/Mustard	-	2010-11	Rabi	-	-	2369	-	-	-	1928	-	-	2004	2423	2406	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	-	-	-	-	6392	-	4226	4230	-	-	-	4549
+Sugar Raw	-	2010-11	Kharif	2667	-	-	-	-	-	-	-	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	199	-	-	-	-	-	-	-	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	3363	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	-	-	5000	-	3004	-	3563	-	-	-	2928	-	-	-	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	1151	-	1158	-	1051	-	1038	-	-	1078	1080	1099	-	-	1063
+58
+Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Ghazipur	Gonda	Gorakhpur	Hamirpur	Hardoi	Mahamaya_Nagar	Jalaun	Jaunpur	Jhansi	Jyotiba_phule_Nagar	Kannauj	Kanpur_Dehat	Kanpur_Nagar	Kaushambi	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	689	-	724	739
+Barley	-	2010-11	Rabi	907	-	-	-	-	-	976	-	-	-	-	1001	-	923	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	2882	-	-	2203	-	-	2156	3059	-	-	-	2169	-	1822	2259
+Ground Nut	-	2010-11	Kharif	-	-	-	-	-	-	-	-	2898	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	-	1028	-	-	-	-	861	-	-	774	-	673	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	2853	-	-	-	-	-	-	-	-	-	-	2703
+Maize	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	872	-	-	859
+Paddy	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	818	888
+Potato	-	2010-11	Rabi	490	-	-	-	-	-	-	-	-	-	-	-	-	326	459
+Rape/Mustard	-	2010-11	Rabi	-	-	-	2351	-	-	2047	-	-	-	-	2413	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	4800	-	-	-	-	4713	-	-	5202	-	3781	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	3369	-	-	2875	-	-	2953	3268	-	-	-	2778	-	3423	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	1074	-	-	1045	-	-	1002	976	1075	-	-	1060	-	1024	1063
+59
+Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Kheri	KushiNagar	Lalitpur	Lucknow	Mahamaya_Nagar	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad	Muzaffarnagar	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	739
+Barley	-	2010-11	Rabi	-	-	862	-	-	-	-	-	1088	-	-	-	-	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	-	-	2075	-	-	-	-	-	-	-	-	-	-	-	2259
+GroundNut	-	2010-11	Kharif	-	-	2274	-	-	-	-	-	-	-	-	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	-	952	-	-	-	-	-	-	-	-	-	-	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	2567	-	-	-	-	-	-	-	-	-	-	-	2703
+Maize	-	2010-11	Kharif	-	-	817	-	-	-	-	-	-	-	-	-	-	-	859
+Paddy	-	2010-11	Kharif	-	-	861	-	-	-	-	-	-	-	-	-	-	-	888
+Potato	-	2010-11	Rabi	-	-	-	-	-	-	-	342	-	-	541	-	-	-	459
+Rape/Mustard	-	2010-11	Rabi	2244	-	-	-	-	-	-	-	2113	-	-	-	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	4400	-	-	-	-	-	-	-	-	-	-	-	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	3345
+Turmeric	-	2010-11	Rabi	2978	-	-	-	-	-	-	-	-	-	-	-	-	-	2987
+Wheat	-	2010-11	Rabi	996	-	-	-	-	-	-	1120	-	-	1173	-	-	1159	1063
+60
+Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Pilibhit	Pratapgarh	RaeBareli	Rampur	Saharanpur	Sant_Ravidas_Nagar	Sant_Kabir_Nagar	Shahjahapur	Shrawasti	Siddharthnagar	Sitapur	Sonbhadra	Sultanpur	Unnao	StateWtdAverage
+Bajra	-	2010-11	Kharif	-	790	-	-	-	-	-	-	-	-	-	-	-	-	739
+Barley	-	2010-11	Rabi	-	1080	-	-	-	-	-	-	-	-	888	894	1036	-	984
+CasterSeed	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1808
+Cotton	-	2010-11	Kharif	-	-	-	-	-	-	-	2549	-	-	-	-	-	-	3686
+Gram	-	2010-11	Rabi	-	3171	-	-	-	-	-	-	-	-	-	2326	2445	-	2259
+Ground Nut	-	2010-11	Kharif	-	-	-	-	-	-	-	2639	-	-	2534	-	-	-	2721
+Jowar	-	2010-11	Kharif	-	783	-	-	-	-	-	1529	-	-	-	-	786	-	836
+Jute	-	2010-11	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2837
+Linseed	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	-	2554	-	-	2703
+Maize	-	2010-11	Kharif	-	-	-	-	-	-	-	2436	616	-	792	723	-	-	859
+Paddy	-	2010-11	Kharif	-	759	-	-	-	-	910	989	693	-	857	870	939	-	888
+Potato	-	2010-11	Rabi	-	518	-	-	-	-	-	-	-	-	406	808	415	-	459
+Rape/Mustard	-	2010-11	Rabi	2525	-	-	-	-	-	-	-	-	-	2278	2442	-	-	2267
+Sesamum	-	2010-11	Kharif	-	-	-	-	-	-	-	3071	-	-	4589	3218	-	-	4549
+Sugar Raw	-	2010-11	Kharif	-	-	-	-	-	-	-	2889	-	-	2644	-	-	-	2789
+Sugarcane	-	2010-11	Kharif	-	-	-	-	-	-	-	202	-	-	200	-	-	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	2844	-	-	-	3332
+Tur Arhar	-	2010-11	Rabi	-	3022	-	-	-	3681	-	-	2928	-	3988	-	4878	-	3345
+Turmeric	-	2010-11	Rabi	-	-	-	-	-	-	-	-	-	-	3019	-	-	-	2987
+Wheat	-	2010-11	Rabi	1050	1143	-	-	-	956	-	-	975	-	1012	1072	1044	-	1063
+61
+Crop Wise Farm Harvest Prices of Principal Crops in India - Uttar Pradesh
+(Rs. per Quintal)
+Crop	Variety	Year	Season	State	StateWtdAverage
+donotconsiderthislineAverage
+Bajra	-	2010-11	Kharif	-	739
+Barley	-	2010-11	Rabi	-	984
+CasterSeed	-	2010-11	Kharif	-	1808
+Cotton	-	2010-11	Kharif	-	3686
+Gram	-	2010-11	Rabi	-	2259
+Ground Nut	-	2010-11	Kharif	-	2721
+Jowar	-	2010-11	Kharif	-	836
+Jute	-	2010-11	Kharif	-	2837
+Linseed	-	2010-11	Rabi	-	2703
+Maize	-	2010-11	Kharif	-	859
+Paddy	-	2010-11	Kharif	-	888
+Potato	-	2010-11	Rabi	-	459
+Rape/Mustard	-	2010-11	Rabi	-	2267
+Sesamum	-	2010-11	Kharif	-	4549
+Sugar Raw	-	2010-11	Kharif	-	2789
+Sugarcane	-	2010-11	Kharif	-	204
+Tobacco	Calcattia	2010-11	Rabi	-	3332
+Tur Arhar	-	2010-11	Rabi	-	3345
+Turmeric	-	2010-11	Rabi	-	2987
+Wheat	-	2010-11	Rabi	-	1063
+62
+Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal
+(Rs. per Quintal)
+Crop	Variety	Year	Season	Bankura	Bardhaman	Birbhum	Cooch_Bihar	Dakhin_Dinajpur	Darjiling	East_Midnapore	Hooghly	Howrah	Jalpaiguri	Malda	Murshidabad	Nadia	North_24_Parganas	StateWtdAverage
+Barley	-	2010-11	-	-	-	1650	-	-	-	-	-	-	-	-	1250	-	-	1303
+Gram	-	2010-11	-	-	-	2750	-	-	-	-	-	-	-	3118	3000	-	-	2864
+Jute	-	2010-11	-	-	2600	2400	2870	2700	2750	2590	2800	2821	2750	2904	2900	2759	2870	2828
+Paddy	-	2010-11	Autum	913	1141	-	1011	-	-	1161	883	-	1060	1056	970	1042	900	997
+	-	2010-11	Summer	950	1133	994	760	925	-	1200	1199	996	925	1141	1100	1000	984	1070
+	-	2010-11	Winter	960	1159	1071	1104	969	951	1225	1109	977	970	1052	1312	1000	950	1075
+Potato	-	2010-11	-	449	469	427	467	465	768	535	440	537	488	586	580	416	478	480
+Rape/Mustard	-	2010-11	-	2800	2800	2562	2050	2565	2300	3500	2488	-	2621	2400	2400	2400	2550	2517
+Rice	-	2010-11	Autum	1551	1521	-	1795	-	-	1950	1527	-	2017	1890	1650	1622	1800	1698
+	-	2010-11	Summer	1850	1830	1800	1500	1675	-	2300	1900	2050	1700	1970	1822	1900	1800	1942
+	-	2010-11	Winter	1533	1686	1833	1767	1800	1750	2102	1918	1906	1800	1897	1875	1800	1800	1825
+Sugar Raw	-	2010-11	-	-	3500	3200	-	-	3406	-	-	-	-	2950	3250	3300	-	3199
+Wheat	-	2010-11	-	950	1100	1200	1200	1143	1200	1150	1100	-	1233	1131	1300	-	-	1231
+64
+Crop Wise Farm Harvest Prices of Principal Crops in India - West Bengal
+(Rs. per Quintal)
+Crop	Variety	Year	Season	North_Dinajpur	Puruliya	South_24_Parganas	West_Midnapore	StateWtdAverage
+Barley	-	2010-11	-	-	-	-	-	1303
+Gram	-	2010-11	-	-	2970	-	-	2864
+Jute	-	2010-11	-	2850	-	-	2475	2828
+Paddy	-	2010-11	Autum	-	1100	-	895	997
+	-	2010-11	Summer	1075	1000	850	1100	1070
+	-	2010-11	Winter	980	1100	1038	1036	1075
+Potato	-	2010-11	-	689	600	606	500	480
+Rape/Mustard	-	2010-11	-	2646	3000	3000	2500	2517
+Rice	-	2010-11	Autum	-	1875	-	1561	1698
+	-	2010-11	Summer	1750	1800	1750	2200	1942
+	-	2010-11	Winter	1800	1875	1900	1807	1825
+Sugar Raw	-	2010-11	-	3140	3549	3446	3150	3199
+Wheat	-	2010-11	-	1250	1319	1450	-	1231

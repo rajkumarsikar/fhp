@@ -1,0 +1,1102 @@
+﻿----------------------- Page 1-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East_Godavari	Guntur	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnagar	Medak	Nalgonda	Nellore	Nizamabad
+Bajra	-	2004-05	-	454	526	542	550	518	506	454	516	-	533	510	516	521	506	454
+	-	2004-05	Kharif	-	523	542	533	518	506	-	516	-	530	510	516	521	506	-
+	-	2004-05	Rabi	454	575	575	575	-	575	454	-	575	-	-	-	454	-	454
+CasterSeed	-	2004-05	-	1494	1379	1460	1460	-	1328	1494	1494	-	1379	1504	1494	1494	1978	1494
+	-	2004-05	Kharif	1494	1379	1460	1460	-	1328	1494	1494	-	1379	1504	1494	1496	1978	1494
+Chilly	Dry	2004-05	-	2362	2861	1996	2170	2476	1937	2084	2393	2207	2134	1960	2001	2350	2371	2103
+	Dry	2004-05	Kharif	2413	2920	2193	2193	2114	1936	1989	2306	2114	2145	1806	1772	2189	1936	1925
+	Dry	2004-05	Rabi	2198	1975	1975	1975	3043	2143	2641	2641	3043	1975	2526	2198	2641	2399	2198
+Cotton	-	2004-05	-	1932	1634	-	1634	1597	1938	1881	1834	1773	1634	1752	1855	1729	1895	1697
+	-	2004-05	Kharif	1932	1634	-	1634	1597	1938	1881	1834	1773	1634	1752	1855	1729	1895	1697
+Gram	-	2004-05	-	1360	1613	1506	1506	1583	1583	1360	1604	1583	1613	1625	1431	1604	1583	1335
+	-	2004-05	Rabi	1360	1613	1506	1506	1583	1583	1360	1604	1583	1613	1625	1431	1604	1583	1335
+Ground Nut	-	2004-05	-	1562	1702	1580	1600	1610	1535	1520	1519	1494	1610	1409	1525	1428	1502	1556
+	-	2004-05	Kharif	1180	1702	1579	1634	1373	1501	1676	1381	1373	1593	1293	1565	1381	1519	1180
+	-	2004-05	Rabi	1573	1690	1580	1518	1625	1535	1509	1528	1534	1690	1483	1522	1466	1497	1573
+Jowar	-	2004-05	-	494	677	442	562	562	580	531	721	512	676	636	731	666	581	532
+	-	2004-05	Kharif	472	666	441	581	563	563	551	564	563	666	526	559	564	563	559
+	-	2004-05	Rabi	530	681	533	533	499	582	530	732	499	681	856	916	705	582	530
+Maize	-	2004-05	-	451	491	492	504	507	483	506	493	491	500	521	485	475	506	497
+	-	2004-05	Kharif	442	504	504	504	503	513	503	501	503	504	521	485	474	513	497
+	-	2004-05	Rabi	498	486	486	-	508	482	511	480	482	486	518	518	480	489	498
+Mesta	-	2004-05	-	-	491	859	-	-	859	-	-	859	-	859	859	-	-	-
+Paddy	-	2004-05	-	644	692	589	641	613	638	581	608	611	705	545	566	621	569	602
+	-	2004-05	Kharif	649	708	570	638	584	640	570	616	613	717	528	567	655	595	604
+	-	2004-05	Rabi	614	629	601	683	642	617	614	570	565	638	585	563	570	567	597
+Ragi	-	2004-05	-	-	631	519	559	491	560	-	479	-	573	460	-	-	547	458
+	-	2004-05	Kharif	-	642	504	573	480	-	-	458	-	573	449	-	-	480	458
+	-	2004-05	Rabi	-	559	625	559	-	560	-	551	-	-	551	-	-	560	-
+Sesamum	-	2004-05	-	2656	-	1841	1828	2146	2004	2664	2439	2133	1853	1964	2422	2348	1963	2297
+	-	2004-05	Kharif	2443	-	1959	1959	1975	1992	2430	2204	1976	1959	1924	2443	2347	1959	2443
+	-	2004-05	Rabi	2671	-	1826	1826	2210	2210	2671	2671	2210	1826	2294	2294	2671	2210	2294
+Sugar Raw	-	2004-05	-	1188	1548	1648	1648	1462	1336	1188	1188	1497	1648	1188	1188	1188	1336	1188
+	-	2004-05	Kharif	1188	1648	1648	1648	1462	1336	1188	1188	1497	1648	1188	1188	1188	1336	1188
+Tobacco	-	2004-05	-	-	-	4202	4202	3810	4049	3800	3800	3094	4202	3815	-	3800	4355	3815
+	-	2004-05	Rabi	-	-	4202	4202	3810	4049	3800	3800	3094	4202	3815	-	3800	4355	3815
+Tur Arhar	-	2004-05	-	1365	1458	1272	1407	1589	1614	1352	1496	1589	1571	1471	1551	1481	1515	1602
+	-	2004-05	Kharif	1366	1458	1272	1407	1589	1619	1352	1500	1589	1573	1471	1551	1483	1610	1624
+	-	2004-05	Rabi	1352	-	-	1352	-	1352	1352	1352	1352	1352	-	-	1352	1352	1352
+Turmeric	-	2004-05	-	2006	1911	1911	1911	1812	1903	1748	2049	1812	1911	1949	2093	-	1903	1847
+donotconsiderthisline	7
+----------------------- Page 2-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Adilabad	Anantapur	Chittor	Cuddapah	East_Godavari	Guntur	Karimnagar	Khammam	Krishna	Kurnool	Mahbubnagar	Medak	Nalgonda	Nellore	Nizamabad
+Turmeric	-	2004-05	Kharif	2006	1911	1911	1911	1812	1903	1748	2049	1812	1911	1949	2093	-	1903	1847
+donotconsiderthisline	8
+----------------------- Page 3-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Prakasam	Rangareddi	Srikakulam	Visakhapatnam	Vizianagaram	Warangal	West_Godavari
+Bajra	-	2004-05	-	506	515	436	595	523	516	518
+	-	2004-05	Kharif	506	516	436	595	523	516	518
+	-	2004-05	Rabi	575	454	-	-	-	-	-
+CasterSeed	-	2004-05	-	1978	1483	-	-	-	1494	-
+	-	2004-05	Kharif	1978	1483	-	-	-	1494	-
+Chilly	Dry	2004-05	-	1922	2095	3894	3173	3558	2303	3032
+	Dry	2004-05	Kharif	1936	1897	2114	2114	2114	2137	2114
+	Dry	2004-05	Rabi	1888	2526	3940	3940	3940	2641	3043
+Cotton	-	2004-05	-	1895	1895	1763	1648	1533	1925	1597
+	-	2004-05	Kharif	1895	1886	1763	1648	1533	1925	1597
+Gram	-	2004-05	-	1583	1625	-	1583	1583	1360	1584
+	-	2004-05	Rabi	1583	1625	-	1583	1583	1360	-
+donotconsiderthisline	-
+Ground Nut	-	2004-05	-	1573	1486	1234	1757	1153	1364	1598
+	-	2004-05	Kharif	1573	1554	1193	1783	1135	1455	1373
+	-	2004-05	Rabi	1574	1483	1393	1625	1393	1331	1625
+Jowar	-	2004-05	-	578	684	554	551	542	603	539
+	-	2004-05	Kharif	563	617	563	563	563	711	563
+	-	2004-05	Rabi	582	856	499	499	499	584	499
+Maize	-	2004-05	-	498	446	514	516	516	474	508
+	-	2004-05	Kharif	513	443	524	524	524	472	503
+	-	2004-05	Rabi	489	518	508	508	508	480	508
+Mesta	-	2004-05	-	498	-	845	873	873	859	-
+Paddy	-	2004-05	-	660	575	568	538	544	640	583
+	-	2004-05	Kharif	643	569	568	538	544	657	572
+	-	2004-05	Rabi	667	585	559	559	559	560	595
+Ragi	-	2004-05	-	559	469	458	483	499	-	-
+	-	2004-05	Kharif	480	467	454	480	507	-	-
+	-	2004-05	Rabi	560	551	462	560	462	-	-
+Sesamum	-	2004-05	-	1978	1924	1795	2239	1852	2433	2210
+	-	2004-05	Kharif	1976	1924	1892	2254	1892	2430	-
+	-	2004-05	Rabi	2210	-	1771	2210	1771	2671	2210
+Sugar Raw	-	2004-05	-	1336	1188	1149	1237	1149	-	1497
+	-	2004-05	Kharif	1336	1188	1149	1237	1149	-	1497
+Tobacco	-	2004-05	-	4202	-	-	3810	-	3800	3920
+	-	2004-05	Rabi	4202	-	-	3810	-	3800	3920
+Tur Arhar	-	2004-05	-	1600	1458	1349	1349	1349	1620	1584
+	-	2004-05	Kharif	1601	1458	1149	1149	1149	1635	1589
+	-	2004-05	Rabi	1352	-	-	1352	-	1352	1352
+Turmeric	-	2004-05	-	1903	1949	1858	1858	1858	2049	1812
+donotconsiderthisline	9
+----------------------- Page 4-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Andhra Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Prakasam	Rangareddi	Srikakulam	Visakhapatnam	Vizianagaram	Warangal	West_Godavari
+Turmeric	-	2004-05	Kharif	1903	1949	1858	1858	1858	2049	1812
+donotconsiderthisline	10
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Assam
+	* : Rs. 100 Nos	(Rs. per Quintal)
+Crop	Variety	Year	Season	Barpeta	Bongaigaon	Cachar	Darrang	Dhemaji	Dhubri	Dibrugarh	Goalpara	Golaghat	Hailkandi	Jorhat	Kamrup	Karbi_Anglong	Karimganj	Kokrajhar
+Arecanut*	-	2004-05	-	-	48	-	45	65	-	-	-	47	-	-	62	72	-	58
+Chilly	-	2004-05	-	2700	1626	-	2800	2571	-	-	1695	1920	-	-	2119	2500	-	2200
+Coconut*	-	2004-05	-	812	725	-	875	1300	-	-	450	-	-	-	812	775	-	833
+Jute	-	2004-05	-	761	909	-	-	-	-	-	-	-	-	-	750	-	-	1207
+Linseed	-	2004-05	-	-	-	-	2000	-	-	-	-	-	-	-	-	-	-	-
+Maize	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	1450	-	-	-
+Mesta	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	-	642	-	806
+Paddy	-	2004-05	Autum	631	551	-	-	468	-	-	638	-	-	-	493	-	-	541
+	-	2004-05	Winter	576	663	450	654	504	-	-	604	501	-	-	597	600	-	638
+Potato	-	2004-05	-	742	658	-	400	724	-	-	792	445	-	-	626	550	-	510
+Rape/Mustard	-	2004-05	-	-	1506	-	1675	1300	-	-	-	-	-	-	-	4000	-	-
+Sesamum	-	2004-05	-	2900	2833	-	2578	4306	-	-	-	-	-	-	-	2000	-	-
+Sugar Raw	-	2004-05	-	-	-	-	-	-	-	-	1860	1450	-	-	-	2500	-	-
+Sugarcane	-	2004-05	-	-	457	-	559	-	-	-	-	-	-	-	850	-	-	-
+Tobacco	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	-	4000	-	-
+Tur Arhar	-	2004-05	-	-	-	-	2511	-	-	-	-	-	-	-	-	-	-	-
+Turmeric	Kacha	2004-05	-	-	-	353	559	-	-	-	-	-	879	-	-	-	-	-
+Wheat	-	2004-05	-	-	694	-	-	-	-	-	-	-	-	-	-	-	-	-
+donotconsiderthisline	11
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Assam
+	* : Rs. 100 Nos (Rs. per Quintal)
+Crop	Variety	Year	Season	Lakhimpur	Morigaon	Nagaon	Nalbari	North_Cachar_Hills	Sivasagar	Sonitpur	Tinsukia
+Arecanut *	-	2004-05	-	35	22	-	64	-	-	53	-
+Chilly	-	2004-05	-	1094	1350	1400	-	2294	3667	2370	-
+Coconut*	-	2004-05	-	932	550	-	892	-	-	792	-
+Jute	-	2004-05	-	-	786	783	-	-	-	738	-
+Linseed	-	2004-05	-	-	-	-	-	-	-	1200	-
+Maize	-	2004-05	-	-	-	-	-	-	-	620	-
+Mesta	-	2004-05	-	-	-	627	-	-	-	462	
+Paddy	-	2004-05	Autum	367	477	570	-	-	-	559	-
+	-	2004-05	Winter	455	575	513	617	-	-	462	-
+Potato	-	2004-05	-	733	600	-	400	-	1000	523	-
+Rape/Mustard	-	2004-05	-	1500	-	1700	-	-	2550	1500	-
+Sesamum	-	2004-05	-	3333	-	3000	-	-	2550	3246	-
+Sugar Raw	-	2004-05	-	-	2000	2100	-	-	-	1852	-
+Turmeric	Kacha	2004-05	-	-	-	-	700	642	-	580	-
+Wheat	-	2004-05	-	-	1000	900	-	-	-	467	-
+donotconsiderthisline	12
+﻿----------------------- Page 1-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Bihar
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Aurangabad	Jahanabad	Araia	Arbal	Banka	Begusarai	Bhabua	Bhagalpur	Bhojpur	Buxar	Darbhanga	East_Champaran	Gaya	Gopalganj	Jumui
+Barley	-	2004-05	Rabi	446	446	446	426	446	402	444	446	446	446	446	418	446	446	446
+Chilly	-	2004-05	Rabi	3303	3303	3303	3303	3303	3303	3303	3303	-	-	3303	3303	3303	3140	3303
+Ginger	-	2004-05	Rabi	-	-	1061	-	-	-	-	-	-	-	-	1061	-	-	-
+Gram	-	2004-05	Rabi	1626	1725	1655	1611	1631	1655	1740	1655	1776	1655	1655	1655	1655	1655	1651
+Jute	-	2004-05	Kharif	-	-	752	-	-	752	-	752	-	-	752	752	-	795	-
+Linseed	-	2004-05	Rabi	1420	1420	1420	1518	1420	1420	1420	1420	1420	1420	1510	1423	1420	1420	1420
+Maize	-	2004-05	Rabi	425	425	425	425	425	451	425	425	425	-	425	420	425	425	425
+	Bhadea	2004-05	Kharif	489	438	467	438	438	499	438	438	438	438	438	438	438	435	438
+Paddy	Aghani	2004-05	Kharif	438	438	438	438	438	434	445	438	438	438	405	438	438	440	412
+	Bhadea	2004-05	Kharif	-	-	365	-	-	365	365	365	365	-	365	319	365	385	-
+Potato	-	2004-05	Rabi	336	336	336	336	336	336	336	336	330	336	336	330	337	336	336
+	Aghani	2004-05	Kharif	480	-	424	308	424	424	-	424	424	424	424	411	400	440	370
+Ragi	Bhadea	2004-05	Kharif	382	382	382	382	-	387	388	-	-	-	382	382	382	390	-
+Rape/Mustard	-	2004-05	Rabi	1607	1589	1607	1607	1607	1607	1607	1607	1607	1607	1409	1697	1607	1650	1607
+Sesamum	-	2004-05	Kharif	1769	1769	1769	1769	1769	1769	1769	1769	1769	1769	1769	1769	1769	1769	1769
+	-	2004-05	Rabi	1982	1983	1982	1982	-	1982	1982	1982	1982	1982	1982	1982	1982	-	-
+	Bhadea	2004-05	Kharif	1584	1850	1584	-	-	1584	1584	-	-	1584	1584	1641	1584	-	-
+Sugar Raw	-	2004-05	Kharif	1111	1111	1111	-	1111	1111	1111	1111	1111	1111	1023	1111	1111	1111	1111
+Tobacco	-	2004-05	Rabi	-	-	2499	-	-	2499	-	2499	-	-	2499	2499	-	2499	-
+Tur Arhar	-	2004-05	Rabi	1618	1772	1614	1534	1526	1614	1614	1614	1681	1614	1614	1620	1650	1614	1714
+Turmeric	-	2004-05	Rabi	-	-	1049	-	-	1289	1049	1049	-	-	1049	-	1049	-	-
+Wheat	-	2004-05	Rabi	585	622	585	584	585	577	585	585	617	585	515	526	599	630	585
+donotconsiderthisline	13
+----------------------- Page 2-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Bihar
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Katihar	Khagaria	Kishanganj	Lakhisarai	Madhepura	Madhubani	Munger	Muzaffarpur	Nalanda	Nawada	Patna	Purnia	Rohtas	Saharsa	Samastipur
+Barley	-	2004-05	Rabi	446	465	446	446	446	446	446	446	446	446	446	446	459	446	446
+Chilly	-	2004-05	Rabi	3303	3303	3303	3303	3244	3303	-	3303	3303	3303	3303	3303	3317	3303	3303
+Ginger	-	2004-05	Rabi	1061	-	1061	-	-	1061	-	1061	-	-	-	1061	1061	1061	1061
+Gram	-	2004-05	Rabi	1655	1638	1655	1696	1655	1619	1547	1655	1702	1655	1637	1866	1553	1655	1837
+Jute	-	2004-05	Kharif	752	752	346	-	752	-	-	-	-	-	-	759	-	752	-
+Linseed	-	2004-05	Rabi	1420	1420	1420	1420	1400	1420	1386	1420	1420	1420	1477	1420	1420	1420	1420
+Maize	-	2004-05	Rabi	425	424	410	425	425	425	425	425	425	425	425	373	-	453	423
+	Bhadea	2004-05	Kharif	438	460	438	438	425	393	438	350	438	438	438	438	445	438	363
+Paddy	Aghani	2004-05	Kharif	438	438	456	438	451	438	406	438	401	450	438	467	438	438	438
+	Bhadea	2004-05	Kharif	365	365	366	-	365	303	-	365	365	-	-	432	362	365	365
+Potato	-	2004-05	Rabi	336	331	345	336	336	336	336	336	348	336	336	336	336	336	336
+	Aghani	2004-05	Kharif	424	439	424	-	424	420	424	424	422	-	-	424	-	424	450
+Ragi	Bhadea	2004-05	Kharif	-	382	382	382	365	-	-	382	382	382	382	382	388	382	-
+Rape/Mustard	-	2004-05	Rabi	1607	1607	1510	1539	1667	1607	1607	1601	1607	1607	1664	1607	1607	1607	1607
+Sesamum	-	2004-05	Kharif	-	-	1769	-	1785	1769	-	1769	1769	1769	-	1769	1769	1769	1769
+	-	2004-05	Rabi	1982	-	1982	-	1982	1982	-	1983	1982	1982	-	1983	1982	1983	1975
+	Bhadea	2004-05	Kharif	1584	-	1584	-	1584	1584	-	1584	1584	1584	-	1584	1584	1584	1584
+Sugar Raw	-	2004-05	Kharif	1111	1111	-	-	1111	1111	-	1111	1111	1111	-	-	1111	1111	1250
+Tobacco	-	2004-05	Rabi	2499	-	2499	-	-	2499	-	2499	-	-	-	2499	-	-	2499
+Tur Arhar	-	2004-05	Rabi	1614	1510	1614	1614	1739	1528	1614	1614	1614	1614	1700	1614	1694	1614	1601
+Turmeric	-	2004-05	Rabi	1049	-	1049	-	1049	1049	-	1049	1049	1049	-	1049	1049	1049	1022
+Wheat	-	2004-05	Rabi	585	572	510	585	585	561	585	628	627	585	603	564	585	585	618
+donotconsiderthisline	14
+----------------------- Page 3-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Bihar
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Saran	Sheikhpura	Sheohar	Sitamarhi	Siwan	Supaul	Vaishali	West_Champaran
+Barley	-	2004-05	Rabi	446	-	-	446	446	446	446	446
+Chilly	-	2004-05	Rabi	-	-	3303	3303	3303	3303	3303	3303
+Ginger	-	2004-05	Rabi	-	-	-	-	1061	1061	-	1061
+Gram	-	2004-05	Rabi	1655	1686	-	1710	1655	1655	1655	-
+Jute	-	2004-05	Kharif	-	-	-	-	-	752	752	-
+Linseed	-	2004-05	Rabi	1420	1420	1420	1365	1420	1420	1250	1420
+Maize	-	2004-05	Rabi	425	-	425	425	425	425	425	425
+	Bhadea	2004-05	Kharif	438	438	438	438	430	438	415	386
+Paddy	Aghani	2004-05	Kharif	475	438	438	438	438	438	480	411
+	Bhadea	2004-05	Kharif	365	-	365	365	365	365	365	365
+Potato	-	2004-05	Rabi	336	336	336	336	336	336	336	336
+	Aghani	2004-05	Kharif	484	390	-	420	400	424	424	455
+Ragi	Bhadea	2004-05	Kharif	382	-	-	382	395	382	382	382
+Rape/Mustard	-	2004-05	Rabi	1607	1523	1607	1607	1595	1607	1607	1663
+Sesamum	-	2004-05	Kharif	1769	-	-	1725	1769	1769	1769	1769
+	-	2004-05	Rabi	1983	-	-	-	1983	1983	2150	1982
+	Bhadea	2004-05	Kharif	-	-	-	-	1550	1584	1584	1584
+Sugar Raw	-	2004-05	Kharif	1111	1111	1111	1050	1111	-	1111	1111
+Tobacco	-	2004-05	Rabi	2499	-	2499	2499	2499	-	2499	-
+Tur Arhar	-	2004-05	Rabi	1512	1614	1614	1758	1614	1614	1614	1614
+Turmeric	-	2004-05	Rabi	-	-	1049	1049	1049	1049	1049	-
+Wheat	-	2004-05	Rabi	612	606	585	599	585	585	565	615
+donotconsiderthisline	15
+﻿----------------------- Page 1-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Chandigarh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Ginger	-	2004-05	-	1850
+Paddy	-	2004-05	-	583
+Potato	-	2004-05	-	350
+Wheat	-	2004-05	-	704
+donotconsiderthisline	16
+----------------------- Page 2-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Chhattisgarh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bastar	Bilaspur	Dantewada	Dhamtari	Durg	Janjgir_Champa	Jashpur	Kanker	Kawardha	Korba	Koriya	Mahasamund	Raigarh	Raipur	Rajnandgaon
+Barley	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	583	-	-	-	-
+CasterSeed	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	-	-	440	-
+Chilly	Dry	2004-05	-	3510	4273	4131	-	3855	3652	4736	4083	3944	-	2409	3900	4701	3685	4042
+Ginger	Fresh	2004-05	-	3836	-	4623	-	-	-	-	4465	-	-	3169	3461	-	3513	-
+Gram	-	2004-05	-	1574	1528	-	1438	1327	1599	1550	1912	1324	1938	1867	-	1559	1415	1259
+Ground Nut	-	2004-05	-	-	-	2000	-	-	-	1608	1400	-	-	1926	1967	1603	2078	-
+Jowar	-	2004-05	Kharif	1000	-	-	-	-	-	-	-	-	-	863	-	-	-	-
+Linseed	-	2004-05	-	-	1780	-	1855	1698	1811	-	1640	1499	-	1685	-	-	1584	-
+Maize	-	2004-05	-	504	559	473	-	-	-	616	517	717	815	509	-	1000	-	-
+Nigerseed		2004-05	-	1599	1596	-	-	-	-	1721	2000	-	-	1554	-	1448	1367	-
+Paddy	Coarse	2004-05	-	506	545	-	551	557	-	452	501	481	516	-	535	533	565	554
+Potato	-	2004-05	Autum	-	-	934	-	-	-	-	920	-	-	731	709	-	761	-
+	-	2004-05	Winter	-	-	789	-	-	-	600	697	-	-	526	-	-	-	-
+	Hills	2004-05	Autum	-	-	920	-	-	-	-	934	-	-	729	600	-	646	-
+	Hills	2004-05	Winter	-	-	840	-	-	-	-	771	-	-	630	650	-	-	-
+Ragi	-	2004-05	-	624	-	-	-	-	-	-	1000	-	-	-	1200	-	-	-
+Rape/Mustard	-	2004-05	-	1765	1571	-	-	-	1734	1787	1745	1464	1520	1724	-	2298	-	-
+Rice	Coarse	2004-05	-	824	859	-	-	882	-	847	919	715	969	828	1000	857	980	-
+Sesamum	-	2004-05	Kharif	-	2575	-	2800	4550	2827	2100	2462	-	-	2434	3467	2699	2357	-
+	-	2004-05	Rabi	-	2763	-	-	-	2874	-	2417	-	-	-	3000	-	3080	-
+Soyabean	-	2004-05	-	-	723	-	-	-	-	-	1000	1049	-	-	4500	-	2660	-
+Sugar Raw	-	2004-05	-	1409	1783	-	1798	-	1785	1709	1748	1619	-	1853	1917	1672	-	-
+Tobacco	-	2004-05	-	3760	4281	-	-	4663	-	3353	4875	-	-	4447	4550	4730	3824	4363
+Tur Arhar	Early	2004-05	-	-	1690	-	-	1529	2094	1474	1633	1495	-	1781	-	1519	-	-
+Turmeric	-	2004-05	-	4754	3788	5127	-	-	3755	3744	-	-	-	2811	4417	3739	2219	-
+Wheat	-	2004-05	-	1029	704	-	700	638	803	666	817	709	-	729	-	794	798	805
+donotconsiderthisline	17
+----------------------- Page 3-----------------------
+	Crop wise Farm Harvest Prices of Principal Crops in India -	Chhattisgarh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Surguja
+Barley	-	2004-05	-	514
+Ginger	Fresh	2004-05	-	2419
+Gram	-	2004-05	-	1683
+Ground Nut	-	2004-05	-	1425
+Linseed	-	2004-05	-	1518
+Maize	-	2004-05	-	452
+Nigerseed		2004-05	-	1635
+Paddy	Coarse	2004-05	-	550
+Potato	-	2004-05	Autum	844
+	-	2004-05	Winter	526
+	Hills	2004-05	Autum	521
+	Hills	2004-05	Winter	478
+Rape/Mustard	-	2004-05	-	1610
+Rice	Coarse	2004-05	-	806
+Sesamum	-	2004-05	Kharif	1988
+Tobacco	-	2004-05	-	4295
+Tur Arhar	Early	2004-05	-	1514
+Turmeric	-	2004-05	-	2487
+Wheat	-	2004-05	-	637
+donotconsiderthisline	18
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Delhi
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Bajra	-	2004-05	-	615
+Barley	-	2004-05	-	890
+Gram	-	2004-05	-	1536
+Maize	-	2004-05	-	428
+Potato	-	2004-05	-	950
+Rape/Mustard	-	2004-05	-	1729
+Rice	-	2004-05	-	1146
+Tur Arhar	-	2004-05	-	2025
+Wheat	-	2004-05	-	780
+donotconsiderthisline	20
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Dadra & Nagar Haveli
+	((Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Paddy	Fine	2004-05	-	562
+	Medium	2004-05	-	463
+Ragi	-	2004-05	-	591
+Tur Arhar	-	2004-05	-	2269
+donotconsiderthisline	19
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Goa
+	(Rs. per Quintal)
+	* : Rs. 100 Nos
+Crop	Variety	Year	Season	Goa
+Arecanut	-	2004-05	-	5200
+Banana *	-	2004-05	-	156
+Cashewnut	-	2004-05	-	4420
+Coconut*	-	2004-05	-	639
+Paddy	-	2004-05	-	580
+Ragi	-	2004-05	-	764
+Sugarcane	-	2004-05	-	80
+donotconsiderthisline	21
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Gujarat
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmedabad	Amreli	Anand	Banas_kantha	Bharuch	Bhavnagar	Dahod	Gandhinagar	Jamnagar	Junagadh	Kachchh	Kheda	Mahesana	Narmada	Navsari
+Bajra	-	2004-05	-	859	-	461	512	-	601	519	616	626	630	710	470	587	-	-
+CasterSeed	-	2004-05	-	1261	-	1579	1486	-	-	-	1581	1558	-	1613	1550	1525	-	-
+Chilly	-	2004-05	-	-	-	-	-	-	-	-	4050	3864	-	-	-	4561	-	-
+Cotton	-	2004-05	-	-	-	-	-	1895	2305	-	-	-	1815	-	-	-	-	-
+Gram	-	2004-05	-	1445	-	1572	-	1570	-	1383	-	-	-	-	1705	-	-	-
+Ground Nut	-	2004-05	-	-	-	1625	1500	-	1673	1383	2000	1710	1750	1652	1620	-	-	-
+Jowar	-	2004-05	-	892	-	-	1106	807	-	513	711	-	-	-	-	528	-	1050
+Maize	-	2004-05	-	-	-	-	-	500	-	575	513	-	-	-	480	-	-	-
+Paddy	-	2004-05	-	1194	-	667	-	596	-	490	838	-	-	-	560	-	-	981
+Potato	-	2004-05	-	-	-	347	500	-	-	-	320	-	-	-	300	335	-	-
+Ragi	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	700
+Rape/Mustard	-	2004-05	-	1255	-	-	1503	-	-	-	1644	-	-	1495	1765	1514	-	-
+Sesamum	-	2004-05	-	-	-	-	2813	-	3740	2977	3557	3271	-	3204	-	-	-	-
+Sugar Raw	-	2004-05	-	-	-	-	-	-	-	-	-	-	1345	-	-	-	-	1430
+Tobacco	-	2004-05	-	-	-	1653	-	-	-	-	-	-	-	-	1700	1958	-	-
+Tur Arhar	-	2004-05	-	-	-	1945	1512	1695	-	1651	1575	-	-	-	1658	-	-	-
+Wheat	-	2004-05	-	971	-	650	911	1048	808	699	843	781	907	745	710	736	-	-
+donotconsiderthisline	22
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Gujarat
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Panch_Mahals	Patan	Porbandar	Rajkot	Sabar_Kantha	Surat	Surendranagar	The_Dangs	Vadodara	Valsad
+Bajra	-	2004-05	-	500	608	640	605	541	-	660	-	416	-
+CasterSeed	-	2004-05	-	-	1539	-	-	1687	-	-	-	1525	-
+Chilly	-	2004-05	-	-	NQ	-	3602	-	-	3641	-	-	5070
+Cotton	-	2004-05	-	-	1692	-	-	-	-	-	-	-	-
+Gram	-	2004-05	-	-	-	-	1395	-	-	1520	-	2260	-
+Ground Nut	-	2004-05	-	1550	-	1725	1791	1496	-	1925	-	1530	-
+Jowar	-	2004-05	-	480	533	1025	-	415	764	-	-	433	926
+Maize	-	2004-05	-	525	-	-	-	579	-	-	-	479	-
+Paddy	-	2004-05	-	550	-	-	-	432	658	-	750	397	535
+Ragi	-	2004-05	-	450	-	-	-	-	-	-	500	-	545
+Rape/Mustard	-	2004-05	-	-	1570	-	-	1464	-	-	-	-	-
+Sesamum	-	2004-05	-	-	-	-	3354	-	-	3655	-	2206	-
+Sugar Raw	-	2004-05	-	-	-	1300	-	-	1310	-	-	-	-
+Tur Arhar	-	2004-05	-	1650	-	-	-	1549	1781	-	-	1177	-
+Wheat	-	2004-05	-	680	817	900	716	761	972	815	-	650	-
+donotconsiderthisline	23
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Himachal Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bilaspur	Chamba	Hamirpur	Kangra	Kinnaur	Kullu	Lahaul_Spiti	Mandi	Shimla	Sirmaur	Solan	Una
+Barley	-	2004-05	-	762	609	842	724	842	1000	1125	730	566	530	725	900
+Chilly	-	2004-05	-	5500	8000	6000	-	-	7760	-	6504	4650	4812	5300	5375
+Cotton	-	2004-05	-	-	-	-	-	-	-	-	-	-	2500	3000	4025
+Ginger	-	2004-05	-	1467	3500	2250	-	-	-	-	2500	1327	2966	2440	-
+Gram	-	2004-05	-	2100	-	1987	2071	-	3250	-	2091	2057	1890	1967	2210
+Ground Nut	-	2004-05	-	-	-	-	-	-	-	-	-	-	2200	2500	3050
+Linseed	-	2004-05	-	-	3000	2800	2355	-	-	-	2008	-	-	1900	1900
+Maize	-	2004-05	-	563	569	566	525	733	620	800	515	580	575	554	514
+Paddy	-	2004-05	-	675	533	646	605	-	800	-	839	927	660	666	613
+Potato	-	2004-05	-	650	700	506	651	-	830	-	623	667	640	617	541
+Rape/Mustard	-	2004-05	-	1275	2480	2100	2766	-	3100	2000	2072	3530	2020	2200	1954
+Sesamum	-	2004-05	-	3000	5000	4780	3300	-	-	-	5322	-	2900	3500	3060
+Turmeric	-	2004-05	-	3500	-	4753	-	-	-	-	3880	-	3357	4000	3825
+Wheat	-	2004-05	-	687	704	661	635	1064	810	800	759	739	695	672	645
+donotconsiderthisline	26
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India - Haryana
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ambala	Bhiwani	Faridabad	Fatehabad	Gurgaon	Hisar	Jhajjar	Jind	Kaithal	Karnal	Kurukshetra	Mahendragarh	Mewat	Panchkula	Panipat
+Bajra	-	2004-05	-	515	600	500	500	575	612	575	500	505	700	-	500	-	850	650
+Barley	-	2004-05	-	540	600	570	500	575	629	525	520	500	650	-	500	-	750	650
+Chilly	-	2004-05	-	4500	-	-	2500	-	2500	4000	-	3500	2300	3600	6000	-	5000	2300
+Cotton	American	2004-05	-	-	1650	1810	1750	-	1950	1800	1800	1600	-	-	1600	-	-	1900
+	Desi	2004-05	-	1875	1600	1820	1600	-	1750	-	1700	1600	-	-	1600	-	-	2000
+Gram	-	2004-05	-	1425	1600	1750	1500	2100	1745	1900	1700	1800	2100	1350	1800	-	2050	2000
+Ground Nut	-	2004-05	-	1500	2200	1850	1400	1575	1400	-	-	-	-	2019	2000	-	3000	2250
+Jowar	-	2004-05	-	515	500	620	700	700	-	700	680	400	-	-	500	-	825	700
+Maize	-	2004-05	-	525	600	510	700	675	-	-	600	400	-	-	600	-	800	750
+Paddy	-	2004-05	-	560	700	580	525	700	1200	2000	570	900	700	920	1400	-	1050	750
+Potato	-	2004-05	-	400	450	500	250	525	350	800	400	500	350	520	500	-	900	600
+Rape/Mustard	-	2004-05	-	1700	1700	1500	1700	1557	1605	1800	1700	1600	2000	1442	1350	-	1600	1600
+Sesamum	-	2004-05	-	1500	2400	1875	2400	1875	1600	-	1600	2000	-	-	-	-	2000	1890
+Sugar Raw	-	2004-05	-	1450	1500	1300	1200	1300	1200	1625	1200	1600	2000	1200	-	-	1350	1210
+Sunflower	-	2004-05	-	1550	-	-	-	-	-	-	-	1800	-	1500	-	-	1500	1000
+Toria	-	2004-05	-	1700	1400	1150	1300	-	-	-	-	1250	1500	1280	1250	-	1540	1600
+Wheat	-	2004-05	-	640	640	650	640	770	670	670	640	640	780	755	630	-	800	650
+donotconsiderthisline	24
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Haryana
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Rewari	Rohtak	Sirsa	Sonipat	Yamunanagar
+Bajra	-	2004-05	-	575	510	600	420	600
+Barley	-	2004-05	-	580	450	600	550	550
+Chilly	-	2004-05	-	3550	-	2500	2000	4500
+Cotton	American	2004-05	-	1600	2800	1650	1800	-
+	Desi	2004-05	-	-	3000	1650	1800	-
+Gram	-	2004-05	-	1292	1500	1600	1700	1750
+Ground Nut	-	2004-05	-	2800	-	1100	-	2000
+Jowar	-	2004-05	-	485	700	550	520	1250
+Maize	-	2004-05	-	-	-	500	500	600
+Paddy	-	2004-05	-	1075	1100	700	590	590
+Potato	-	2004-05	-	350	400	500	300	650
+Rape/Mustard	-	2004-05	-	1475	1600	1650	1400	1500
+Sesamum	-	2004-05	-	4150	2500	2000	1600	3500
+Sugar Raw	-	2004-05	-	1450	1200	1350	1100	1450
+Sunflower	-	2004-05	-	-	-	-	1800	1500
+Toria	-	2004-05	-	-	1100	1400	820	1450
+Wheat	-	2004-05	-	760	640	650	630	640
+donotconsiderthisline	25
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Jammu & Kashmir
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Anantnag	Baramulla	Budgam	Doda	Jammu	Kargil	Kathua	Kupwara	Leh	Poonch	Pulwama	Rajauri	Srinagar	Udhampur
+Bajra	-	2004-05	-	-	-	-	-	1300	-	600	-	-	-	-	600	-	750
+Barley	-	2004-05	-	-	-	-	750	850	-	700	-	917	-	-	700	-	675
+Chilly	-	2004-05	-	4600	-	5000	-	6200	-	8000	-	-	4875	7000	4700	7500	4360
+Gram	-	2004-05	-	-	-	-	-	2150	-	-	-	-	-	-	2500	-	-
+Ground Nut	-	2004-05	-	-	-	-	-	2500	-	-	-	-	-	-	-	-	-
+Jowar	-	2004-05	-	-	-	-	-	2100	-	-	-	-	-	-	-	-	-
+Linseed	-	2004-05	-	-	2400	2300	-	2850	-	2700	-	2500	3000	2650	2100	2500	-
+Maize	-	2004-05	-	650	900	900	750	700	-	625	800	-	600	895	550	1266	600
+Potato	-	2004-05	-	550	900	900	-	450	-	750	1000	1600	750	830	-	800	664
+Rape/Mustard	-	2004-05	-	1600	1800	1600	2000	2200	-	3000	2000	-	3125	2150	2000	1650	1780
+Rice	-	2004-05	-	1300	1400	1300	1800	2700	-	1125	1250	-	1150	1285	1200	1366	1420
+Sesamum	-	2004-05	-	-	-	-	-	900	-	2000	-	-	-	-	2000	-	800
+Sugarcane	-	2004-05	-	-	-	-	-	380	-	-	-	-	-	-	800	-	650
+Tobacco	-	2004-05	-	-	-	-	-	-	-	1500	-	-	-	-	-	-	2175
+Wheat	-	2004-05	-	800	1000	1000	750	800	1000	700	-	917	650	885	700	666	720
+donotconsiderthisline	27
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bagalkot	Bangalore_Urban	Bangalore_Rural	Belgaum	Bellary	Bidar	Bijapur	Chamrajnagar	Chickmagalur	Chitradurga	D_Kannada	Davangere	Dharwad	Gadag	Gulbarga
+Arecanut	-	2004-05	Summer	-	-	-	-	-	-	-	-	-	-	5180	-	-	-	-
+Bajra	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	532
+	Local	2004-05	Kharif	-	-	-	594	-	-	-	416	-	-	-	-	-	-	-
+Cashewnut	-	2004-05	Summer	-	-	-	-	-	-	-	-	-	-	3468	-	-	-	-
+CasterSeed	-	2004-05	Kharif	-	-	-	-	-	-	-	1308	-	-	-	-	-	1243	-
+Chilly	-	2004-05	Kharif	3600	-	-	-	4500	-	-	3058	4359	-	-	-	2563	2944	-
+	Dry	2004-05	Rabi	-	-	-	-	-	-	-	3175	-	-	-	-	2143	-	2608
+	Dry	2004-05	Summer	-	-	-	-	-	-	-	2470	-	-	-	-	-	-	-
+Cotton	-	2004-05	Rabi	-	-	-	-	1715	-	-	-	-	-	-	-	2004	-	1885
+Gram	-	2004-05	Rabi	-	-	-	1614	690	-	-	533	1897	1684	-	-	1680	-	1571
+Ground Nut	-	2004-05	Kharif	1473	-	1375	1523	1671	-	1657	1252	1625	1575	-	1174	1555	1527	-
+	-	2004-05	Rabi	-	-	-	-	1675	-	-	-	-	-	-	-	-	-	1597
+	-	2004-05	Summer	-	-	-	1391	-	-	-	-	1414	-	-	-	-	1563	1503
+Jowar	-	2004-05	Summer	-	-	-	641	-	-	-	486	-	-	-	-	-	592	956
+	Local	2004-05	Kharif	918	-	-	521	-	-	-	-	557	-	-	-	-	678	-
+	Local	2004-05	Rabi	-	-	-	-	-	-	-	-	-	534	-	-	798	-	946
+Maize	-	2004-05	Summer	-	-	-	-	-	-	-	495	-	-	-	-	-	-	-
+	Local	2004-05	Kharif	-	504	515	-	514	-	-	468	-	464	-	486	-	-	-
+Paddy	Local	2004-05	Kharif	-	-	572	721	-	660	-	481	530	-	661	694	-	-	-
+	Local	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	695	-	-	-	-
+	Local	2004-05	Summer	-	-	-	-	-	-	-	-	593	-	750	-	-	-	648
+Potato	-	2004-05	Kharif	-	-	-	450	-	-	-	-	-	-	-	-	600	-	-
+	-	2004-05	Rabi	-	534	517	-	-	-	-	-	-	-	-	-	-	-	-
+Ragi	-	2004-05	Kharif	-	515	501	-	-	-	-	533	480	-	-	466	-	-	-
+	HYV	2004-05	Rabi	-	-	-	-	-	-	-	480	-	-	-	-	-	-	-
+	HYV	2004-05	Summer	-	-	-	-	-	-	-	522	-	-	-	-	-	-	-
+Sesamum	-	2004-05	Kharif	-	-	-	-	-	3168	-	2376	2386	-	-	-	-	2227	-
+	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	2766
+Sugarcane	-	2004-05	Summer	-	-	-	-	-	-	-	-	-	-	888	-	-	-	-
+Sunflower	-	2004-05	Kharif	1505	-	-	1615	1607	1505	1727	1264	1704	1492	-	1530	-	1556	-
+	-	2004-05	Rabi	-	-	-	1419	1546	-	-	-	-	1644	-	-	1760	-	1501
+	-	2004-05	Summer	-	-	-	1450	-	-	-	-	-	-	-	-	-	1507	1648
+Tur Arhar	-	2004-05	Kharif	1310	-	-	-	2018	1678	1531	2622	-	1284	-	2858	-	1329	-
+	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1715
+Turmeric	-	2004-05	Summer	-	-	-	-	-	-	-	-	-	-	1888	-	-	-	-
+Wheat	-	2004-05	Rabi	-	-	-	975	-	-	-	-	-	-	-	-	908	-	1039
+	-	2004-05	Summer	-	-	-	919	-	-	-	-	-	-	-	-	-	-	-
+donotconsiderthisline	28
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Karnataka
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Hassan	Haveri	Kodagu	Kolar	Koppal	Mandya	Mysore	Raichur	Shimoga	Tumkur	U_Kannada	Udupi
+CasterSeed	-	2004-05	Kharif	-	-	-	-	-	704	1356	-	-	-	-	-
+	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	1250	-	-
+Chilly	-	2004-05	Kharif	-	4357	-	-	-	2930	3498	-	4053	2036	-	-
+	Dry	2004-05	Rabi	-	-	-	-	-	-	-	-	-	1958	-	-
+	Dry	2004-05	Summer	-	-	-	-	-	-	-	-	-	1685	-	-
+Cotton	-	2004-05	Rabi	-	-	-	-	2130	-	-	1626	-	-	-	-
+Gram	-	2004-05	Rabi	-	-	-	-	1611	-	-	1691	-	-	-	-
+Ground Nut	-	2004-05	Kharif	-	-	-	1150	-	1683	1153	-	1654	1519	-	-
+	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	1278	-	-
+	-	2004-05	Summer	-	1406	-	1230	1474	-	-	-	-	1496	-	-
+Jowar	-	2004-05	Summer	-	-	-	-	987	-	-	-	-	-	-	-
+	Local	2004-05	Kharif	-	-	-	-	-	-	447	-	-	-	-	-
+	Local	2004-05	Rabi	-	-	-	-	-	-	-	743	-	-	-	-
+Maize	-	2004-05	Summer	-	541	-	-	490	-	507	-	-	544	-	-
+	Local	2004-05	Kharif	-	-	-	-	-	-	472	-	512	522	-	-
+	Local	2004-05	Rabi	-	-	-	266	-	-	-	-	-	-	-	-
+Paddy	Local	2004-05	Kharif	-	546	537	407	-	-	503	-	532	564	544	609
+	Local	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	519	603
+Potato	-	2004-05	Kharif	491	-	-	-	-	-	-	-	-	-	-	-
+	-	2004-05	Rabi	-	-	-	346	-	-	-	-	-	-	-	-
+Ragi	-	2004-05	Kharif	-	500	-	-	-	-	513	-	-	482	-	-
+	HYV	2004-05	Rabi	413	-	-	-	-	488	-	-	-	495	-	-
+	HYV	2004-05	Summer	-	-	-	373	-	-	525	-	-	450	-	-
+Sesamum	-	2004-05	Kharif	-	-	-	-	-	2737	3141	-	-	-	-	-
+Sunflower	-	2004-05	Kharif	-	1498	-	-	-	-	1355	-	-	1462	-	-
+donotconsiderthisline	-
+	-	2004-05	Rabi	-	-	-	-	1558	-	-	1561	-	1561	-	-
+	-	2004-05	Summer	-	1248	-	-	1527	-	-	-	-	1508	-	-
+Tur Arhar	-	2004-05	Kharif	-	1347	-	-	-	2505	1200	-	-	-	-	-
+Wheat	-	2004-05	Rabi	-	-	-	-	882	-	-	-	-	-	-	-
+donotconsiderthisline	29
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Kerala
+	* :Rs.	100 Nos	(Rs. per Quintal)
+Crop	Variety	Year	Season	Alappuzha	Ernakulam	Idukki	Kannur	Kasargod	Kollam	Kottayam	Kozhikode	Malappuram	Palakkad	Pathanamthitta	Thiruvananthapuram	Trichur	Wayanad
+Arecanut*	-	2004-05	-	35	40	38	37	41	44	47	36	28	37	46	44	45	31
+Banana	-	2004-05	-	1130	1078	1071	1055	1163	1140	1257	1078	1038	1014	1195	1304	1186	811
+Coconut*	-	2004-05	-	631	681	775	539	600	706	742	563	516	555	732	619	543	659
+Ginger	-	2004-05	-	-	10418	10772	10035	9354	10000	9933	8828	8711	9827	10618	-	9386	9194
+Paddy	-	2004-05	-	669	663	676	676	585	595	674	714	667	638	684	652	631	592
+Pepper	-	2004-05	-	6221	6089	6156	5922	5929	6042	6025	5926	5951	5988	6061	5381	6037	6710
+Sugarcane	-	2004-05	-	-	-	96	-	-	-	-	-	-	60	-	-	-	-
+Tapioca	-	2004-05	-	420	400	437	488	446	366	447	416	372	353	408	400	418	330
+donotconsiderthisline	30
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Maharashtra
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ahmednagar	Akola	Amravati	Aurangabad	Beed	Bhandara	Buldhana	Chandrapur	Dhule	Gadchiroli	Gondia	Hingoli	Jalgaon	Jalna	Kolhapur
+Bajra	-	2004-05	-	539	477	445	507	531	-	439	-	569	-	-	425	572	521	-
+CasterSeed	-	2004-05	-	-	-	1100	1473	1100	-	987	-	-	-	-	-	-	1000	-
+Chilly	-	2004-05	-	2922	-	2635	2532	2505	2475	2543	2540	2782	2375	-	-	2775	-	2782
+Gram	-	2004-05	-	1287	1355	1338	1410	1366	1491	1383	1340	1233	1376	1327	1372	1209	1443	1303
+Ground Nut	-	2004-05	-	1237	-	1372	1389	1366	1392	1383	-	1253	-	-	1380	1235	1426	1272
+Jowar	-	2004-05	-	598	530	545	575	544	507	586	523	532	528	-	573	533	502	801
+Linseed	-	2004-05	-	1196	-	-	1215	1210	1180	-	1130	-	1125	1198	1168	-	1180	-
+Maize	-	2004-05	-	429	461	495	513	463	455	469	-	470	485	467	470	430	480	435
+Paddy	-	2004-05	Kharif	570	-	515	518	475	616	-	550	613	544	526	500	591	485	552
+Potato	-	2004-05	-	425	-	438	380	400	400	-	-	-	-	-	-	-	-	-
+Ragi	-	2004-05	-	549	-	-	-	-	-	-	-	546	-	-	-	-	-	513
+Sesamum	-	2004-05	-	1951	2052	2100	2100	2145	1983	2063	1963	1992	1900	1975	2082	2000	2125	-
+Soyabean	-	2004-05	-	950	1065	988	1000	860	900	930	976	892	875	850	800	850	825	1108
+Sunflower	-	2004-05	-	1280	1232	1147	1075	1132	-	1100	-	1103	-	-	1075	1078	1100	1000
+Tur Arhar	-	2004-05	-	1802	1975	2278	1993	1995	1821	1808	1500	1927	1978	1993	2010	1865	1978	1975
+Wheat	-	2004-05	-	811	755	683	673	803	701	785	667	603	681	792	693	608	767	635
+donotconsiderthisline	35
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Maharashtra
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Latur	Mumbai	Nagpur	Nanded	Nandurbar	Nasik	Osmanabad	Parbhani	Pune	Raigarh	Ratnagiri	Sangli	Satara	Sindhudurg	Solapur
+Bajra	-	2004-05	-	500	-	-	467	580	515	495	460	611	-	-	498	500	-	555
+CasterSeed	-	2004-05	-	-	-	1000	968	-	1100	-	990	-	-	-	-	-	-	945
+Chilly	-	2004-05	-	-	-	2460	2509	2501	2650	-	-	2837	-	-	2756	2997	-	2784
+Gram	-	2004-05	-	1383	-	1359	1392	1318	1297	1422	1365	1362	-	-	1363	1297	-	1383
+Ground Nut	-	2004-05	-	1383	-	1359	1390	1303	1289	1422	1350	1378	-	-	1355	1297	-	1403
+Jowar	-	2004-05	-	635	-	472	511	545	450	580	565	686	-	-	685	625	-	673
+Linseed	-	2004-05	-	1250	-	1133	1088	-	-	1392	1172	-	-	-	-	-	-	1145
+Maize	-	2004-05	-	475	-	485	580	498	488	487	439	515	-	-	425	492	-	505
+Paddy	-	2004-05	Kharif	536	-	490	526	634	633	484	410	405	606	570	478	529	602	500
+Potato	-	2004-05	-	-	-	378	-	-	407	-	-	372	-	-	-	385	-	-
+Ragi	-	2004-05	-	-	-	-	-	542	527	-	-	518	512	519	499	523	538	-
+Sesamum	-	2004-05	-	2095	-	2075	2073	1972	1765	2092	2210	1945	-	-	-	-	-	1930
+Soyabean	-	2004-05	-	1150	-	1051	838	887	805	925	866	830	-	-	970	920	-	802
+Sunflower	-	2004-05	-	1200	-	1155	1100	1025	1092	1125	1252	1157	-	-	1252	1035	-	1150
+Tur Arhar	-	2004-05	-	1943	-	1935	1822	1888	2058	1972	2045	1735	-	-	1920	1752	-	1939
+Wheat	-	2004-05	-	799	-	762	682	615	615	709	754	875	-	-	823	812	-	803
+donotconsiderthisline	36
+----------------------- Page 3-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Maharashtra
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Thane	Wardha	Washim	Yavatmal
+Bajra	-	2004-05	-	-	-	465	415
+Chilly	-	2004-05	-	-	-	-	2525
+Gram	-	2004-05	-	-	1354	1372	1360
+Ground Nut	-	2004-05	-	-	1365	-	1360
+Jowar	-	2004-05	-	-	468	527	465
+Linseed	-	2004-05	-	-	1100	-	1335
+Maize	-	2004-05	-	-	-	445	470
+Paddy	-	2004-05	Kharif	575	522	473	485
+Potato	-	2004-05	-	-	-	-	-
+Ragi	-	2004-05	-	465	-	-	-
+Sesamum	-	2004-05	-	-	2052	2045	2172
+Soyabean	-	2004-05	-	-	1150	825	1025
+Sunflower	-	2004-05	-	-	-	1145	1135
+Tur Arhar	-	2004-05	-	-	2200	2001	1893
+Wheat	-	2004-05	-	-	712	763	669
+donotconsiderthisline	37
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Manipur
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Banana	-	2004-05	-	1050
+Chilly	-	2004-05	-	9000
+Ginger	-	2004-05	-	650
+Maize	-	2004-05	-	500
+Paddy	-	2004-05	Autum	525
+	-	2004-05	Winter	562
+Potato	-	2004-05	-	550
+Rape/Mustard	-	2004-05	-	1350
+Sugarcane	-	2004-05	-	225
+donotconsiderthisline	38
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Madhya Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Anuppur	Ashoknagar	Balaghat	Barwani	Betul	Bhind	Bhopal	Burhanpur	Chhatarpur	Chhindwara	Damoh	Datia	Dewas	Dhar	Dindori
+Bajra	-	2004-05	-	-	-	-	522	-	497	-	-	-	-	-	-	-	432	-
+Barley	-	2004-05	-	-	-	-	-	-	613	-	-	513	-	-	500	-	-	-
+Chilly	Dry	2004-05	-	-	-	3517	-	3290	3709	4174	4663	-	3675	-	-	-	3002	-
+Cotton	-	2004-05	-	-	-	-	-	-	-	-	-	-	1509	-	-	2000	1788	-
+Ginger	Fresh	2004-05	-	-	3479	4343	3230	3464	-	-	4241	3458	3094	3364	-	-	3550	-
+Gram	-	2004-05	-	1425	1371	1500	-	1324	1441	1370	1503	1330	1239	1281	1438	1550	1323	1412
+Ground Nut	-	2004-05	-	-	-	-	1759	1273	-	998	1660	-	-	2015	-	-	1574	-
+Jowar	-	2004-05	Kharif	467	585	-	516	488	542	621	522	509	493	458	565	600	504	-
+	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	550	465	-
+Linseed	-	2004-05	-	1536	1655	-	-	-	1425	1718	-	-	-	1665	1609	1650	1575	1642
+Maize	-	2004-05	-	532	545	500	514	470	-	450	422	-	-	-	697	550	539	430
+Nigerseed		2004-05	-	1311	-	-	-	-	-	-	-	-	2405	-	-	-	-	-
+Potato	-	2004-05	Autum	-	-	-	-	-	-	-	-	-	-	-	-	-	685	-
+	-	2004-05	Winter	460	402	-	-	-	-	-	-	339	485	450	-	500	-	-
+	Hills	2004-05	Autum	678	-	-	-	-	-	-	-	609	-	650	-	-	-	-
+	Hills	2004-05	Winter	-	-	-	-	-	-	-	-	350	-	360	-	-	-	-
+Rape/Mustard	-	2004-05	-	-	1405	1400	-	-	1478	-	-	-	-	-	1520	-	-	1629
+Rice	Coarse	2004-05	-	-	-	-	1012	900	900	-	1000	-	-	840	969	-	1200	724
+Sannhemp	-	2004-05	-	-	-	-	-	-	-	-	-	-	1050	-	-	-	-	-
+Sesamum	-	2004-05	Kharif	2732	-	-	-	-	3411	-	2380	2870	-	2405	3208	-	-	-
+Soyabean	-	2004-05	-	-	-	-	1232	1211	-	1256	-	-	1217	-	-	1291	1209	-
+Sugar Raw	-	2004-05	-	-	1499	1668	-	1453	-	1510	-	-	1397	-	-	1800	1755	-
+Tobacco	-	2004-05	-	-	-	-	-	-	3559	-	-	-	-	-	-	-	1898	-
+Tur Arhar	Delay	2004-05	-	1373	-	-	-	1500	1438	1329	-	-	1508	1293	-	-	-	-
+	Early	2004-05	-	1693	-	-	-	1367	1350	1720	-	-	1330	1279	-	-	1610	-
+Turmeric	-	2004-05	-	3363	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Wheat	-	2004-05	-	732	731	800	669	670	632	663	714	626	634	626	661	750	637	-
+donotconsiderthisline	31
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Madhya Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Guna	Gwalior	Harda	Hoshangabad	Indore	Jabalpur	Jhabua	Katni	Khandwa	Khargone	Mandla	Mandsaur	Morena	Narsinghpur	Neemuch
+Bajra	-	2004-05	-	-	440	-	-	-	-	579	-	513	450	-	512	466	-	-
+Barley	-	2004-05	-	-	496	-	-	-	-	-	-	-	-	-	564	594	-	-
+CasterSeed	-	2004-05	-	-	-	-	-	-	-	1400	-	-	-	-	-	-	-	-
+Chilly	Dry	2004-05	-	-	3488	4158	3713	3610	-	3635	-	3105	2838	-	3825	4748	-	-
+Cotton	-	2004-05	-	-	-	-	-	-	-	1852	-	-	1810	-	-	-	-	-
+Ginger	Fresh	2004-05	-	-	-	4501	3606	2361	3367	-	3147	3532	3371	-	-	-	3549	-
+Gram	-	2004-05	-	1407	1431	1295	1315	1426	1294	1426	-	1316	1386	-	1377	1451	1340	1402
+Ground Nut	-	2004-05	-	-	1293	-	-	1552	-	1339	-	1676	1641	-	1455	1471	-	1628
+Jowar	-	2004-05	Kharif	757	495	603	-	529	498	510	-	517	517	-	521	350	507	-
+	-	2004-05	Rabi	-	-	525	-	-	-	-	-	-	590	-	-	-	-	-
+Linseed	-	2004-05	-	1621	1730	1698	1492	1519	1612	-	1668	1866	-	-	1743	1705	-	-
+Maize	-	2004-05	-	-	578	-	-	476	471	616	541	478	493	525	505	-	-	553
+Mesta	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	-	700	-	-
+Nigerseed		2004-05	-	-	-	-	-	-	1573	-	-	-	-	-	-	-	-	-
+Paddy	Coarse	2004-05	-	-	-	-	-	-	541	-	-	-	-	430	-	-	-	-
+Potato	-	2004-05	Autum	-	500	-	-	-	653	-	-	-	-	-	-	-	-	-
+	-	2004-05	Winter	-	462	-	-	431	-	-	395	-	-	-	-	435	408	-
+	Hills	2004-05	Autum	596	-	-	-	645	-	-	-	-	-	-	-	550	618	-
+	Hills	2004-05	Winter	-	-	-	-	-	-	-	-	-	-	-	-	346	-	-
+Rape/Mustard	-	2004-05	-	1439	1491	-	-	-	1438	-	1406	-	-	-	-	1452	-	1504
+Rice	Coarse	2004-05	-	-	702	1297	-	979	824	862	786	931	800	-	-	1222	628	-
+Sannhemp	-	2004-05	-	-	-	-	-	-	1200	-	-	1700	-	-	-	-	-	-
+Sesamum	-	2004-05	Kharif	-	3150	3284	-	-	2464	2469	-	3017	-	3200	3023	2891	-	-
+Soyabean	-	2004-05	-	-	1171	1183	1255	1302	-	-	-	-	-	-	1226	-	1180	1236
+Sugar Raw	-	2004-05	-	1526	1338	-	-	1783	-	-	-	-	1672	-	1618	1418	1289	-
+Tobacco	-	2004-05	-	-	-	-	-	4000	-	-	-	-	2067	4000	-	-	-	-
+Tur Arhar	Delay	2004-05	-	-	1825	-	1460	-	1337	1081	-	1650	1400	-	1656	1683	1463	-
+	Early	2004-05	-	-	-	-	1273	-	1398	-	-	1418	1645	1500	1690	-	1279	-
+Wheat	-	2004-05	-	806	680	650	637	714	641	658	634	676	654	700	670	679	670	673
+donotconsiderthisline	32
+----------------------- Page 3-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Madhya Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Panna	Raisen	Rajgarh	Ratlam	Rewa	Sagar	Satna	Sehore	Shahdol	Shajapur	Sheopur	Shivani	Shivpuri	Sidhi	Tikamgarh
+Bajra	-	2004-05	-	-	-	-	-	625	-	-	-	-	-	570	-	455	-	-
+Barley	-	2004-05	-	538	-	-	-	500	-	591	-	-	-	-	-	-	-	544
+Chilly	Dry	2004-05	-	-	-	3679	2972	-	-	-	3529	-	3472	4000	-	4497	-	3000
+Cotton	-	2004-05	-	-	-	-	1847	-	-	-	-	-	-	-	-	-	-	-
+Ginger	Fresh	2004-05	-	-	-	-	-	2900	3551	3855	3963	-	-	-	3678	-	-	3128
+Gram	-	2004-05	-	1406	1347	1364	1328	1300	1300	1386	1324	1217	1393	-	1251	1386	1338	1292
+Ground Nut	-	2004-05	-	-	-	1513	-	-	1885	-	-	-	1893	1350	1452	1348	-	-
+Jowar	-	2004-05	Kharif	-	575	543	600	533	520	-	533	-	508	-	434	678	425	500
+Linseed	-	2004-05	-	1600	1600	-	-	1680	1645	1640	-	1576	-	-	1698	1616	1625	1117
+Maize	-	2004-05	-	-	450	516	555	-	-	-	491	-	457	-	456	442	576	-
+Mesta	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	-	580	-	-
+Nigerseed		2004-05	-	-	-	-	-	-	-	-	-	-	-	-	1650	-	-	-
+Paddy	Coarse	2004-05	-	-	-	-	-	-	-	435	-	560	-	548	-	-	-	560
+Potato	-	2004-05	Winter	500	-	-	-	500	366	468	-	438	-	400	468	433	543	375
+	Hills	2004-05	Autum	370	-	-	-	500	453	-	-	508	-	-	-	561	650	558
+	Hills	2004-05	Winter	500	-	-	-	500	417	508	-	517	-	-	-	483	560	400
+Rape/Mustard	-	2004-05	-	1333	-	-	-	1475	-	-	-	-	-	1205	-	-	1415	-
+Rice	Coarse	2004-05	-	845	1000	830	-	800	925	799	-	-	-	-	763	907	800	889
+Sannhemp	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	667	-	-	-
+Sesamum	-	2004-05	Kharif	3060	-	-	-	-	2819	3200	-	2442	-	-	2499	2919	2183	3058
+Soyabean	-	2004-05	-	-	1178	1195	1229	-	-	-	1225	-	1211	1172	1168	-	-	-
+Sugar Raw	-	2004-05	-	1222	-	1716	1550	-	-	-	1681	-	1386	1618	1537	1412	-	1648
+Tobacco	-	2004-05	-	-	-	-	-	4000	-	-	-	4259	-	-	-	3150	-	-
+Tur Arhar	Delay	2004-05	-	1633	1345	-	-	1500	1379	1634	1497	1325	1396	-	1714	-	1306	-
+	Early	2004-05	-	2030	1267	1681	-	-	-	-	1525	-	1522	-	1381	1369	1313	-
+Turmeric	-	2004-05	-	-	-	-	-	-	-	-	-	-	-	-	-	-	4000	-
+Wheat	-	2004-05	-	655	672	675	661	716	648	672	521	640	719	636	632	672	600	640
+donotconsiderthisline	33
+----------------------- Page 4-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Madhya Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ujjain	Umaria	Vidisha
+Bajra	-	2004-05	-	613	-	-
+Barley	-	2004-05	-	-	704	-
+Chilly	Dry	2004-05	-	3757	5164	-
+Ginger	Fresh	2004-05	-	-	3331	-
+Gram	-	2004-05	-	1323	1320	1372
+Ground Nut	-	2004-05	-	1604	-	-
+Jowar	-	2004-05	Kharif	556	524	-
+Linseed	-	2004-05	-	1591	1548	-
+Maize	-	2004-05	-	550	496	-
+Nigerseed		2004-05	-	-	1380	-
+Potato	-	2004-05	Winter	-	487	-
+Rape/Mustard	-	2004-05	-	-	1515	-
+Rice	Coarse	2004-05	-	-	894	-
+Sesamum	-	2004-05	Kharif	-	2108	-
+Soyabean	-	2004-05	-	1252	-	-
+Tobacco	-	2004-05	-	-	3963	-
+Tur Arhar	Delay	2004-05	-	1437	1417	-
+	Early	2004-05	-	1363	-	-
+Turmeric	-	2004-05	-	-	4225	-
+Wheat	-	2004-05	-	671	727	748
+donotconsiderthisline	34
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Mizoram
+	(Rs. per Quintal)
+_________________________________________________________________________________________________________________________
+Crop	Variety	Year	Season	Kerala
+Banana	-	2004-05	-	949
+Chilly	Dry	2004-05	-	3916
+Cotton	-	2004-05	-	5083
+Ginger	-	2004-05	-	983
+Maize	-	2004-05	-	708
+Paddy	-	2004-05	-	716
+Potato	-	2004-05	-	1133
+Rape/Mustard	-	2004-05	-	1125
+Sesamum	-	2004-05	-	2150
+Soyabean	-	2004-05	-	2283
+Sugarcane	-	2004-05	-	616
+Tapioca	-	2004-05	-	750
+Tobacco	-	2004-05	-	9149
+Tur Arhar	-	2004-05	-	1149
+Turmeric	-	2004-05	-	1200
+donotconsiderthisline	39
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Nagaland
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Ginger	-	2004-05	-	800
+Maize	-	2004-05	-	620
+Paddy	Coarse	2004-05	-	590
+	Fine	2004-05	-	630
+donotconsiderthisline	40
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Orissa
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Ground Nut	-	2004-05	-	1576
+Jute	-	2004-05	-	935
+Maize	-	2004-05	-	401
+Paddy	-	2004-05	-	469
+Potato	-	2004-05	-	501
+Ragi	-	2004-05	-	523
+Rape/Mustard	-	2004-05	-	2069
+Sesamum	-	2004-05	-	1953
+Sugarcane	-	2004-05	-	103
+Wheat	-	2004-05	-	785
+donotconsiderthisline	41
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Punjab
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Amritsar	Bhatinda	Faridkot	Fatehgarh_Sahib	Firozpur	Gurdaspur	Hoshiarpur	Jalandhar	kapurthala	Ludhiana	Mansa	Moga	Muktsar	Nawanshahar	Patiala
+Bajra	-	2004-05	-	455	700	460	-	-	750	895	-	-	560	490	-	453	-	-
+Barley	-	2004-05	-	535	650	485	625	580	700	995	-	-	580	520	520	451	-	550
+Cotton	American	2004-05	-	3950	2000	1800	-	2008	-	2610	-	-	2350	1900	1850	2700	-	-
+	Desi	2004-05	-	4150	1850	1700	-	1808	1600	3100	-	-	2500	1880	1850	1550	-	1570
+Gram	-	2004-05	-	1675	2100	1750	-	1320	1900	1875	-	-	1760	1485	1650	1200	1750	1325
+Ground Nut	-	2004-05	-	2050	1300	1300	-	1475	2000	1550	1170	1950	2400	1650	-	1250	-	2200
+Linseed	-	2004-05	-	1115	-	-	-	1450	2600	2050	1900	-	1430	-	-	2850	1800	-
+Maize	-	2004-05	-	575	820	-	675	550	560	460	550	500	670	350	-	510	510	580
+Paddy	-	2004-05	-	685	580	590	601	610	600	593	557	590	630	590	590	590	590	590
+Potato	-	2004-05	-	350	550	200	650	413	300	450	550	250	450	250	260	360	200	200
+Rape/Mustard	-	2004-05	-	1005	1600	1800	1650	1450	1675	1275	1700	1100	1750	1650	1650	1745	1750	1700
+Sesamum	-	2004-05	-	2315	2250	-	-	2749	4500	3975	2000	1950	-	1533	-	3100	-	-
+Sugar Raw	-	2004-05	-	1555	1250	1500	1775	1300	1500	1895	1350	1100	1550	1200	1500	1100	950	1250
+Toria	-	2004-05	-	1110	-	-	-	-	-	-	-	-	-	-	-	-	-	1450
+Wheat	-	2004-05	-	595	710	630	641	640	680	633	630	630	640	630	750	620	630	630
+donotconsiderthisline	43
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Punjab
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Rupnagar	Sangrur
+Bajra	-	2004-05	-	450	400
+Barley	-	2004-05	-	-	540
+Cotton	American	2004-05	-	-	1850
+	Desi	2004-05	-	-	1800
+Gram	-	2004-05	-	1900	1250
+Ground Nut	-	2004-05	-	-	2100
+Maize	-	2004-05	-	500	800
+Paddy	-	2004-05	-	590	590
+Potato	-	2004-05	-	150	350
+Rape/Mustard	-	2004-05	-	1125	1300
+Sesamum	-	2004-05	-	2500	2500
+Sugar Raw	-	2004-05	-	1200	1800
+Wheat	-	2004-05	-	630	630
+donotconsiderthisline	44
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Pondicherry
+	* : Rs.	100 Nos (Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Bajra	-	2004-05	-	466
+Coconut*	-	2004-05	-	459
+Cotton	-	2004-05	-	1720
+Ground Nut	-	2004-05	-	1924
+Paddy	Coarse	2004-05	-	555
+	Fine	2004-05	-	620
+Ragi	-	2004-05	-	455
+Sesamum	-	2004-05	-	1846
+donotconsiderthisline	42
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Rajasthan
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Ajmer	Alwar	Banswara	Baran	Barmer	Bharatpur	Bhilwara	Bikaner	Bundi	Chittorgarh	Churu	Dausa	Dholpur	Dungarpur	Ganganagar
+Bajra	-	2004-05	Kharif	487	521	423	453	667	456	492	578	443	-	517	575	473	578	560
+Barley	-	2004-05	Rabi	632	534	604	553	758	531	614	559	576	574	570	551	530	584	498
+CasterSeed	-	2004-05	Rabi	-	-	1200	-	1500	-	1307	-	-	-	-	-	-	-	-
+Chilly	Dry	2004-05	Kharif	3848	-	4020	3145	-	3258	3614	-	4471	3926	-	-	4000	3322	-
+Cotton	-	2004-05	Kharif	1898	1909	1997	-	-	1942	1708	1678	-	2255	1590	-	3930	-	2050
+	Lint	2004-05	Kharif	-	-	4976	-	-	3820	4350	-	-	-	-	-	4502	-	-
+Ginger	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	-	-	-	3096	-
+Gram	-	2004-05	Rabi	1408	1399	1448	1418	2040	1448	1395	1430	1471	1357	1385	1436	1511	1364	1496
+Ground Nut	-	2004-05	Kharif	1618	2060	1943	1463	-	1771	1510	1605	1685	1500	1645	1550	1725	1406	1637
+Jowar	-	2004-05	Kharif	523	551	374	566	625	563	496	619	512	502	-	410	506	531	-
+Linseed	-	2004-05	Rabi	1711	-	1167	-	-	-	1357	-	1905	1574	-	-	1662	-	-
+Maize	-	2004-05	Kharif	571	560	522	494	-	589	542	-	525	523	-	498	529	584	-
+Paddy	-	2004-05	Kharif	-	-	996	790	-	722	675	-	820	746	-	-	730	-	745
+Potato	-	2004-05	Rabi	-	-	571	599	-	467	-	-	450	-	-	-	684	706	-
+Rape/Mustard	-	2004-05	Rabi	1599	1555	1566	1417	1863	1468	1543	1396	1508	1590	1645	1548	1590	1503	1643
+Rice	-	2004-05	Kharif	-	-	1622	1601	-	1415	1292	-	1276	1340	-	-	1208	1146	1395
+Sannhemp	-	2004-05	Kharif	-	-	2002	-	-	1598	729	-	-	-	-	-	-	700	-
+Sesamum	-	2004-05	Kharif	2958	2967	2801	2690	2603	3173	3145	2573	3271	2913	3100	3129	2715	3067	2977
+Sugar Raw	-	2004-05	Rabi	-	-	-	1563	-	965	1657	-	-	-	-	-	1621	1511	-
+Tobacco	-	2004-05	Rabi	-	-	3072	-	-	-	-	-	-	-	-	-	-	-	-
+Tur Arhar	-	2004-05	Rabi	-	-	1800	-	-	1537	-	-	-	-	-	-	1721	-	-
+Wheat	-	2004-05	Rabi	834	690	680	654	827	900	922	682	685	697	700	699	665	696	703
+donotconsiderthisline	45
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Rajasthan
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Hanumangarh	Jaipur	Jaisalmer	Jalor	Jhalawar	Jhunjunu	Jodhpur	Karauli	Kota	Nagaur	Pali	Rajsamand	Sawai_Madhopur	Sikar	Sirohi
+Bajra	-	2004-05	Kharif	545	472	-	570	-	522	523	527	-	522	524	741	460	503	565
+Barley	-	2004-05	Rabi	505	547	-	700	546	514	642	570	581	622	650	752	590	569	634
+CasterSeed	-	2004-05	Rabi	-	-	-	1650	-	-	1454	-	-	-	1379	-	-	-	-
+Chilly	Dry	2004-05	Kharif	-	4300	4050	3000	4220	-	4959	3000	4098	4778	5425	4803	4295	3200	4207
+Cotton	-	2004-05	Kharif	1940	-	-	2500	-	-	2356	-	-	1840	1676	2490	-	2340	1670
+	Lint	2004-05	Kharif	-	-	-	-	-	-	3475	-	-	-	-	5038	-	3435	3300
+Gram	-	2004-05	Rabi	1375	1414	-	-	1316	1404	1464	1430	1481	1405	1393	1748	1419	1380	1569
+Ground Nut	-	2004-05	Kharif	1618	1576	1600	1500	1665	-	1579	1840	1704	2675	2418	1532	1687	1590	1333
+Jowar	-	2004-05	Kharif	575	529	524	600	580	-	628	560	606	569	539	595	528	595	521
+Linseed	-	2004-05	Rabi	-	-	-	-	1452	-	-	-	1753	-	-	-	1512	-	-
+Maize	-	2004-05	Kharif	-	493	-	600	480	-	644	590	389	561	552	537	521	750	575
+Paddy	-	2004-05	Kharif	-	-	-	-	775	-	-	800	795	-	-	630	-	-	-
+Potato	-	2004-05	Rabi	400	-	-	-	522	-	-	-	370	-	-	-	-	-	471
+Rape/Mustard	-	2004-05	Rabi	1590	1531	1700	1700	1760	1556	1571	1720	1546	1585	1537	1717	1565	1461	1416
+Rice	-	2004-05	Kharif	1450	-	-	-	1220	-	-	1000	1665	-	-	1224	-	-	-
+Sannhemp	-	2004-05	Kharif	-	-	-	-	2245	-	-	-	-	-	3200	560	661	-	610
+Sesamum	-	2004-05	Kharif	2680	2646	2064	2700	2550	-	2820	3100	2735	2978	3280	4243	3270	2740	2467
+Sugar Raw	-	2004-05	Rabi	1525	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+Tobacco	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	1811
+Tur Arhar	-	2004-05	Rabi	-	1427	-	-	-	-	-	-	-	-	-	-	-	-	1539
+Wheat	-	2004-05	Rabi	650	813	800	900	663	715	805	720	675	766	863	724	713	750	875
+donotconsiderthisline	46
+----------------------- Page 3-----------------------
+	CROP WISE	Farm Harvest Prices of Principal Crops in India -	Rajasthan
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Tonk	Udaipur
+Bajra	-	2004-05	Kharif	490	-
+Barley	-	2004-05	Rabi	579	638
+Chilly	Dry	2004-05	Kharif	3200	4047
+Cotton	-	2004-05	Kharif	-	2200
+Ginger	-	2004-05	Kharif	-	3095
+Gram	-	2004-05	Rabi	1480	1398
+Ground Nut	-	2004-05	Kharif	1403	1636
+Jowar	-	2004-05	Kharif	565	529
+Linseed	-	2004-05	Rabi	1427	1388
+Maize	-	2004-05	Kharif	518	559
+Paddy	-	2004-05	Kharif	-	623
+Potato	-	2004-05	Rabi	492	-
+Rape/Mustard	-	2004-05	Rabi	1551	1476
+Rice	-	2004-05	Kharif	-	956
+Sannhemp	-	2004-05	Kharif	-	2300
+Sesamum	-	2004-05	Kharif	3031	2653
+Wheat	-	2004-05	Rabi	705	721
+donotconsiderthisline	47
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Tamil Nadu
+	* : Rs.	100 Nos	(Rs. per Quintal)
+Crop	Variety	Year	Season	Coimbatore	Cuddalore	Dharmapuri	Dindugal	Erode	Kanchipuram	Kanyakumari	Karur	Krishnagiri	Madurai	Nagapattinam	Namakkal	Nilgiris	Perambalur	Pudukkottai
+Arecanut	-	2004-05	-	5208	-	-	-	-	-	1700	-	-	-	-	-	-	-	-
+Bajra	-	2004-05	-	571	501	498	508	592	611	558	541	487	516	-	572	-	-	595
+Banana*	-	2004-05	-	73	73	74	-	63	77	74	70	71	79	74	74	98*	-	51*
+CasterSeed	-	2004-05	-	1386	-	1476	1316	1445	-	-	-	-	1151	-	1476	-	-	-
+Chilly	-	2004-05	-	1721	2296	2883	1267	1511	2023	2000	1790	2837	1151	2093	2834	2744	-	1837
+Coconut	With husk	2004-05	-	394	389	382	345	323	419	426	348	426	372	279	-	-	-	349
+Cotton	-	2004-05	-	1554	-	-	-	1688	-	-	-	-	1035	-	1686	1073	-	-
+Gram	-	2004-05	-	1860	1984	2398	2046	1882	-	1953	-	3006	1767	1998	-	2052	-	1876
+Ground Nut	-	2004-05	-	1468	1567	1395	1363	1535	1558	-	1535	1046	1485	-	1356	-	-	-
+Jowar	-	2004-05	-	603	-	520	530	683	-	-	574	463	512	-	860	-	-	-
+Maize	-	2004-05	-	486	553	-	446	440	-	-	-	-	523	-	-	-	-	453
+Paddy	-	2004-05	-	-	483	496	549	568	473	460	528	465	485	500	533	-	-	487
+Potato	-	2004-05	-	-	-	-	442	573	-	-	-	589	-	-	-	837	-	-
+Ragi	-	2004-05	-	577	448	522	540	683	655	698	-	509	623	-	579	673	-	623
+Sesamum	-	2004-05	-	2262	2043	2209	1732	2012	1918	-	2177	2325	1767	-	2069	-	2103	1932
+Sugar Raw	-	2004-05	-	1330	1484	1209	1213	1219	1361	1395	1157	1238	1335	1389	1339	1745	-	1414
+Tapioca	-	2004-05	-	465	-	-	-	-	-	366	-	-	-	-	-	-	-	-
+Tur Arhar	-	2004-05	-	1550	1288	1302	1236	2067	-	-	-	1302	1860	-	-	-	-	2325
+Turmeric	-	2004-05	-	2064	3203	-	2325	1605	-	-	3674	-	2790	3488	-	-	-	3534
+donotconsiderthisline	48
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Tamil Nadu
+	* : Rs.	100 Nos	(Rs. per Quintal)
+	Ramanathap	Thiruvanna	Tiruchirappa	Virudhunaga 
+Crop	Variety	Year	Season	Ramanathapuram	Salem	Sivaganga	Thanjavur	Theni	Thirunelveli	Thiruvannamalai	Thiruvarur	Thoothukudi	Tiruchirappalli	Tiruvallur	Vellore	Viluppuram	Virudhunagar
+Bajra	-	2004-05	-	-	545	-	621	486	492	539	-	480	538	512	540	527	480
+Banana*	-	2004-05	-	72	70	-	62	59	70	35	-	-	65	-	71	77	78
+CasterSeed	-	2004-05	-	-	1559	-	-	-	-	-	-	1113	1477	-	-	1165	1414
+Chilly	-	2004-05	-	1465	3083	1116	1719	1837	1645	1651	1891	1130	1442	1889	1866	2244	1476
+Coconut	With husk	2004-05	-	416	269	372	273	392	405	378	282	450	349	477	212	388	427
+Cotton	-	2004-05	-	1116	-	-	1057	1353	1764	-	-	-	-	-	-	1706	1356
+Gram	-	2004-05	-	-	2195	-	1902	-	2046	1877	1961	1907	1901	-	1953	-	1828
+Ground Nut	-	2004-05	-	-	1500	1395	1383	-	1167	1407	1395	-	1421	1395	1446	1565	1208
+Jowar	-	2004-05	-	-	735	-	-	440	654	568	-	465	517	-	521	677	493
+Maize	-	2004-05	-	-	474	-	520	470	558	-	-	437	481	-	-	418	528
+Paddy	-	2004-05	-	526	496	472	486	539	483	487	493	462	528	506	514	482	449
+Ragi	-	2004-05	-	452	569	-	711	451	618	571	-	448	634	632	583	459	425
+Sesamum	-	2004-05	-	1912	2113	-	1905	2147	2139	1931	1905	1485	2069	1918	1905	1939	1366
+Sugar Raw	-	2004-05	-	-	1339	-	1354	1315	1354	1305	1366	1316	1269	1498	1346	1298	1298
+Tapioca	-	2004-05	-	-	193	-	442	-	-	-	-	-	-	-	-	-	-
+Tur Arhar	-	2004-05	-	-	1830	-	2444	1411	-	1288	2240	-	-	-	1335	1622	1465
+Turmeric	-	2004-05	-	-	2167	-	3263	2516	3255	2857	3759	2813	2883	-	3348	2463	3069
+donotconsiderthisline	49
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Tripura
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	State
+Cotton	Un-g	2004-05	-	1755
+Jute	-	2004-05	-	926
+Mesta	-	2004-05	-	663
+Potato	-	2004-05	-	664
+Rape/Mustard	-	2004-05	-	2300
+Rice	-	2004-05	Autum	635
+	-	2004-05	Summer	556
+	-	2004-05	Winter	690
+Sesamum	-	2004-05	-	1961
+Sugarcane	-	2004-05	-	500
+donotconsiderthisline	50
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Agra	Aligarh	Allahabad	Ambedkar_Nagar	Auraiya	Azamgarh	Bagpat	Bahraich	Ballia	Balrampur	Banda	Barabanki	Bareilly	Basti	Bijnor
+Bajra	-	2004-05	Kharif	449	434	-	-	-	-	-	-	-	-	-	-	-	-	-
+Barley	-	2004-05	Rabi	603	551	-	-	-	-	-	-	540	-	-	-	-	-	-
+Cotton	-	2004-05	Kharif	1601	1922	-	-	-	-	1640	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	1445	-	-	-	-	-	-	-	1778	-	1438	-	-	-	-
+Ground Nut	-	2004-05	Kharif	-	-	-	-	-	-	-	1988	-	-	-	-	-	-	1358
+Jowar	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	410	-	-	-	-
+Linseed	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	1835	-	-	-	-
+Maize	-	2004-05	Kharif	-	573	-	-	-	-	-	436	-	-	-	-	-	-	-
+Paddy	-	2004-05	Kharif	-	964	-	470	-	-	1023	457	551	560	482	-	-	433	573
+Potato	-	2004-05	Rabi	246	256	-	-	-	-	-	-	222	-	-	-	-	434	-
+Rape/Mustard	-	2004-05	Rabi	1511	1402	-	-	-	-	-	1650	-	-	-	-	-	-	-
+Sannhemp	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	1563	-	-	-	-
+Sesamum	-	2004-05	Kharif	3233	-	-	-	-	-	-	-	-	-	2183	-	-	-	-
+Sugar Raw	-	2004-05	Kharif	-	-	-	-	-	-	1174	1125	-	-	-	-	-	1069	1231
+Sugarcane	-	2004-05	Kharif	-	-	-	-	-	-	101	105	-	-	-	-	-	113	105
+Tur Arhar	-	2004-05	Rabi	1675	-	-	-	-	-	-	1591	1719	-	1577	-	-	1988	-
+Wheat	-	2004-05	Rabi	662	679	-	629	-	-	-	543	631	-	633	-	-	638	664
+donotconsiderthisline	51
+----------------------- Page 2-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Budaun	Bulandshahr	Chandauli	Chitrakoot	Deoria	Etah	Etawah	Faizabad	Farrukhabad	Fatehpur	Firozabad	Gautam_Budha_Nagar	Ghaziabad	Ghazipur	Gonda
+donotconsiderthisline	Nagar
+Bajra	-	2004-05	Kharif	-	534	-	-	-	489	-	-	-	432	417	-	-	564	-
+Barley	-	2004-05	Rabi	-	606	-	-	1154	485	-	-	-	405	586	-	-	650	-
+Cotton	-	2004-05	Kharif	-	3381	-	-	-	1531	-	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	-	-	-	-	-	1535	-	-	-	1496	-	-	-	1725	-
+Jowar	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	406	-	-	-	683	-
+Maize	-	2004-05	Kharif	-	570	-	-	-	443	-	-	465	-	512	-	-	-	-
+Paddy	-	2004-05	Kharif	-	872	-	-	524	483	-	-	521	576	584	-	-	495	-
+Potato	-	2004-05	Rabi	-	201	-	-	-	216	-	-	-	320	260	-	334	321	-
+Rape/Mustard	-	2004-05	Rabi	-	1794	-	-	-	1445	-	1459	-	1321	1459	-	-	-	-
+Sesamum	-	2004-05	Kharif	-	-	-	-	-	1943	-	-	2090	3063	-	-	-	-	-
+Sugar Raw	-	2004-05	Kharif	-	1259	-	-	1564	-	-	-	-	1625	-	-	-	1493	-
+Sugarcane	-	2004-05	Kharif	-	97	-	-	89	-	-	-	-	95	-	-	-	119	-
+Tobacco	-Desi	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+	Calcattia	2004-05	Rabi	-	-	-	-	-	1712	-	-	1547	-	-	-	-	-	-
+Tur Arhar	-	2004-05	Rabi	-	1563	-	-	1847	-	-	-	-	1613	-	-	-	1580	-
+Wheat	-	2004-05	Rabi	-	640	-	-	522	543	-	-	634	473	630	-	665	618	-
+donotconsiderthisline	52
+----------------------- Page 3-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Gorakhpur	Hamirpur	Hardoi	Hathras	Jalaun	Jaunpur	Jhansi	Jyotiba_Phule_Nagar	Kannauj	Kanpur_Dehat	Kanpur_Nagar	Kaushambi	Kheri	KushiNagar	Lalitpur
+Bajra	-	2004-05	Kharif	-	-	-	420	468	-	-	-	-	-	-	-	-	-	-
+Barley	-	2004-05	Rabi	-	-	515	-	561	-	516	-	-	-	-	-	-	1266	521
+Cotton	-	2004-05	Kharif	-	-	-	1631	-	-	-	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	-	1514	1489	-	1435	-	1363	-	-	-	-	-	-	-	1313
+Ground Nut	-	2004-05	Kharif	-	-	1895	-	-	-	1570	-	-	-	-	-	1300	-	1486
+Jowar	-	2004-05	Kharif	-	498	404	-	474	-	492	-	-	-	-	-	-	-	534
+Linseed	-	2004-05	Rabi	-	1774	-	-	-	-	1716	-	-	-	-	-	-	-	1657
+Maize	-	2004-05	Kharif	-	-	441	563	-	-	-	-	456	-	-	-	488	-	440
+Paddy	-	2004-05	Kharif	-	-	560	550	-	-	-	-	512	-	-	-	525	541	584
+Potato	-	2004-05	Rabi	-	-	194	-	-	-	-	-	255	-	-	-	-	-	-
+Rape/Mustard	-	2004-05	Rabi	-	1406	1442	-	1505	-	1542	-	1422	-	-	-	1301	1600	-
+Sannhemp	-	2004-05	Kharif	-	680	-	-	-	-	-	-	-	-	-	-	-	1818	-
+Sesamum	-	2004-05	Kharif	-	3149	1905	-	2557	-	3099	-	2696	-	-	-	-	-	1942
+Soyabean	-	2004-05	Kharif	-	759	-	-	-	-	1260	-	-	-	-	-	-	-	1271
+Sugar Raw	-	2004-05	Kharif	-	-	921	-	-	-	-	-	-	-	-	-	1175	1585	-
+Sugarcane	-	2004-05	Kharif	-	-	81	-	-	-	-	-	-	-	-	-	53	95	-
+Tur Arhar	-	2004-05	Rabi	-	1596	1696	-	1558	-	-	-	-	-	-	-	-	-	-
+Turmeric	-	2004-05	Rabi	-	-	-	-	-	-	-	-	-	-	-	-	702	266	-
+Wheat	-	2004-05	Rabi	-	634	628	-	615	-	636	-	612	-	-	-	510	573	645
+donotconsiderthisline	53
+----------------------- Page 4-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Lucknow	Mahamaya_Nagar	Maharajganj	Mahoba	Mainpuri	Mathura	Mau	Meerut	Mirzapur	Moradabad	Muzaffarnagar	Pilibhit	Pratapgarh	RaeBareli	Rampur
+Bajra	-	2004-05	Kharif	-	-	-	-	375	-	-	-	458	-	-	-	405	-	-
+Barley	-	2004-05	Rabi	-	551	-	-	588	-	624	-	-	-	-	-	630	-	-
+Cotton	-	2004-05	Kharif	-	2761	-	-	-	-	-	-	-	-	-	-	-	-	-
+Gram	-	2004-05	Rabi	-	-	-	1377	-	-	-	-	-	-	-	-	1702	-	-
+Ground Nut	-	2004-05	Kharif	-	-	-	1744	-	-	-	-	1950	-	-	-	-	-	-
+Jowar	-	2004-05	Kharif	473	-	-	514	-	-	-	-	455	-	-	-	404	-	-
+Linseed	-	2004-05	Rabi	-	-	-	1761	-	-	-	-	-	-	-	-	-	-	-
+Maize	-	2004-05	Kharif	-	-	-	-	453	-	508	-	-	-	-	-	-	-	-
+Paddy	-	2004-05	Kharif	480	635	-	-	493	-	480	678	496	-	-	-	470	-	-
+Potato	-	2004-05	Rabi	-	234	-	-	218	-	-	233	-	288	-	-	373	-	-
+Rape/Mustard	-	2004-05	Rabi	-	1357	-	-	1305	-	-	-	-	1463	-	-	-	-	-
+Sannhemp	-	2004-05	Kharif	-	-	-	662	-	-	-	-	-	-	-	-	-	-	-
+Sesamum	-	2004-05	Kharif	3097	-	-	2559	-	-	-	-	2400	-	-	-	-	-	-
+Sugar Raw	-	2004-05	Kharif	-	1154	-	-	-	-	-	-	1300	-	-	-	-	-	-
+Sugarcane	-	2004-05	Kharif	-	108	-	-	-	-	-	-	95	-	-	-	-	-	-
+Tur Arhar	-	2004-05	Rabi	-	1598	-	-	-	-	1984	-	-	-	-	-	1636	-	-
+Wheat	-	2004-05	Rabi	-	641	-	661	619	-	622	678	-	663	649	-	655	-	-
+donotconsiderthisline	54
+----------------------- Page 5-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	Uttar Pradesh
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Saharanpur	Sant_Ravidas_Nagar	Sant_Kabir_Nagar	Shahjahanpur	Shrawasti	Siddharthna	Sitapur	Sonbhadra	Sultanpur	Unnao	Varanasi
+donotconsiderthisline	Nagar
+Barley	-	2004-05	Rabi	-	-	-	-	-	-	-	524	-	549	-
+Gram	-	2004-05	Rabi	-	-	-	-	-	-	-	1538	-	-	-
+Ground Nut	-	2004-05	Kharif	1268	-	-	1751	-	-	1279	-	-	1528	-
+Jowar	-	2004-05	Kharif	-	-	-	474	-	-	469	-	-	479	-
+Linseed	-	2004-05	Rabi	-	-	-	-	-	-	-	1726	-	-	-
+Maize	-	2004-05	Kharif	491	-	-	-	-	-	516	415	-	487	-
+Paddy	-	2004-05	Kharif	623	-	477	504	-	-	525	437	-	519	538
+Potato	-	2004-05	Rabi	-	-	-	257	-	-	-	401	-	286	304
+Rape/Mustard	-	2004-05	Rabi	-	-	-	1597	-	-	-	1538	-	1244	-
+Sannhemp	-	2004-05	Kharif	-	-	-	-	-	-	-	-	-	-	2121
+Sesamum	-	2004-05	Kharif	-	-	-	2484	-	-	2053	2134	-	2538	-
+Sugar Raw	-	2004-05	Kharif	1009	-	-	1378	-	-	1187	-	-	-	-
+Sugarcane	-	2004-05	Kharif	107	-	-	87	-	-	109	-	-	90	-
+Tur Arhar	-	2004-05	Rabi	-	-	-	-	-	-	-	1548	-	1320	1944
+Wheat	-	2004-05	Rabi	621	-	-	601	-	-	-	653	-	606	643
+donotconsiderthisline	55
+﻿----------------------- Page 1-----------------------
+	CROP WISE Farm Harvest Prices of Principal Crops in India -	West Bengal
+	(Rs. per Quintal)
+Crop	Variety	Year	Season	Bankura	Bardhaman	Birbhum	Cooch_Bihar	Dakhin_Dinajpur	Darjiling	East_Midnapore	Hooghly	Howrah	Jalpaiguri	Malda	Murshidabad	Nadia	North_24_Parganas	North_Dinajpur
+Barley	-	2004-05	-	-	-	-	-	-	940	-	-	-	-	688	640	500	-	-
+Gram	-	2004-05	-	-	1695	1504	1640	-	-	-	-	-	-	1838	1739	1635	1293	1886
+Jute	-	2004-05	-	829	877	854	926	886	-	798	867	810	994	898	825	872	826	939
+Paddy	-	2004-05	Autum	478	461	483	544	463	-	557	490	-	538	572	523	524	552	538
+	-	2004-05	Summer	532	552	517	544	503	-	612	574	535	602	565	527	613	591	506
+	-	2004-05	Winter	503	533	504	633	560	-	566	527	514	658	530	523	599	573	510
+Potato	-	2004-05	-	277	201	275	398	347	509	326	293	314	393	335	350	320	310	361
+Rape/Mustard	-	2004-05	-	1412	1634	1705	1729	1787	1888	-	1683	1800	1636	1816	1884	1850	1557	1859
+Rice	-	2004-05	Autum	780	878	850	945	825	-	914	900	-	956	950	1031	1017	903	929
+	-	2004-05	Summer	990	956	958	875	804	-	943	1078	987	909	894	1024	1143	1000	820
+	-	2004-05	Winter	864	865	917	1136	986	-	987	996	915	1046	977	991	1078	869	980
+Sugar Raw	-	2004-05	-	1502	1409	1392	-	-	-	1594	-	1350	-	1424	1525	1350	1677	1605
+Wheat	-	2004-05	-	684	688	643	618	662	785	701	693	700	728	701	647	624	608	711
+donotconsiderthisline	56
+donotconsiderthisline	214

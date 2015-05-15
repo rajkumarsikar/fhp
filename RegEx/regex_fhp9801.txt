@@ -5,7 +5,7 @@ Replace: "Districtname	Year	Paddy	Jowar	Bajra	Maize	Ragi	Wheat	Barley	Gram	TurAr
 Find:"District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann\- Pepper Ginger Chilly Turmeric Mesta	;	Mustard	Seed	hemp	\r\n"
 Replace: "Districtname	Year	RapeMustard	Sesamum	Linseed	CasterSeed	Toria	Cotton	Jute	Sannhemp	Pepper	Ginger	Chilly	Turmeric	Mesta\r\n"
 Find: "District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann\- Pepper Ginger Chilly Turmeric Mesta	;	Mustard	Seed	hemp	\(Green\)	\(Raw\)	\r\n"
-Replace: "Districtname	Year	RapeMustard	Sesamum	Linseed	CasterSeed	Toria	Cotton	Jute	Sannhemp	Pepper	Ginger	ChillyGreen	TurmericRaw	Mestar\r\n"
+Replace: "Districtname	Year	RapeMustard	Sesamum	Linseed	CasterSeed	Toria	Cotton	Jute	Sannhemp	Pepper	Ginger	ChillyGreen	TurmericRaw	Mesta\r\n"
 Find: "District name	Year	Paddy	Jower	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Sugar Potato Tobacco Ground	;	Arhar	Raw	nut	\r\n"
 Replace: "Districtname	Year	Paddy	Jowar	Bajra	Maize	Ragi	Wheat	Barley	Gram	TurArhar	SugarRaw	Potato	Tobacco	Groundnut\r\n"
 Find: "District name	Year	Rape/ Sesamum Linseed Caster Sunfl Cotton	Coco	Areca Pepper Ginger Chilly Turmeric Cashe	;	Mustard	Seed	ower	nut	nut	wnut	\r\n"
@@ -24,3 +24,18 @@ Find: "District name	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	Tur	Suga
 Replace: "Districtname	Year	Paddy	Rice	Bajra	Maize	Ragi	Wheat	Barley	Gram	TurArhar	SugarRaw	Potato	Tobacco	Groundnut\r\n"
 Find: "District name	Year	Rape/ Sesamum Linseed Caster Toria Cotton	Jute	Sann- Pepper Ginger Chilly Turmeric Soya	;	Mustard	Seed	hemp	bean	\r\n"
 Replace: "Districtname	Year	RapeMustard	Sesamum	Linseed	CasterSeed	Toria	Cotton	Jute	Sannhemp	Pepper	Ginger	Chilly	Turmeric	Soyabean\r\n"
+
+
+Putting "donoconsiderthisline" at the start of a if a line do not contain data. This is know when running the sas program
+Find : "^\t([0-9]+)\t" Replace : "\t\t\1\t"
+Find: "([0-9]{4}\-[0-9]{2}) ([0-9]+)" Replace : "\1\t\2"
+Find: "^\t\.\." Replace : "\t\t.."
+Find: "weighted ([0-9]{4}\-[0-9]{2})" Replace: "weighted\t\1"
+Find: "([0-9]+)\@ ([0-9]+)" Replace : "\1\@\t\2"
+Find : "([a-z]+)\t\#\t" Replace : "\1\t"
+Find : "^\t([0-9]+[r])\t" Replace : "\t\t\1\t"
+Find : "^\taverage" Replace : "average"
+Find : "^\t([0-9]+[at])\t" Replace : "\t\t\1\t"
+Find : "^\t([0-9]+at)" Replace : "\t\t\1"
+Find : "^\t\t([0-9]+at) ([0-9]+)\t" Replace : "\t\t\1\t\2\t"
+Find : "\t([0-9]+wt) ([0-9]+)" Replace : "\t\1\t\2"
